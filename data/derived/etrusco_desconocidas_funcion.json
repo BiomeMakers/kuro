@@ -1,0 +1,1080 @@
+[
+ {
+  "w": "θania",
+  "clase": "NOMBRE",
+  "p": 0.7580180465781998,
+  "freq": 32,
+  "ciudades": 2
+ },
+ {
+  "w": "seθre",
+  "clase": "NOMBRE",
+  "p": 0.5731658881206942,
+  "freq": 12,
+  "ciudades": 1
+ },
+ {
+  "w": "suθina",
+  "clase": "NOMBRE",
+  "p": 0.6352631939891974,
+  "freq": 11,
+  "ciudades": 1
+ },
+ {
+  "w": "ferkle",
+  "clase": "NOMBRE",
+  "p": 0.6818651822543711,
+  "freq": 10,
+  "ciudades": 1
+ },
+ {
+  "w": "leθial",
+  "clase": "NOMBRE",
+  "p": 0.8310565888047741,
+  "freq": 9,
+  "ciudades": 1
+ },
+ {
+  "w": "petrui",
+  "clase": "NOMBRE",
+  "p": 0.6683251719024057,
+  "freq": 8,
+  "ciudades": 1
+ },
+ {
+  "w": "pozherds",
+  "clase": "NOMBRE",
+  "p": 0.8613349959280562,
+  "freq": 8,
+  "ciudades": 1
+ },
+ {
+  "w": "faspnas",
+  "clase": "NOMBRE",
+  "p": 0.9232464511545367,
+  "freq": 8,
+  "ciudades": 1
+ },
+ {
+  "w": "veliza",
+  "clase": "NOMBRE",
+  "p": 0.7374841585178695,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "θanas",
+  "clase": "NOMBRE",
+  "p": 0.8650725873635822,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "ariodantes",
+  "clase": "NOMBRE",
+  "p": 0.8758225383868291,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "kumeresa",
+  "clase": "NOMBRE",
+  "p": 0.8151072475961585,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "remzna",
+  "clase": "NOMBRE",
+  "p": 0.7374841585178695,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "menle",
+  "clase": "NOMBRE",
+  "p": 0.6104743596798403,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "aplu",
+  "clase": "NOMBRE",
+  "p": 0.5070024680155834,
+  "freq": 7,
+  "ciudades": 1
+ },
+ {
+  "w": "kesu",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.49735226089198076,
+  "freq": 6,
+  "ciudades": 5
+ },
+ {
+  "w": "fastia",
+  "clase": "NOMBRE",
+  "p": 0.859685659762471,
+  "freq": 6,
+  "ciudades": 2
+ },
+ {
+  "w": "tins",
+  "clase": "NOMBRE",
+  "p": 0.696470584692636,
+  "freq": 6,
+  "ciudades": 1
+ },
+ {
+  "w": "tutnasa",
+  "clase": "NOMBRE",
+  "p": 0.612415753880698,
+  "freq": 6,
+  "ciudades": 1
+ },
+ {
+  "w": "velusa",
+  "clase": "NOMBRE",
+  "p": 0.7384661565487728,
+  "freq": 6,
+  "ciudades": 1
+ },
+ {
+  "w": "tlesna",
+  "clase": "NOMBRE",
+  "p": 0.6351983210684783,
+  "freq": 6,
+  "ciudades": 1
+ },
+ {
+  "w": "harispex",
+  "clase": "NOMBRE",
+  "p": 0.7092255343086887,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "lisa",
+  "clase": "PARTICULA",
+  "p": 0.4859288110976938,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "kupsnasa",
+  "clase": "NOMBRE",
+  "p": 0.8203868842210167,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "leθia",
+  "clase": "NOMBRE",
+  "p": 0.6639119558858554,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "kapznas",
+  "clase": "NOMBRE",
+  "p": 0.8049668608516488,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "larθialisa",
+  "clase": "NOMBRE",
+  "p": 0.8493798527983567,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "ferse",
+  "clase": "NOMBRE",
+  "p": 0.6186748319285985,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "θanr",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.5865450876579543,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "merkvi",
+  "clase": "NOMBRE",
+  "p": 0.6710872004009042,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "papasa",
+  "clase": "NOMBRE",
+  "p": 0.5086451109922566,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "tites",
+  "clase": "NOMBRE",
+  "p": 0.8622861917367366,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "θani",
+  "clase": "PARTICULA",
+  "p": 0.6483574284647304,
+  "freq": 5,
+  "ciudades": 1
+ },
+ {
+  "w": "θapikun",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.8549632968902924,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "rasnal",
+  "clase": "NOMBRE",
+  "p": 0.8400470608833951,
+  "freq": 4,
+  "ciudades": 2
+ },
+ {
+  "w": "leknesa",
+  "clase": "NOMBRE",
+  "p": 0.7853678434648373,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "latinial",
+  "clase": "NOMBRE",
+  "p": 0.7987876951424451,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "urinatesa",
+  "clase": "NOMBRE",
+  "p": 0.7619610198217035,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "purnei",
+  "clase": "NOMBRE",
+  "p": 0.6722638094143252,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "kusinei",
+  "clase": "NOMBRE",
+  "p": 0.7289805042290461,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "pulfnasa",
+  "clase": "NOMBRE",
+  "p": 0.8297134835496571,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "tutna",
+  "clase": "NOMBRE",
+  "p": 0.613495246768701,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "θaniku",
+  "clase": "NOMBRE",
+  "p": 0.6588939417622034,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "rθkutuσeθres",
+  "clase": "NOMBRE",
+  "p": 0.9812080043420449,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "velθinas",
+  "clase": "NOMBRE",
+  "p": 0.9208111742340883,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "φilemativ",
+  "clase": "NOMBRE",
+  "p": 0.7476073184038662,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "θumlana",
+  "clase": "NOMBRE",
+  "p": 0.7956935778270968,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "elinai",
+  "clase": "NOMBRE",
+  "p": 0.6722638094143252,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "evas",
+  "clase": "NOMBRE",
+  "p": 0.7928910775544696,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "efiles",
+  "clase": "NOMBRE",
+  "p": 0.9402612282872478,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "menarva",
+  "clase": "NOMBRE",
+  "p": 0.7956935778270968,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "lapie",
+  "clase": "NOMBRE",
+  "p": 0.6237393802085149,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "kaku",
+  "clase": "NOMBRE",
+  "p": 0.5194606966222817,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "χaru",
+  "clase": "NOMBRE",
+  "p": 0.5194606966222817,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "spurinas",
+  "clase": "NOMBRE",
+  "p": 0.9362069626102978,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "venete",
+  "clase": "NOMBRE",
+  "p": 0.7007457024681214,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "tiom",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.47573953030532323,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "aninas",
+  "clase": "NOMBRE",
+  "p": 0.906244700092991,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "kakilia",
+  "clase": "NOMBRE",
+  "p": 0.8978550959015906,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "tetina",
+  "clase": "NOMBRE",
+  "p": 0.7408030420554557,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "patislane",
+  "clase": "NOMBRE",
+  "p": 0.612044572998991,
+  "freq": 4,
+  "ciudades": 1
+ },
+ {
+  "w": "tenθas",
+  "clase": "VERBO",
+  "p": 0.4028261497169085,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "aknanasa",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.5513106214054806,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "σaknikleri",
+  "clase": "NOMBRE",
+  "p": 0.43946527619293263,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "fanu",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.513572009181467,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "aknanas",
+  "clase": "VERBO",
+  "p": 0.460920709454674,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "uniθiu",
+  "clase": "NOMBRE",
+  "p": 0.7433830600416501,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "manθ",
+  "clase": "NOMBRE",
+  "p": 0.5757538950990791,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "fulu",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.4198828023365682,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "σuθina",
+  "clase": "NOMBRE",
+  "p": 0.7422586897917605,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "vezra",
+  "clase": "NOMBRE",
+  "p": 0.7002025723096935,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "seiante",
+  "clase": "NOMBRE",
+  "p": 0.7981162668594031,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "tutnal",
+  "clase": "NOMBRE",
+  "p": 0.8659132911667545,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "velfras",
+  "clase": "NOMBRE",
+  "p": 0.9442155255764731,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "θenus",
+  "clase": "NOMBRE",
+  "p": 0.9224691708732577,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "kailes",
+  "clase": "NOMBRE",
+  "p": 0.9078108156614237,
+  "freq": 3,
+  "ciudades": 2
+ },
+ {
+  "w": "larθalisa",
+  "clase": "NOMBRE",
+  "p": 0.8570722943695822,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "amθnial",
+  "clase": "NOMBRE",
+  "p": 0.73002498814258,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "atainei",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "ziχu",
+  "clase": "NOMBRE",
+  "p": 0.5252330731510251,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "vurses",
+  "clase": "NOMBRE",
+  "p": 0.9409564541481434,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "vipinei",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "larθias",
+  "clase": "NOMBRE",
+  "p": 0.8284998749607871,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "serturus",
+  "clase": "NOMBRE",
+  "p": 0.9630492146041874,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "marknei",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tiuza",
+  "clase": "NOMBRE",
+  "p": 0.6130200805638886,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tanvsa",
+  "clase": "NOMBRE",
+  "p": 0.7422586897917605,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "latni",
+  "clase": "NOMBRE",
+  "p": 0.3894599153152905,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "feli",
+  "clase": "PARTICULA",
+  "p": 0.4724720879741643,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "resnasa",
+  "clase": "NOMBRE",
+  "p": 0.7971938218629827,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "felesa",
+  "clase": "NOMBRE",
+  "p": 0.5569614383808694,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "ekna",
+  "clase": "PARTICULA",
+  "p": 0.501684661862503,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "puiak",
+  "clase": "NOMBRE",
+  "p": 0.5535935437808582,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθria",
+  "clase": "NOMBRE",
+  "p": 0.8686528905739463,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tetinei",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "kikusa",
+  "clase": "NOMBRE",
+  "p": 0.7422586897917605,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seiantial",
+  "clase": "NOMBRE",
+  "p": 0.8977896527051987,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "iiiix",
+  "clase": "NOMBRE",
+  "p": 0.5535935437808582,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "iiixx",
+  "clase": "NOMBRE",
+  "p": 0.5535935437808582,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "slaiθes",
+  "clase": "NOMBRE",
+  "p": 0.8954842392790087,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "marknas",
+  "clase": "NOMBRE",
+  "p": 0.9285561066509808,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "paeθinia",
+  "clase": "NOMBRE",
+  "p": 0.9167212270596715,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθras",
+  "clase": "NOMBRE",
+  "p": 0.7964511860762882,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "velθurusa",
+  "clase": "NOMBRE",
+  "p": 0.7240207214243969,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "keχase",
+  "clase": "NOMBRE",
+  "p": 0.7058615480010811,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθra",
+  "clase": "NOMBRE",
+  "p": 0.6130200805638886,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "ranθu",
+  "clase": "NOMBRE",
+  "p": 0.49800547714088894,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "meθina",
+  "clase": "NOMBRE",
+  "p": 0.7422586897917605,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "apu",
+  "clase": "NOMBRE",
+  "p": 0.3957447534768253,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "θas",
+  "clase": "NOMBRE",
+  "p": 0.5799776333008335,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθres",
+  "clase": "NOMBRE",
+  "p": 0.8711563219652486,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "olpem",
+  "clase": "NOMBRE",
+  "p": 0.6234411344087923,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθlans",
+  "clase": "NOMBRE",
+  "p": 0.8588134979660146,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "venos",
+  "clase": "NOMBRE",
+  "p": 0.7872526167339652,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "kafi",
+  "clase": "PARTICULA",
+  "p": 0.4724720879741643,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "vatr",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.589163843926849,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "ivneo",
+  "clase": "NOMBRE",
+  "p": 0.5535935437808582,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "maxomo",
+  "clase": "NOMBRE",
+  "p": 0.6215299822664647,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "poplia",
+  "clase": "NOMBRE",
+  "p": 0.8686528905739463,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "atrane",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.4837470818799641,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "velsu",
+  "clase": "NOMBRE",
+  "p": 0.604130307278749,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "malavisχ",
+  "clase": "NOMBRE",
+  "p": 0.7116118060441998,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tuntle",
+  "clase": "NOMBRE",
+  "p": 0.7058615480010811,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "utuse",
+  "clase": "NOMBRE",
+  "p": 0.6298460393079062,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "alpnu",
+  "clase": "NOMBRE",
+  "p": 0.5870739909798111,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "euturpa",
+  "clase": "NOMBRE",
+  "p": 0.7971938218629827,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "staties",
+  "clase": "NOMBRE",
+  "p": 0.8823390048115215,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "atlenta",
+  "clase": "NOMBRE",
+  "p": 0.7971938218629827,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "armni",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.4702163924355886,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "spazuai",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "pekse",
+  "clase": "NOMBRE",
+  "p": 0.5368687320255343,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "akiles",
+  "clase": "NOMBRE",
+  "p": 0.9409564541481434,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "pisavrese",
+  "clase": "NOMBRE",
+  "p": 0.8319691280519799,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "pruslnas",
+  "clase": "NOMBRE",
+  "p": 0.9428910271859636,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "ziumiθe",
+  "clase": "NOMBRE",
+  "p": 0.7581026990136687,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "nomelia",
+  "clase": "NOMBRE",
+  "p": 0.8986255038302584,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "seθresa",
+  "clase": "NOMBRE",
+  "p": 0.7971938218629827,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "iiiiiii",
+  "clase": "NOMBRE",
+  "p": 0.7304467357206375,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tusnui",
+  "clase": "NOMBRE",
+  "p": 0.673662126897146,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "zipanu",
+  "clase": "NOMBRE",
+  "p": 0.6464236814876925,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "leinθ",
+  "clase": "NOMBRE",
+  "p": 0.6779535084774351,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "mirkvrios",
+  "clase": "NOMBRE",
+  "p": 0.9007667916175149,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "romanom",
+  "clase": "NOMBRE",
+  "p": 0.7654378835682605,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "esmen",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.4819268003338631,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "fovrio",
+  "clase": "NOMBRE",
+  "p": 0.6215299822664647,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "keikna",
+  "clase": "NOMBRE",
+  "p": 0.6601139422126312,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "tetinasa",
+  "clase": "NOMBRE",
+  "p": 0.6810306106845033,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "kumere",
+  "clase": "NOMBRE",
+  "p": 0.7058615480010811,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "arnθialisa",
+  "clase": "NOMBRE",
+  "p": 0.8789330925842762,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "θelazu",
+  "clase": "NOMBRE",
+  "p": 0.512059776990833,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "surna",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.5069856923555239,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "apries",
+  "clase": "NOMBRE",
+  "p": 0.9409564541481434,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "rusina",
+  "clase": "NOMBRE",
+  "p": 0.5569614383808694,
+  "freq": 3,
+  "ciudades": 1
+ },
+ {
+  "w": "prosekato",
+  "clase": "NOMBRE_COMUN",
+  "p": 0.634079356866893,
+  "freq": 3,
+  "ciudades": 1
+ }
+]

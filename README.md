@@ -23,7 +23,7 @@ affix_pairs(vocab, 'ka', 'prefix')      # {'observed': 5, 'null_mean': 1.4, 'p':
 totals_check(next(d for d in docs if d.id == 'HT117a'))   # KU-RO 10 = ten names with 1
 ```
 
-See `examples/linear_a_quickstart.py`. Loaders also exist for CDLI ATF exports (Proto-Elamite, proto-cuneiform) and CSV text tables (Iberian, Etruscan).
+See `examples/linear_a_quickstart.py`. The corpora themselves are fetched with `python3 data/fetch.py` (see `data/README.md` for sources and licences); `data/derived/` holds the tables produced by this project. Loaders also exist for CDLI ATF exports (Proto-Elamite, proto-cuneiform) and CSV text tables (Iberian, Etruscan).
 
 ## What it has been calibrated on
 
