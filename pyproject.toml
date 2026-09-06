@@ -1,0 +1,9 @@
+[project]
+name = "pykuro"
+version = "0.1.0"
+description = "Null models, calibration and confounder tests for small epigraphic corpora"
+requires-python = ">=3.9"
+dependencies = ["numpy"]
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

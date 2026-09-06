@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "kuro: null models, calibration and confounder tests for small epigraphic corpora"
+authors:
+  - family-names: Acedo
+    given-names: Alberto
+    affiliation: Biome Makers Inc
+version: 0.1.0
+date-released: 2026-09-06
+repository-code: https://github.com/BiomeMakers/kuro
+license: MIT
+message: "If you use kuro, please cite it as below and cite the papers in docs/papers."
