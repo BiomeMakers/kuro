@@ -27,7 +27,7 @@ See `examples/linear_a_quickstart.py`. The corpora themselves are fetched with `
 
 ## What it has been calibrated on
 
-Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocypriot vs Cypriot Greek (word-final syllables), Proto-Elamite (Dahl's numeral systems by object class, the M157 header, the name/commodity partition), Uruk vs Susa (inheritance of the sexagesimal system, adaptation of the capacity system, invention of the decimal), Iberian (Untermann's onomastic formants, the southern S56 and north-eastern -mi isoglosses). Its use on Linear A and on four other corpora is reported in the papers under `docs/papers/` (phytonyms, aromatics administration, method, power by corpus size, the form of the Bronze Age receipt, a minimum protocol, plus preliminary Iberian and Etruscan studies).
+Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocypriot vs Cypriot Greek (word-final syllables), Proto-Elamite (Dahl's numeral systems by object class, the M157 header, the name/commodity partition), Uruk vs Susa (inheritance of the sexagesimal system, adaptation of the capacity system, invention of the decimal), Iberian (Untermann's onomastic formants, the southern S56 and north-eastern -mi isoglosses). Its use on Linear A is reported in the papers under `docs/papers/`.
 
 ## Tests
 
@@ -52,10 +52,6 @@ Each test plants a structure (a register difference, a prefix, mutually exclusiv
 | `form_screen(vocab, catalogue, match)` | do form matches with an external lexicon exceed shuffled syllables? |
 | `hapax_by_length(docs)` | how does the singleton rate vary with string length? |
 | `doubts(glob)` | where does an expert commentary express doubt? |
-
-## What has been measured with it
-
-Six Bronze Age administrations compared by the functions they put into words (Linear A, Middle Assyrian, Amarna, Ur III, Proto-Elamite, Uruk); the closed class of each; the corpus size at which each instrument begins to see; and, on Linear B where the answers are known, a name-vs-term classifier that beats an explicit rule set (0.77 against 0.63 balanced accuracy) and saves about a third of the review work.
 
 ## Rules of use
 
