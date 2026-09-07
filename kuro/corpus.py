@@ -2,6 +2,10 @@ import json, re, csv
 from dataclasses import dataclass, field
 from typing import List, Optional
 
+FRACTIONS = {'¹⁄₂','¹⁄₃','²⁄₃','¹⁄₄','³⁄₄','¹⁄₅','¹⁄₆','¹⁄₈','¹⁄₁₆','³⁄₈','⁵⁄₈','⁷⁄₈','²⁄₅','³⁄₅','⁴⁄₅','⁵⁄₆'}
+def is_number(t): return bool(re.fullmatch(r'\d+', t)) or t in FRACTIONS
+
+
 @dataclass
 class Document:
     id: str
@@ -11,13 +15,16 @@ class Document:
     hand: str = ""
     tokens: List[str] = field(default_factory=list)   # reading order, '|' marks a line break
 
-    def words(self, pattern=r'^[A-Za-z₀-₉*\-]+$', min_syll=1):
-        return [t.lower() for t in self.tokens if re.match(pattern, t) and t.count('-') >= min_syll - 1 and t != '|']
+    def words(self, pattern=r'^[A-Za-z0-9₀-₉*\- ]+$', min_syll=1):
+        """Sign-groups / words in reading order. min_syll filters by number of syllables (or signs)."""
+        out = []
+        for t in self.tokens:
+            if t == '|' or is_number(t) or not re.match(pattern, t): continue
+            n = len(t.split()) if ' ' in t else t.count('-') + 1
+            if n >= min_syll: out.append(t.lower())
+        return out
     def logograms(self):
         return [t for t in self.tokens if re.fullmatch(r'[A-Z][A-Z0-9+*\[\]?]*', t) and len(t) > 1]
-
-FRACTIONS = {'¹⁄₂','¹⁄₃','²⁄₃','¹⁄₄','³⁄₄','¹⁄₅','¹⁄₆','¹⁄₈','¹⁄₁₆','³⁄₈','⁵⁄₈','⁷⁄₈','²⁄₅','³⁄₅','⁴⁄₅','⁵⁄₆'}
-def is_number(t): return bool(re.fullmatch(r'\d+', t)) or t in FRACTIONS
 
 def load_lineara(path):
     """LinearA Explorer (Hogan) items_analysis/inscriptions.json -> list of Document."""

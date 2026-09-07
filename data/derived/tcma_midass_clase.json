@@ -1,0 +1,8125 @@
+{
+ "fuente": "tcma_gloss_midass.json",
+ "lengua": "asirio medio",
+ "total_instancias": 89677,
+ "entradas": [
+  {
+   "cf": "ša",
+   "gw": "of",
+   "pos": "DET",
+   "icount": 5430
+  },
+  {
+   "cf": "sūtu",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 4459
+  },
+  {
+   "cf": "imēru",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 4046
+  },
+  {
+   "cf": "ana",
+   "gw": "to",
+   "pos": "PRP",
+   "icount": 3720
+  },
+  {
+   "cf": "māru",
+   "gw": "son",
+   "pos": "N",
+   "icount": 3631
+  },
+  {
+   "cf": "ina",
+   "gw": "in",
+   "pos": "PRP",
+   "icount": 3566
+  },
+  {
+   "cf": "ūmu",
+   "gw": "day",
+   "pos": "N",
+   "icount": 2599
+  },
+  {
+   "cf": "līmu",
+   "gw": "eponym",
+   "pos": "N",
+   "icount": 1849
+  },
+  {
+   "cf": "qû",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 1779
+  },
+  {
+   "cf": "šeʾu",
+   "gw": "barley",
+   "pos": "N",
+   "icount": 1746
+  },
+  {
+   "cf": "ša",
+   "gw": "that",
+   "pos": "REL",
+   "icount": 1584
+  },
+  {
+   "cf": "u",
+   "gw": "and",
+   "pos": "CNJ",
+   "icount": 1510
+  },
+  {
+   "cf": "šību",
+   "gw": "old one",
+   "pos": "N",
+   "icount": 960
+  },
+  {
+   "cf": "qātu",
+   "gw": "hand",
+   "pos": "N",
+   "icount": 933
+  },
+  {
+   "cf": "meʾatu",
+   "gw": "hundred",
+   "pos": "NU",
+   "icount": 906
+  },
+  {
+   "cf": "lā",
+   "gw": "not",
+   "pos": "MOD",
+   "icount": 874
+  },
+  {
+   "cf": "napharu",
+   "gw": "total",
+   "pos": "N",
+   "icount": 811
+  },
+  {
+   "cf": "šarru",
+   "gw": "king",
+   "pos": "N",
+   "icount": 796
+  },
+  {
+   "cf": "kunukku",
+   "gw": "seal",
+   "pos": "N",
+   "icount": 789
+  },
+  {
+   "cf": "bītu",
+   "gw": "house",
+   "pos": "N",
+   "icount": 741
+  },
+  {
+   "cf": "muhhu",
+   "gw": "skull",
+   "pos": "N",
+   "icount": 734
+  },
+  {
+   "cf": "manû",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 689
+  },
+  {
+   "cf": "ištu",
+   "gw": "from",
+   "pos": "PRP",
+   "icount": 660
+  },
+  {
+   "cf": "nadānu",
+   "gw": "give",
+   "pos": "V",
+   "icount": 613
+  },
+  {
+   "cf": "mahru",
+   "gw": "that can be faced",
+   "pos": "AJ",
+   "icount": 600
+  },
+  {
+   "cf": "ṭuppu",
+   "gw": "tablet",
+   "pos": "N",
+   "icount": 586
+  },
+  {
+   "cf": "immeru",
+   "gw": "sheep",
+   "pos": "N",
+   "icount": 530
+  },
+  {
+   "cf": "alāku",
+   "gw": "go",
+   "pos": "V",
+   "icount": 512
+  },
+  {
+   "cf": "ša-šipri",
+   "gw": "worker",
+   "pos": "N",
+   "icount": 480
+  },
+  {
+   "cf": "ikû",
+   "gw": "field",
+   "pos": "N",
+   "icount": 469
+  },
+  {
+   "cf": "ēkallu",
+   "gw": "palace",
+   "pos": "N",
+   "icount": 460
+  },
+  {
+   "cf": "eqlu",
+   "gw": "field",
+   "pos": "N",
+   "icount": 459
+  },
+  {
+   "cf": "annaku",
+   "gw": "tin",
+   "pos": "N",
+   "icount": 427
+  },
+  {
+   "cf": "libbu",
+   "gw": "interior",
+   "pos": "N",
+   "icount": 424
+  },
+  {
+   "cf": "šumma",
+   "gw": "if",
+   "pos": "MOD",
+   "icount": 406
+  },
+  {
+   "cf": "nadnu",
+   "gw": "given",
+   "pos": "AJ",
+   "icount": 401
+  },
+  {
+   "cf": "adi",
+   "gw": "until",
+   "pos": "PRP",
+   "icount": 391
+  },
+  {
+   "cf": "ṭupšarru",
+   "gw": "scribe",
+   "pos": "N",
+   "icount": 391
+  },
+  {
+   "cf": "kī",
+   "gw": "like",
+   "pos": "PRP",
+   "icount": 385
+  },
+  {
+   "cf": "bēlu",
+   "gw": "lord",
+   "pos": "N",
+   "icount": 384
+  },
+  {
+   "cf": "ikkaru",
+   "gw": "farmer",
+   "pos": "N",
+   "icount": 379
+  },
+  {
+   "cf": "mārtu",
+   "gw": "daughter",
+   "pos": "N",
+   "icount": 370
+  },
+  {
+   "cf": "annû",
+   "gw": "this",
+   "pos": "DP",
+   "icount": 369
+  },
+  {
+   "cf": "leqû",
+   "gw": "take",
+   "pos": "V",
+   "icount": 365
+  },
+  {
+   "cf": "rabû",
+   "gw": "big one",
+   "pos": "N",
+   "icount": 347
+  },
+  {
+   "cf": "alpu",
+   "gw": "ox",
+   "pos": "N",
+   "icount": 339
+  },
+  {
+   "cf": "mašku",
+   "gw": "skin",
+   "pos": "N",
+   "icount": 331
+  },
+  {
+   "cf": "biltu",
+   "gw": "load",
+   "pos": "N",
+   "icount": 329
+  },
+  {
+   "cf": "pānu",
+   "gw": "front",
+   "pos": "N",
+   "icount": 320
+  },
+  {
+   "cf": "lū",
+   "gw": "either",
+   "pos": "CNJ",
+   "icount": 318
+  },
+  {
+   "cf": "ṣābu",
+   "gw": "people",
+   "pos": "N",
+   "icount": 309
+  },
+  {
+   "cf": "aššatu",
+   "gw": "wife",
+   "pos": "N",
+   "icount": 304
+  },
+  {
+   "cf": "imēru",
+   "gw": "donkey",
+   "pos": "N",
+   "icount": 287
+  },
+  {
+   "cf": "wabālu",
+   "gw": "bring",
+   "pos": "V",
+   "icount": 270
+  },
+  {
+   "cf": "epēšu",
+   "gw": "do",
+   "pos": "V",
+   "icount": 268
+  },
+  {
+   "cf": "kurummatu",
+   "gw": "ration",
+   "pos": "N",
+   "icount": 265
+  },
+  {
+   "cf": "šamnu",
+   "gw": "oil",
+   "pos": "N",
+   "icount": 260
+  },
+  {
+   "cf": "warhu",
+   "gw": "month",
+   "pos": "N",
+   "icount": 251
+  },
+  {
+   "cf": "qabû",
+   "gw": "say",
+   "pos": "V",
+   "icount": 248
+  },
+  {
+   "cf": "awīlu",
+   "gw": "man",
+   "pos": "N",
+   "icount": 244
+  },
+  {
+   "cf": "rabû",
+   "gw": "big",
+   "pos": "AJ",
+   "icount": 244
+  },
+  {
+   "cf": "mā",
+   "gw": "what!",
+   "pos": "J",
+   "icount": 243
+  },
+  {
+   "cf": "ahu",
+   "gw": "brother",
+   "pos": "N",
+   "icount": 233
+  },
+  {
+   "cf": "pīhātu",
+   "gw": "province",
+   "pos": "N",
+   "icount": 232
+  },
+  {
+   "cf": "ginû",
+   "gw": "regular contribution (to temple)",
+   "pos": "N",
+   "icount": 231
+  },
+  {
+   "cf": "persu",
+   "gw": "weaned (child)",
+   "pos": "AJ",
+   "icount": 227
+  },
+  {
+   "cf": "pû",
+   "gw": "mouth",
+   "pos": "N",
+   "icount": 212
+  },
+  {
+   "cf": "šamaššammū",
+   "gw": "sesame",
+   "pos": "N",
+   "icount": 211
+  },
+  {
+   "cf": "akalu",
+   "gw": "food",
+   "pos": "N",
+   "icount": 210
+  },
+  {
+   "cf": "akālu",
+   "gw": "eat",
+   "pos": "V",
+   "icount": 202
+  },
+  {
+   "cf": "šūši",
+   "gw": "sixty",
+   "pos": "NU",
+   "icount": 198
+  },
+  {
+   "cf": "târu",
+   "gw": "turn",
+   "pos": "V",
+   "icount": 182
+  },
+  {
+   "cf": "tarû",
+   "gw": "nursed (child)",
+   "pos": "AJ",
+   "icount": 177
+  },
+  {
+   "cf": "dišpu",
+   "gw": "honey",
+   "pos": "N",
+   "icount": 174
+  },
+  {
+   "cf": "šapāru",
+   "gw": "send",
+   "pos": "V",
+   "icount": 174
+  },
+  {
+   "cf": "ilu",
+   "gw": "god",
+   "pos": "N",
+   "icount": 171
+  },
+  {
+   "cf": "ša-zīzi",
+   "gw": "breast fed (child)",
+   "pos": "N",
+   "icount": 170
+  },
+  {
+   "cf": "hepû",
+   "gw": "break",
+   "pos": "V",
+   "icount": 169
+  },
+  {
+   "cf": "ālu",
+   "gw": "city",
+   "pos": "N",
+   "icount": 166
+  },
+  {
+   "cf": "hiburnu",
+   "gw": "(a grain-container)",
+   "pos": "N",
+   "icount": 166
+  },
+  {
+   "cf": "šaknu",
+   "gw": "placed",
+   "pos": "AJ",
+   "icount": 162
+  },
+  {
+   "cf": "atānu",
+   "gw": "she-ass",
+   "pos": "N",
+   "icount": 160
+  },
+  {
+   "cf": "mû",
+   "gw": "water",
+   "pos": "N",
+   "icount": 154
+  },
+  {
+   "cf": "qaqqadu",
+   "gw": "head",
+   "pos": "N",
+   "icount": 154
+  },
+  {
+   "cf": "ṣabātu",
+   "gw": "seize",
+   "pos": "V",
+   "icount": 151
+  },
+  {
+   "cf": "šunūʾû",
+   "gw": "two-year-old",
+   "pos": "AJ",
+   "icount": 144
+  },
+  {
+   "cf": "ṣarpu",
+   "gw": "reddened",
+   "pos": "AJ",
+   "icount": 142
+  },
+  {
+   "cf": "šīmu",
+   "gw": "price",
+   "pos": "N",
+   "icount": 141
+  },
+  {
+   "cf": "šaṭru",
+   "gw": "written",
+   "pos": "AJ",
+   "icount": 139
+  },
+  {
+   "cf": "labīru",
+   "gw": "old",
+   "pos": "AJ",
+   "icount": 136
+  },
+  {
+   "cf": "lītu",
+   "gw": "cow",
+   "pos": "N",
+   "icount": 135
+  },
+  {
+   "cf": "mašennu",
+   "gw": "(an administrator)",
+   "pos": "N",
+   "icount": 134
+  },
+  {
+   "cf": "iškāru",
+   "gw": "work assignment",
+   "pos": "N",
+   "icount": 131
+  },
+  {
+   "cf": "šipru",
+   "gw": "sending",
+   "pos": "N",
+   "icount": 131
+  },
+  {
+   "cf": "damqu",
+   "gw": "good",
+   "pos": "AJ",
+   "icount": 128
+  },
+  {
+   "cf": "sinništu",
+   "gw": "woman",
+   "pos": "N",
+   "icount": 128
+  },
+  {
+   "cf": "sīrāšû",
+   "gw": "brewer",
+   "pos": "N",
+   "icount": 128
+  },
+  {
+   "cf": "abnu",
+   "gw": "stone",
+   "pos": "N",
+   "icount": 127
+  },
+  {
+   "cf": "alahhinu",
+   "gw": "miller?",
+   "pos": "N",
+   "icount": 127
+  },
+  {
+   "cf": "siparru",
+   "gw": "bronze",
+   "pos": "N",
+   "icount": 122
+  },
+  {
+   "cf": "šiqlu",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 122
+  },
+  {
+   "cf": "līmu",
+   "gw": "thousand",
+   "pos": "NU",
+   "icount": 119
+  },
+  {
+   "cf": "šakānu",
+   "gw": "put",
+   "pos": "V",
+   "icount": 119
+  },
+  {
+   "cf": "qīpu",
+   "gw": "believable",
+   "pos": "AJ",
+   "icount": 118
+  },
+  {
+   "cf": "ṣehru",
+   "gw": "small",
+   "pos": "AJ",
+   "icount": 118
+  },
+  {
+   "cf": "wardu",
+   "gw": "slave",
+   "pos": "N",
+   "icount": 115
+  },
+  {
+   "cf": "mašharu",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 114
+  },
+  {
+   "cf": "mimma",
+   "gw": "anything",
+   "pos": "XP",
+   "icount": 114
+  },
+  {
+   "cf": "malāhu",
+   "gw": "sailor",
+   "pos": "N",
+   "icount": 110
+  },
+  {
+   "cf": "mātu",
+   "gw": "land",
+   "pos": "N",
+   "icount": 109
+  },
+  {
+   "cf": "zēru",
+   "gw": "seed(s)",
+   "pos": "N",
+   "icount": 109
+  },
+  {
+   "cf": "mahāru",
+   "gw": "face",
+   "pos": "V",
+   "icount": 108
+  },
+  {
+   "cf": "našû",
+   "gw": "lifted",
+   "pos": "AJ",
+   "icount": 107
+  },
+  {
+   "cf": "ṣibtu",
+   "gw": "interest",
+   "pos": "N",
+   "icount": 106
+  },
+  {
+   "cf": "umma",
+   "gw": "saying",
+   "pos": "PRP",
+   "icount": 106
+  },
+  {
+   "cf": "muṭṭû",
+   "gw": "deficit",
+   "pos": "N",
+   "icount": 105
+  },
+  {
+   "cf": "elû",
+   "gw": "go up",
+   "pos": "V",
+   "icount": 104
+  },
+  {
+   "cf": "nāmurtu",
+   "gw": "audience gift",
+   "pos": "N",
+   "icount": 103
+  },
+  {
+   "cf": "urīṣu",
+   "gw": "male goat",
+   "pos": "N",
+   "icount": 103
+  },
+  {
+   "cf": "našû",
+   "gw": "lift",
+   "pos": "V",
+   "icount": 100
+  },
+  {
+   "cf": "rakāsu",
+   "gw": "bind",
+   "pos": "V",
+   "icount": 100
+  },
+  {
+   "cf": "šikaru",
+   "gw": "beer",
+   "pos": "N",
+   "icount": 100
+  },
+  {
+   "cf": "awātu",
+   "gw": "word",
+   "pos": "N",
+   "icount": 98
+  },
+  {
+   "cf": "tabāku",
+   "gw": "pour (out)",
+   "pos": "V",
+   "icount": 98
+  },
+  {
+   "cf": "qerēbu",
+   "gw": "approach",
+   "pos": "V",
+   "icount": 97
+  },
+  {
+   "cf": "šulūšû",
+   "gw": "three-year-old",
+   "pos": "AJ",
+   "icount": 97
+  },
+  {
+   "cf": "laššu",
+   "gw": "(there) is not",
+   "pos": "AJ",
+   "icount": 95
+  },
+  {
+   "cf": "diqāru",
+   "gw": "large bowl",
+   "pos": "N",
+   "icount": 94
+  },
+  {
+   "cf": "madādu",
+   "gw": "measure",
+   "pos": "V",
+   "icount": 94
+  },
+  {
+   "cf": "sisû",
+   "gw": "horse",
+   "pos": "N",
+   "icount": 94
+  },
+  {
+   "cf": "šīpātu",
+   "gw": "wool",
+   "pos": "N",
+   "icount": 94
+  },
+  {
+   "cf": "amāru",
+   "gw": "see",
+   "pos": "V",
+   "icount": 93
+  },
+  {
+   "cf": "nikkassu",
+   "gw": "account",
+   "pos": "N",
+   "icount": 93
+  },
+  {
+   "cf": "parratu",
+   "gw": "female lamb",
+   "pos": "N",
+   "icount": 93
+  },
+  {
+   "cf": "qēmu",
+   "gw": "flour",
+   "pos": "N",
+   "icount": 93
+  },
+  {
+   "cf": "waṣû",
+   "gw": "go out",
+   "pos": "V",
+   "icount": 93
+  },
+  {
+   "cf": "azamru",
+   "gw": "fruit",
+   "pos": "N",
+   "icount": 92
+  },
+  {
+   "cf": "kibtu",
+   "gw": "wheat",
+   "pos": "N",
+   "icount": 91
+  },
+  {
+   "cf": "lēʾu",
+   "gw": "board",
+   "pos": "N",
+   "icount": 90
+  },
+  {
+   "cf": "paṭāru",
+   "gw": "loosen",
+   "pos": "V",
+   "icount": 90
+  },
+  {
+   "cf": "kīmū",
+   "gw": "instead of",
+   "pos": "PRP",
+   "icount": 89
+  },
+  {
+   "cf": "bēl pīhāti",
+   "gw": "governor",
+   "pos": "N",
+   "icount": 88
+  },
+  {
+   "cf": "kullu",
+   "gw": "hold",
+   "pos": "V",
+   "icount": 88
+  },
+  {
+   "cf": "waklu",
+   "gw": "overseer",
+   "pos": "N",
+   "icount": 88
+  },
+  {
+   "cf": "pittu",
+   "gw": "area",
+   "pos": "N",
+   "icount": 87
+  },
+  {
+   "cf": "etēqu",
+   "gw": "proceed",
+   "pos": "V",
+   "icount": 85
+  },
+  {
+   "cf": "šuqultu",
+   "gw": "weight",
+   "pos": "N",
+   "icount": 84
+  },
+  {
+   "cf": "gurratu",
+   "gw": "ewe",
+   "pos": "N",
+   "icount": 82
+  },
+  {
+   "cf": "šumu",
+   "gw": "name",
+   "pos": "N",
+   "icount": 82
+  },
+  {
+   "cf": "adru",
+   "gw": "threshing floor",
+   "pos": "N",
+   "icount": 81
+  },
+  {
+   "cf": "dabābu",
+   "gw": "speak",
+   "pos": "V",
+   "icount": 80
+  },
+  {
+   "cf": "lū",
+   "gw": "may",
+   "pos": "MOD",
+   "icount": 80
+  },
+  {
+   "cf": "hurāṣu",
+   "gw": "gold",
+   "pos": "N",
+   "icount": 78
+  },
+  {
+   "cf": "mugerru",
+   "gw": "two-wheeled vehicle",
+   "pos": "N",
+   "icount": 78
+  },
+  {
+   "cf": "rēhtu",
+   "gw": "remainder",
+   "pos": "N",
+   "icount": 78
+  },
+  {
+   "cf": "ṭēmu",
+   "gw": "(fore)thought",
+   "pos": "N",
+   "icount": 78
+  },
+  {
+   "cf": "šiluhlu",
+   "gw": "conscript",
+   "pos": "N",
+   "icount": 76
+  },
+  {
+   "cf": "tēlitu",
+   "gw": "produce",
+   "pos": "N",
+   "icount": 76
+  },
+  {
+   "cf": "erēbu",
+   "gw": "enter",
+   "pos": "V",
+   "icount": 75
+  },
+  {
+   "cf": "zukkû",
+   "gw": "purified",
+   "pos": "AJ",
+   "icount": 75
+  },
+  {
+   "cf": "ebūru",
+   "gw": "summer",
+   "pos": "N",
+   "icount": 73
+  },
+  {
+   "cf": "nahlaptu",
+   "gw": "garment",
+   "pos": "N",
+   "icount": 73
+  },
+  {
+   "cf": "ištēnû",
+   "gw": "single",
+   "pos": "N",
+   "icount": 71
+  },
+  {
+   "cf": "nāqidu",
+   "gw": "stock-breeder",
+   "pos": "N",
+   "icount": 71
+  },
+  {
+   "cf": "ṣubātu",
+   "gw": "textile",
+   "pos": "N",
+   "icount": 70
+  },
+  {
+   "cf": "paqdu",
+   "gw": "entrusted",
+   "pos": "AJ",
+   "icount": 69
+  },
+  {
+   "cf": "abu",
+   "gw": "father",
+   "pos": "N",
+   "icount": 68
+  },
+  {
+   "cf": "mutu",
+   "gw": "husband",
+   "pos": "N",
+   "icount": 68
+  },
+  {
+   "cf": "šangû",
+   "gw": "priest",
+   "pos": "N",
+   "icount": 68
+  },
+  {
+   "cf": "mašû",
+   "gw": "forget",
+   "pos": "V",
+   "icount": 67
+  },
+  {
+   "cf": "peṣû",
+   "gw": "white",
+   "pos": "AJ",
+   "icount": 66
+  },
+  {
+   "cf": "bābu",
+   "gw": "gate",
+   "pos": "N",
+   "icount": 65
+  },
+  {
+   "cf": "erēšu",
+   "gw": "sow",
+   "pos": "V",
+   "icount": 65
+  },
+  {
+   "cf": "hurāpu",
+   "gw": "spring lamb",
+   "pos": "N",
+   "icount": 65
+  },
+  {
+   "cf": "edānu",
+   "gw": "fixed time",
+   "pos": "N",
+   "icount": 64
+  },
+  {
+   "cf": "ṣabtu",
+   "gw": "captured",
+   "pos": "AJ",
+   "icount": 64
+  },
+  {
+   "cf": "šapartu",
+   "gw": "pledge",
+   "pos": "N",
+   "icount": 64
+  },
+  {
+   "cf": "hūlu",
+   "gw": "way",
+   "pos": "N",
+   "icount": 63
+  },
+  {
+   "cf": "karû",
+   "gw": "grain-heap",
+   "pos": "N",
+   "icount": 63
+  },
+  {
+   "cf": "enzu",
+   "gw": "goat",
+   "pos": "N",
+   "icount": 62
+  },
+  {
+   "cf": "mītu",
+   "gw": "dead",
+   "pos": "AJ",
+   "icount": 62
+  },
+  {
+   "cf": "šalmu",
+   "gw": "intact",
+   "pos": "AJ",
+   "icount": 61
+  },
+  {
+   "cf": "ugāru",
+   "gw": "(communally controlled) meadow",
+   "pos": "N",
+   "icount": 61
+  },
+  {
+   "cf": "ahātu",
+   "gw": "sister",
+   "pos": "N",
+   "icount": 60
+  },
+  {
+   "cf": "rīqu",
+   "gw": "aromatic substance",
+   "pos": "N",
+   "icount": 60
+  },
+  {
+   "cf": "šaqālu",
+   "gw": "weigh",
+   "pos": "V",
+   "icount": 60
+  },
+  {
+   "cf": "rēʾû",
+   "gw": "shepherd",
+   "pos": "N",
+   "icount": 59
+  },
+  {
+   "cf": "ṣalmu",
+   "gw": "effigy",
+   "pos": "N",
+   "icount": 59
+  },
+  {
+   "cf": "warādu",
+   "gw": "descend",
+   "pos": "V",
+   "icount": 59
+  },
+  {
+   "cf": "wašbu",
+   "gw": "inhabited",
+   "pos": "AJ",
+   "icount": 59
+  },
+  {
+   "cf": "pišertu",
+   "gw": "release",
+   "pos": "N",
+   "icount": 58
+  },
+  {
+   "cf": "aššu",
+   "gw": "because",
+   "pos": "SBJ",
+   "icount": 57
+  },
+  {
+   "cf": "rab ginê",
+   "gw": "chief of the regular offerings",
+   "pos": "N",
+   "icount": 57
+  },
+  {
+   "cf": "maddu",
+   "gw": "measured",
+   "pos": "AJ",
+   "icount": 56
+  },
+  {
+   "cf": "anāku",
+   "gw": "I",
+   "pos": "IP",
+   "icount": 55
+  },
+  {
+   "cf": "ṣēnu",
+   "gw": "flock",
+   "pos": "N",
+   "icount": 55
+  },
+  {
+   "cf": "šattu",
+   "gw": "year",
+   "pos": "N",
+   "icount": 55
+  },
+  {
+   "cf": "tabku",
+   "gw": "poured out",
+   "pos": "AJ",
+   "icount": 55
+  },
+  {
+   "cf": "ṭābu",
+   "gw": "good",
+   "pos": "AJ",
+   "icount": 55
+  },
+  {
+   "cf": "gabbu",
+   "gw": "totality",
+   "pos": "N",
+   "icount": 54
+  },
+  {
+   "cf": "ša-kukkulli",
+   "gw": "quiver-holder",
+   "pos": "N",
+   "icount": 54
+  },
+  {
+   "cf": "tālittu",
+   "gw": "offspring of animals",
+   "pos": "N",
+   "icount": 54
+  },
+  {
+   "cf": "watru",
+   "gw": "excess",
+   "pos": "AJ",
+   "icount": 54
+  },
+  {
+   "cf": "harrānu",
+   "gw": "path",
+   "pos": "N",
+   "icount": 53
+  },
+  {
+   "cf": "karmu",
+   "gw": "heap",
+   "pos": "N",
+   "icount": 53
+  },
+  {
+   "cf": "nīqu",
+   "gw": "offering",
+   "pos": "N",
+   "icount": 53
+  },
+  {
+   "cf": "ša-rēšīn",
+   "gw": "eunuch",
+   "pos": "N",
+   "icount": 53
+  },
+  {
+   "cf": "šanû",
+   "gw": "second",
+   "pos": "NU",
+   "icount": 53
+  },
+  {
+   "cf": "hiāṭu",
+   "gw": "supervise",
+   "pos": "V",
+   "icount": 52
+  },
+  {
+   "cf": "hurādu",
+   "gw": "soldier",
+   "pos": "N",
+   "icount": 52
+  },
+  {
+   "cf": "zittu",
+   "gw": "share",
+   "pos": "N",
+   "icount": 52
+  },
+  {
+   "cf": "amtu",
+   "gw": "maid",
+   "pos": "N",
+   "icount": 51
+  },
+  {
+   "cf": "haṭṭu",
+   "gw": "stick",
+   "pos": "N",
+   "icount": 51
+  },
+  {
+   "cf": "leqû",
+   "gw": "taken",
+   "pos": "AJ",
+   "icount": 51
+  },
+  {
+   "cf": "šaplû",
+   "gw": "lower",
+   "pos": "AJ",
+   "icount": 51
+  },
+  {
+   "cf": "šaṭāru",
+   "gw": "write",
+   "pos": "V",
+   "icount": 51
+  },
+  {
+   "cf": "bašû",
+   "gw": "exist",
+   "pos": "V",
+   "icount": 50
+  },
+  {
+   "cf": "epšu",
+   "gw": "built",
+   "pos": "AJ",
+   "icount": 50
+  },
+  {
+   "cf": "ahāmiš",
+   "gw": "one another",
+   "pos": "AV",
+   "icount": 49
+  },
+  {
+   "cf": "ēṣidu",
+   "gw": "reaper",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "išātu",
+   "gw": "fire",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "kāsu",
+   "gw": "cup",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "riksu",
+   "gw": "binding",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "turru",
+   "gw": "turned",
+   "pos": "AJ",
+   "icount": 49
+  },
+  {
+   "cf": "zakû",
+   "gw": "be(come) clear",
+   "pos": "V",
+   "icount": 49
+  },
+  {
+   "cf": "ammar",
+   "gw": "as much as",
+   "pos": "REL",
+   "icount": 48
+  },
+  {
+   "cf": "ṣimittu",
+   "gw": "binding",
+   "pos": "N",
+   "icount": 48
+  },
+  {
+   "cf": "itinnu",
+   "gw": "builder",
+   "pos": "N",
+   "icount": 47
+  },
+  {
+   "cf": "kašādu",
+   "gw": "reach",
+   "pos": "V",
+   "icount": 47
+  },
+  {
+   "cf": "nēšu",
+   "gw": "lion",
+   "pos": "N",
+   "icount": 47
+  },
+  {
+   "cf": "šulmu",
+   "gw": "completeness",
+   "pos": "N",
+   "icount": 47
+  },
+  {
+   "cf": "almattu",
+   "gw": "widow",
+   "pos": "N",
+   "icount": 46
+  },
+  {
+   "cf": "mahāṣu",
+   "gw": "beat",
+   "pos": "V",
+   "icount": 46
+  },
+  {
+   "cf": "ša-rēšī šarri",
+   "gw": "royal eunuch",
+   "pos": "N",
+   "icount": 46
+  },
+  {
+   "cf": "warki",
+   "gw": "behind",
+   "pos": "PRP",
+   "icount": 46
+  },
+  {
+   "cf": "zibbatu",
+   "gw": "tail",
+   "pos": "N",
+   "icount": 46
+  },
+  {
+   "cf": "dannu",
+   "gw": "strong",
+   "pos": "AJ",
+   "icount": 45
+  },
+  {
+   "cf": "šū",
+   "gw": "he",
+   "pos": "IP",
+   "icount": 45
+  },
+  {
+   "cf": "ṭēhu",
+   "gw": "immediate vicinity",
+   "pos": "N",
+   "icount": 45
+  },
+  {
+   "cf": "lubuštu",
+   "gw": "clothing",
+   "pos": "N",
+   "icount": 44
+  },
+  {
+   "cf": "pasru",
+   "gw": "(a container)",
+   "pos": "N",
+   "icount": 44
+  },
+  {
+   "cf": "quppu",
+   "gw": "box",
+   "pos": "N",
+   "icount": 44
+  },
+  {
+   "cf": "talmittu",
+   "gw": "female apprentice",
+   "pos": "N",
+   "icount": 44
+  },
+  {
+   "cf": "wašābu",
+   "gw": "sit (down)",
+   "pos": "V",
+   "icount": 44
+  },
+  {
+   "cf": "bâru",
+   "gw": "appear",
+   "pos": "V",
+   "icount": 43
+  },
+  {
+   "cf": "rittu",
+   "gw": "hand",
+   "pos": "N",
+   "icount": 43
+  },
+  {
+   "cf": "šammu",
+   "gw": "plant(s)",
+   "pos": "N",
+   "icount": 43
+  },
+  {
+   "cf": "šulmānu",
+   "gw": "greeting gift",
+   "pos": "N",
+   "icount": 43
+  },
+  {
+   "cf": "unīqu",
+   "gw": "female kid",
+   "pos": "N",
+   "icount": 43
+  },
+  {
+   "cf": "bīt āli",
+   "gw": "city hall",
+   "pos": "N",
+   "icount": 42
+  },
+  {
+   "cf": "šalāmu",
+   "gw": "be(come) healthy",
+   "pos": "V",
+   "icount": 42
+  },
+  {
+   "cf": "šukênu",
+   "gw": "prostrate oneself",
+   "pos": "V",
+   "icount": 42
+  },
+  {
+   "cf": "izuzzu",
+   "gw": "stand",
+   "pos": "V",
+   "icount": 41
+  },
+  {
+   "cf": "kussû",
+   "gw": "chair",
+   "pos": "N",
+   "icount": 41
+  },
+  {
+   "cf": "šakin māti",
+   "gw": "governor",
+   "pos": "N",
+   "icount": 41
+  },
+  {
+   "cf": "šēpu",
+   "gw": "foot",
+   "pos": "N",
+   "icount": 41
+  },
+  {
+   "cf": "eleppu",
+   "gw": "ship",
+   "pos": "N",
+   "icount": 40
+  },
+  {
+   "cf": "gamru",
+   "gw": "complete",
+   "pos": "AJ",
+   "icount": 40
+  },
+  {
+   "cf": "ṭēru",
+   "gw": "stamp(ed)?",
+   "pos": "AJ",
+   "icount": 40
+  },
+  {
+   "cf": "birmu",
+   "gw": "multicoloured cloth",
+   "pos": "N",
+   "icount": 39
+  },
+  {
+   "cf": "nakkamtu",
+   "gw": "treasure",
+   "pos": "N",
+   "icount": 39
+  },
+  {
+   "cf": "naptanu",
+   "gw": "meal(-time)",
+   "pos": "N",
+   "icount": 39
+  },
+  {
+   "cf": "ahāzu",
+   "gw": "take",
+   "pos": "V",
+   "icount": 38
+  },
+  {
+   "cf": "hazannu",
+   "gw": "mayor",
+   "pos": "N",
+   "icount": 38
+  },
+  {
+   "cf": "kallu",
+   "gw": "(kind of) bowl",
+   "pos": "N",
+   "icount": 38
+  },
+  {
+   "cf": "qaštu",
+   "gw": "bow",
+   "pos": "N",
+   "icount": 38
+  },
+  {
+   "cf": "perku",
+   "gw": "transversal",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "perṣaduhhu",
+   "gw": "(a balsam)",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "pūhu",
+   "gw": "exchange",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "ša-qašti",
+   "gw": "archer?",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "šaqû",
+   "gw": "give to drink",
+   "pos": "V",
+   "icount": 37
+  },
+  {
+   "cf": "šinīšu",
+   "gw": "two times",
+   "pos": "AV",
+   "icount": 37
+  },
+  {
+   "cf": "tahapšu",
+   "gw": "felt",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "ummu",
+   "gw": "mother",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "eššu",
+   "gw": "new",
+   "pos": "AJ",
+   "icount": 36
+  },
+  {
+   "cf": "karānu",
+   "gw": "wine",
+   "pos": "N",
+   "icount": 36
+  },
+  {
+   "cf": "kirû",
+   "gw": "garden",
+   "pos": "N",
+   "icount": 36
+  },
+  {
+   "cf": "namāšu",
+   "gw": "set in motion",
+   "pos": "V",
+   "icount": 36
+  },
+  {
+   "cf": "qaqqaru",
+   "gw": "ground",
+   "pos": "N",
+   "icount": 36
+  },
+  {
+   "cf": "zarû",
+   "gw": "winnow",
+   "pos": "V",
+   "icount": 36
+  },
+  {
+   "cf": "dinānu",
+   "gw": "substitution",
+   "pos": "N",
+   "icount": 35
+  },
+  {
+   "cf": "epinnu",
+   "gw": "(seed) plough",
+   "pos": "N",
+   "icount": 35
+  },
+  {
+   "cf": "mamman",
+   "gw": "somebody",
+   "pos": "XP",
+   "icount": 35
+  },
+  {
+   "cf": "rubūʾû",
+   "gw": "four-year-old",
+   "pos": "AJ",
+   "icount": 35
+  },
+  {
+   "cf": "sugullu",
+   "gw": "herd",
+   "pos": "N",
+   "icount": 35
+  },
+  {
+   "cf": "erēšu",
+   "gw": "request",
+   "pos": "V",
+   "icount": 34
+  },
+  {
+   "cf": "hīṭu",
+   "gw": "error",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "miṭru",
+   "gw": "(a type of bread)",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "nappāhu",
+   "gw": "smith",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "piqittu",
+   "gw": "allocation",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "talpittu",
+   "gw": "disbursal",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "tupninnu",
+   "gw": "box",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "kitû",
+   "gw": "flax",
+   "pos": "N",
+   "icount": 33
+  },
+  {
+   "cf": "nakāru",
+   "gw": "change",
+   "pos": "V",
+   "icount": 33
+  },
+  {
+   "cf": "paššuru",
+   "gw": "table",
+   "pos": "N",
+   "icount": 33
+  },
+  {
+   "cf": "pūru",
+   "gw": "lot",
+   "pos": "N",
+   "icount": 33
+  },
+  {
+   "cf": "ašar",
+   "gw": "where",
+   "pos": "SBJ",
+   "icount": 32
+  },
+  {
+   "cf": "azādu",
+   "gw": "young male goat",
+   "pos": "N",
+   "icount": 32
+  },
+  {
+   "cf": "būrtu",
+   "gw": "cistern",
+   "pos": "N",
+   "icount": 32
+  },
+  {
+   "cf": "kurrû",
+   "gw": "deducted",
+   "pos": "AJ",
+   "icount": 32
+  },
+  {
+   "cf": "nagāru",
+   "gw": "joiner",
+   "pos": "N",
+   "icount": 32
+  },
+  {
+   "cf": "dâku",
+   "gw": "kill",
+   "pos": "V",
+   "icount": 31
+  },
+  {
+   "cf": "ramānu",
+   "gw": "self",
+   "pos": "N",
+   "icount": 31
+  },
+  {
+   "cf": "zāriqu",
+   "gw": "(a profession)",
+   "pos": "N",
+   "icount": 31
+  },
+  {
+   "cf": "bēltu",
+   "gw": "lady",
+   "pos": "N",
+   "icount": 30
+  },
+  {
+   "cf": "dīnu",
+   "gw": "legal decision",
+   "pos": "N",
+   "icount": 30
+  },
+  {
+   "cf": "hašīmu",
+   "gw": "grain heap",
+   "pos": "N",
+   "icount": 30
+  },
+  {
+   "cf": "libittu",
+   "gw": "mudbrick",
+   "pos": "N",
+   "icount": 30
+  },
+  {
+   "cf": "malû",
+   "gw": "be(come) full",
+   "pos": "V",
+   "icount": 30
+  },
+  {
+   "cf": "werû",
+   "gw": "copper",
+   "pos": "N",
+   "icount": 30
+  },
+  {
+   "cf": "asu",
+   "gw": "myrtle",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "aškāpu",
+   "gw": "leatherworker",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "eṣēdu",
+   "gw": "harvest",
+   "pos": "V",
+   "icount": 29
+  },
+  {
+   "cf": "karāru",
+   "gw": "put (down)",
+   "pos": "V",
+   "icount": 29
+  },
+  {
+   "cf": "mala",
+   "gw": "one",
+   "pos": "NU",
+   "icount": 29
+  },
+  {
+   "cf": "mesû",
+   "gw": "wash",
+   "pos": "V",
+   "icount": 29
+  },
+  {
+   "cf": "mimmû",
+   "gw": "all",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "nadû",
+   "gw": "throw",
+   "pos": "V",
+   "icount": 29
+  },
+  {
+   "cf": "šamû",
+   "gw": "heaven",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "šiltāhu",
+   "gw": "arrow",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "wuppû",
+   "gw": "acquired",
+   "pos": "AJ",
+   "icount": 29
+  },
+  {
+   "cf": "abullu",
+   "gw": "gate",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "ayyaru",
+   "gw": "flower",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "elû",
+   "gw": "upper",
+   "pos": "AJ",
+   "icount": 28
+  },
+  {
+   "cf": "kanāku",
+   "gw": "seal",
+   "pos": "V",
+   "icount": 28
+  },
+  {
+   "cf": "kaṣāru",
+   "gw": "tie",
+   "pos": "V",
+   "icount": 28
+  },
+  {
+   "cf": "kātu",
+   "gw": "surety, pawn",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "māšartu",
+   "gw": "inspection",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "rab ēkalli",
+   "gw": "palace manager",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "suhīru",
+   "gw": "foal",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "ṣupru",
+   "gw": "nail",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "aplu",
+   "gw": "paid",
+   "pos": "AJ",
+   "icount": 27
+  },
+  {
+   "cf": "atû",
+   "gw": "gatekeeper",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "gamāru",
+   "gw": "complete",
+   "pos": "V",
+   "icount": 27
+  },
+  {
+   "cf": "haršu",
+   "gw": "crumbled (bread)",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "hašlu",
+   "gw": "crushed",
+   "pos": "AJ",
+   "icount": 27
+  },
+  {
+   "cf": "mūru",
+   "gw": "young animal",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "nubattu",
+   "gw": "evening (rest)",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "rēšu",
+   "gw": "head",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "ṣāhitu",
+   "gw": "oil-presser",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "šapāku",
+   "gw": "heap up",
+   "pos": "V",
+   "icount": 27
+  },
+  {
+   "cf": "šemû",
+   "gw": "hear",
+   "pos": "V",
+   "icount": 27
+  },
+  {
+   "cf": "warkû",
+   "gw": "rear",
+   "pos": "AJ",
+   "icount": 27
+  },
+  {
+   "cf": "wāšipu",
+   "gw": "exorcist",
+   "pos": "N",
+   "icount": 27
+  },
+  {
+   "cf": "argamannu",
+   "gw": "purple",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "arhiš",
+   "gw": "quickly",
+   "pos": "AV",
+   "icount": 26
+  },
+  {
+   "cf": "bārû",
+   "gw": "diviner",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "emēdu",
+   "gw": "lean on",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "iṣu",
+   "gw": "tree",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "kiṣirtu",
+   "gw": "thickening",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "nawāru",
+   "gw": "be(come) bright",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "nukaribbu",
+   "gw": "gardener",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "pappaltu",
+   "gw": "coarse flour",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "petû",
+   "gw": "open",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "qimmatu",
+   "gw": "tuft",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "rabbû",
+   "gw": "very big",
+   "pos": "AJ",
+   "icount": 26
+  },
+  {
+   "cf": "sasinnu",
+   "gw": "bowyer",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "sūnu",
+   "gw": "(a cloth trimming)",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "ṣarāhu",
+   "gw": "light up",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "šâlu",
+   "gw": "ask",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "šimtu",
+   "gw": "mark",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "uqnû",
+   "gw": "lapis lazuli",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "ammatu",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 25
+  },
+  {
+   "cf": "dunnu",
+   "gw": "power",
+   "pos": "N",
+   "icount": 25
+  },
+  {
+   "cf": "mār šipri",
+   "gw": "messenger",
+   "pos": "N",
+   "icount": 25
+  },
+  {
+   "cf": "nakāsu",
+   "gw": "cut",
+   "pos": "V",
+   "icount": 25
+  },
+  {
+   "cf": "pānû",
+   "gw": "previous",
+   "pos": "AJ",
+   "icount": 25
+  },
+  {
+   "cf": "raksu",
+   "gw": "bound",
+   "pos": "AJ",
+   "icount": 25
+  },
+  {
+   "cf": "šappatu",
+   "gw": "(a pottery vessel)",
+   "pos": "N",
+   "icount": 25
+  },
+  {
+   "cf": "šī",
+   "gw": "she",
+   "pos": "IP",
+   "icount": 25
+  },
+  {
+   "cf": "wabru",
+   "gw": "foreigner",
+   "pos": "N",
+   "icount": 25
+  },
+  {
+   "cf": "edû",
+   "gw": "know",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "erû",
+   "gw": "grindstone",
+   "pos": "N",
+   "icount": 24
+  },
+  {
+   "cf": "halqu",
+   "gw": "lost",
+   "pos": "AJ",
+   "icount": 24
+  },
+  {
+   "cf": "harû",
+   "gw": "(a large cointainer)",
+   "pos": "N",
+   "icount": 24
+  },
+  {
+   "cf": "kalû",
+   "gw": "hold (back)",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "kânu",
+   "gw": "be(come) permanent",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "kapāru",
+   "gw": "wipe (clean)",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "redû",
+   "gw": "accompany",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "ṣuppu",
+   "gw": "decorate",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "talmīdu",
+   "gw": "apprentice",
+   "pos": "N",
+   "icount": 24
+  },
+  {
+   "cf": "tarṣu",
+   "gw": "extent",
+   "pos": "N",
+   "icount": 24
+  },
+  {
+   "cf": "wašāru",
+   "gw": "sink down",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "agannu",
+   "gw": "bowl",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "arku",
+   "gw": "long",
+   "pos": "AJ",
+   "icount": 23
+  },
+  {
+   "cf": "beʾēšu",
+   "gw": "stir",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "biātu",
+   "gw": "spend the night",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "halṣu",
+   "gw": "fortress",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "īnu",
+   "gw": "eye",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "katāmu",
+   "gw": "cover",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "kīam",
+   "gw": "so",
+   "pos": "AV",
+   "icount": 23
+  },
+  {
+   "cf": "kūru",
+   "gw": "kiln",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "lawû",
+   "gw": "surround",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "sēpû",
+   "gw": "felt-worker",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "sillūnu",
+   "gw": "old",
+   "pos": "AJ",
+   "icount": 23
+  },
+  {
+   "cf": "ṣābū šarri",
+   "gw": "royal troops",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "šalāšīšu",
+   "gw": "three times",
+   "pos": "AV",
+   "icount": 23
+  },
+  {
+   "cf": "šanāʾiu",
+   "gw": "of second size",
+   "pos": "AJ",
+   "icount": 23
+  },
+  {
+   "cf": "šasû",
+   "gw": "shout",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "tamkāru",
+   "gw": "merchant",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "tibnu",
+   "gw": "straw",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "ṭēʾinu",
+   "gw": "grinder",
+   "pos": "N",
+   "icount": 23
+  },
+  {
+   "cf": "ṭênu",
+   "gw": "grind",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "ammīni",
+   "gw": "why?",
+   "pos": "AV",
+   "icount": 22
+  },
+  {
+   "cf": "bēru",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 22
+  },
+  {
+   "cf": "erēnu",
+   "gw": "cedar",
+   "pos": "N",
+   "icount": 22
+  },
+  {
+   "cf": "esēpu",
+   "gw": "gather together",
+   "pos": "V",
+   "icount": 22
+  },
+  {
+   "cf": "harimtu",
+   "gw": "(temple) prostitute",
+   "pos": "N",
+   "icount": 22
+  },
+  {
+   "cf": "hersu",
+   "gw": "(a vessel)",
+   "pos": "N",
+   "icount": 22
+  },
+  {
+   "cf": "kakardinnu",
+   "gw": "victualler",
+   "pos": "N",
+   "icount": 22
+  },
+  {
+   "cf": "karû",
+   "gw": "be(come) short",
+   "pos": "V",
+   "icount": 22
+  },
+  {
+   "cf": "mādu",
+   "gw": "many",
+   "pos": "AJ",
+   "icount": 22
+  },
+  {
+   "cf": "magāru",
+   "gw": "consent",
+   "pos": "V",
+   "icount": 22
+  },
+  {
+   "cf": "attā",
+   "gw": "you",
+   "pos": "IP",
+   "icount": 21
+  },
+  {
+   "cf": "bītu",
+   "gw": "spending the night",
+   "pos": "AJ",
+   "icount": 21
+  },
+  {
+   "cf": "ilku",
+   "gw": "(state) service",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "lā-dāgilu",
+   "gw": "blind",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "mayyaltu",
+   "gw": "bed",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "mērešu",
+   "gw": "cultivated land",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "rab ālāni",
+   "gw": "village manager",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "sêru",
+   "gw": "plaster",
+   "pos": "V",
+   "icount": 21
+  },
+  {
+   "cf": "simdu",
+   "gw": "(a flour)",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "summuhu",
+   "gw": "mixed",
+   "pos": "AJ",
+   "icount": 21
+  },
+  {
+   "cf": "šiddu",
+   "gw": "length",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "turāšu",
+   "gw": "harvest",
+   "pos": "N",
+   "icount": 21
+  },
+  {
+   "cf": "ašlu",
+   "gw": "rush",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "balāṭu",
+   "gw": "live",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "barû",
+   "gw": "seen",
+   "pos": "AJ",
+   "icount": 20
+  },
+  {
+   "cf": "gīdu",
+   "gw": "sinew",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "kiṣru",
+   "gw": "knot",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "kūdanu",
+   "gw": "mule",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "maṭû",
+   "gw": "be(come) little",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "maṭû",
+   "gw": "small",
+   "pos": "AJ",
+   "icount": 20
+  },
+  {
+   "cf": "naqû",
+   "gw": "pour (a libation)",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "našpartu",
+   "gw": "message",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "quʾʾû",
+   "gw": "wait",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "šārtu",
+   "gw": "hair",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "šarû",
+   "gw": "be(come) rich",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "šipšatu",
+   "gw": "(length of) wood",
+   "pos": "N",
+   "icount": 20
+  },
+  {
+   "cf": "batāqu",
+   "gw": "cut off",
+   "pos": "V",
+   "icount": 19
+  },
+  {
+   "cf": "buqlu",
+   "gw": "malt",
+   "pos": "N",
+   "icount": 19
+  },
+  {
+   "cf": "hadû",
+   "gw": "joyful",
+   "pos": "AJ",
+   "icount": 19
+  },
+  {
+   "cf": "kīma",
+   "gw": "like",
+   "pos": "PRP",
+   "icount": 19
+  },
+  {
+   "cf": "nabalkutu",
+   "gw": "cross over",
+   "pos": "V",
+   "icount": 19
+  },
+  {
+   "cf": "napištu",
+   "gw": "throat",
+   "pos": "N",
+   "icount": 19
+  },
+  {
+   "cf": "nashu",
+   "gw": "torn out",
+   "pos": "AJ",
+   "icount": 19
+  },
+  {
+   "cf": "niāku",
+   "gw": "have sexual intercourse with",
+   "pos": "V",
+   "icount": 19
+  },
+  {
+   "cf": "šabartu",
+   "gw": "block, bar",
+   "pos": "N",
+   "icount": 19
+  },
+  {
+   "cf": "dayyānu",
+   "gw": "judge",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "kalû",
+   "gw": "totality",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "kâšim",
+   "gw": "to you",
+   "pos": "IP",
+   "icount": 18
+  },
+  {
+   "cf": "kīnu",
+   "gw": "permanent",
+   "pos": "AJ",
+   "icount": 18
+  },
+  {
+   "cf": "kumānu",
+   "gw": "unit",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "kutallu",
+   "gw": "rear",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "maddattu",
+   "gw": "payment",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "mūrtu",
+   "gw": "young female animal",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "qablu",
+   "gw": "hips",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "qadištu",
+   "gw": "(a type of priestess)",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "qanû",
+   "gw": "reed",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "qarāru",
+   "gw": "writhe",
+   "pos": "V",
+   "icount": 18
+  },
+  {
+   "cf": "ṣalāʾu",
+   "gw": "throw",
+   "pos": "V",
+   "icount": 18
+  },
+  {
+   "cf": "ṣurru",
+   "gw": "obsidian",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "šumēlu",
+   "gw": "left",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "tabarru",
+   "gw": "red wool",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "takiltu",
+   "gw": "purple (wool)",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "ṭiābu",
+   "gw": "be(come) good",
+   "pos": "V",
+   "icount": 18
+  },
+  {
+   "cf": "ahu",
+   "gw": "arm",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "biri-",
+   "gw": "among",
+   "pos": "PRP",
+   "icount": 17
+  },
+  {
+   "cf": "išdu",
+   "gw": "foundation",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "ištēn",
+   "gw": "one",
+   "pos": "NU",
+   "icount": 17
+  },
+  {
+   "cf": "lapātu",
+   "gw": "touch",
+   "pos": "V",
+   "icount": 17
+  },
+  {
+   "cf": "mazzizu",
+   "gw": "standing",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "mišlu",
+   "gw": "half",
+   "pos": "NU",
+   "icount": 17
+  },
+  {
+   "cf": "mullû",
+   "gw": "compensation",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "nasāqu",
+   "gw": "choose",
+   "pos": "V",
+   "icount": 17
+  },
+  {
+   "cf": "nāšû",
+   "gw": "bearing",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "rīmūtu",
+   "gw": "gift",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "suhīrtu",
+   "gw": "female foal",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "šiāti",
+   "gw": "her",
+   "pos": "IP",
+   "icount": 17
+  },
+  {
+   "cf": "šukkallu",
+   "gw": "(a court official)",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "ṭupšarru ṣehru",
+   "gw": "junior scribe",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "unūtu",
+   "gw": "tools",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "wapû",
+   "gw": "be(come) visible",
+   "pos": "V",
+   "icount": 17
+  },
+  {
+   "cf": "zakāru",
+   "gw": "speak",
+   "pos": "V",
+   "icount": 17
+  },
+  {
+   "cf": "ziqpu",
+   "gw": "shoot",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "balṭu",
+   "gw": "living",
+   "pos": "AJ",
+   "icount": 16
+  },
+  {
+   "cf": "balu",
+   "gw": "without",
+   "pos": "PRP",
+   "icount": 16
+  },
+  {
+   "cf": "batqu",
+   "gw": "cut off",
+   "pos": "AJ",
+   "icount": 16
+  },
+  {
+   "cf": "damāqu",
+   "gw": "be(come) good",
+   "pos": "V",
+   "icount": 16
+  },
+  {
+   "cf": "ebēru",
+   "gw": "cross",
+   "pos": "V",
+   "icount": 16
+  },
+  {
+   "cf": "halzuhlu",
+   "gw": "district governor",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "ikkartu",
+   "gw": "plough team",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "kusītu",
+   "gw": "robe",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "nasāhu",
+   "gw": "tear out",
+   "pos": "V",
+   "icount": 16
+  },
+  {
+   "cf": "pašāru",
+   "gw": "release",
+   "pos": "V",
+   "icount": 16
+  },
+  {
+   "cf": "rab ikkarāti",
+   "gw": "chief farmer",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "raqqûtu",
+   "gw": "spice(s)",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "simānu",
+   "gw": "(right) occassion",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "ṣarāhu",
+   "gw": "flare",
+   "pos": "V",
+   "icount": 16
+  },
+  {
+   "cf": "šadû",
+   "gw": "mountain",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "šipirtu",
+   "gw": "message",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "šunu",
+   "gw": "they",
+   "pos": "IP",
+   "icount": 16
+  },
+  {
+   "cf": "ṭupšar šarri",
+   "gw": "royal scribe",
+   "pos": "N",
+   "icount": 16
+  },
+  {
+   "cf": "buʾʾû",
+   "gw": "look for",
+   "pos": "V",
+   "icount": 15
+  },
+  {
+   "cf": "danniš",
+   "gw": "very",
+   "pos": "AV",
+   "icount": 15
+  },
+  {
+   "cf": "gabarû",
+   "gw": "copy",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "naṣāru",
+   "gw": "guard",
+   "pos": "V",
+   "icount": 15
+  },
+  {
+   "cf": "nupāru",
+   "gw": "prison",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "qarnu",
+   "gw": "horn",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "ruqqû",
+   "gw": "process oil",
+   "pos": "V",
+   "icount": 15
+  },
+  {
+   "cf": "ṣāltu",
+   "gw": "combat",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "ṣerpu",
+   "gw": "red wool",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "ša-kuruštî",
+   "gw": "animal-fattener",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "ša-muhhi-ginê",
+   "gw": "offerings overseer",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "šasû",
+   "gw": "shouted",
+   "pos": "AJ",
+   "icount": 15
+  },
+  {
+   "cf": "šašallu",
+   "gw": "tendon of the hoof or heel",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "šuāti",
+   "gw": "him",
+   "pos": "IP",
+   "icount": 15
+  },
+  {
+   "cf": "šurqu",
+   "gw": "theft",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "tamû",
+   "gw": "swear",
+   "pos": "V",
+   "icount": 15
+  },
+  {
+   "cf": "ṭabtu",
+   "gw": "salt",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "umāmu",
+   "gw": "animal",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "upnu",
+   "gw": "(cupped) hand",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "uppušu",
+   "gw": "carried out",
+   "pos": "AJ",
+   "icount": 15
+  },
+  {
+   "cf": "dīku",
+   "gw": "killed",
+   "pos": "AJ",
+   "icount": 14
+  },
+  {
+   "cf": "ebertu",
+   "gw": "bank",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "kišdu",
+   "gw": "acquisition",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "kiššatu",
+   "gw": "totality",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "mā",
+   "gw": "this means",
+   "pos": "J",
+   "icount": 14
+  },
+  {
+   "cf": "mithāru",
+   "gw": "corresponding",
+   "pos": "AJ",
+   "icount": 14
+  },
+  {
+   "cf": "nāgiru",
+   "gw": "(town) crier",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "namšartu",
+   "gw": "threshing-sledge",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "napāšu",
+   "gw": "breathe",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "narkabtu",
+   "gw": "chariot",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "nēpešu",
+   "gw": "activity",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "parzillu",
+   "gw": "iron",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "patru",
+   "gw": "sword",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "qatnu",
+   "gw": "thin",
+   "pos": "AJ",
+   "icount": 14
+  },
+  {
+   "cf": "samarru",
+   "gw": "(a beer)",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "šarʾu",
+   "gw": "furrowed field",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "šuhuppatu",
+   "gw": "boot(s)",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "tēliltu",
+   "gw": "purification",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "uznu",
+   "gw": "ear",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "zâzu",
+   "gw": "divide",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "ammaka",
+   "gw": "there",
+   "pos": "AV",
+   "icount": 13
+  },
+  {
+   "cf": "ašāru",
+   "gw": "muster",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "bitqu",
+   "gw": "break(age)",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "ešertu",
+   "gw": "group of ten",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "haṣṣinnu",
+   "gw": "axe",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "kāru",
+   "gw": "quay",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "kaṣû",
+   "gw": "be(come) cold",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "kullumu",
+   "gw": "show",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "migru",
+   "gw": "consent",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "nāru",
+   "gw": "river",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "perru",
+   "gw": "enrolled",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "pūtu",
+   "gw": "forehead",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "qatû",
+   "gw": "ended",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "riāhu",
+   "gw": "remain",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "rīqu",
+   "gw": "empty",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "sahāru",
+   "gw": "go around",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "sāmtu",
+   "gw": "redness",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "ṣuppu",
+   "gw": "decorated",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "šahālu",
+   "gw": "sieve",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "šanātu",
+   "gw": "(oil-bearing aromatic plant)",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "tahūmu",
+   "gw": "boundry",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "tarbaṣu",
+   "gw": "animal stall",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "apālu",
+   "gw": "pay",
+   "pos": "V",
+   "icount": 12
+  },
+  {
+   "cf": "asû",
+   "gw": "physician",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "birtu",
+   "gw": "fort",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "burāšu",
+   "gw": "(species of) juniper",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "daltu",
+   "gw": "door",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "dušû",
+   "gw": "quartz",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "emu",
+   "gw": "father-in-law",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "habātu",
+   "gw": "rob",
+   "pos": "V",
+   "icount": 12
+  },
+  {
+   "cf": "hamšā",
+   "gw": "fifty",
+   "pos": "NU",
+   "icount": 12
+  },
+  {
+   "cf": "iʾlu",
+   "gw": "contract, bond",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "lišānu",
+   "gw": "tongue",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "murru",
+   "gw": "bitterness",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "muttāqu",
+   "gw": "confectionery",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "nadû",
+   "gw": "placed",
+   "pos": "AJ",
+   "icount": 12
+  },
+  {
+   "cf": "qalītu",
+   "gw": "parched grain",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "rab hamšā",
+   "gw": "commander-of-fifty",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "šamšu",
+   "gw": "sun",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "šappu",
+   "gw": "bowl",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "šihṭu",
+   "gw": "(a kind of fodder)",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "šīnātu",
+   "gw": "urine",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "tittu",
+   "gw": "fig (tree)",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "ul",
+   "gw": "not",
+   "pos": "MOD",
+   "icount": 12
+  },
+  {
+   "cf": "umzarhu",
+   "gw": "house-born",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "wīṣu",
+   "gw": "few",
+   "pos": "AJ",
+   "icount": 12
+  },
+  {
+   "cf": "ahu",
+   "gw": "bank",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "amat ēkalli",
+   "gw": "palace slave",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "amru",
+   "gw": "seen",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "annaka",
+   "gw": "here",
+   "pos": "AV",
+   "icount": 11
+  },
+  {
+   "cf": "appatu",
+   "gw": "bridle",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "bītānu",
+   "gw": "in the house",
+   "pos": "AV",
+   "icount": 11
+  },
+  {
+   "cf": "ebertu",
+   "gw": "pace",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "eliš",
+   "gw": "above",
+   "pos": "AV",
+   "icount": 11
+  },
+  {
+   "cf": "hubbulu",
+   "gw": "indebted",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "huppû",
+   "gw": "broken up",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "huzīru",
+   "gw": "pig",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "kakku",
+   "gw": "weapon",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "kallû",
+   "gw": "messenger",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "kirru",
+   "gw": "(a big jar)",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "nakru",
+   "gw": "enemy",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "našlamtu",
+   "gw": "full compensation",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "našru",
+   "gw": "deducted",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "nīšu",
+   "gw": "(oath on the) life",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "palāhu",
+   "gw": "fear",
+   "pos": "V",
+   "icount": 11
+  },
+  {
+   "cf": "pēmtu",
+   "gw": "charcoal",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "sikkatu",
+   "gw": "peg",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "ša-muhhi-bīti",
+   "gw": "overseer of the household",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šanûti-",
+   "gw": "second time",
+   "pos": "AV",
+   "icount": 11
+  },
+  {
+   "cf": "šaplu",
+   "gw": "underside",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šarrūtu",
+   "gw": "kingship",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šērtu",
+   "gw": "morning",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šīmtu",
+   "gw": "fate",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šiptu",
+   "gw": "incantation",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "šû",
+   "gw": "his",
+   "pos": "PP",
+   "icount": 11
+  },
+  {
+   "cf": "tākultu",
+   "gw": "(cultic) meal",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "tartānu",
+   "gw": "deputy",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "tidūku",
+   "gw": "combat",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "ubānu",
+   "gw": "finger",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "usandû",
+   "gw": "bird-catcher",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "ušû",
+   "gw": "ebony",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "warqu",
+   "gw": "yellow-green",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "zūtu",
+   "gw": "sweat",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "abātu",
+   "gw": "run away",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "arītu",
+   "gw": "shield",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "aššiyannu",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "baʾʾirūtu",
+   "gw": "substantiation (of evidence)?",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "batultu",
+   "gw": "adolescent",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "dagālu",
+   "gw": "see",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "dūru",
+   "gw": "city wall",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "ezēbu",
+   "gw": "leave",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "hûratu",
+   "gw": "madder",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "igāru",
+   "gw": "wall",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "imittu",
+   "gw": "right",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "išparu",
+   "gw": "weaver",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "kû",
+   "gw": "yours",
+   "pos": "PP",
+   "icount": 10
+  },
+  {
+   "cf": "lāsimu",
+   "gw": "runner",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "lippu",
+   "gw": "wrap",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "mala",
+   "gw": "as much as",
+   "pos": "PRP",
+   "icount": 10
+  },
+  {
+   "cf": "mubêšu",
+   "gw": "implement for stirring",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "mugīlu",
+   "gw": "(a container)",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "nāʾikānu",
+   "gw": "the one who had intercourse",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "nalbattu",
+   "gw": "brick mould",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "nēmettu",
+   "gw": "levy",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "pašāšu",
+   "gw": "anoint",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "purīdu",
+   "gw": "leg",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "pursītu",
+   "gw": "(offering) bowl",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "qadūtu",
+   "gw": "(a kind of bread)",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "raṣāpu",
+   "gw": "build",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "rebītu",
+   "gw": "square",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "ṣubbutu",
+   "gw": "taken",
+   "pos": "AJ",
+   "icount": 10
+  },
+  {
+   "cf": "ša-libbi",
+   "gw": "foetus",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šāqû",
+   "gw": "steward",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šarāqu",
+   "gw": "steal",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "ŠE.HAR",
+   "gw": "(a tree)",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šēhtu",
+   "gw": "incense burner",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šernu",
+   "gw": "(a wooden chariot part)",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šinnu",
+   "gw": "tooth",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "šuāšim",
+   "gw": "to him",
+   "pos": "IP",
+   "icount": 10
+  },
+  {
+   "cf": "tamlû",
+   "gw": "filling",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "tappû",
+   "gw": "companion",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "timmu",
+   "gw": "post",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "ummiānu",
+   "gw": "expert",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "zammāru",
+   "gw": "singer",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "zīzu",
+   "gw": "divided",
+   "pos": "AJ",
+   "icount": 10
+  },
+  {
+   "cf": "ananihu",
+   "gw": "(a garden herb)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "appu",
+   "gw": "nose",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "asaʾītu",
+   "gw": "tower",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "balāṭu",
+   "gw": "life",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "būru",
+   "gw": "(bull) calf",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "entu",
+   "gw": "high priestess",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "ēpišu",
+   "gw": "doer",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "gabû",
+   "gw": "alum",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "hubtu",
+   "gw": "robbery",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "humūšû",
+   "gw": "five-year-old",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "huruhuru",
+   "gw": "braided loaf",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "igru",
+   "gw": "hire",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "irtu",
+   "gw": "chest",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "išhenabe",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "ištēniš",
+   "gw": "together",
+   "pos": "AV",
+   "icount": 9
+  },
+  {
+   "cf": "kallâmāre",
+   "gw": "early morning",
+   "pos": "AV",
+   "icount": 9
+  },
+  {
+   "cf": "kaspu",
+   "gw": "silver",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "kippatu",
+   "gw": "circle",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "kisallu",
+   "gw": "court",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "kisittu",
+   "gw": "branches",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "lubbuku",
+   "gw": "softened",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "magru",
+   "gw": "friendly",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "mākisu",
+   "gw": "tax-collector",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "marsattu",
+   "gw": "(soaking) vat",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "maṣṣartu",
+   "gw": "watch",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "maziānu",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "muraqqītu",
+   "gw": "(woman) maker of perfumes",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "mūšu",
+   "gw": "night",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "nahru",
+   "gw": "shrivelled",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "narkabu",
+   "gw": "(upper) grindstone",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "narūqu",
+   "gw": "leather bag",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "nēbehu",
+   "gw": "band",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "nuhatimmu",
+   "gw": "cook",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "puṣṣunu",
+   "gw": "covered up",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "quppātu",
+   "gw": "(a kind of flour or bread)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "rab sēpê",
+   "gw": "chief felt-worker",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "rašû",
+   "gw": "acquire",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "šalšu",
+   "gw": "third",
+   "pos": "NU",
+   "icount": 9
+  },
+  {
+   "cf": "šeleppāyu",
+   "gw": "(a type of craftsman)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "šiāmātu",
+   "gw": "purchased goods",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "šiāmu",
+   "gw": "fix",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "šingu",
+   "gw": "(a type of wool)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "šūbultu",
+   "gw": "consignment",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "šuhattu",
+   "gw": "(a cloth)",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "šūlû",
+   "gw": "raised",
+   "pos": "AJ",
+   "icount": 9
+  },
+  {
+   "cf": "šumuttu",
+   "gw": "beetroot?",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "uatnannu",
+   "gw": "carriage",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "warad šarri",
+   "gw": "servant of the king",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "yâšim",
+   "gw": "to me",
+   "pos": "IP",
+   "icount": 9
+  },
+  {
+   "cf": "zibibiānu",
+   "gw": "black cumin",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "ziqqurratu",
+   "gw": "ziggurat",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "abāru",
+   "gw": "lead",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "abbaššu",
+   "gw": "coat",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "aluzinnu",
+   "gw": "buffoon",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "apu",
+   "gw": "reed-bed",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "attunu",
+   "gw": "you",
+   "pos": "IP",
+   "icount": 8
+  },
+  {
+   "cf": "dumāqū",
+   "gw": "jewellery",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "emmu",
+   "gw": "hot",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "esertu",
+   "gw": "confined woman",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "ezib",
+   "gw": "except",
+   "pos": "PRP",
+   "icount": 8
+  },
+  {
+   "cf": "gummuru",
+   "gw": "assembled",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "halāqu",
+   "gw": "be(come) lost",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "himētu",
+   "gw": "butter",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "hiṣnu",
+   "gw": "(a type of barley)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "hīṭu",
+   "gw": "weighed",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "hullānu",
+   "gw": "(cloth) cover",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "inhu",
+   "gw": "(a type of cultic song)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "iškūru",
+   "gw": "wax",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "išpartu",
+   "gw": "female weaver",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "išû",
+   "gw": "have",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "kamru",
+   "gw": "piled up",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "kanīku",
+   "gw": "sealed document",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "kappu",
+   "gw": "hand",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "kāṣiru",
+   "gw": "tailor",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "kaṣṣu",
+   "gw": "(a festival?)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "lahannu",
+   "gw": "(a flask)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "lubāru",
+   "gw": "garment",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "māhirānu",
+   "gw": "recipient",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "makāsu",
+   "gw": "levy customs or rental dues",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "mānahtu",
+   "gw": "weariness",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "marṣu",
+   "gw": "sick",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "mārūtu",
+   "gw": "status of son",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "mirqu",
+   "gw": "(a kind of flour)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "mussû",
+   "gw": "washed",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "nahlaptu",
+   "gw": "coat",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "paddugannu",
+   "gw": "(a cultic ceremony, meal)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "pašāṭu",
+   "gw": "erase",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "pašru",
+   "gw": "released",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "pāšu",
+   "gw": "axe",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "qarmu",
+   "gw": "overlaid",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "qīštu",
+   "gw": "gift",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "rubbû",
+   "gw": "increase",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "rupuštu",
+   "gw": "phlegm",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "sāgu",
+   "gw": "(a skirt, kilt)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "samīdu",
+   "gw": "(a soapwort)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "sartu",
+   "gw": "falsehood",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "simtu",
+   "gw": "appropriate symbol",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "ṣalmu",
+   "gw": "black",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "ša-waṣpi",
+   "gw": "slinger?",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "šaharrātu",
+   "gw": "leggings",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "šuʾu",
+   "gw": "chick-pea",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "tābīlu",
+   "gw": "powdered herbs",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "tahhaltu",
+   "gw": "sieved? bread",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "talmu",
+   "gw": "big",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "tarkubtu",
+   "gw": "cargo",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "ṭēnu",
+   "gw": "ground",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "urāsu",
+   "gw": "(a foreman)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "walādu",
+   "gw": "give birth (to)",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "ahû",
+   "gw": "outsider",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "armu",
+   "gw": "mountain goat",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "asanītu",
+   "gw": "(an oleiferous plant)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "balālu",
+   "gw": "mix (up)",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "birītu",
+   "gw": "space between",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "danānu",
+   "gw": "be(come) strong",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "elēlu",
+   "gw": "be(come) pure",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "emdu",
+   "gw": "(an aromatic tree)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ereqqu",
+   "gw": "cart",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ešēru",
+   "gw": "go well",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "gerru",
+   "gw": "way",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "harībatu",
+   "gw": "desolate region",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "haṭû",
+   "gw": "do wrong",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "hinhinu",
+   "gw": "(a kind of spice?)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "hulqu",
+   "gw": "lost property",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "huṣannu",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ihzu",
+   "gw": "learning",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ishu",
+   "gw": "allocation",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "kabru",
+   "gw": "thick",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "kalammu",
+   "gw": "(part of a chariot)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "kanku",
+   "gw": "sealed",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "kaṣru",
+   "gw": "tied",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "kisibirrītu",
+   "gw": "coriander",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "labāku",
+   "gw": "be(come) soft",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "labāru",
+   "gw": "be(come) old",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "līdu",
+   "gw": "child",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "mahru",
+   "gw": "front",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "mākaltu",
+   "gw": "wooden dish",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "maqātu",
+   "gw": "fall",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "miṣru",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "mušākilu",
+   "gw": "that lets eat, feeds",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "nādinānu",
+   "gw": "the seller",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "nahlu",
+   "gw": "sieved",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "niggallu",
+   "gw": "sickle",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "niksu",
+   "gw": "cutting (off)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "pappardalû",
+   "gw": "agate?",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "paṣānu",
+   "gw": "cover up",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "perʾu",
+   "gw": "bud",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "pitru",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "pūhu",
+   "gw": "xchange",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "puttû",
+   "gw": "opened",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "qāru",
+   "gw": "(an ornament)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "qebēru",
+   "gw": "bury",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "rapqu",
+   "gw": "hoed",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "rapšu",
+   "gw": "wide",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "reʾû",
+   "gw": "pasture",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "rēhu",
+   "gw": "remaining",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "sariyam",
+   "gw": "(coat of) armour",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "sarru",
+   "gw": "false one",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ša-battāti",
+   "gw": "squared?",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šahāṭu",
+   "gw": "tear away",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "šāhu",
+   "gw": "basin",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šalamtu",
+   "gw": "corpse",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šalimūtu",
+   "gw": "debt, obligation?",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šarbu",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šiāru",
+   "gw": "morning",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šūkulu",
+   "gw": "fed",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "šūlû",
+   "gw": "material brought up",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šūṣû",
+   "gw": "made to leave",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "tabīra",
+   "gw": "coppersmith",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "takpertu",
+   "gw": "purification (ceremony)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "tappinnu",
+   "gw": "(a kind of flour)",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "targumannu",
+   "gw": "interpreter",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "uhhuzu",
+   "gw": "plated with",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "warkītu",
+   "gw": "posterity",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "yû",
+   "gw": "mine",
+   "pos": "PP",
+   "icount": 7
+  },
+  {
+   "cf": "zabālu",
+   "gw": "carry",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "āliku",
+   "gw": "goer",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "allānu",
+   "gw": "oak",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "azamillu",
+   "gw": "sack",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "biršu",
+   "gw": "(a coarse fabric)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "bīt šarrāni",
+   "gw": "house of kings",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "bīt ṭuppāti",
+   "gw": "tablet house",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "buqūmu",
+   "gw": "plucking",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "buqurrû",
+   "gw": "legal claim",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "būšu",
+   "gw": "goods",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "dāmu",
+   "gw": "blood",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ellabbuhhu",
+   "gw": "bladder",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "emmū",
+   "gw": "hot cinders",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ēpiš šipri",
+   "gw": "craftsman",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "hašû",
+   "gw": "crushed",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "hubullu",
+   "gw": "debt",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "hummuru",
+   "gw": "crippled",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "huršu",
+   "gw": "(kitchen) storeroom",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "iṣṣūru",
+   "gw": "bird",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "kalû",
+   "gw": "held (back)",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "kīdu",
+   "gw": "outside",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "kimahhu",
+   "gw": "grave",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "kinūnu",
+   "gw": "brazier",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "kiškanû",
+   "gw": "(a tree)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "kulūlu",
+   "gw": "crown",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "labiānu",
+   "gw": "neck(tendons)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "lamādu",
+   "gw": "learn",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "maggu",
+   "gw": "tight, taut",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "malama",
+   "gw": "once again",
+   "pos": "AV",
+   "icount": 6
+  },
+  {
+   "cf": "māmītu",
+   "gw": "oath",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "massūtu",
+   "gw": "washing",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "mašqītu",
+   "gw": "watering place",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "maššartu",
+   "gw": "deduction",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "mūtu",
+   "gw": "death",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "naglabu",
+   "gw": "razor",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "nakru",
+   "gw": "strange",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "namaddu",
+   "gw": "measurement",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "napāhu",
+   "gw": "blow",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "naṣbatu",
+   "gw": "(a festival)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "nīru",
+   "gw": "yoke",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "nisqu",
+   "gw": "choice one",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "nūnu",
+   "gw": "fish",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "panīma",
+   "gw": "previously",
+   "pos": "AV",
+   "icount": 6
+  },
+  {
+   "cf": "pilku",
+   "gw": "demarcated zone",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "pīru",
+   "gw": "elephant",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "qabû",
+   "gw": "said",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "qištu",
+   "gw": "forest",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "qurrubu",
+   "gw": "brought near",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "rab sasinnī",
+   "gw": "chief bowyer",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "rabû",
+   "gw": "be(come) big",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "ragāmu",
+   "gw": "shout",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "ramāku",
+   "gw": "bathe",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "rēdû",
+   "gw": "soldier",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "sīru",
+   "gw": "proportional",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "siru-ribu",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ṣarāru",
+   "gw": "flash",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "ṣehheru",
+   "gw": "tiny",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "ṣumlalû",
+   "gw": "(a spice plant)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ša-muhhi-ēkalli",
+   "gw": "overseer of the palace",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šadādu",
+   "gw": "drag",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "šahapu",
+   "gw": "wild boar",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šatû",
+   "gw": "drink",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "šerku",
+   "gw": "temple oblate",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šihittu",
+   "gw": "debt clearance?",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šīru",
+   "gw": "meat",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šizbu",
+   "gw": "milk",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šūkultu",
+   "gw": "feeding",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šuršurrātu",
+   "gw": "chain",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "tahāhu",
+   "gw": "pour (over)",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "tarqītu",
+   "gw": "oil-processing",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "tarṣu",
+   "gw": "stretched out",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "turāhu",
+   "gw": "wild goat",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ṭawû",
+   "gw": "spin",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "ūsu",
+   "gw": "goose",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "zakû",
+   "gw": "pure",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "akukia",
+   "gw": "so-and-so-much",
+   "pos": "DP",
+   "icount": 5
+  },
+  {
+   "cf": "āmirānu",
+   "gw": "eye-witness",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "arnu",
+   "gw": "guilt",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "atāʾišu",
+   "gw": "(a plant)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "baqāmu",
+   "gw": "pluck",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "baqāru",
+   "gw": "claim",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "bašālu",
+   "gw": "be(come) cooked",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "bāšû",
+   "gw": "what exists",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "burhiš",
+   "gw": "buffalo",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "elmeltu",
+   "gw": "chick-pea",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "emṣu",
+   "gw": "sour",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "emūqu",
+   "gw": "strength",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "epû",
+   "gw": "bake",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "ēqu",
+   "gw": "(a cult object)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "erṣetu",
+   "gw": "earth",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "hamru",
+   "gw": "holy place (of Adad, Assur)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "huppudu",
+   "gw": "blinded",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "hurhurātu",
+   "gw": "red-dyed wool",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "huṣābu",
+   "gw": "twig",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "hušû",
+   "gw": "(metal) scraps",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "imittu",
+   "gw": "support",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "inbu",
+   "gw": "fruit",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "inūma",
+   "gw": "when",
+   "pos": "SBJ",
+   "icount": 5
+  },
+  {
+   "cf": "ipṭiru",
+   "gw": "ransom (money)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "isinnu",
+   "gw": "festival",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "itti",
+   "gw": "with",
+   "pos": "PRP",
+   "icount": 5
+  },
+  {
+   "cf": "kalāma",
+   "gw": "all (of it)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "karābu",
+   "gw": "pray",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "kibsu",
+   "gw": "track",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "kubarinnu",
+   "gw": "(a vessel)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "kuddilu",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "kudimmu",
+   "gw": "(a herb)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "kukkubu",
+   "gw": "offering vessel",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "laptu",
+   "gw": "touched",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "leʾû",
+   "gw": "be(come) able",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "līṭu",
+   "gw": "hostage",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "lupātu",
+   "gw": "(something) touched or damaged?",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "lušmu",
+   "gw": "(a place of cultic activities)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "malāku",
+   "gw": "discuss",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "malebe",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "malû",
+   "gw": "full",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "mannu",
+   "gw": "who?",
+   "pos": "QP",
+   "icount": 5
+  },
+  {
+   "cf": "maqqû",
+   "gw": "libation (vessel)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "mardatu",
+   "gw": "rug",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "maṣû",
+   "gw": "sufficient",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "mašhalu",
+   "gw": "(type of) sieve",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "mašru",
+   "gw": "teaseled?",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "mati",
+   "gw": "when?",
+   "pos": "QP",
+   "icount": 5
+  },
+  {
+   "cf": "mâtu",
+   "gw": "die",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "minduhru",
+   "gw": "residue",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "mīnû",
+   "gw": "what?",
+   "pos": "QP",
+   "icount": 5
+  },
+  {
+   "cf": "munūtu",
+   "gw": "(ac)count(ing)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "mušṭu",
+   "gw": "comb",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "napālu",
+   "gw": "dig",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "nīšu",
+   "gw": "lifting",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "nišu",
+   "gw": "people",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "nû",
+   "gw": "ours",
+   "pos": "PP",
+   "icount": 5
+  },
+  {
+   "cf": "nurmû",
+   "gw": "pomegranate",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "pānītu",
+   "gw": "earlier (time)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "paqādu",
+   "gw": "entrust",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "parakku",
+   "gw": "cult dais",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "parkullu",
+   "gw": "seal-cutter",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "pasālu",
+   "gw": "turn (away)",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "pišannu",
+   "gw": "box",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "puhru",
+   "gw": "assembly",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "puqqudu",
+   "gw": "entrusted",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "rab halṣāni",
+   "gw": "fortress commander",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "rab nāqidūti",
+   "gw": "chief of the herdsmen",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "rab zāriqī",
+   "gw": "chief of the ushers?",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "rapaštu",
+   "gw": "loin",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "rāṭu",
+   "gw": "water-channel",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "rīqūtu",
+   "gw": "emptiness",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "sadru",
+   "gw": "in order",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "samāhu",
+   "gw": "mix",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "sassu",
+   "gw": "base",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "sebîšu",
+   "gw": "seven times",
+   "pos": "AV",
+   "icount": 5
+  },
+  {
+   "cf": "sīru",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ṣarhu",
+   "gw": "hot",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "ṣēru",
+   "gw": "back",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ṣibtu",
+   "gw": "seizure",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ša-battēn",
+   "gw": "garment of two sides",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šahhu",
+   "gw": "(a wooden object)?",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šahūru",
+   "gw": "cultic summit building",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šalāšiu",
+   "gw": "of third size",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "šallu",
+   "gw": "plundered",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "šamallû",
+   "gw": "purse-bearer",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šaplu",
+   "gw": "low",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "šaptu",
+   "gw": "lip",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šaqû",
+   "gw": "be(come) high",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "šarāpu",
+   "gw": "burn",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "šawiru",
+   "gw": "ring",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šiāšim",
+   "gw": "to her",
+   "pos": "IP",
+   "icount": 5
+  },
+  {
+   "cf": "šillatu",
+   "gw": "impudence",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šumû",
+   "gw": "roast meat",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šurrâtu",
+   "gw": "start",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šussû",
+   "gw": "proclaimed",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "šūšānu",
+   "gw": "horse-trainer",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "takmīsu",
+   "gw": "(a slaughtered sheep)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "tallaktu",
+   "gw": "walkway",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "tarīhu",
+   "gw": "(a vessel)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "terdītu",
+   "gw": "addition",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "tiāmtu",
+   "gw": "sea",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ṭarādu",
+   "gw": "send off",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "uṭṭatu",
+   "gw": "barley",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "warad ēkalli",
+   "gw": "palace slave",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "zību",
+   "gw": "(a material)",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ziqqu",
+   "gw": "wineskin",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "adāru",
+   "gw": "(a tree)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "agarimuru",
+   "gw": "delicacies?",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ahāru",
+   "gw": "be behind",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "ammiu",
+   "gw": "that",
+   "pos": "DP",
+   "icount": 4
+  },
+  {
+   "cf": "amūtu",
+   "gw": "status of a maid",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "anumma",
+   "gw": "now",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "arāru",
+   "gw": "curse",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "arzānu",
+   "gw": "barley-groats",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ašru",
+   "gw": "reviewed",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "attartu",
+   "gw": "(military) cart",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ayyiša",
+   "gw": "whither",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "bappiru",
+   "gw": "beer bread",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "bātiqānu",
+   "gw": "informer",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "berû",
+   "gw": "hungry",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "bulû",
+   "gw": "dry wood",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "būṣu",
+   "gw": "fine linen",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "danānu",
+   "gw": "power",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ēdēnû",
+   "gw": "single, sole, lone",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "eperu",
+   "gw": "earth",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ēpû",
+   "gw": "baker",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "eṣēru",
+   "gw": "draw",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "ešertu",
+   "gw": "repair?",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ešrūti-",
+   "gw": "tenth time",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "gimru",
+   "gw": "totality",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "halīṣu",
+   "gw": "flayed (animal) skin",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "hamāṭu",
+   "gw": "hasten",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "hapaltu",
+   "gw": "(a container)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "haramma",
+   "gw": "later",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "hašhūru",
+   "gw": "(a fruit tree)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "hiāqu",
+   "gw": "mix (up)",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "hīlū",
+   "gw": "labour pains",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "hīlu",
+   "gw": "exudation",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "idu",
+   "gw": "arm",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "iššiakku",
+   "gw": "city-ruler",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kakkabu",
+   "gw": "star",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kaparru",
+   "gw": "shepherd-boy",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kibrītu",
+   "gw": "sulphur",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kīdānu",
+   "gw": "outside",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "kindabašše",
+   "gw": "loincloth",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kišpu",
+   "gw": "sorcery",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kittu",
+   "gw": "steadiness",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kunnu",
+   "gw": "fixed",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "kurmišu",
+   "gw": "(a cereal)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "kūṣu",
+   "gw": "coldness",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "labānu",
+   "gw": "spread",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "liwītu",
+   "gw": "packaging",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mahīrtu",
+   "gw": "market price",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mahrû",
+   "gw": "first",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "mahṣu",
+   "gw": "beaten",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "maškattu",
+   "gw": "depot, account",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "matnu",
+   "gw": "sinew",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mazāʾu",
+   "gw": "press",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "mazzaztu",
+   "gw": "position",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mehru",
+   "gw": "copy",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mehṣu",
+   "gw": "blow",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mēreštu",
+   "gw": "wish",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mersu",
+   "gw": "(a cake)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mesû",
+   "gw": "washed",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "mīltu",
+   "gw": "flood",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "miqtu",
+   "gw": "fall",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "misarru",
+   "gw": "belt",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mūdû",
+   "gw": "knowing",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "mummirtu",
+   "gw": "(female) matchmaker",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "munnabtu",
+   "gw": "runaway",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "muraqqû",
+   "gw": "maker of perfumes",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "nahlu",
+   "gw": "stream",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "naparkû",
+   "gw": "cease",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "naqāru",
+   "gw": "demolish",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "našāqu",
+   "gw": "kiss",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "naṭû",
+   "gw": "hit",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "neqelpû",
+   "gw": "float",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "nīku",
+   "gw": "(sexually) known",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "nīnû",
+   "gw": "(a medicinal plant)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "nupūšu",
+   "gw": "airing",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "pagru",
+   "gw": "body",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "pâgu",
+   "gw": "take away forcibly",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "pahāru",
+   "gw": "gather",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "palāšu",
+   "gw": "perforate",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "papāhu",
+   "gw": "cella",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "parāku",
+   "gw": "lie across",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "parṣu",
+   "gw": "office",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "pēthallu",
+   "gw": "riding horse",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "piqdu",
+   "gw": "allocation",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "pirištu",
+   "gw": "secret",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "qâlu",
+   "gw": "pay attention",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "qannu",
+   "gw": "fringe",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "qarnānû",
+   "gw": "horned",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "qermu",
+   "gw": "(a garment)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "qubtu",
+   "gw": "(a storage)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "qumāšu",
+   "gw": "capital (of a column)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "rab ešerti",
+   "gw": "commander-of-ten",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "rab kiṣri",
+   "gw": "centurion",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "rākibu",
+   "gw": "rider",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "râmu",
+   "gw": "love",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "rasīnū",
+   "gw": "dough lumps",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "sakru",
+   "gw": "refined",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "sāmidu",
+   "gw": "grinder",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "sāmu",
+   "gw": "red",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "sanapu",
+   "gw": "(a plant)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "saplišhu",
+   "gw": "(a meat preparation?)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "saplu",
+   "gw": "bowl",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ṣēlu",
+   "gw": "rib",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ṣippatu",
+   "gw": "(an alloy?)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ṣuhāru",
+   "gw": "boy",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ša-mugerri",
+   "gw": "charioteer",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šallatu",
+   "gw": "plundered thing(s)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šalšūti-",
+   "gw": "third time",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "šapālu",
+   "gw": "be(come) low",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "šaššūgu",
+   "gw": "(a tree)",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šēdu",
+   "gw": "protective deity",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šerru",
+   "gw": "(young) child",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šigaru",
+   "gw": "wooden clamp",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šina",
+   "gw": "two",
+   "pos": "NU",
+   "icount": 4
+  },
+  {
+   "cf": "šû",
+   "gw": "his",
+   "pos": "IP",
+   "icount": 4
+  },
+  {
+   "cf": "šubtu",
+   "gw": "dwelling",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šūbulu",
+   "gw": "sent, delivered",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "šukkul",
+   "gw": "wipe down",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "tabrû",
+   "gw": "fodder",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "tāhāzu",
+   "gw": "battle",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "takbāru",
+   "gw": "fattened sheep",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "tēqītu",
+   "gw": "ointment",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "tibku",
+   "gw": "outpouring, deposit",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "tišûti-",
+   "gw": "ninth time",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "tubbuku",
+   "gw": "poured out",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "ukullû",
+   "gw": "provisions",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ulmu",
+   "gw": "axe",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "urruku",
+   "gw": "very long",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "urû",
+   "gw": "stable",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "wardūtu",
+   "gw": "slavery",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "warkiš",
+   "gw": "later",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "warû",
+   "gw": "lead",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "watāru",
+   "gw": "be(come) outsize",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "wuššuru",
+   "gw": "released",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "zīqu",
+   "gw": "torch",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "zuruqqu",
+   "gw": "shaduf",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "abuhuru",
+   "gw": "(a kind of flour)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "abūsu",
+   "gw": "storehouse, stable",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "agāru",
+   "gw": "hire",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "ahātu",
+   "gw": "bank",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "āhizānu",
+   "gw": "(the) one who marries",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ahuzzatu",
+   "gw": "marriage gift",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "alālu",
+   "gw": "hang up",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "alamittu",
+   "gw": "(a wild species of date palm)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ali",
+   "gw": "where?",
+   "pos": "QP",
+   "icount": 3
+  },
+  {
+   "cf": "ālû",
+   "gw": "citizen, (dependent) villager",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ālu",
+   "gw": "ram",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ammîša",
+   "gw": "there",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "aššūtu",
+   "gw": "marriage",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "atkuppu",
+   "gw": "craftsman making objects of reeds",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ayyalu",
+   "gw": "stag",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "azupīru",
+   "gw": "saffron",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "barīrātu",
+   "gw": "sagapenum?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "batiqtu",
+   "gw": "cut (off)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "battu",
+   "gw": "side",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "battubattu",
+   "gw": "all round, on all sides of",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "billatu",
+   "gw": "mixture",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "birku",
+   "gw": "knee",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "birti",
+   "gw": "between",
+   "pos": "PRP",
+   "icount": 3
+  },
+  {
+   "cf": "bitiqtu",
+   "gw": "damage",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "burallu",
+   "gw": "(a stone object)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "dārû",
+   "gw": "lasting",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "dekû",
+   "gw": "raise",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "ēdēnu",
+   "gw": "alone",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "eli",
+   "gw": "on",
+   "pos": "PRP",
+   "icount": 3
+  },
+  {
+   "cf": "elītu",
+   "gw": "that which is above",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ellān",
+   "gw": "over and above",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "ellu",
+   "gw": "pure",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "ēm",
+   "gw": "whatever",
+   "pos": "XP",
+   "icount": 3
+  },
+  {
+   "cf": "emdu",
+   "gw": "imposed",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "erbû",
+   "gw": "locust",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "gallābu",
+   "gw": "barber",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "guhšû",
+   "gw": "(a reed altar)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "gusānu",
+   "gw": "(a leather sack)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "habiqtu",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "hamīmu",
+   "gw": "(an aromatic plant)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "hāmū",
+   "gw": "chaff",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "harīṣu",
+   "gw": "ditch",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "harpū",
+   "gw": "(early) autumn",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "harsu",
+   "gw": "(meaning unknown)",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "hasāpu",
+   "gw": "tear away",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "hašû",
+   "gw": "thyme?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "herû",
+   "gw": "dig",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "himsātu",
+   "gw": "wrongfull possessions",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "huribtu",
+   "gw": "desert",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "hušahhu",
+   "gw": "need",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "iltu",
+   "gw": "goddess",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "imdu",
+   "gw": "support",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "imtu",
+   "gw": "posion",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "iṣurtu",
+   "gw": "drawing, plan",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "išku",
+   "gw": "testicle",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "itqūru",
+   "gw": "spoon",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kalappu",
+   "gw": "pickaxe",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kallātu",
+   "gw": "daughter-in-law",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kammu",
+   "gw": "board",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kannu",
+   "gw": "(vessel-)stand",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "karpatu",
+   "gw": "pot",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kasāru",
+   "gw": "block",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "kâṣu",
+   "gw": "skin",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "kīsu",
+   "gw": "(a foodstuff)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kišādu",
+   "gw": "neck",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kubbutu",
+   "gw": "very heavy",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "kubšu",
+   "gw": "headcloth",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kukuru",
+   "gw": "(an aromatic tree)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kunūšim",
+   "gw": "to you",
+   "pos": "IP",
+   "icount": 3
+  },
+  {
+   "cf": "kupsu",
+   "gw": "husk",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kūtu",
+   "gw": "jug",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "labāšu",
+   "gw": "clothe oneself",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "larû",
+   "gw": "branch",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "lawû",
+   "gw": "surrounded",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "lulû",
+   "gw": "slag?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "maʾišu",
+   "gw": "(a sheep)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mâdu",
+   "gw": "be(come) many",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "mahlašu",
+   "gw": "(a bronze scraper)?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "maknaktu",
+   "gw": "envelope",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "manû",
+   "gw": "count",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "marru",
+   "gw": "shovel",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "maršu",
+   "gw": "leather strap",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "masdaru",
+   "gw": "duration",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "maškanu",
+   "gw": "place of putting",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mašqaru",
+   "gw": "embroidered?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mihhu",
+   "gw": "(a type of beer)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "murruru",
+   "gw": "made bitter",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "mussipu",
+   "gw": "scoop",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mušarkisu",
+   "gw": "procurement officer",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "muštapšiqtu",
+   "gw": "(woman) having difficulty (in childbirth)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "naʾilu",
+   "gw": "(a watercourse)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nahātu",
+   "gw": "be(come) small",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "nahīru",
+   "gw": "nostril",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nakramu",
+   "gw": "(leather container for liquids)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nārtu",
+   "gw": "ditch, canal",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nāru",
+   "gw": "musician",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "našāru",
+   "gw": "reduce",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "nawru",
+   "gw": "bright",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "nayyālu",
+   "gw": "(person dispossessed of land)?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nignakku",
+   "gw": "censer",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nussuhu",
+   "gw": "uprooted",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "pagūmu",
+   "gw": "(a harness strap)?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pahnu",
+   "gw": "substitute",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "palāsu",
+   "gw": "look at",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "palgu",
+   "gw": "ditch",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "palhu",
+   "gw": "fearful",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "pannigu",
+   "gw": "(a pastry or bread)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "papparhītu",
+   "gw": "(a decoration in the shape of the parparhû plant)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pargānû",
+   "gw": "meadow-grazed",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "pariangu",
+   "gw": "(a weapon)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pāṭu",
+   "gw": "border",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pazāru",
+   "gw": "hide",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "pīgu",
+   "gw": "taken away",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "qattinu",
+   "gw": "(a rural class)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "qatû",
+   "gw": "finish",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "qiāšu",
+   "gw": "give",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "qibītu",
+   "gw": "speech",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "qīptu",
+   "gw": "trust",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "qītu",
+   "gw": "end",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "rab bīti",
+   "gw": "major-domo",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "rab išparī",
+   "gw": "chief weaver",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "rab nappāhī",
+   "gw": "chief of the smiths",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "rabāʾiu",
+   "gw": "of fourth size",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "rabû",
+   "gw": "set",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "rabūti-",
+   "gw": "fourth time",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "rahāṣu",
+   "gw": "flood",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "raṭābu",
+   "gw": "be damp",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "rigmu",
+   "gw": "voice",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "rīmu",
+   "gw": "wild bull",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ripqu",
+   "gw": "riveting",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ruppušu",
+   "gw": "very wide",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "sâku",
+   "gw": "pound",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "sarāqu",
+   "gw": "strew",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "sehpu",
+   "gw": "covering",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "sikiltu",
+   "gw": "acquistion(s)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "sikkūru",
+   "gw": "bolt",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "silʾu",
+   "gw": "sprinkling",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "simmu",
+   "gw": "wound",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "sippu",
+   "gw": "door frame",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "suluppu",
+   "gw": "date",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ṣalʾu",
+   "gw": "thrown down",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "ṣapû",
+   "gw": "soaked",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "ṣarāpu",
+   "gw": "burn",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "ṣarpu",
+   "gw": "burnt",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "ṣehhertu",
+   "gw": "young girl",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ṣullumu",
+   "gw": "turned black",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "ša-billi",
+   "gw": "(meaning unknown)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ša-huṭāri",
+   "gw": "staff-bearer",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ša-šadādi",
+   "gw": "sedan chair",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šaddaqda",
+   "gw": "last year",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "šahāṭu",
+   "gw": "jump",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šakkullu",
+   "gw": "(a wood used for furniture)?",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šalāmu",
+   "gw": "peace",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šanû",
+   "gw": "be(come) changed",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šapīku",
+   "gw": "piling up",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šapiltu",
+   "gw": "lower (part)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šapku",
+   "gw": "poured out",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šappāru",
+   "gw": "(a vessel)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šapû",
+   "gw": "padded",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šarratu",
+   "gw": "queen",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šebû",
+   "gw": "be(come) full",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šerʾānu",
+   "gw": "vein",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šīmu",
+   "gw": "purchased",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šina",
+   "gw": "they",
+   "pos": "IP",
+   "icount": 3
+  },
+  {
+   "cf": "šiqdu",
+   "gw": "almond (tree)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šīqu",
+   "gw": "watering",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šudūšû",
+   "gw": "six-year-old",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šullumu",
+   "gw": "delivered safely",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šumkū",
+   "gw": "onions",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šunūti",
+   "gw": "them",
+   "pos": "IP",
+   "icount": 3
+  },
+  {
+   "cf": "šupšuqu",
+   "gw": "very laborious",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "šurmēnu",
+   "gw": "cypress",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šūšubu",
+   "gw": "settled",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "tahāhu",
+   "gw": "drench",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "tamû",
+   "gw": "sworn",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "tarāṣu",
+   "gw": "stretch out",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "tebû",
+   "gw": "arise",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "terinnu",
+   "gw": "cone (of conifer)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tērubtu",
+   "gw": "entry, entrance",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tisaru",
+   "gw": "(a topog. term)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tuhallu",
+   "gw": "palm-leaf basket",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tumānu",
+   "gw": "wooden beam",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ubbuhu",
+   "gw": "surrounded with",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "uhūlu",
+   "gw": "potash",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ukultu",
+   "gw": "food",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ūla",
+   "gw": "or",
+   "pos": "CNJ",
+   "icount": 3
+  },
+  {
+   "cf": "urru",
+   "gw": "daytime",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ūru",
+   "gw": "roof",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "wadû",
+   "gw": "know",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "yamattu",
+   "gw": "each, any one",
+   "pos": "XP",
+   "icount": 3
+  },
+  {
+   "cf": "zamāru",
+   "gw": "sing",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "zaqāpu",
+   "gw": "fix upright",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "zarû",
+   "gw": "skinned",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "zubullû",
+   "gw": "marriage gift",
+   "pos": "N",
+   "icount": 3
+  }
+ ]
+}

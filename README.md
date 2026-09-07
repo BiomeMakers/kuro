@@ -27,7 +27,35 @@ See `examples/linear_a_quickstart.py`. The corpora themselves are fetched with `
 
 ## What it has been calibrated on
 
-Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocypriot vs Cypriot Greek (word-final syllables), Proto-Elamite (Dahl's numeral systems by object class, the M157 header, the name/commodity partition), Uruk vs Susa (inheritance of the sexagesimal system, adaptation of the capacity system, invention of the decimal), Iberian (Untermann's onomastic formants, the southern S56 and north-eastern -mi isoglosses). Its use on Linear A is reported in the papers under `docs/papers/`.
+Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocypriot vs Cypriot Greek (word-final syllables), Proto-Elamite (Dahl's numeral systems by object class, the M157 header, the name/commodity partition), Uruk vs Susa (inheritance of the sexagesimal system, adaptation of the capacity system, invention of the decimal), Iberian (Untermann's onomastic formants, the southern S56 and north-eastern -mi isoglosses). Its use on Linear A and on four other corpora is reported in the papers under `docs/papers/` (phytonyms, aromatics administration, method, power by corpus size, the form of the Bronze Age receipt, a minimum protocol, plus preliminary Iberian and Etruscan studies).
+
+## Tests
+
+```
+pip install -e ".[test]"
+pytest -q          # 11 tests on synthetic data with known answers
+```
+
+Each test plants a structure (a register difference, a prefix, mutually exclusive blocks, a vocabulary that depends on the hand, a tablet whose total adds up) and checks that the instrument sees it and that the nulls preserve what they must: margins, word lengths, strata.
+
+## Function reference
+
+| function | question it answers |
+|---|---|
+| `profile_distance(A, B)` | do two groups of documents differ in register beyond the sampling floor? |
+| `affix_pairs(vocab, affix, kind)` | does an affix form root/derivative pairs above chance? |
+| `family_positions(strings)` | do particular signs concentrate at the start or end of long strings? |
+| `metacommunity(docs)` | which strings co-occur or exclude each other against a fixed-margin null? |
+| `monopolies(docs, type_of)` | which vocabulary is exclusive to one document type? |
+| `confounder_jaccard(docs, a, b)` | is shared vocabulary explained by factor a or by factor b? |
+| `totals_check(doc)` | do the quantities of a section add up to its total? |
+| `form_screen(vocab, catalogue, match)` | do form matches with an external lexicon exceed shuffled syllables? |
+| `hapax_by_length(docs)` | how does the singleton rate vary with string length? |
+| `doubts(glob)` | where does an expert commentary express doubt? |
+
+## What has been measured with it
+
+Six Bronze Age administrations compared by the functions they put into words (Linear A, Middle Assyrian, Amarna, Ur III, Proto-Elamite, Uruk); the closed class of each; the corpus size at which each instrument begins to see; and, on Linear B where the answers are known, a name-vs-term classifier that beats an explicit rule set (0.77 against 0.63 balanced accuracy) and saves about a third of the review work.
 
 ## Rules of use
 

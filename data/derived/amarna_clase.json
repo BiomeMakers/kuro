@@ -1,0 +1,2623 @@
+{
+ "fuente": "amarna_gloss.json",
+ "lengua": "Amarna",
+ "total_instancias": 29961,
+ "entradas": [
+  {
+   "cf": "u",
+   "gw": "and",
+   "pos": "CNJ",
+   "icount": 2847
+  },
+  {
+   "cf": "ana",
+   "gw": "to",
+   "pos": "PRP",
+   "icount": 2365
+  },
+  {
+   "cf": "šarru",
+   "gw": "king",
+   "pos": "N",
+   "icount": 2228
+  },
+  {
+   "cf": "bēlu",
+   "gw": "lord",
+   "pos": "N",
+   "icount": 1892
+  },
+  {
+   "cf": "wardu",
+   "gw": "slave",
+   "pos": "N",
+   "icount": 556
+  },
+  {
+   "cf": "mātu",
+   "gw": "land",
+   "pos": "N",
+   "icount": 554
+  },
+  {
+   "cf": "ina",
+   "gw": "in",
+   "pos": "PRP",
+   "icount": 539
+  },
+  {
+   "cf": "awīlu",
+   "gw": "man",
+   "pos": "N",
+   "icount": 438
+  },
+  {
+   "cf": "ša",
+   "gw": "of",
+   "pos": "DET",
+   "icount": 418
+  },
+  {
+   "cf": "ša",
+   "gw": "that",
+   "pos": "REL",
+   "icount": 413
+  },
+  {
+   "cf": "ālu",
+   "gw": "city",
+   "pos": "N",
+   "icount": 407
+  },
+  {
+   "cf": "lā",
+   "gw": "not",
+   "pos": "MOD",
+   "icount": 390
+  },
+  {
+   "cf": "ištu",
+   "gw": "from",
+   "pos": "PRP",
+   "icount": 383
+  },
+  {
+   "cf": "qabû",
+   "gw": "say",
+   "pos": "V",
+   "icount": 381
+  },
+  {
+   "cf": "šēpu",
+   "gw": "foot",
+   "pos": "N",
+   "icount": 353
+  },
+  {
+   "cf": "sebîšu",
+   "gw": "seven times",
+   "pos": "AV",
+   "icount": 328
+  },
+  {
+   "cf": "ṣābu",
+   "gw": "people",
+   "pos": "N",
+   "icount": 326
+  },
+  {
+   "cf": "inūma",
+   "gw": "when",
+   "pos": "SBJ",
+   "icount": 289
+  },
+  {
+   "cf": "ilu",
+   "gw": "god",
+   "pos": "N",
+   "icount": 275
+  },
+  {
+   "cf": "anāku",
+   "gw": "I",
+   "pos": "IP",
+   "icount": 269
+  },
+  {
+   "cf": "anumma",
+   "gw": "now",
+   "pos": "AV",
+   "icount": 268
+  },
+  {
+   "cf": "umma",
+   "gw": "saying",
+   "pos": "PRP",
+   "icount": 258
+  },
+  {
+   "cf": "wašāru",
+   "gw": "sink down",
+   "pos": "V",
+   "icount": 257
+  },
+  {
+   "cf": "pānu",
+   "gw": "front",
+   "pos": "N",
+   "icount": 252
+  },
+  {
+   "cf": "šemû",
+   "gw": "hear",
+   "pos": "V",
+   "icount": 245
+  },
+  {
+   "cf": "nadānu",
+   "gw": "give",
+   "pos": "V",
+   "icount": 238
+  },
+  {
+   "cf": "awātu",
+   "gw": "word",
+   "pos": "N",
+   "icount": 235
+  },
+  {
+   "cf": "maqātu",
+   "gw": "fall",
+   "pos": "V",
+   "icount": 229
+  },
+  {
+   "cf": "epēšu",
+   "gw": "do",
+   "pos": "V",
+   "icount": 225
+  },
+  {
+   "cf": "yâšim",
+   "gw": "to me",
+   "pos": "IP",
+   "icount": 219
+  },
+  {
+   "cf": "leqû",
+   "gw": "take",
+   "pos": "V",
+   "icount": 213
+  },
+  {
+   "cf": "māru",
+   "gw": "son",
+   "pos": "N",
+   "icount": 205
+  },
+  {
+   "cf": "naṣāru",
+   "gw": "guard",
+   "pos": "V",
+   "icount": 203
+  },
+  {
+   "cf": "amāru",
+   "gw": "see",
+   "pos": "V",
+   "icount": 192
+  },
+  {
+   "cf": "šamû",
+   "gw": "heaven",
+   "pos": "N",
+   "icount": 191
+  },
+  {
+   "cf": "itti",
+   "gw": "with",
+   "pos": "PRP",
+   "icount": 187
+  },
+  {
+   "cf": "šapāru",
+   "gw": "send",
+   "pos": "V",
+   "icount": 186
+  },
+  {
+   "cf": "gabbu",
+   "gw": "totality",
+   "pos": "N",
+   "icount": 184
+  },
+  {
+   "cf": "edû",
+   "gw": "know",
+   "pos": "V",
+   "icount": 183
+  },
+  {
+   "cf": "eli",
+   "gw": "on",
+   "pos": "PRP",
+   "icount": 169
+  },
+  {
+   "cf": "piṭṭātu",
+   "gw": "archers",
+   "pos": "N",
+   "icount": 169
+  },
+  {
+   "cf": "šumma",
+   "gw": "if",
+   "pos": "MOD",
+   "icount": 168
+  },
+  {
+   "cf": "šanītu",
+   "gw": "something other",
+   "pos": "N",
+   "icount": 164
+  },
+  {
+   "cf": "kīma",
+   "gw": "like",
+   "pos": "PRP",
+   "icount": 152
+  },
+  {
+   "cf": "yānu",
+   "gw": "(there) is not",
+   "pos": "V",
+   "icount": 151
+  },
+  {
+   "cf": "lū",
+   "gw": "let it be",
+   "pos": "MOD",
+   "icount": 146
+  },
+  {
+   "cf": "habiru",
+   "gw": "(class of) vagrant",
+   "pos": "N",
+   "icount": 131
+  },
+  {
+   "cf": "kittu",
+   "gw": "steadiness",
+   "pos": "N",
+   "icount": 130
+  },
+  {
+   "cf": "nukurtu",
+   "gw": "enmity",
+   "pos": "N",
+   "icount": 121
+  },
+  {
+   "cf": "libbu",
+   "gw": "interior",
+   "pos": "N",
+   "icount": 116
+  },
+  {
+   "cf": "muhhu",
+   "gw": "skull",
+   "pos": "N",
+   "icount": 116
+  },
+  {
+   "cf": "alāku",
+   "gw": "go",
+   "pos": "V",
+   "icount": 114
+  },
+  {
+   "cf": "ul",
+   "gw": "not",
+   "pos": "MOD",
+   "icount": 114
+  },
+  {
+   "cf": "adi",
+   "gw": "until",
+   "pos": "PRP",
+   "icount": 112
+  },
+  {
+   "cf": "annû",
+   "gw": "this",
+   "pos": "DP",
+   "icount": 112
+  },
+  {
+   "cf": "rābiṣu",
+   "gw": "bailiff",
+   "pos": "N",
+   "icount": 112
+  },
+  {
+   "cf": "magal",
+   "gw": "very (much)",
+   "pos": "AV",
+   "icount": 108
+  },
+  {
+   "cf": "abu",
+   "gw": "father",
+   "pos": "N",
+   "icount": 105
+  },
+  {
+   "cf": "inanna",
+   "gw": "now",
+   "pos": "AV",
+   "icount": 105
+  },
+  {
+   "cf": "waṣû",
+   "gw": "go out",
+   "pos": "V",
+   "icount": 105
+  },
+  {
+   "cf": "mīnu",
+   "gw": "what?",
+   "pos": "QP",
+   "icount": 104
+  },
+  {
+   "cf": "qātu",
+   "gw": "hand",
+   "pos": "N",
+   "icount": 101
+  },
+  {
+   "cf": "eperu",
+   "gw": "earth",
+   "pos": "N",
+   "icount": 93
+  },
+  {
+   "cf": "dannu",
+   "gw": "strong",
+   "pos": "AJ",
+   "icount": 87
+  },
+  {
+   "cf": "qadu",
+   "gw": "together with",
+   "pos": "PRP",
+   "icount": 84
+  },
+  {
+   "cf": "erēbu",
+   "gw": "enter",
+   "pos": "V",
+   "icount": 82
+  },
+  {
+   "cf": "hazannu",
+   "gw": "mayor",
+   "pos": "N",
+   "icount": 81
+  },
+  {
+   "cf": "bašû",
+   "gw": "be(come) at hand",
+   "pos": "V",
+   "icount": 79
+  },
+  {
+   "cf": "šâšu",
+   "gw": "(to/of) him",
+   "pos": "IP",
+   "icount": 76
+  },
+  {
+   "cf": "kalû",
+   "gw": "all",
+   "pos": "N",
+   "icount": 74
+  },
+  {
+   "cf": "leqû",
+   "gw": "taken",
+   "pos": "AJ",
+   "icount": 71
+  },
+  {
+   "cf": "šipru",
+   "gw": "sending",
+   "pos": "N",
+   "icount": 71
+  },
+  {
+   "cf": "kašādu",
+   "gw": "reach",
+   "pos": "V",
+   "icount": 70
+  },
+  {
+   "cf": "mimma",
+   "gw": "anything",
+   "pos": "XP",
+   "icount": 68
+  },
+  {
+   "cf": "narkabtu",
+   "gw": "chariot",
+   "pos": "N",
+   "icount": 66
+  },
+  {
+   "cf": "mār šipri",
+   "gw": "messenger",
+   "pos": "N",
+   "icount": 65
+  },
+  {
+   "cf": "rabû",
+   "gw": "big",
+   "pos": "AJ",
+   "icount": 64
+  },
+  {
+   "cf": "maṣṣartu",
+   "gw": "observation",
+   "pos": "N",
+   "icount": 63
+  },
+  {
+   "cf": "ṣabātu",
+   "gw": "seize",
+   "pos": "V",
+   "icount": 62
+  },
+  {
+   "cf": "sisû",
+   "gw": "horse",
+   "pos": "N",
+   "icount": 61
+  },
+  {
+   "cf": "šâlu",
+   "gw": "ask",
+   "pos": "V",
+   "icount": 60
+  },
+  {
+   "cf": "nadnu",
+   "gw": "given",
+   "pos": "AJ",
+   "icount": 58
+  },
+  {
+   "cf": "allû",
+   "gw": "certainly",
+   "pos": "AV",
+   "icount": 57
+  },
+  {
+   "cf": "kīam",
+   "gw": "so",
+   "pos": "AV",
+   "icount": 56
+  },
+  {
+   "cf": "šamšu",
+   "gw": "sun",
+   "pos": "N",
+   "icount": 56
+  },
+  {
+   "cf": "bītu",
+   "gw": "house",
+   "pos": "N",
+   "icount": 55
+  },
+  {
+   "cf": "buʾʾû",
+   "gw": "look for",
+   "pos": "V",
+   "icount": 55
+  },
+  {
+   "cf": "kīnanna",
+   "gw": "so",
+   "pos": "AV",
+   "icount": 53
+  },
+  {
+   "cf": "lamādu",
+   "gw": "learn",
+   "pos": "V",
+   "icount": 53
+  },
+  {
+   "cf": "arnu",
+   "gw": "guilt",
+   "pos": "N",
+   "icount": 52
+  },
+  {
+   "cf": "ašru",
+   "gw": "place",
+   "pos": "N",
+   "icount": 52
+  },
+  {
+   "cf": "aššu",
+   "gw": "because (of)",
+   "pos": "PRP",
+   "icount": 51
+  },
+  {
+   "cf": "leʾû",
+   "gw": "be(come) able",
+   "pos": "V",
+   "icount": 51
+  },
+  {
+   "cf": "šapru",
+   "gw": "sent",
+   "pos": "AJ",
+   "icount": 51
+  },
+  {
+   "cf": "ahu",
+   "gw": "brother",
+   "pos": "N",
+   "icount": 50
+  },
+  {
+   "cf": "kalbu",
+   "gw": "dog",
+   "pos": "N",
+   "icount": 50
+  },
+  {
+   "cf": "ūmu",
+   "gw": "day",
+   "pos": "N",
+   "icount": 50
+  },
+  {
+   "cf": "attā",
+   "gw": "you",
+   "pos": "IP",
+   "icount": 49
+  },
+  {
+   "cf": "balāṭu",
+   "gw": "life",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "balāṭu",
+   "gw": "live",
+   "pos": "V",
+   "icount": 49
+  },
+  {
+   "cf": "ṭuppu",
+   "gw": "(clay) tablet",
+   "pos": "N",
+   "icount": 49
+  },
+  {
+   "cf": "annû",
+   "gw": "look!",
+   "pos": "J",
+   "icount": 48
+  },
+  {
+   "cf": "ipšu",
+   "gw": "deed",
+   "pos": "N",
+   "icount": 48
+  },
+  {
+   "cf": "ū",
+   "gw": "or",
+   "pos": "CNJ",
+   "icount": 48
+  },
+  {
+   "cf": "wabālu",
+   "gw": "carry",
+   "pos": "V",
+   "icount": 48
+  },
+  {
+   "cf": "šâšunu",
+   "gw": "(to/of) them",
+   "pos": "IP",
+   "icount": 47
+  },
+  {
+   "cf": "kī",
+   "gw": "like",
+   "pos": "PRP",
+   "icount": 45
+  },
+  {
+   "cf": "târu",
+   "gw": "turn",
+   "pos": "V",
+   "icount": 45
+  },
+  {
+   "cf": "wuššuru",
+   "gw": "exempt",
+   "pos": "AJ",
+   "icount": 45
+  },
+  {
+   "cf": "eleppu",
+   "gw": "ship",
+   "pos": "N",
+   "icount": 44
+  },
+  {
+   "cf": "malāku",
+   "gw": "discuss",
+   "pos": "V",
+   "icount": 44
+  },
+  {
+   "cf": "ezēbu",
+   "gw": "leave",
+   "pos": "V",
+   "icount": 42
+  },
+  {
+   "cf": "mahru",
+   "gw": "front",
+   "pos": "N",
+   "icount": 42
+  },
+  {
+   "cf": "rabû",
+   "gw": "big one",
+   "pos": "N",
+   "icount": 41
+  },
+  {
+   "cf": "šulmu",
+   "gw": "completeness",
+   "pos": "N",
+   "icount": 41
+  },
+  {
+   "cf": "šūt",
+   "gw": "he",
+   "pos": "IP",
+   "icount": 41
+  },
+  {
+   "cf": "wašbu",
+   "gw": "inhabited",
+   "pos": "AJ",
+   "icount": 41
+  },
+  {
+   "cf": "ēkallu",
+   "gw": "palace",
+   "pos": "N",
+   "icount": 40
+  },
+  {
+   "cf": "izuzzu",
+   "gw": "stand",
+   "pos": "V",
+   "icount": 40
+  },
+  {
+   "cf": "paṭāru",
+   "gw": "loosen",
+   "pos": "V",
+   "icount": 40
+  },
+  {
+   "cf": "ešēru",
+   "gw": "be(come) well",
+   "pos": "V",
+   "icount": 39
+  },
+  {
+   "cf": "mimmû",
+   "gw": "all",
+   "pos": "N",
+   "icount": 39
+  },
+  {
+   "cf": "arādu",
+   "gw": "serve",
+   "pos": "V",
+   "icount": 38
+  },
+  {
+   "cf": "kâti",
+   "gw": "you",
+   "pos": "IP",
+   "icount": 38
+  },
+  {
+   "cf": "šaknu",
+   "gw": "placed",
+   "pos": "AJ",
+   "icount": 38
+  },
+  {
+   "cf": "dunnu",
+   "gw": "power",
+   "pos": "N",
+   "icount": 37
+  },
+  {
+   "cf": "kaspu",
+   "gw": "silver",
+   "pos": "N",
+   "icount": 36
+  },
+  {
+   "cf": "ṣēru",
+   "gw": "back",
+   "pos": "N",
+   "icount": 36
+  },
+  {
+   "cf": "šunu",
+   "gw": "they",
+   "pos": "IP",
+   "icount": 36
+  },
+  {
+   "cf": "damqu",
+   "gw": "good",
+   "pos": "AJ",
+   "icount": 35
+  },
+  {
+   "cf": "pānānu",
+   "gw": "previously",
+   "pos": "AV",
+   "icount": 35
+  },
+  {
+   "cf": "pû",
+   "gw": "mouth",
+   "pos": "N",
+   "icount": 35
+  },
+  {
+   "cf": "ana mīni",
+   "gw": "why?",
+   "pos": "QP",
+   "icount": 34
+  },
+  {
+   "cf": "dārītu",
+   "gw": "perpetuity",
+   "pos": "N",
+   "icount": 34
+  },
+  {
+   "cf": "qabû",
+   "gw": "said",
+   "pos": "AJ",
+   "icount": 34
+  },
+  {
+   "cf": "qālu",
+   "gw": "attentive",
+   "pos": "AJ",
+   "icount": 34
+  },
+  {
+   "cf": "šukênu",
+   "gw": "prostrate oneself",
+   "pos": "V",
+   "icount": 34
+  },
+  {
+   "cf": "meʾatu",
+   "gw": "(one) hundred",
+   "pos": "NU",
+   "icount": 33
+  },
+  {
+   "cf": "palhu",
+   "gw": "fearful",
+   "pos": "AJ",
+   "icount": 33
+  },
+  {
+   "cf": "šattu",
+   "gw": "year",
+   "pos": "N",
+   "icount": 33
+  },
+  {
+   "cf": "kabattu",
+   "gw": "liver",
+   "pos": "N",
+   "icount": 32
+  },
+  {
+   "cf": "šāru",
+   "gw": "wind",
+   "pos": "N",
+   "icount": 32
+  },
+  {
+   "cf": "dagālu",
+   "gw": "see",
+   "pos": "V",
+   "icount": 31
+  },
+  {
+   "cf": "dīku",
+   "gw": "killed",
+   "pos": "AJ",
+   "icount": 31
+  },
+  {
+   "cf": "harrānu",
+   "gw": "way",
+   "pos": "N",
+   "icount": 31
+  },
+  {
+   "cf": "arhiš",
+   "gw": "quickly",
+   "pos": "AV",
+   "icount": 29
+  },
+  {
+   "cf": "išātu",
+   "gw": "fire",
+   "pos": "N",
+   "icount": 29
+  },
+  {
+   "cf": "epšu",
+   "gw": "made",
+   "pos": "AJ",
+   "icount": 28
+  },
+  {
+   "cf": "mūšu",
+   "gw": "night",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "ṣabtu",
+   "gw": "captured",
+   "pos": "AJ",
+   "icount": 28
+  },
+  {
+   "cf": "šeʾu",
+   "gw": "barley",
+   "pos": "N",
+   "icount": 28
+  },
+  {
+   "cf": "mādu",
+   "gw": "many",
+   "pos": "AJ",
+   "icount": 27
+  },
+  {
+   "cf": "paṭru",
+   "gw": "released",
+   "pos": "AJ",
+   "icount": 27
+  },
+  {
+   "cf": "amtu",
+   "gw": "maid",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "kašdu",
+   "gw": "achieved",
+   "pos": "AJ",
+   "icount": 26
+  },
+  {
+   "cf": "namāšu",
+   "gw": "set (oneself) in motion",
+   "pos": "V",
+   "icount": 26
+  },
+  {
+   "cf": "šupālu",
+   "gw": "depression",
+   "pos": "N",
+   "icount": 26
+  },
+  {
+   "cf": "nīnu",
+   "gw": "we",
+   "pos": "IP",
+   "icount": 24
+  },
+  {
+   "cf": "šakānu",
+   "gw": "put",
+   "pos": "V",
+   "icount": 24
+  },
+  {
+   "cf": "ammīni",
+   "gw": "why?",
+   "pos": "AV",
+   "icount": 23
+  },
+  {
+   "cf": "mimma ša",
+   "gw": "whatever",
+   "pos": "XP",
+   "icount": 23
+  },
+  {
+   "cf": "qâlu",
+   "gw": "pay attention",
+   "pos": "V",
+   "icount": 23
+  },
+  {
+   "cf": "dâku",
+   "gw": "kill",
+   "pos": "V",
+   "icount": 22
+  },
+  {
+   "cf": "šanû",
+   "gw": "(an)other",
+   "pos": "AJ",
+   "icount": 22
+  },
+  {
+   "cf": "kīmê",
+   "gw": "like",
+   "pos": "PRP",
+   "icount": 21
+  },
+  {
+   "cf": "mannu",
+   "gw": "who?",
+   "pos": "QP",
+   "icount": 21
+  },
+  {
+   "cf": "akālu",
+   "gw": "eat",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "halqu",
+   "gw": "lost",
+   "pos": "AJ",
+   "icount": 20
+  },
+  {
+   "cf": "mâtu",
+   "gw": "die",
+   "pos": "V",
+   "icount": 20
+  },
+  {
+   "cf": "gamru",
+   "gw": "complete",
+   "pos": "AJ",
+   "icount": 19
+  },
+  {
+   "cf": "mû",
+   "gw": "water",
+   "pos": "N",
+   "icount": 19
+  },
+  {
+   "cf": "šalmu",
+   "gw": "intact",
+   "pos": "AJ",
+   "icount": 19
+  },
+  {
+   "cf": "akalu",
+   "gw": "bread",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "elû",
+   "gw": "go up",
+   "pos": "V",
+   "icount": 18
+  },
+  {
+   "cf": "iṣu",
+   "gw": "tree",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "ištēn",
+   "gw": "one",
+   "pos": "NU",
+   "icount": 18
+  },
+  {
+   "cf": "napištu",
+   "gw": "throat",
+   "pos": "N",
+   "icount": 18
+  },
+  {
+   "cf": "râmu",
+   "gw": "love",
+   "pos": "V",
+   "icount": 18
+  },
+  {
+   "cf": "balṭu",
+   "gw": "living",
+   "pos": "AJ",
+   "icount": 17
+  },
+  {
+   "cf": "banû",
+   "gw": "good",
+   "pos": "AJ",
+   "icount": 17
+  },
+  {
+   "cf": "ištu pāni",
+   "gw": "because of",
+   "pos": "PRP",
+   "icount": 17
+  },
+  {
+   "cf": "nakru",
+   "gw": "strange",
+   "pos": "AJ",
+   "icount": 17
+  },
+  {
+   "cf": "naṣru",
+   "gw": "guarded",
+   "pos": "AJ",
+   "icount": 17
+  },
+  {
+   "cf": "tillatu",
+   "gw": "help",
+   "pos": "N",
+   "icount": 17
+  },
+  {
+   "cf": "waṣû",
+   "gw": "gone out",
+   "pos": "AJ",
+   "icount": 16
+  },
+  {
+   "cf": "mītu",
+   "gw": "dead",
+   "pos": "AJ",
+   "icount": 15
+  },
+  {
+   "cf": "riāhu",
+   "gw": "remain",
+   "pos": "V",
+   "icount": 15
+  },
+  {
+   "cf": "šāru",
+   "gw": "hostile one",
+   "pos": "N",
+   "icount": 15
+  },
+  {
+   "cf": "šūšuru",
+   "gw": "in order",
+   "pos": "AJ",
+   "icount": 15
+  },
+  {
+   "cf": "abullu",
+   "gw": "gate (of city or large building)",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "awīl arni",
+   "gw": "evil-doer",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "biri",
+   "gw": "among",
+   "pos": "PRP",
+   "icount": 14
+  },
+  {
+   "cf": "halāqu",
+   "gw": "be(come) lost",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "hurāṣu",
+   "gw": "gold",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "kabāsu",
+   "gw": "tread",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "kartappu",
+   "gw": "(animal) driver",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "marṣu",
+   "gw": "sick",
+   "pos": "AJ",
+   "icount": 14
+  },
+  {
+   "cf": "pānī nadānu",
+   "gw": "turn",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "pānī nadnu",
+   "gw": "turn",
+   "pos": "V",
+   "icount": 14
+  },
+  {
+   "cf": "qaqqadu",
+   "gw": "head",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "tāpalu",
+   "gw": "pair (of objects)",
+   "pos": "N",
+   "icount": 14
+  },
+  {
+   "cf": "alpu",
+   "gw": "bull",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "ana qāti",
+   "gw": "more than",
+   "pos": "PRP",
+   "icount": 13
+  },
+  {
+   "cf": "aššatu",
+   "gw": "wife",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "bēltu",
+   "gw": "lady",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "īnu",
+   "gw": "eye",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "mārtu",
+   "gw": "daughter",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "paqādu",
+   "gw": "entrust",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "šamnu",
+   "gw": "oil",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "šanû",
+   "gw": "do twice",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "šāru",
+   "gw": "hostile",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "šumu",
+   "gw": "name",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "tamhāru",
+   "gw": "battle",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "ṭābu",
+   "gw": "good",
+   "pos": "AJ",
+   "icount": 13
+  },
+  {
+   "cf": "urru",
+   "gw": "daytime",
+   "pos": "N",
+   "icount": 13
+  },
+  {
+   "cf": "wašābu",
+   "gw": "sit (down)",
+   "pos": "V",
+   "icount": 13
+  },
+  {
+   "cf": "alku",
+   "gw": "gone",
+   "pos": "AJ",
+   "icount": 12
+  },
+  {
+   "cf": "appūna",
+   "gw": "moreover",
+   "pos": "AV",
+   "icount": 12
+  },
+  {
+   "cf": "ayyābu",
+   "gw": "enemy",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "ēdēnu",
+   "gw": "alone",
+   "pos": "AV",
+   "icount": 12
+  },
+  {
+   "cf": "erištu",
+   "gw": "demand",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "hamutta",
+   "gw": "at once",
+   "pos": "AV",
+   "icount": 12
+  },
+  {
+   "cf": "hupšu",
+   "gw": "(member of) lower class",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "mahṣu",
+   "gw": "beaten",
+   "pos": "AJ",
+   "icount": 12
+  },
+  {
+   "cf": "maqtu",
+   "gw": "fallen",
+   "pos": "AJ",
+   "icount": 12
+  },
+  {
+   "cf": "weʾu",
+   "gw": "(a military officer)",
+   "pos": "N",
+   "icount": 12
+  },
+  {
+   "cf": "ana šupāli",
+   "gw": "beneath",
+   "pos": "PRP",
+   "icount": 11
+  },
+  {
+   "cf": "daglu",
+   "gw": "seen",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "ištu šupāli",
+   "gw": "beneath",
+   "pos": "PRP",
+   "icount": 11
+  },
+  {
+   "cf": "lumnu",
+   "gw": "evil",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "mahāṣu",
+   "gw": "beat",
+   "pos": "V",
+   "icount": 11
+  },
+  {
+   "cf": "nakru",
+   "gw": "strange one",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "pašhu",
+   "gw": "resting",
+   "pos": "AJ",
+   "icount": 11
+  },
+  {
+   "cf": "ramānu",
+   "gw": "self",
+   "pos": "RP",
+   "icount": 11
+  },
+  {
+   "cf": "šalmu",
+   "gw": "peace",
+   "pos": "N",
+   "icount": 11
+  },
+  {
+   "cf": "tarāṣu",
+   "gw": "be(come) in order",
+   "pos": "V",
+   "icount": 11
+  },
+  {
+   "cf": "warki",
+   "gw": "after",
+   "pos": "PRP",
+   "icount": 11
+  },
+  {
+   "cf": "yâti",
+   "gw": "me",
+   "pos": "IP",
+   "icount": 11
+  },
+  {
+   "cf": "balu",
+   "gw": "without",
+   "pos": "PRP",
+   "icount": 10
+  },
+  {
+   "cf": "banû",
+   "gw": "create",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "bāštu",
+   "gw": "dignity",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "danniš",
+   "gw": "very",
+   "pos": "AV",
+   "icount": 10
+  },
+  {
+   "cf": "erṣetu",
+   "gw": "earth",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "hadû",
+   "gw": "joyful",
+   "pos": "AJ",
+   "icount": 10
+  },
+  {
+   "cf": "mila",
+   "gw": "times",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "palāhu",
+   "gw": "fear",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "pāna amāru",
+   "gw": "show reverence to",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "ṣehru",
+   "gw": "small",
+   "pos": "AJ",
+   "icount": 10
+  },
+  {
+   "cf": "šahāṭu",
+   "gw": "jump (on)",
+   "pos": "V",
+   "icount": 10
+  },
+  {
+   "cf": "unūtu",
+   "gw": "tools",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "wardūtu",
+   "gw": "slavery",
+   "pos": "N",
+   "icount": 10
+  },
+  {
+   "cf": "yâšinu",
+   "gw": "to us",
+   "pos": "IP",
+   "icount": 10
+  },
+  {
+   "cf": "dīnu",
+   "gw": "legal decision",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "erēšu",
+   "gw": "request",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "imēru",
+   "gw": "donkey",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "iṣṣūru",
+   "gw": "bird",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "līm",
+   "gw": "thousand",
+   "pos": "NU",
+   "icount": 9
+  },
+  {
+   "cf": "mišu",
+   "gw": "army",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "mutu",
+   "gw": "husband",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "qaqqaru",
+   "gw": "ground",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "sakānu",
+   "gw": "see to",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "šalālu",
+   "gw": "carry off",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "šarāpu",
+   "gw": "burn",
+   "pos": "V",
+   "icount": 9
+  },
+  {
+   "cf": "šēhu",
+   "gw": "wind",
+   "pos": "N",
+   "icount": 9
+  },
+  {
+   "cf": "abātu",
+   "gw": "run away",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "awīl šēpi",
+   "gw": "footsoldier",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "duppuru",
+   "gw": "move away",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "ekēmu",
+   "gw": "take away",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "enzu",
+   "gw": "goat",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "hamāṭu",
+   "gw": "hasten",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "kalû",
+   "gw": "hold (back)",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "karṣu",
+   "gw": "slander",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "kišūma",
+   "gw": "so",
+   "pos": "AV",
+   "icount": 8
+  },
+  {
+   "cf": "mannu",
+   "gw": "what?",
+   "pos": "QP",
+   "icount": 8
+  },
+  {
+   "cf": "pahru",
+   "gw": "gathered",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "pašāhu",
+   "gw": "cool down",
+   "pos": "V",
+   "icount": 8
+  },
+  {
+   "cf": "sarru",
+   "gw": "false",
+   "pos": "AJ",
+   "icount": 8
+  },
+  {
+   "cf": "šadû",
+   "gw": "mountain(s)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "šēnu",
+   "gw": "sandal(s)",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "warhu",
+   "gw": "moon",
+   "pos": "N",
+   "icount": 8
+  },
+  {
+   "cf": "ašrānu",
+   "gw": "there",
+   "pos": "AV",
+   "icount": 7
+  },
+  {
+   "cf": "ayyāmi",
+   "gw": "where?",
+   "pos": "AV",
+   "icount": 7
+  },
+  {
+   "cf": "erēšu",
+   "gw": "sow",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "huhāru",
+   "gw": "bird-snare",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "ina šulmi",
+   "gw": "safely",
+   "pos": "AV",
+   "icount": 7
+  },
+  {
+   "cf": "kâšim",
+   "gw": "to you",
+   "pos": "IP",
+   "icount": 7
+  },
+  {
+   "cf": "kīma ša",
+   "gw": "just as",
+   "pos": "SBJ",
+   "icount": 7
+  },
+  {
+   "cf": "magāru",
+   "gw": "consent",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "maṣṣaru",
+   "gw": "guard",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "mīnummê",
+   "gw": "all (of)",
+   "pos": "XP",
+   "icount": 7
+  },
+  {
+   "cf": "pahāru",
+   "gw": "gather",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "parāsu",
+   "gw": "cut (off)",
+   "pos": "V",
+   "icount": 7
+  },
+  {
+   "cf": "šipirtu",
+   "gw": "message",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "šūrubu",
+   "gw": "brought in",
+   "pos": "AJ",
+   "icount": 7
+  },
+  {
+   "cf": "upru",
+   "gw": "dust",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "werû",
+   "gw": "copper",
+   "pos": "N",
+   "icount": 7
+  },
+  {
+   "cf": "annaka",
+   "gw": "here",
+   "pos": "AV",
+   "icount": 6
+  },
+  {
+   "cf": "annuš",
+   "gw": "look!",
+   "pos": "J",
+   "icount": 6
+  },
+  {
+   "cf": "biltu",
+   "gw": "load",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "dabābu",
+   "gw": "speak",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "eqlu",
+   "gw": "field",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "gištappu",
+   "gw": "footstool",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ipṭiru",
+   "gw": "ransom (money)",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "karāšu",
+   "gw": "military camp",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "māni",
+   "gw": "how much, many?",
+   "pos": "AV",
+   "icount": 6
+  },
+  {
+   "cf": "mati",
+   "gw": "when?",
+   "pos": "AV",
+   "icount": 6
+  },
+  {
+   "cf": "mekû",
+   "gw": "neglect",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "mūtānu",
+   "gw": "epidemic",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "naʾarruru",
+   "gw": "go to assist",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "nakāru",
+   "gw": "be(come) different",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "nawru",
+   "gw": "bright",
+   "pos": "AJ",
+   "icount": 6
+  },
+  {
+   "cf": "pāna dagālu",
+   "gw": "have an audience",
+   "pos": "V",
+   "icount": 6
+  },
+  {
+   "cf": "šaplu",
+   "gw": "underside",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "šikaru",
+   "gw": "beer",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "ṭīdu",
+   "gw": "clay",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "warkû",
+   "gw": "rear one",
+   "pos": "N",
+   "icount": 6
+  },
+  {
+   "cf": "adi ašar",
+   "gw": "wherever",
+   "pos": "SBJ",
+   "icount": 5
+  },
+  {
+   "cf": "apālu",
+   "gw": "pay",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "assurri",
+   "gw": "heaven forbid that ...",
+   "pos": "MOD",
+   "icount": 5
+  },
+  {
+   "cf": "awīl šipri",
+   "gw": "messenger",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "awīlūtu",
+   "gw": "humanity",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ayyabba",
+   "gw": "the sea",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "ehlipakku",
+   "gw": "raw glass",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "erbu",
+   "gw": "(sun)set",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "hadû",
+   "gw": "be(come) joyful",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "ina išāti wuššuru",
+   "gw": "set on fire",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "īnī amāru",
+   "gw": "visit in person",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "karṣa akālu",
+   "gw": "slander",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "kiṣru",
+   "gw": "knot",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "kussû",
+   "gw": "chair",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "lemēnu",
+   "gw": "be(come) bad",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "mahrû",
+   "gw": "first one",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "marāru",
+   "gw": "go away",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "mišlu",
+   "gw": "half",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "murṣu",
+   "gw": "illness",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "patru",
+   "gw": "sword",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "sahāru",
+   "gw": "go around",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "siparru",
+   "gw": "bronze",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šāqītu",
+   "gw": "female cup-bearer",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šitû",
+   "gw": "drinking",
+   "pos": "N",
+   "icount": 5
+  },
+  {
+   "cf": "šuāti",
+   "gw": "him",
+   "pos": "IP",
+   "icount": 5
+  },
+  {
+   "cf": "tamû",
+   "gw": "swear",
+   "pos": "V",
+   "icount": 5
+  },
+  {
+   "cf": "tīru",
+   "gw": "turned",
+   "pos": "AJ",
+   "icount": 5
+  },
+  {
+   "cf": "ana pāni alku",
+   "gw": "lead",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "annikīam",
+   "gw": "here",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "ašāšu",
+   "gw": "be(come) distressed",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "buʾʾû",
+   "gw": "sought for",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "damāqu",
+   "gw": "be(come) good",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "damqiš",
+   "gw": "well",
+   "pos": "AV",
+   "icount": 4
+  },
+  {
+   "cf": "elû",
+   "gw": "upper",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "epištu",
+   "gw": "deed",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "habālu",
+   "gw": "do wrong",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "hīṭu",
+   "gw": "error",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ina libbi šakānu",
+   "gw": "be(come) angry",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "lamdu",
+   "gw": "experienced",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "lemnu",
+   "gw": "bad",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "maggu",
+   "gw": "spread out",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "māmītu",
+   "gw": "oath",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mašāʾu",
+   "gw": "take away by force",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "mašku",
+   "gw": "skin",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "mašlu",
+   "gw": "half",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "našû",
+   "gw": "lift",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "ṣābū karāš harrāni",
+   "gw": "expeditionary force",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ṣītu",
+   "gw": "exit",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "šaplû",
+   "gw": "lower",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "šemû",
+   "gw": "heard",
+   "pos": "AJ",
+   "icount": 4
+  },
+  {
+   "cf": "šū",
+   "gw": "he",
+   "pos": "IP",
+   "icount": 4
+  },
+  {
+   "cf": "šumma appūnama",
+   "gw": "if not",
+   "pos": "MOD",
+   "icount": 4
+  },
+  {
+   "cf": "tappû",
+   "gw": "companion",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "tibnu",
+   "gw": "straw",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ṭupšarru",
+   "gw": "scribe",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ubānu",
+   "gw": "finger",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "ummu",
+   "gw": "mother",
+   "pos": "N",
+   "icount": 4
+  },
+  {
+   "cf": "warādu",
+   "gw": "go down",
+   "pos": "V",
+   "icount": 4
+  },
+  {
+   "cf": "ahāru",
+   "gw": "be(come) behind",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "ašar alāku",
+   "gw": "follow",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "baqāmu",
+   "gw": "pluck",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "dīna epēšu",
+   "gw": "enter into litigation",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "dumqa epēšu",
+   "gw": "make peace",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "dumqu",
+   "gw": "goodness",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "dūru",
+   "gw": "(city) wall",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "emqu",
+   "gw": "wise",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "emūqu",
+   "gw": "strength",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "erbu",
+   "gw": "entered",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "gamāru",
+   "gw": "bring to conclusion",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "habālu",
+   "gw": "act of violence",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "hasāsu",
+   "gw": "be(come) conscious",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "hišihtu",
+   "gw": "requirement",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "imittu",
+   "gw": "right side",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ina ūmi u ūmimma",
+   "gw": "day by day",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "irpi",
+   "gw": "(an Egyptian official)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "išû",
+   "gw": "have",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "kakkaru",
+   "gw": "(a round loaf)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kâmma",
+   "gw": "so",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "karpatu",
+   "gw": "(clay) pot",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "kazābu",
+   "gw": "tell lies",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "kī ša",
+   "gw": "just as",
+   "pos": "SBJ",
+   "icount": 3
+  },
+  {
+   "cf": "kitû",
+   "gw": "flax",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "libittu",
+   "gw": "mudbrick",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mēreštu",
+   "gw": "wish",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mūṣû",
+   "gw": "exit",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "mūtu",
+   "gw": "death",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "nadû",
+   "gw": "throw (down)",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "nasāku",
+   "gw": "throw (down)",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "naṣābu",
+   "gw": "place",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "parṣu",
+   "gw": "office",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pūhtu",
+   "gw": "item of exchange",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "puruzu",
+   "gw": "unwalled village",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "pušqu",
+   "gw": "narrowness",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "qaštu",
+   "gw": "bow",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "qerbu",
+   "gw": "near",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "qīštu",
+   "gw": "gift",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "quʾʾû",
+   "gw": "await",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "rāmu",
+   "gw": "(be)loved",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "rêṣu",
+   "gw": "help",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "rīqūtu",
+   "gw": "emptiness",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ṣāb šēpi",
+   "gw": "footsoldier",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šasû",
+   "gw": "shout",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šatû",
+   "gw": "drink",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šâṭu",
+   "gw": "despise",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šerdannu",
+   "gw": "(type of person)",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šiāti",
+   "gw": "(of) her",
+   "pos": "IP",
+   "icount": 3
+  },
+  {
+   "cf": "šinīšu",
+   "gw": "twice",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "šinnu",
+   "gw": "tooth",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šulma šâlu",
+   "gw": "pay attention to",
+   "pos": "V",
+   "icount": 3
+  },
+  {
+   "cf": "šulmānu",
+   "gw": "greeting-gift",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "šuqultu",
+   "gw": "weight",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tāhāzu",
+   "gw": "battle",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tappātu",
+   "gw": "(female) companion",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tarbaṣu",
+   "gw": "animal stall",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "tarṣu",
+   "gw": "correct",
+   "pos": "AJ",
+   "icount": 3
+  },
+  {
+   "cf": "taskarinnu",
+   "gw": "box tree",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ṭābūtu",
+   "gw": "friendship",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ṭēmu",
+   "gw": "(fore)thought",
+   "pos": "N",
+   "icount": 3
+  },
+  {
+   "cf": "ūmišam",
+   "gw": "daily",
+   "pos": "AV",
+   "icount": 3
+  },
+  {
+   "cf": "warki alāku",
+   "gw": "follow",
+   "pos": "V",
+   "icount": 3
+  }
+ ]
+}

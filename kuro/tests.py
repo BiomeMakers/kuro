@@ -83,7 +83,7 @@ def monopolies(docs, type_of, min_count=4):
 def confounder_jaccard(docs, factor_a, factor_b, n_null=300, rng=random):
     """Vocabulary Jaccard between document pairs, split by same/different factor_a and factor_b;
     effect of each factor within strata of the other, with within-stratum permutation nulls."""
-    docs = [d for d in docs if factor_a(d) and factor_b(d) and len(set(d.words())) >= 2]
+    docs = [d for d in docs if factor_a(d) not in (None, '') and factor_b(d) not in (None, '') and len(set(d.words())) >= 2]
     names = list(range(len(docs))); W = [set(d.words()) for d in docs]
     A = {i: factor_a(docs[i]) for i in names}; B = {i: factor_b(docs[i]) for i in names}
     pairs = [(i, j) for i in names for j in names if i < j]
@@ -130,5 +130,7 @@ def hapax_by_length(docs, counted_only=True):
     for d in docs:
         for w in d.words(): strings[w] += 1
     for d in docs:
-        for w in d.words(): bylen[min(len(w.split()), 5) if ' ' in w else min(w.count('-') + 1, 5)].append(strings[w] == 1)
+        for w in d.words():
+            n = len(w.split()) if ' ' in w else w.count('-') + 1
+            bylen[min(n, 5)].append(strings[w] == 1)
     return {L: (round(st.mean(v), 2), len(v)) for L, v in sorted(bylen.items())}
