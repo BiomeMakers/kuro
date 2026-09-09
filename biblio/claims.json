@@ -1,0 +1,246 @@
+[
+ {
+  "id": "fraction-values",
+  "claim": "Fraction letter values used to compute proportions",
+  "paper": "aromatics",
+  "status": "CONFLICT",
+  "works": [
+   "corazza2021",
+   "montecchi2009"
+  ],
+  "note": "DECLARED in the aromatics paper. Corazza et al. 2021 K=1/10, D=1/6; Montecchi 2009 leans to K=1/16. With K=1/16 the HT 23a structure goes from three levels to two."
+ },
+ {
+  "id": "totals-arithmetic",
+  "claim": "Which tablets balance and which do not",
+  "paper": "method",
+  "status": "CHECKED",
+  "works": [
+   "montecchi2009"
+  ],
+  "note": "Montecchi 2009 published the full analysis. Cited in the method paper; our count agrees on six of her nine."
+ },
+ {
+  "id": "308-yield",
+  "claim": "*308 is a product of the olive at 26-28% yield",
+  "paper": "aromatics",
+  "status": "PARTIAL",
+  "works": [
+   "younger-ht",
+   "montecchi2009"
+  ],
+  "note": "Younger computes a third counting the deficit. HT 123 is on Montecchi's miscalculation list, which affects the figure."
+ },
+ {
+  "id": "equal-fractions",
+  "claim": "Secondary ingredients share one fraction within each tablet",
+  "paper": "aromatics",
+  "status": "UNCHECKED",
+  "works": [
+   "montecchi2009"
+  ],
+  "note": "Her 2009 paper is on exactly this material."
+ },
+ {
+  "id": "305-personnel",
+  "claim": "*305 is counted within a personnel total",
+  "paper": "personnel",
+  "status": "CHECKED",
+  "works": [
+   "younger-ht",
+   "montecchi-feast"
+  ],
+  "note": "Younger's observation, cited. Ours is the arithmetic, with HT 94a acknowledged as a known miscalculation."
+ },
+ {
+  "id": "personnel-sections",
+  "claim": "HT 27a, 89, 94a, 100 have two sections, personnel then commodities",
+  "paper": "personnel",
+  "status": "CHECKED",
+  "works": [
+   "montecchi-feast",
+   "montecchi2008"
+  ],
+  "note": "Montecchi's feast paper, cited in the personnel note."
+ },
+ {
+  "id": "omega-class",
+  "claim": "Class Omega corresponds to a recoverable dossier around *305",
+  "paper": "personnel",
+  "status": "UNCHECKED",
+  "works": [
+   "montecchi2019"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cretan-hieroglyphic",
+  "claim": "The dossier signs have no counterpart in Cretan Hieroglyphic",
+  "paper": "aromatics",
+  "status": "CHECKED",
+  "works": [
+   "ferrara2022"
+  ],
+  "note": "Confirmed by their Table 1."
+ },
+ {
+  "id": "306-syllabic",
+  "claim": "*306 is a sign used in syllabic sequences, not a commodity",
+  "paper": "aromatics",
+  "status": "CHECKED",
+  "works": [
+   "ferrara2022"
+  ],
+  "note": "Their classification; our corpus count agrees (16 in sequence, 7 alone)."
+ },
+ {
+  "id": "classification",
+  "claim": "Montecchi's classification holds under permutation",
+  "paper": "montecchi-note",
+  "status": "CHECKED",
+  "works": [
+   "montecchi2010",
+   "montecchi2019"
+  ],
+  "note": "Validated by the author herself."
+ },
+ {
+  "id": "receipt-form",
+  "claim": "Linear A does not verbalise transfer or date",
+  "paper": "receipt",
+  "status": "UNCHECKED",
+  "works": [
+   "schoep2002",
+   "deridder2021"
+  ],
+  "note": "HIGH RISK: Schoep 2002 is the standard book on the administration and is unread."
+ },
+ {
+  "id": "no-so-ending",
+  "claim": "No Linear A sign-group ends in -so",
+  "paper": "method",
+  "status": "UNCHECKED",
+  "works": [],
+  "note": "HIGH RISK: touches the Pre-Greek substrate debate, a heavily worked field."
+ },
+ {
+  "id": "libation-formula",
+  "claim": "The formula template, the 32 hapax fillers, what ja-sa-sa-ra-me cannot be",
+  "paper": "formula",
+  "status": "UNCHECKED",
+  "works": [
+   "davis2014"
+  ],
+  "note": "HIGH RISK: Davis 2014 is the book on the votive corpus and is unread."
+ },
+ {
+  "id": "toponym-names",
+  "claim": "Fifteen sign-groups formed on Cretan toponyms",
+  "paper": "toponyms",
+  "status": "UNCHECKED",
+  "works": [
+   "davis2014"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cyperus",
+  "claim": "Cyperus was a Cretan crop, not an import",
+  "paper": "aromatics",
+  "status": "UNCHECKED",
+  "works": [
+   "melena1974"
+  ],
+  "note": "HIGH RISK: Melena 1974 is the reference study."
+ },
+ {
+  "id": "double-mina",
+  "claim": "The double mina does not measure *305",
+  "paper": "personnel",
+  "status": "UNCHECKED",
+  "works": [
+   "montecchi2009",
+   "montecchi2013"
+  ],
+  "note": ""
+ },
+ {
+  "id": "local-signs",
+  "claim": "Category signs are local to Haghia Triada",
+  "paper": "personnel",
+  "status": "UNCHECKED",
+  "works": [
+   "schoep2002"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ht105",
+  "claim": "HT 105 records the same population twice",
+  "paper": "personnel",
+  "status": "UNCHECKED",
+  "works": [
+   "younger-ht"
+  ],
+  "note": ""
+ },
+ {
+  "id": "corpus-power",
+  "claim": "Power curve by corpus size",
+  "paper": "power",
+  "status": "PARTIAL",
+  "works": [
+   "briakos2026"
+  ],
+  "note": "He reaches the 10,000-token threshold by another route."
+ },
+ {
+  "id": "register-divergence",
+  "claim": "Archives and sanctuaries differ in profile",
+  "paper": "method",
+  "status": "PARTIAL",
+  "works": [
+   "briakos2026"
+  ],
+  "note": "He measures JSD 0.0944, p=0.018, independently."
+ },
+ {
+  "id": "personnel-categories",
+  "claim": "Bare signs are categories of personnel, local to Haghia Triada",
+  "paper": "personnel",
+  "status": "PARTIAL",
+  "works": [
+   "davis-valerio2020"
+  ],
+  "note": "Davis and Valério 2020 propose group designations for syllabic words; ours is the measurement over bare signs and their locality."
+ },
+ {
+  "id": "ki-ro",
+  "claim": "KI-RO introduces both people and commodities",
+  "paper": "personnel",
+  "status": "UNCHECKED",
+  "works": [
+   "davis-valerio2020",
+   "younger-ht"
+  ],
+  "note": "Must be redone under Younger's continuity principle."
+ },
+ {
+  "id": "ku-mi-na-qe",
+  "claim": "KU-MI-NA-QE is a name formed on the word for cumin",
+  "paper": "phytonyms",
+  "status": "CONFLICT",
+  "works": [
+   "younger-ht"
+  ],
+  "note": "Jimenez Delgado (Seville) objects that the -QE ending is unexplained. Verified: 7 groups in -qe, 2 with attested stem, p=0.086; KA-PA-QE on the toponym KA-PA suggests a copulative enclitic. Case now stands at two of three conditions."
+ },
+ {
+  "id": "ni-logogram",
+  "claim": "The NI logogram may relate to nikuleon, a Cretan fig",
+  "paper": "phytonyms",
+  "status": "CHECKED",
+  "works": [],
+  "note": "Given by Jimenez Delgado, citing a lexicographer in Athenaeus. To be incorporated."
+ }
+]

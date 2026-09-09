@@ -134,3 +134,109 @@ def hapax_by_length(docs, counted_only=True):
             n = len(w.split()) if ' ' in w else w.count('-') + 1
             bylen[min(n, 5)].append(strings[w] == 1)
     return {L: (round(st.mean(v), 2), len(v)) for L, v in sorted(bylen.items())}
+
+
+def capture_artifact(docs, signal_fn, capture_fn, n_null=500, rng=random):
+    """Is an apparent difference a property of the data or of how the data was captured?
+
+    Briakos (2026) found that an apparent geographic clustering of Linear A tablets was an
+    artefact of photographic exposure (visual PC1 correlated r = 0.990 with image brightness).
+    The general form of that check: before attributing a signal to the subject, test whether a
+    capture variable explains it. In an epigraphic corpus the capture variables are the
+    excavation, the editor, the transliteration convention and the state of preservation.
+
+    signal_fn(doc)  -> the value whose difference is being claimed (a number)
+    capture_fn(doc) -> a capture variable that has nothing to do with the claim (a number)
+
+    Returns the correlation between the two and a permutation p. A high correlation does not
+    prove the signal is an artefact, but it means the claim cannot be made without controlling it.
+    """
+    import statistics as st
+    pairs = []
+    for d in docs:
+        s, c = signal_fn(d), capture_fn(d)
+        if s is not None and c is not None:
+            pairs.append((float(s), float(c)))
+    if len(pairs) < 8:
+        return dict(n=len(pairs), r=None, p=None,
+                    note='fewer than 8 documents with both values: not assessable')
+    xs = [p[0] for p in pairs]; ys = [p[1] for p in pairs]
+    def corr(a, b):
+        ma, mb = st.mean(a), st.mean(b)
+        num = sum((x-ma)*(y-mb) for x, y in zip(a, b))
+        den = (sum((x-ma)**2 for x in a) * sum((y-mb)**2 for y in b)) ** 0.5
+        return num/den if den else 0.0
+    r = corr(xs, ys)
+    null = []
+    for _ in range(n_null):
+        sh = ys[:]; rng.shuffle(sh); null.append(abs(corr(xs, sh)))
+    p = sum(1 for x in null if x >= abs(r)) / n_null
+    verdict = ('the capture variable explains most of the signal; control it before claiming anything'
+               if abs(r) > 0.7 else
+               'the capture variable explains part of the signal; report it as a limitation'
+               if abs(r) > 0.4 else
+               'no appreciable association with the capture variable')
+    return dict(n=len(pairs), r=r, p=p, verdict=verdict)
+
+
+def group_cohesion(items, labels, features, n_null=2000, rng=random):
+    """Does a proposed grouping capture real structure, or is it the classifier's categories?
+
+    items: iterable of ids. labels: dict id -> group. features: dict id -> set of features.
+    Compares mean Jaccard within groups against between groups, with label permutation.
+
+    Used to test Montecchi's classifications of the Haghia Triada tablets (2010 and 2019).
+    """
+    import statistics as st
+    ids = [i for i in items if i in labels and i in features]
+    def jac(a, b):
+        A, B = features[a], features[b]
+        u = A | B
+        return len(A & B) / len(u) if u else 0.0
+    def split(lab):
+        w, x = [], []
+        for i, a in enumerate(ids):
+            for b in ids[i+1:]:
+                (w if lab[a] == lab[b] else x).append(jac(a, b))
+        return w, x
+    w, x = split(labels)
+    if not w or not x:
+        return dict(n=len(ids), note='not enough groups to compare')
+    obs = st.mean(w) - st.mean(x)
+    null = []
+    for _ in range(n_null):
+        vals = [labels[i] for i in ids]
+        rng.shuffle(vals)
+        perm = dict(zip(ids, vals))
+        w2, x2 = split(perm)
+        null.append(st.mean(w2) - st.mean(x2))
+    return dict(n=len(ids), within=st.mean(w), between=st.mean(x), difference=obs,
+                null_mean=st.mean(null), p=sum(1 for v in null if v >= obs) / n_null)
+
+
+def factor_effects(items, factors, features, rng=random):
+    """Which of several grouping factors explains shared features, and which is redundant?
+
+    factors: dict name -> (dict id -> value). Returns the mean similarity of every
+    combination of agreements, so that confounded factors can be told apart.
+
+    On the Haghia Triada tablets this separates series, scribal hand and room of discovery:
+    the series explains shared vocabulary, the room does not.
+    """
+    import statistics as st, itertools, collections
+    names = list(factors)
+    ids = [i for i in items if i in features and all(i in factors[f] for f in names)]
+    def jac(a, b):
+        A, B = features[a], features[b]
+        u = A | B
+        return len(A & B) / len(u) if u else 0.0
+    cells = collections.defaultdict(list)
+    for i, a in enumerate(ids):
+        for b in ids[i+1:]:
+            key = tuple(factors[f][a] == factors[f][b] for f in names)
+            cells[key].append(jac(a, b))
+    out = []
+    for key, vals in cells.items():
+        out.append(dict(zip(names, key)) | dict(pairs=len(vals), similarity=st.mean(vals)))
+    out.sort(key=lambda r: -r['similarity'])
+    return dict(n=len(ids), factors=names, cells=out)

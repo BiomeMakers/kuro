@@ -13,3 +13,6 @@ test = ["pytest>=7"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[project.scripts]
+kuro = "kuro.cli:main"

@@ -1,0 +1,181 @@
+{
+  "_comment": "Single source of truth for every figure the papers assert. tests/test_manifest.py fails when a paper states a figure that disagrees with this file. Adapted from the release-manifest practice of OpenEtruscan (github.com/Eddy1919/openEtruscan).",
+  "version": "0.5.1",
+  "updated": "2026-09-09",
+  "corpora": {
+    "linear_a": {
+      "documents": 1719,
+      "sign_groups_types": 782,
+      "sign_groups_tokens": 1098,
+      "logogram_types": 224,
+      "logogram_tokens": 2083,
+      "hapax_rate": 0.76,
+      "source": "GORILA via LinearA Explorer (Hogan 2022)",
+      "note": "1720 in earlier drafts; 1719 is the count after excluding the empty record"
+    },
+    "haghia_triada": {
+      "tablets": 150,
+      "tablets_classified_2010": 88,
+      "tablets_classified_2019": 135,
+      "classes_2010": 23,
+      "classes_2019": 39
+    },
+    "votive": {
+      "documents_by_content": 17,
+      "documents_by_support": 107,
+      "inscriptions_with_formula_anchor": 18,
+      "stone_vessels_that_are_accounts": 33
+    },
+    "etruscan": {
+      "rows_deposited": 6567,
+      "distinct_texts": 5941,
+      "clean_texts": 5470,
+      "word_types": 5661,
+      "hapax_rate": 0.85,
+      "source": "OpenEtruscan (Zenodo), Larth Dataset + CIE Vol. I"
+    },
+    "ur_iii": {
+      "tablets": 67945,
+      "network_nodes": 3990,
+      "network_edges": 697634
+    }
+  },
+  "key_results": {
+    "sound_screen_false_positives_linear_b": 383,
+    "formula_slot_fillers_all_hapax": 32,
+    "toponym_matches_cretan": 18,
+    "toponym_matches_non_cretan": 4,
+    "toponym_groups_longer_than_stem": 15,
+    "toponym_groups_behaving_as_party": 12,
+    "phytonym_matches": 9,
+    "phytonym_matches_as_party": 6,
+    "class_v_exclusive_words": 70,
+    "class_v_null_expectation": 41.2,
+    "aromatics_block_documents": 68,
+    "star305_block_documents": 24,
+    "dossiers_overlapping_documents": 6,
+    "ht100_surviving_sum": 93,
+    "ht100_recorded_total": 97,
+    "ht94a_actual_sum": 111,
+    "ht94a_recorded_total": 110,
+    "assur_recipes_proper": 2,
+    "assur_fragments_published": 7,
+    "kar220_ingredients_at_3_litres": 6,
+    "kar220_ingredients_at_1_litre": 3,
+    "koh_compounds_identified": 5,
+    "linear_a_signs_catalogued": 342,
+    "linear_a_signs_shared_with_b": 81,
+    "linear_a_signs_exclusive": 255,
+    "vir_occurrences": 54,
+    "mul_occurrences": 0,
+    "aromatics_fraction_share_pct": 54,
+    "star305_fraction_share_pct": 5,
+    "etruscan_clan_genitive_hits": 11,
+    "etruscan_clan_cases": 18,
+    "etruscan_sec_genitive_hits": 5,
+    "etruscan_sec_cases": 13
+  },
+  "p_values": {
+    "montecchi_2010_logograms": 0.0005,
+    "montecchi_2019_logograms": 0.0005,
+    "eight_pairs_vs_same_series": 0.0038,
+    "series_within_room": 0.002,
+    "room_within_series": 0.212,
+    "toponyms_vs_null": 0.002,
+    "toponyms_strict_stems": 0.006,
+    "toponyms_vs_random_mycenaean": 0.027,
+    "phytonyms_vs_null": 0.005,
+    "objects_vs_null": 0.335,
+    "class_v_exclusives": 0.002,
+    "qe_suffix_pairs": 0.086,
+    "te_sara2_exclusion": 0.5,
+    "etruscan_genitive_before_clan": 0.0005,
+    "etruscan_genitive_before_sec": 0.0035,
+    "etruscan_genitive_before_puia": 0.63,
+    "aromatics_capture_correlation": 0.409,
+    "star305_capture_correlation": 0.326
+  },
+  "withdrawn": [
+    {
+      "claim": "the ascendency-to-capacity ratio falls inside Ulanowicz's window of vitality",
+      "why": "a null preserving row and column sums reproduces the observed value to three decimals",
+      "where_stated": "method paper, section on withdrawn results"
+    },
+    {
+      "claim": "the Minoan lexicon is compositional above chance",
+      "why": "a null preserving syllable transitions puts the observed value inside the null (p = 0.60)",
+      "where_stated": "method paper, section on withdrawn results"
+    },
+    {
+      "claim": "no Linear A sign-group ends in -so, a phonotactic feature",
+      "why": "the syllable so never occurs in any position; the absence is a gap in the transliterated syllabary",
+      "where_stated": "method paper, replaced by the final-syllable distribution"
+    },
+    {
+      "claim": "the *305 dossier is weighed, on the evidence of the double mina",
+      "why": "the double mina measures cyperus, figs, grain and personal names on six documents, and never *305",
+      "where_stated": "personnel note, section 5"
+    },
+    {
+      "claim": "the absence of a MUL sign shows Minoan administration made no sex distinction",
+      "why": "an inference from an absence without checking the instrument could see it; Uchitel proposes *306 for that function",
+      "where_stated": "personnel note, section 6 ter"
+    }
+  ],
+  "prior_art": {
+    "_comment": "results of ours that have a published precedent, with the holder. Any paper stating these as new fails review.",
+    "star305_concerns_personnel": "Younger, commentary on HT 100",
+    "two_section_personnel_tablets": "Montecchi, Planning a Feast",
+    "group_designations_non_anthroponymic": "Davis and Valerio 2020",
+    "ht105_two_near_equal_figures": "Uchitel 2002-2003",
+    "kapa_as_cretan_toponym": "Uchitel 2002-2003",
+    "totals_arithmetic_and_miscalculations": "Montecchi 2009",
+    "fraction_values": "Montecchi 2009 and Corazza et al. 2021, in disagreement",
+    "formula_opening_segmentation": "Finkelberg 1990-91",
+    "transaction_terms_te_kuro_kiro_sara2": "Schoep 2002",
+    "class_v_as_a_residue_of_classification": "Chadwick",
+    "signs_absent_from_cretan_hieroglyphic": "Ferrara, Montecchi and Valerio 2022",
+    "star306_used_in_syllabic_sequences": "Ferrara, Montecchi and Valerio 2022",
+    "sasame_as_sesame": "Uchitel 2003",
+    "standard_sequence_iii_grouping": "Uchitel 2003",
+    "affix_pairs_including_sukirite_ija_and_utaise": "Davis 2025",
+    "register_divergence_and_scribal_hands": "Briakos 2026, independently"
+  },
+  "disputed": {
+    "star303_identification": {
+      "readings": [
+        "cyperus (Younger, LinearA Explorer)",
+        "barley (Goold and Pope 1955; Uchitel 2003)",
+        "emmer wheat (Palmer 1995)"
+      ],
+      "field_position_2025": "grain or cyperus, undecided (Salgarella and Petrakis eds. 2025)",
+      "our_contribution": "quantitative profile: median 0.62, 61% of records fractional, maximum 23, against grain's 15.62, 13% and 976"
+    },
+    "star302_identification": {
+      "readings": [
+        "olive oil, with reservations (Palaima 1994; Schoep 2002)"
+      ],
+      "field_position_2025": "accepted with reservations"
+    }
+  },
+  "closed_avenues": [
+    {
+      "what": "comparison of the receipt form with the Ugarit and Alalakh archives from their texts",
+      "why": "no digitised corpora of those archives exist in consultable form",
+      "source": "J. Lauinger (Johns Hopkins), personal communication, 9 September 2026",
+      "consequence": "the comparison rests on published descriptions; declared as a limitation in the receipt paper"
+    },
+    {
+      "what": "testing whether cyperus appears in Minoan process vessels",
+      "why": "the Mochlos aromatics workshop analysis (Koh 2006/2008) is not obtainable; the Penn repository does not hold the dissertation",
+      "source": "searched 9 September 2026",
+      "consequence": "the stypsis prediction remains untested; stated as such in the aromatics paper"
+    },
+    {
+      "what": "the Etruscan Texts Project as a corpus source",
+      "why": "the ETP site is dead and it is in any case a supplement of ~300 post-1990 texts",
+      "source": "checked 9 September 2026",
+      "consequence": "replaced by the OpenEtruscan corpus (5,941 distinct texts), which is better for our purpose"
+    }
+  ]
+}

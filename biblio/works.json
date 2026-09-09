@@ -1,0 +1,345 @@
+[
+ {
+  "id": "montecchi2009",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": 2009,
+  "title": "Le frazioni, gli errori di calcolo e le unità di misura nella documentazione in lineare A",
+  "venue": "Annali dell'Istituto Italiano di Numismatica 55, 29-52",
+  "url": "https://www.academia.edu/420496",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "fraction-values",
+   "totals-arithmetic",
+   "308-yield",
+   "equal-fractions",
+   "double-mina"
+  ],
+  "notes": "READ. Only HT 104 permits a certain conclusion without emendation: J=1/2, E=1/4; B=1/5 from the 10:4 proportion. For K she hesitates between 1/10 and 1/16 and reports that 1/10 conflicts with the HT Zd 156 progression. Miscalculations: HT 9a, 123a-b, 94a, 118; problems: HT 13, 102, 116, 119, 127. HT 94a: total 110 against an actual sum of 111."
+ },
+ {
+  "id": "montecchi2013",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": 2013,
+  "title": "An updating note on Minoan fractions, measures, and weights",
+  "venue": "Annali dell'Istituto Italiano di Numismatica 59, 9-26",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "fraction-values",
+   "double-mina"
+  ],
+  "notes": "Update to montecchi2009. Not yet located."
+ },
+ {
+  "id": "montecchi2008",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": 2008,
+  "title": "Note d'analisi testuale delle tavolette in lineare A di Haghia Triada",
+  "venue": "Annuario della Scuola Archeologica di Atene 86, 313-326",
+  "url": "https://www.academia.edu/426326",
+  "held": false,
+  "read": false,
+  "bears_on": [
+   "ht-structure",
+   "personnel-sections"
+  ],
+  "notes": ""
+ },
+ {
+  "id": "montecchi2010",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": 2010,
+  "title": "A classification proposal of Linear A tablets from Haghia Triada in classes and series",
+  "venue": "Kadmos 49, 11-38",
+  "url": "https://www.academia.edu/566827",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "classification"
+  ],
+  "notes": "Superseded by montecchi2019. Tested and holds."
+ },
+ {
+  "id": "montecchi2019",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": 2019,
+  "title": "Contare a Haghia Triada. Le tavolette in lineare A, i documenti sigillati e il sistema economico-amministrativo nel TM IB",
+  "venue": "Incunabula Graeca CVII, Rome",
+  "url": "",
+  "held": true,
+  "read": false,
+  "bears_on": [
+   "classification",
+   "personnel-sections",
+   "room-effect",
+   "omega-class"
+  ],
+  "notes": "Held (PDF from the author). Classification read at pp. 97-107; the rest unread."
+ },
+ {
+  "id": "montecchi-feast",
+  "authors": [
+   "Montecchi, B."
+  ],
+  "year": null,
+  "title": "Planning a Feast in Neopalatial Crete: a Look at the Linear A Evidence",
+  "venue": "",
+  "url": "https://www.academia.edu/3442747",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "personnel-sections",
+   "305-personnel"
+  ],
+  "notes": "READ. HT 27a, 89, 94a, 100 as two-section lists read as feast preparation, compared with Mycenaean feasting records (Palaima)."
+ },
+ {
+  "id": "younger-ht",
+  "authors": [
+   "Younger, J. G."
+  ],
+  "year": 2024,
+  "title": "Linear A texts and inscriptions in phonetic transcription: HT (Haghia Triada)",
+  "venue": "",
+  "url": "http://people.ku.edu/~jyounger/LinearA/HTtexts.html",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "305-personnel",
+   "308-yield",
+   "da-i-total",
+   "ka-ku-pa",
+   "fractional-commodities",
+   "ht105"
+  ],
+  "notes": "PRIOR ART: states that *305 concerns personnel and occurs with groups of VIR (HT 100); the fractional-commodities line on HT 23. Site blocks automated access."
+ },
+ {
+  "id": "corazza2021",
+  "authors": [
+   "Corazza, M.",
+   "Ferrara, S.",
+   "Montecchi, B.",
+   "Tamburini, F.",
+   "Valério, M."
+  ],
+  "year": 2021,
+  "title": "The mathematical values of fraction signs in the Linear A script",
+  "venue": "Journal of Archaeological Science 125, 105214",
+  "url": "https://doi.org/10.1016/j.jas.2020.105214",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "fraction-values"
+  ],
+  "notes": "Table 8 optimal system: J=1/2, E=1/4, D=1/6, B=1/5, K=1/10, F=1/8, H=1/16. D differs from montecchi2009."
+ },
+ {
+  "id": "ferrara2022",
+  "authors": [
+   "Ferrara, S.",
+   "Montecchi, B.",
+   "Valério, M."
+  ],
+  "year": 2022,
+  "title": "The relationship between Cretan Hieroglyphic and Linear A: a palaeographic and structural approach",
+  "venue": "Pasiphae 16",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "cretan-hieroglyphic",
+   "306-syllabic"
+  ],
+  "notes": "Table 1: *302, *303, *306, *307, *308, *310 have NO counterparts in Cretan Hieroglyphic; the authors suggest they appear in response to changing administrative practice. Also classes *306 among signs used in syllabic sequences."
+ },
+ {
+  "id": "schoep2002",
+  "authors": [
+   "Schoep, I."
+  ],
+  "year": 2002,
+  "title": "The Administration of Neopalatial Crete",
+  "venue": "Salamanca",
+  "url": "",
+  "held": false,
+  "read": false,
+  "bears_on": [
+   "receipt-form",
+   "local-signs",
+   "dossiers"
+  ],
+  "notes": "The standard book on the administration. Not held."
+ },
+ {
+  "id": "palmer1995",
+  "authors": [
+   "Palmer, R."
+  ],
+  "year": 1995,
+  "title": "Linear A commodities: a comparison of resources",
+  "venue": "Politeia (Aegaeum 12), 133-155",
+  "url": "",
+  "held": false,
+  "read": false,
+  "bears_on": [
+   "oil-classes",
+   "aromatics-block"
+  ],
+  "notes": "Not held."
+ },
+ {
+  "id": "davis2014",
+  "authors": [
+   "Davis, B."
+  ],
+  "year": 2014,
+  "title": "Minoan Stone Vessels with Linear A Inscriptions",
+  "venue": "Aegaeum 36",
+  "url": "",
+  "held": false,
+  "read": false,
+  "bears_on": [
+   "libation-formula",
+   "hapax-fillers",
+   "jasasarame"
+  ],
+  "notes": "The book on the votive corpus. Not held."
+ },
+ {
+  "id": "melena1974",
+  "authors": [
+   "Melena, J. L."
+  ],
+  "year": 1974,
+  "title": "Ku-pa-ro en las tablillas de Cnoso",
+  "venue": "Emerita 42, 307-336",
+  "url": "",
+  "held": false,
+  "read": false,
+  "bears_on": [
+   "cyperus",
+   "minoan-channel"
+  ],
+  "notes": "Reference study on cyperus in Linear B. Not held."
+ },
+ {
+  "id": "briakos2026",
+  "authors": [
+   "Briakos, N."
+  ],
+  "year": 2026,
+  "title": "An undeciphered script in the age of AI: a corpus-constrained computational analysis of Linear A",
+  "venue": "MSc thesis, University of Piraeus",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "register-divergence",
+   "scribal-hands",
+   "corpus-power"
+  ],
+  "notes": "Reaches several of our methodological conclusions independently. Calibrates the useful threshold at ~10,000 sign tokens."
+ },
+ {
+  "id": "deridder2021",
+  "authors": [
+   "De Ridder, J. J."
+  ],
+  "year": 2021,
+  "title": "Archival Texts of the Middle Assyrian Period (TCMA)",
+  "venue": "ORACC",
+  "url": "http://oracc.org/tcma",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "receipt-form",
+   "assur-recipes"
+  ],
+  "notes": "Seven perfume recipes: KAR 140+, 220, 222, PKT 2, 6, 7, KAL 17,70."
+ },
+ {
+  "id": "davis-valerio2020",
+  "authors": [
+   "Davis, B.",
+   "Valério, M."
+  ],
+  "year": 2020,
+  "title": "Names and designations of people in Linear A: a contextual study of HT 85 and 117",
+  "venue": "Neoteros (Aegaeum 44), 23-32",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "personnel-categories",
+   "ki-ro",
+   "305-personnel"
+  ],
+  "notes": "READ. PRIOR ART: proposes that entries with figures above one may be non-anthroponymic designations of groups (function, occupational group, workshop, administrative unit, area). Establishes LA u / LB a via pretonic schwa. Headings of HT 117 are not anthroponyms. KI-RO in headings governs the following entries by Younger's continuity principle."
+ },
+ {
+  "id": "uchitel2003",
+  "authors": [
+   "Uchitel, A."
+  ],
+  "year": 2003,
+  "title": "HT 94",
+  "venue": "Minos 37-38, 81-88",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "personnel-categories",
+   "ht105",
+   "ki-ro",
+   "mul-absent",
+   "ku-mi-na-qe"
+  ],
+  "notes": "READ. MAJOR PRIOR ART for the personnel line: HT 105 with 234/235 under ka-pa and sa-ra2; ka-pa as a Cretan toponym; sa-ra2 as an ethnic of Haghia Triada; collective designations of personnel; DI as a textile-worker abbreviation; the 1-lists under KI-RO as absent personnel. CONTRADICTS our MUL claim: proposes *306 as the Linear A sign for woman."
+ },
+ {
+  "id": "finkelberg1991",
+  "authors": [
+   "Finkelberg, M."
+  ],
+  "year": 1991,
+  "title": "Minoan inscriptions on libation vessels",
+  "venue": "Minos 25-26, 43-85",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "libation-formula"
+  ],
+  "notes": "READ. Segments the opening into two semantic units; the middle -i-*301- is stable; reads the -i as inflection. Anatolian framework throughout. Does NOT contain the hapax-fillers result."
+ },
+ {
+  "id": "jimenez-delgado2026",
+  "authors": [
+   "Jiménez Delgado, J. M."
+  ],
+  "year": 2026,
+  "title": "Personal communication",
+  "venue": "University of Seville",
+  "url": "",
+  "held": true,
+  "read": true,
+  "bears_on": [
+   "ku-mi-na-qe",
+   "ni-logogram"
+  ],
+  "notes": "Gives nikuleon (Athenaeus) for the NI logogram; objects that the -QE ending of KU-MI-NA-QE is unexplained."
+ }
+]
