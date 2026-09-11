@@ -1,0 +1,1646 @@
+{
+ "units": [
+  "*301",
+  "SI",
+  "RO",
+  "ZE",
+  "VIR+[?]",
+  "TA",
+  "*304",
+  "OLE+U",
+  "OLE+KI",
+  "GRA+PA",
+  "DI",
+  "RE",
+  "CYP+E",
+  "NA",
+  "*164",
+  "TI",
+  "MA",
+  "JA",
+  "*301+*311",
+  "DA",
+  "*188",
+  "*516",
+  "*401+RU",
+  "HIDE+[?]",
+  "KU-PA₃-NU",
+  "RU",
+  "QA2+[?]+PU",
+  "MI+JA+RU",
+  "QE",
+  "SU",
+  "NE",
+  "VIR+KA",
+  "I-RA₂",
+  "*86+*188",
+  "DA-RE",
+  "SE",
+  "SI-RU-TE",
+  "MA-DI",
+  "*307",
+  "DI-NA-U",
+  "WA",
+  "QA2+[?]+RE",
+  "JU",
+  "SA-RU",
+  "MI",
+  "SI-KA",
+  "I-PI-NA-MA",
+  "*131C",
+  "OLE+NE",
+  "SA",
+  "CAP",
+  "ZU",
+  "*904",
+  "DA-KA",
+  "I-DA",
+  "OLE+E",
+  "KI-RE-TA-NA",
+  "SA-MA",
+  "TA-NA-TI",
+  "PA-JA-RE",
+  "SA-RO",
+  "DA-RI-DA",
+  "GRA+QE",
+  "OLE+RI",
+  "QA2+[?]+RE+PU",
+  "*86",
+  "PU",
+  "DU",
+  "PI",
+  "*312",
+  "A-SE",
+  "DA-ME",
+  "MI-NU-TE",
+  "KU-PA",
+  "U-NA-KA-NA-SI",
+  "JA-SA",
+  "ZA",
+  "*316",
+  "QE-RA₂-U",
+  "PA₃-NI-NA",
+  "TE-TU",
+  "PA-DE",
+  "TA-I-AROM",
+  "*560",
+  "*118",
+  "RE-ZA",
+  "KA-KU-PA",
+  "OLE+TU",
+  "MU",
+  "KI+MU",
+  "MI+JA+I",
+  "*326",
+  "AU",
+  "SI+SE",
+  "*318",
+  "*OLIV+TU",
+  "NU",
+  "GRA+K+L",
+  "DI-DE-RU",
+  "TE-RI",
+  "QA-QA-RU",
+  "PA-SE-JA",
+  "PA-TA-NE",
+  "*304+PA",
+  "GRA+F",
+  "A-RI",
+  "ME",
+  "JE",
+  "*401+RO",
+  "*322",
+  "A-MA",
+  "A-JA",
+  "*412+E",
+  "*418+L2",
+  "SI-PI-KI",
+  "QI+SI",
+  "DU-RE-ZA-SE"
+ ],
+ "dossiers": {
+  "*301": "UNIT: *301\nkind: logogram\nattestations: 238 in 238 documents\nsites: Haghia Tri 230, Khania 5, Knossos 2, Zakros 1\nsupports: Nodule 230, Tablet 7, Sealing 1\nwith a figure: 6 times; fractions in 1 of them (17%; corpus base rate for commodity signs 27%); largest figure 11\nin first position of a tablet: 1 of 7 (base rate for all units 11%)\nother units in the same documents: NI (2), CYP (2), *306 (2), KU-NI-SU (1), PA (1), TU (1)\nas an added syllable, attached to: DA, I, MI\non nodules: 271 HT nodules, sealed by AT 13 bird flies right (130), AT 9 Talismanic fish (28), AT 99 Cut-style griffin le (25)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times), VIN (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "SI": "UNIT: SI\nkind: logogram\nattestations: 118 in 112 documents\nsites: Haghia Tri 101, Khania 6, Palaikastr 4, Phaistos 2\nsupports: Nodule 92, Tablet 20, Stone vessel 4\nwith a figure: 13 times; fractions in 3 of them (23%; corpus base rate for commodity signs 27%); largest figure 14\nin first position of a tablet: 3 of 20 (base rate for all units 11%)\nother units in the same documents: CYP (7), VIN (3), SA-RA₂ (2), NI (2), KA (2), GRA (1)\nas an added syllable, attached to: QI\non nodules: 82 HT nodules, sealed by AT 125 man in kilt & man in (55), AT 79 2 stags in flying ga (15), AT 95 2 griffins tête-bêch (5)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (4 times), VIN (1 times); its figure is smaller than the preceding commodity figure in 3 of 3 (a sub-quantity pattern if most)",
+  "RO": "UNIT: RO\nkind: logogram\nattestations: 95 in 95 documents\nsites: Haghia Tri 91, Zakros 2, Khania 1, Phaistos 1\nsupports: Nodule 89, Tablet 2, Sealing 2\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 20\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: GRA (2), NI (1), VIN (1)\nas an added syllable, attached to: *401, DA, ]TU\non nodules: 79 HT nodules, sealed by AT 125 man in kilt & man in (36), AT 105 bird-woman (16), AT 79 2 stags in flying ga (10)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times)",
+  "ZE": "UNIT: ZE\nkind: logogram\nattestations: 47 in 47 documents\nsites: Haghia Tri 41, Khania 6\nsupports: Nodule 46, Tablet 1\nwith a figure: 1 times; fractions in 1 of them (100%; corpus base rate for commodity signs 27%); largest figure 0\nin first position of a tablet: 0 of 1 (base rate for all units 11%)\nother units in the same documents: *188+KU (1)\non nodules: 41 HT nodules, sealed by AT 13 bird flies right (13), AT 125 man in kilt & man in (8), AT 45 lion runs left, rega (8)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after *188 (1 times)",
+  "VIR+[?]": "UNIT: VIR+[?]\nkind: logogram (ligature: base sign + added syllable)\nattestations: 31 in 26 documents\nsites: Haghia Tri 21, Khania 6, Petras 2, Phaistos 1\nsupports: Tablet 28, Roundel 3\nwith a figure: 20 times; fractions in 1 of them (5%; corpus base rate for commodity signs 27%); largest figure 235\nin first position of a tablet: 1 of 28 (base rate for all units 11%)\nother units in the same documents: KU-RO (9), NI (5), SA-RA₂ (5), CYP (4), KA-PA (4), VIN (3)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (2 times), CYP (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "TA": "UNIT: TA\nkind: logogram\nattestations: 29 in 29 documents\nsites: Haghia Tri 18, Khania 4, Phaistos 2, Zakros 2\nsupports: Tablet 13, Nodule 12, Stone vessel 2\nwith a figure: 8 times; fractions in 1 of them (12%; corpus base rate for commodity signs 27%); largest figure 6\nin first position of a tablet: 1 of 13 (base rate for all units 11%)\nother units in the same documents: KU (3), CYP (3), NI (2), KU-RO (2), GRA (2), CYP+D (2)\nas an added syllable, attached to: OLE\non nodules: 13 HT nodules, sealed by AT 125 man in kilt & man in (12), AT 43 lion right, regardan (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times), CYP (1 times)",
+  "*304": "UNIT: *304\nkind: logogram\nattestations: 25 in 22 documents\nsites: Haghia Tri 19, Khania 2, Phaistos 2, Pyrgos 1\nsupports: Tablet 23, Lames (short 1, Stone vessel 1\nwith a figure: 25 times; fractions in 6 of them (24%; corpus base rate for commodity signs 27%); largest figure 20\nin first position of a tablet: 0 of 23 (base rate for all units 11%)\nother units in the same documents: GRA (16), NI (9), OLIV (9), OLE+MI (9), OLE+DI (8), TE (6)\nas an added syllable, attached to: *401\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (9 times), OLE (8 times); its figure is smaller than the preceding commodity figure in 8 of 14 (a sub-quantity pattern if most)",
+  "OLE+U": "UNIT: OLE+U\nkind: logogram (ligature: base sign + added syllable)\nattestations: 22 in 13 documents\nsites: Haghia Tri 19, Tylissos 3\nsupports: Tablet 22\nwith a figure: 19 times; fractions in 2 of them (11%; corpus base rate for commodity signs 27%); largest figure 54\nin first position of a tablet: 0 of 22 (base rate for all units 11%)\nother units in the same documents: OLE+MI (13), OLIV (9), OLE (9), GRA (8), SA-RA₂ (5), NI (5)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (4 times), OLE (3 times); its figure is smaller than the preceding commodity figure in 2 of 4 (a sub-quantity pattern if most)",
+  "OLE+KI": "UNIT: OLE+KI\nkind: logogram (ligature: base sign + added syllable)\nattestations: 21 in 17 documents\nsites: Haghia Tri 17, Tylissos 3, Zakros 1\nsupports: Tablet 20, Stone vessel 1\nwith a figure: 18 times; fractions in 6 of them (33%; corpus base rate for commodity signs 27%); largest figure 51\nin first position of a tablet: 1 of 20 (base rate for all units 11%)\nother units in the same documents: OLE+MI (13), GRA (11), OLE (10), OLIV (9), SA-RA₂ (5), NI (5)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (6 times), GRA (5 times); its figure is smaller than the preceding commodity figure in 4 of 5 (a sub-quantity pattern if most)",
+  "GRA+PA": "UNIT: GRA+PA\nkind: logogram (ligature: base sign + added syllable)\nattestations: 19 in 13 documents\nsites: Zakros 9, Haghia Tri 7, Petras 2, Khania 1\nsupports: Tablet 10, Stone vessel 9\nwith a figure: 18 times; fractions in 3 of them (17%; corpus base rate for commodity signs 27%); largest figure 62\nin first position of a tablet: 0 of 10 (base rate for all units 11%)\nother units in the same documents: GRA (4), OLIV (4), SA-RA₂ (2), KA-PA (2), KU-RO (2), DA-QE-RA (2)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (3 times), VIN (2 times); its figure is smaller than the preceding commodity figure in 2 of 4 (a sub-quantity pattern if most)",
+  "DI": "UNIT: DI\nkind: logogram\nattestations: 16 in 13 documents\nsites: Haghia Tri 15, Palaikastr 1\nsupports: Tablet 15, Stone vessel 1\nwith a figure: 14 times; fractions in 2 of them (14%; corpus base rate for commodity signs 27%); largest figure 65\nin first position of a tablet: 0 of 15 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (2), *308 (2), GRA (2), KA (2), PA (2), KU-RO (2)\nas an added syllable, attached to: OLE\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (2 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "RE": "UNIT: RE\nkind: logogram\nattestations: 16 in 14 documents\nsites: Haghia Tri 9, Khania 2, Palaikastr 2, Arkhalkhor 2\nsupports: Tablet 14, Stone vessel 1, Clay vessel 1\nwith a figure: 12 times; fractions in 1 of them (8%; corpus base rate for commodity signs 27%); largest figure 104\nin first position of a tablet: 0 of 14 (base rate for all units 11%)\nother units in the same documents: VIN (4), GRA (4), CYP (3), NI (3), KU-RO (2), CYP+D (2)\nas an added syllable, attached to: QA2\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (2 times), VIN (1 times)",
+  "CYP+E": "UNIT: CYP+E\nkind: logogram (ligature: base sign + added syllable)\nattestations: 13 in 10 documents\nsites: Khania 11, Haghia Tri 2\nsupports: Tablet 13\nwith a figure: 11 times; fractions in 4 of them (36%; corpus base rate for commodity signs 27%); largest figure 20\nin first position of a tablet: 2 of 13 (base rate for all units 11%)\nother units in the same documents: NI (10), CYP (6), VIN (2), *306 (2), A-DU (2), DA-I (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (3 times), NI (2 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "NA": "UNIT: NA\nkind: logogram\nattestations: 13 in 13 documents\nsites: Haghia Tri 4, Knossos 3, Khania 2, Phaistos 2\nsupports: Tablet 8, Stone vessel 2, Roundel 2\nwith a figure: 4 times; fractions in 1 of them (25%; corpus base rate for commodity signs 27%); largest figure 8\nin first position of a tablet: 0 of 8 (base rate for all units 11%)\nother units in the same documents: KA (2), NI (2), VIN (1), KU (1), GRA (1), TE (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times)",
+  "*164": "UNIT: *164\nkind: logogram\nattestations: 13 in 13 documents\nsites: Khania 13\nsupports: Roundel 13\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "TI": "UNIT: TI\nkind: logogram\nattestations: 12 in 11 documents\nsites: Malia 3, Phaistos 3, Haghia Tri 2, Zakros 2\nsupports: Tablet 4, 3-sided bar 2, Roundel 2\nwith a figure: 10 times; fractions in 1 of them (10%; corpus base rate for commodity signs 27%); largest figure 100\nin first position of a tablet: 1 of 4 (base rate for all units 11%)\nother units in the same documents: PA (2), KU-RO (1), KI (1), KU (1), TU (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "MA": "UNIT: MA\nkind: logogram\nattestations: 11 in 10 documents\nsites: Haghia Tri 6, Khania 2, Zakros 2, Thera 1\nsupports: Tablet 8, Stone vessel 2, Stone object 1\nwith a figure: 6 times; fractions in 2 of them (33%; corpus base rate for commodity signs 27%); largest figure 100\nin first position of a tablet: 0 of 8 (base rate for all units 11%)\nother units in the same documents: NI (3), TE (3), GRA (3), KA-PA (1), JE-DI (1), KA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (2 times), GRA (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "JA": "UNIT: JA\nkind: logogram\nattestations: 11 in 10 documents\nsites: Knossos 2, Palaikastr 2, Haghia Tri 1, Khania 1\nsupports: Stone vessel 6, Tablet 3, 4-sided bar 1\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 31\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), VIN (1), CYP (1), KU (1)\nas an added syllable, attached to: ]MI\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "*301+*311": "UNIT: *301+*311\nkind: logogram (ligature: base sign + added syllable)\nattestations: 10 in 10 documents\nsites: Khania 9, Armenoi 1\nsupports: Roundel 9, Stone object 1\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "DA": "UNIT: DA\nkind: logogram\nattestations: 9 in 9 documents\nsites: Haghia Tri 7, Gournia 2\nsupports: Tablet 4, Metal object 3, Nodule 1\nwith a figure: 1 times; fractions in 1 of them (100%; corpus base rate for commodity signs 27%); largest figure 43\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: CYP (1), KA (1)\nas an added syllable, attached to: *330, GRA\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (1 times)",
+  "*188": "UNIT: *188\nkind: logogram\nattestations: 9 in 9 documents\nsites: Haghia Tri 9\nsupports: Tablet 6, Roundel 2, Sealing 1\nwith a figure: 4 times; fractions in 2 of them (50%; corpus base rate for commodity signs 27%); largest figure 13\nin first position of a tablet: 2 of 6 (base rate for all units 11%)\nother units in the same documents: KI-RO (2), GRA (1), VIN (1), NI (1), KU-RO (1), CYP+D (1)\nas an added syllable, attached to: *337, *86\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times), NI (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "*516": "UNIT: *516\nkind: logogram\nattestations: 9 in 9 documents\nsites: Haghia Tri 3, Khania 3, Zakros 3\nsupports: Tablet 4, Stone vessel 3, Roundel 2\nwith a figure: 1 times; fractions in 1 of them (100%; corpus base rate for commodity signs 27%); largest figure 0\nin first position of a tablet: 1 of 4 (base rate for all units 11%)\nother units in the same documents: NI (2), KI (2), GRA (1), KU-RO (1), CYP (1), *308 (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (1 times)",
+  "*401+RU": "UNIT: *401+RU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 9 in 7 documents\nsites: Khania 7, Knossos 2\nsupports: Tablet 7, ivory object 2\nwith a figure: 2 times; fractions in 2 of them (100%; corpus base rate for commodity signs 27%); largest figure 0\nin first position of a tablet: 0 of 7 (base rate for all units 11%)\nother units in the same documents: CYP (4), *308 (3), NI (3), *306 (1), OLE+TA (1), TU (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (3 times), OLE (1 times)",
+  "HIDE+[?]": "UNIT: HIDE+[?]\nkind: logogram (ligature: base sign + added syllable)\nattestations: 9 in 8 documents\nsites: Malia 7, Phaistos 2\nsupports: Tablet 6, Roundel 1, Label 1\nwith a figure: 6 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 941\nin first position of a tablet: 3 of 6 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "KU-PA₃-NU": "UNIT: KU-PA₃-NU\nkind: syllabic sign-group\nattestations: 8 in 7 documents\nsites: Haghia Tri 7, Phaistos 1\nsupports: Tablet 8\nwith a figure: never\nin first position of a tablet: 0 of 8 (base rate for all units 11%)\nother units in the same documents: KU-RO (5), KI-RO (3), PA (2), KI (1), TU (1), NI (1)\nposition: comes after NI (1 times)",
+  "RU": "UNIT: RU\nkind: logogram\nattestations: 8 in 8 documents\nsites: Haghia Tri 3, Zakros 2, Khania 1, Malia 1\nsupports: Tablet 5, Stone vessel 2, 4-sided bar 1\nwith a figure: 2 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 28\nin first position of a tablet: 1 of 5 (base rate for all units 11%)\nother units in the same documents: PA (2), GRA (1), GRA+KU (1), KU (1), *21M (1), *22F (1)\nas an added syllable, attached to: *401, JA, MI\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times)",
+  "QA2+[?]+PU": "UNIT: QA2+[?]+PU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 8 in 8 documents\nsites: Haghia Tri 7, Khania 1\nsupports: Tablet 8\nwith a figure: 5 times; fractions in 4 of them (80%; corpus base rate for commodity signs 27%); largest figure 30\nin first position of a tablet: 0 of 8 (base rate for all units 11%)\nother units in the same documents: CYP (4), NI (3), SA-RA₂ (3), VIN (3), OLE+TA (2), KI-RO (2)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (4 times), GRA (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "MI+JA+RU": "UNIT: MI+JA+RU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 8 in 8 documents\nsites: Haghia Tri 5, Khania 3\nsupports: Tablet 8\nwith a figure: 5 times; fractions in 3 of them (60%; corpus base rate for commodity signs 27%); largest figure 4\nin first position of a tablet: 0 of 8 (base rate for all units 11%)\nother units in the same documents: CYP (4), *308 (4), VIN (2), OLE (1), SA-RA₂ (1), OLE+TA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (3 times), OLE (1 times)",
+  "QE": "UNIT: QE\nkind: logogram\nattestations: 8 in 8 documents\nsites: Haghia Tri 5, Khania 1, Palaikastr 1, Thera 1\nsupports: Tablet 6, 4-sided bar 1, Triton 1\nwith a figure: 5 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 30\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: NI (2), CYP (1), VIN (1), KU-RO (1), KI-RO (1), TE (1)\nas an added syllable, attached to: *307, DI, GRA, JU, PA3\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "SU": "UNIT: SU\nkind: logogram\nattestations: 8 in 8 documents\nsites: Khania 4, Haghia Tri 2, Mycenae 1, Zakros 1\nsupports: Tablet 6, Stone object 1, Stone vessel 1\nwith a figure: 6 times; fractions in 1 of them (17%; corpus base rate for commodity signs 27%); largest figure 12\nin first position of a tablet: 1 of 6 (base rate for all units 11%)\nother units in the same documents: CYP (2), KI-RO (1), NI (1), VIN (1), *306 (1), A-DU (1)\nas an added syllable, attached to: *413\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (1 times)",
+  "NE": "UNIT: NE\nkind: logogram\nattestations: 8 in 8 documents\nsites: Haghia Tri 4, Khania 2, Phaistos 1, Arkhalkhor 1\nsupports: Tablet 7, Metal object 1\nwith a figure: 3 times; fractions in 1 of them (33%; corpus base rate for commodity signs 27%); largest figure 13\nin first position of a tablet: 2 of 7 (base rate for all units 11%)\nother units in the same documents: KU (2), KU-RO (2), KI (2), GRA (1), TU (1), KI-RO (1)\nas an added syllable, attached to: OLE\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "VIR+KA": "UNIT: VIR+KA\nkind: logogram (ligature: base sign + added syllable)\nattestations: 8 in 8 documents\nsites: Khania 5, Haghia Tri 3\nsupports: Roundel 5, Tablet 3\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 82\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: NI (2), KU-RO (2), KI (2), KI-RO (1), A-DU (1), PA-I-TO (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "I-RA₂": "UNIT: I-RA₂\nkind: syllabic sign-group\nattestations: 8 in 8 documents\nsites: Haghia Tri 8\nsupports: Nodule 8\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)",
+  "*86+*188": "UNIT: *86+*188\nkind: logogram (ligature: base sign + added syllable)\nattestations: 8 in 8 documents\nsites: Khania 8\nsupports: Roundel 8\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "DA-RE": "UNIT: DA-RE\nkind: syllabic sign-group\nattestations: 7 in 7 documents\nsites: Haghia Tri 5, Palaikastr 1, Khania 1\nsupports: Tablet 6, 4-sided bar 1\nwith a figure: never\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: KU-RO (2), KU-NI-SU (1), PA (1), A-DU (1), PO-TO-KU-RO (1), JE-DI (1)\nposition: comes after GRA (1 times)",
+  "SE": "UNIT: SE\nkind: logogram\nattestations: 7 in 7 documents\nsites: Haghia Tri 3, Khania 2, Zakros 1, Gournia 1\nsupports: Tablet 4, Roundel 2, Stone vessel 1\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 64\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: NI (1), TE (1), KA (1)\nas an added syllable, attached to: DA, RE, SI\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times)",
+  "SI-RU-TE": "UNIT: SI-RU-TE\nkind: syllabic sign-group\nattestations: 7 in 7 documents\nsites: Iouktas 3, Kophinas 1, Syme 1, Troullos 1\nsupports: Stone vessel 7\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: JA-SA-SA-RA-ME (2)",
+  "MA-DI": "UNIT: MA-DI\nkind: syllabic sign-group\nattestations: 6 in 6 documents\nsites: Haghia Tri 5, Phaistos 1\nsupports: Tablet 6\nwith a figure: never\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: KI (2), KU-RO (2), PA (1), KA (1), PA-I-TO (1), *21M (1)\nLinear B: the same sequence exists in Linear B:  personal name",
+  "*307": "UNIT: *307\nkind: logogram\nattestations: 6 in 6 documents\nsites: Haghia Tri 5, Petras 1\nsupports: Tablet 5, Stone object 1\nwith a figure: 2 times; fractions in 1 of them (50%; corpus base rate for commodity signs 27%); largest figure 156\nin first position of a tablet: 1 of 5 (base rate for all units 11%)\nother units in the same documents: KU-RO (3), CYP (2), NI (2), VIN (2), SA-RA₂ (1), *308 (1)\nas an added syllable, attached to: *306-VIR, VIR\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times)",
+  "DI-NA-U": "UNIT: DI-NA-U\nkind: syllabic sign-group\nattestations: 6 in 5 documents\nsites: Haghia Tri 5, Knossos 1\nsupports: Tablet 5, Clay vessel 1\nwith a figure: never\nin first position of a tablet: 0 of 5 (base rate for all units 11%)\nother units in the same documents: VIN (2), KU-RO (2), PA (2), TE (1), *188+KU (1)\nposition: comes after VIN (1 times)",
+  "WA": "UNIT: WA\nkind: logogram\nattestations: 6 in 6 documents\nsites: Haghia Tri 3, Khania 1, Zakros 1, Arkhalkhor 1\nsupports: Tablet 2, Roundel 2, Stone vessel 1\nwith a figure: 4 times; fractions in 3 of them (75%; corpus base rate for commodity signs 27%); largest figure 60\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: *188+KU (2), *21M (1)\nas an added syllable, attached to: VIN\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "QA2+[?]+RE": "UNIT: QA2+[?]+RE\nkind: logogram (ligature: base sign + added syllable)\nattestations: 6 in 6 documents\nsites: Haghia Tri 6\nsupports: Tablet 6\nwith a figure: 4 times; fractions in 1 of them (25%; corpus base rate for commodity signs 27%); largest figure 10\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (3), CYP (2), VIN (2), *308 (2), OLE (1), *305 (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (2 times), OLE (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "JU": "UNIT: JU\nkind: logogram\nattestations: 6 in 6 documents\nsites: Haghia Tri 3, Knossos 1, Zakros 1, Arkhalkhor 1\nsupports: Tablet 4, Clay vessel 1, Stone vessel 1\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 22\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: KI (1), PA-I-TO (1), VIN (1), OLIV (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times)",
+  "SA-RU": "UNIT: SA-RU\nkind: syllabic sign-group\nattestations: 6 in 6 documents\nsites: Haghia Tri 6\nsupports: Tablet 6\nwith a figure: never\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (4), A-KA-RU (2), A-DU (2), KI-RO (2), KU-RO (2), RA (1)\nposition: comes after GRA (1 times), OLIV (1 times)",
+  "MI": "UNIT: MI\nkind: logogram\nattestations: 6 in 6 documents\nsites: Haghia Tri 2, Khania 1, Zakros 1, Knossos 1\nsupports: Tablet 3, Stone vessel 2, Nodule 1\nwith a figure: 10 times; fractions in 4 of them (40%; corpus base rate for commodity signs 27%); largest figure 1000\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), CYP (1), VIN (1), CYP+D (1)\nas an added syllable, attached to: *306, OLE, PA-OLE, SU\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times)",
+  "SI-KA": "UNIT: SI-KA\nkind: syllabic sign-group\nattestations: 6 in 6 documents\nsites: Haghia Tri 6\nsupports: Nodule 6\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\non nodules: 5 HT nodules, sealed by AT 125 man in kilt & man in (5)",
+  "I-PI-NA-MA": "UNIT: I-PI-NA-MA\nkind: syllabic sign-group\nattestations: 6 in 6 documents\nsites: Iouktas 2, Kophinas 1, Troullos 1, Vrysinas 1\nsupports: Stone vessel 6\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: JA-SA-SA-RA-ME (2)",
+  "*131C": "UNIT: *131C\nkind: logogram\nattestations: 6 in 5 documents\nsites: Khania 4, Knossos 1, Phaistos 1\nsupports: Tablet 6\nwith a figure: 3 times; fractions in 1 of them (33%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 6 (base rate for all units 11%)\nother units in the same documents: KU (2), OLE+TA (1), CYP (1), *308 (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times)",
+  "OLE+NE": "UNIT: OLE+NE\nkind: logogram (ligature: base sign + added syllable)\nattestations: 5 in 4 documents\nsites: Haghia Tri 4, Tylissos 1\nsupports: Tablet 5\nwith a figure: 2 times; fractions in 1 of them (50%; corpus base rate for commodity signs 27%); largest figure 2\nin first position of a tablet: 0 of 5 (base rate for all units 11%)\nother units in the same documents: *308 (3), SA-RA₂ (3), CYP (2), VIN (2), OLE+MI (2), NI (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (2 times), CYP (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "SA": "UNIT: SA\nkind: logogram\nattestations: 5 in 2 documents\nsites: Haghia Tri 5\nsupports: Tablet 5\nwith a figure: 6 times; fractions in 1 of them (17%; corpus base rate for commodity signs 27%); largest figure 100\nin first position of a tablet: 0 of 5 (base rate for all units 11%)\nother units in the same documents: VIN (4), GRA (4)\nas an added syllable, attached to: *330, VIN\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (2 times), VIN (1 times)",
+  "CAP": "UNIT: CAP\nkind: logogram\nattestations: 5 in 4 documents\nsites: Haghia Tri 2, Thera 2, Khania 1\nsupports: Tablet 3, Roundel 2\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 46\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: TELA+KU (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "ZU": "UNIT: ZU\nkind: logogram\nattestations: 5 in 5 documents\nsites: Haghia Tri 4, Khania 1\nsupports: Tablet 5\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 1 of 5 (base rate for all units 11%)\nother units in the same documents: *305 (2), TU (2), TE (1), KA (1), KI (1), PA-I-TO (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times)",
+  "*904": "UNIT: *904\nkind: logogram\nattestations: 5 in 2 documents\nsites: Haghia Tri 5\nsupports: Graffito 4, Tablet 1\nwith a figure: 5 times; fractions in 3 of them (60%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 0 of 1 (base rate for all units 11%)\nother units in the same documents: *305 (1), *22F (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "DA-KA": "UNIT: DA-KA\nkind: syllabic sign-group\nattestations: 5 in 5 documents\nsites: Haghia Tri 5\nsupports: Nodule 5\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\non nodules: 5 HT nodules, sealed by AT 125 man in kilt & man in (5)",
+  "I-DA": "UNIT: I-DA\nkind: syllabic sign-group\nattestations: 5 in 5 documents\nsites: Palaikastr 2, Zakros 2, Nerokurou 1\nsupports: Stone vessel 5\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: TE (1), KI (1), GRA (1)",
+  "OLE+E": "UNIT: OLE+E\nkind: logogram (ligature: base sign + added syllable)\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: 4 times; fractions in 2 of them (50%; corpus base rate for commodity signs 27%); largest figure 3\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: OLIV (3), GRA (2), OLE+MI (2), A-KA-RU (1), TE (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (2 times), GRA (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "KI-RE-TA-NA": "UNIT: KI-RE-TA-NA\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 1 of 4 (base rate for all units 11%)\nother units in the same documents: A-KA-RU (1), JE-DI (1), PA (1), DA-QE-RA (1), PA-I-TO (1)",
+  "SA-MA": "UNIT: SA-MA\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 3, Zakros 1\nsupports: Tablet 3, Stone vessel 1\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (1), PA (1), TE (1), *131B (1)\nLinear B: the same sequence exists in Linear B:",
+  "TA-NA-TI": "UNIT: TA-NA-TI\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: TU (2), KI (1)\nLinear B: the same sequence exists in Linear B:",
+  "PA-JA-RE": "UNIT: PA-JA-RE\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 3, Zakros 1\nsupports: Tablet 3, Stone vessel 1\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KA-PA (1), NI (1), KI-RO (1), KU-RO (1), A-DU (1), *131B (1)\nposition: comes after NI (1 times)",
+  "SA-RO": "UNIT: SA-RO\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 1 of 4 (base rate for all units 11%)\nother units in the same documents: TE (4), VIN (3), KU-RO (1), OLE+MI (1), KU (1), OLE (1)\nposition: comes after VIN (2 times); its figure is smaller than the preceding commodity figure in 2 of 2 (a sub-quantity pattern if most)",
+  "DA-RI-DA": "UNIT: DA-RI-DA\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: PA (2), KU-RO (2), KU-NI-SU (1), A-DU (1), SA-RA₂ (1), KA (1)",
+  "GRA+QE": "UNIT: GRA+QE\nkind: logogram (ligature: base sign + added syllable)\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 40\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (4), NI (3), GRA (3), VIN (2), OLE+MI (2), I-TA-JA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times)",
+  "OLE+RI": "UNIT: OLE+RI\nkind: logogram (ligature: base sign + added syllable)\nattestations: 4 in 4 documents\nsites: Haghia Tri 3, Khania 1\nsupports: Tablet 4\nwith a figure: 2 times; fractions in 2 of them (100%; corpus base rate for commodity signs 27%); largest figure 0\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: VIN (3), CYP (2), *308 (2), OLE+TA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (2 times)",
+  "QA2+[?]+RE+PU": "UNIT: QA2+[?]+RE+PU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 4 in 3 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: 2 times; fractions in 2 of them (100%; corpus base rate for commodity signs 27%); largest figure 17\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: *305 (3), PA (2), KU (2), CYP (1), VIN (1), *308 (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "*86": "UNIT: *86\nkind: logogram\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: 2 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 51\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: KU-RO (3), CYP (2), NI (2), VIN (1), PA (1), *305 (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "PU": "UNIT: PU\nkind: logogram\nattestations: 4 in 4 documents\nsites: Haghia Tri 1, Knossos 1, Milos 1, Thera 1\nsupports: Tablet 2, Graffito 1, Stone object 1\nwith a figure: 2 times; fractions in 1 of them (50%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 1 of 2 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (1), GRA (1), KI-RO (1), KA (1)\nas an added syllable, attached to: QA2\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times)",
+  "DU": "UNIT: DU\nkind: logogram\nattestations: 4 in 4 documents\nsites: Haghia Tri 2, Zakros 2\nsupports: Tablet 2, Stone vessel 2\nwith a figure: 4 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 20\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: KI-DA-RO (1), KA (1), PA (1), KU-RO (1), *131B (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "PI": "UNIT: PI\nkind: logogram\nattestations: 4 in 4 documents\nsites: Haghia Tri 2, Kea 1, Zakros 1\nsupports: Tablet 2, Clay vessel 1, Stone vessel 1\nwith a figure: 2 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 62\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: KI-DA-RO (1), KA (1)\nas an added syllable, attached to: *341\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "*312": "UNIT: *312\nkind: logogram\nattestations: 4 in 4 documents\nsites: Haghia Tri 2, Khania 1, Arkhalkhor 1\nsupports: Tablet 4\nwith a figure: 4 times; fractions in 1 of them (25%; corpus base rate for commodity signs 27%); largest figure 2\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: GRA (2), KI (1), TU (1), KI-RO (1), KU-RO (1), NI (1)\nas an added syllable, attached to: TELA\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times), GRA (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "A-SE": "UNIT: A-SE\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 3, Zakros 1\nsupports: Tablet 3, Stone vessel 1\nwith a figure: never\nin first position of a tablet: 2 of 3 (base rate for all units 11%)\nother units in the same documents: KI (1), SA-RA₂ (1), KA (1), *305 (1), *22F (1), VIN (1)\nLinear B: the same sequence exists in Linear B:\nposition: comes after VIN (1 times)",
+  "DA-ME": "UNIT: DA-ME\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (3), A-DU (2), A-KA-RU (1), GRA (1), DA-QE-RA (1), PA-I-TO (1)\nposition: comes after GRA (1 times)",
+  "MI-NU-TE": "UNIT: MI-NU-TE\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Haghia Tri 4\nsupports: Tablet 4\nwith a figure: never\nin first position of a tablet: 1 of 4 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (3), A-DU (2), A-KA-RU (1), GRA (1), CYP (1)\nposition: comes after GRA (1 times)",
+  "KU-PA": "UNIT: KU-PA\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Zakros 2, Haghia Tri 1, Khania 1\nsupports: Tablet 2, Stone vessel 2\nwith a figure: never\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: RA (2), NI (1), KU-RO (1), CYP (1), VIN (1), OLIV (1)\nLinear B: the same sequence exists in Linear B:\nposition: comes after VIN (1 times)",
+  "U-NA-KA-NA-SI": "UNIT: U-NA-KA-NA-SI\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Iouktas 2, Kophinas 1, Palaikastr 1\nsupports: Stone vessel 4\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: JA-SA-SA-RA-ME (3)",
+  "JA-SA": "UNIT: JA-SA\nkind: syllabic sign-group\nattestations: 4 in 4 documents\nsites: Iouktas 1, Malia 1, Phaistos 1, Samothrace 1\nsupports: Stone vessel 1, Clay vessel 1, Lames (short 1\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: TE (1)",
+  "ZA": "UNIT: ZA\nkind: logogram\nattestations: 4 in 4 documents\nsites: Khania 2, Zakros 2\nsupports: Tablet 2, Stone vessel 2\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 1 of 2 (base rate for all units 11%)\nother units in the same documents: NI (2), CYP (2), VIN (1), *306 (1), A-DU (1), *22F (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "*316": "UNIT: *316\nkind: logogram\nattestations: 4 in 3 documents\nsites: Phaistos 3, Khania 1\nsupports: Tablet 4\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 4 (base rate for all units 11%)\nother units in the same documents: CYP (2), NI (1), TU (1), VIN (1), GRA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after VIN (1 times)",
+  "QE-RA₂-U": "UNIT: QE-RA₂-U\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (2), KI-RO (1), GRA (1), A-DU (1)\nposition: comes after GRA (1 times)",
+  "PA₃-NI-NA": "UNIT: PA₃-NI-NA\nkind: syllabic sign-group\nattestations: 3 in 2 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (2), KA (2)",
+  "TE-TU": "UNIT: TE-TU\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: VIN (1), KU-RO (1), TE (1), PA (1), KA (1)\nposition: comes after VIN (1 times)",
+  "PA-DE": "UNIT: PA-DE\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KU-RO (3), VIN (1), TE (1), PA (1)\nLinear B: the same sequence exists in Linear B:  place name\nposition: comes after VIN (1 times)",
+  "TA-I-AROM": "UNIT: TA-I-AROM\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: KU-RO (3), VIN (1), TE (1), KU (1)\nposition: comes after VIN (1 times)",
+  "*560": "UNIT: *560\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Phaistos 1\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), DA-I (1), OLE+DI (1), KI-MA-RU (1), MA-RU-ME (1), PA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times)",
+  "*118": "UNIT: *118\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Knossos 1\nsupports: Tablet 3\nwith a figure: 3 times; fractions in 1 of them (33%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), DA-I (1), OLE+DI (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "RE-ZA": "UNIT: RE-ZA\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Khania 1\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: KU-RO (2), VIN (1), TE (1), NI (1), KI-RO (1), A-DU (1)\nLinear B: the same sequence exists in Linear B:\nposition: comes after VIN (1 times)",
+  "KA-KU-PA": "UNIT: KA-KU-PA\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Roundel 2, Tablet 1\nwith a figure: never\nin first position of a tablet: 1 of 1 (base rate for all units 11%)\nother units in the same documents: *188+KU (1), CYP (1)",
+  "OLE+TU": "UNIT: OLE+TU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Tylissos 1\nsupports: Tablet 3\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: VIN (2), OLE+MI (2), CYP (1), *308 (1), I-TA-JA (1), SA-RA₂ (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (2 times), CYP (1 times); its figure is smaller than the preceding commodity figure in 1 of 1 (a sub-quantity pattern if most)",
+  "MU": "UNIT: MU\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 1, Khania 1, Tel Haror 1\nsupports: Tablet 2, Clay vessel 1\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: CYP (2), OLE (1), *21M (1), PA (1), *306 (1), CYP+D (1)\nas an added syllable, attached to: KI\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times), CYP (1 times)",
+  "KI+MU": "UNIT: KI+MU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 2 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 15\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KU (2), KU-RO (2)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "MI+JA+I": "UNIT: MI+JA+I\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Khania 1\nsupports: Tablet 3\nwith a figure: 2 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1000\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: KI-RO (2), SA-RA₂ (1), GRA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "*326": "UNIT: *326\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 1 of 3 (base rate for all units 11%)\nother units in the same documents: VIN (2), GRA (2), OLE+TA (1), CYP (1), *308 (1), NI (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "AU": "UNIT: AU\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Iouktas 1\nsupports: Tablet 2, Stone vessel 1\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 1 of 2 (base rate for all units 11%)\nother units in the same documents: TELA+KU (1), KI (1), KU-RO (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "SI+SE": "UNIT: SI+SE\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Haghia Tri 2, Mycenae 1\nsupports: Tablet 2, Metal object 1\nwith a figure: never\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: OLE+MI (2), OLE (2), TE (2), KU (1), OLIV (1), GRA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after OLE (1 times)",
+  "*318": "UNIT: *318\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: PA (2), *305 (2), KU (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "*OLIV+TU": "UNIT: *OLIV+TU\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: OLIV (3), GRA (3), OLE+MI (3), OLE (2), SA-RA₂ (1), OLE+DI (1)\nposition: comes after OLIV (2 times), OLE (1 times); its figure is smaller than the preceding commodity figure in 0 of 2 (a sub-quantity pattern if most)",
+  "NU": "UNIT: NU\nkind: logogram\nattestations: 3 in 3 documents\nsites: Haghia Tri 1, Khania 1, Palaikastr 1\nsupports: Tablet 2, Stone vessel 1\nwith a figure: 2 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 25\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: VIN (1), KU (1), GRA (1), KA (1), TE (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after GRA (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "GRA+K+L": "UNIT: GRA+K+L\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 74\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (2), A-KA-RU (2), A-DU (1), DA-QE-RA (1), PA-I-TO (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "DI-DE-RU": "UNIT: DI-DE-RU\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KU-NI-SU (3), A-DU (2), A-KA-RU (1), GRA (1)\nposition: comes after GRA (1 times)",
+  "TE-RI": "UNIT: TE-RI\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 1, Phaistos 1, Arkhalkhor 1\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), OLIV (1), VIN (1), GRA (1), OLE+MI (1), *21M (1)\nposition: comes after VIN (1 times)",
+  "QA-QA-RU": "UNIT: QA-QA-RU\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: KU-RO (2), SA-RA₂ (1), KA (1), KI (1), PO-TO-KU-RO (1), JE-DI (1)",
+  "PA-SE-JA": "UNIT: PA-SE-JA\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Roundel 2, Tablet 1\nwith a figure: never\nin first position of a tablet: 0 of 1 (base rate for all units 11%)\nother units in the same documents: SA-RA₂ (1), KA (1)",
+  "PA-TA-NE": "UNIT: PA-TA-NE\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Haghia Tri 3\nsupports: Tablet 2, Nodule 1\nwith a figure: never\nin first position of a tablet: 0 of 2 (base rate for all units 11%)\nother units in the same documents: KU-RO (2), KI-RO (1), RA (1), PA (1)",
+  "*304+PA": "UNIT: *304+PA\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Khania 2, Haghia Tri 1\nsupports: Tablet 3\nwith a figure: 2 times; fractions in 1 of them (50%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: NI (2), SA-RA₂ (1), CYP (1), KI (1), *305 (1), VIN (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after CYP (1 times), NI (1 times); its figure is smaller than the preceding commodity figure in 0 of 1 (a sub-quantity pattern if most)",
+  "GRA+F": "UNIT: GRA+F\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Khania 2, Haghia Tri 1\nsupports: Tablet 3\nwith a figure: 2 times; fractions in 2 of them (100%; corpus base rate for commodity signs 27%); largest figure 70\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: NI (2)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "A-RI": "UNIT: A-RI\nkind: syllabic sign-group\nattestations: 3 in 2 documents\nsites: Phaistos 2, Haghia Tri 1\nsupports: Tablet 3\nwith a figure: never\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nLinear B: the same sequence exists in Linear B:",
+  "ME": "UNIT: ME\nkind: logogram\nattestations: 3 in 3 documents\nsites: Zakros 2, Iouktas 1\nsupports: Stone vessel 3\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: PA (1), TE (1), KI (1)\nas an added syllable, attached to: OLE, SI\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "JE": "UNIT: JE\nkind: logogram\nattestations: 3 in 3 documents\nsites: Khania 2, Thera 1\nsupports: Tablet 2, Clay vessel 1\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 2\nin first position of a tablet: 1 of 2 (base rate for all units 11%)\nother units in the same documents: NI (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "*401+RO": "UNIT: *401+RO\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Khania 2, Milos 1\nsupports: Tablet 3\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 3 (base rate for all units 11%)\nother units in the same documents: NI (1), TU (1), VIN (1), GRA (1), KA (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here\nposition: comes after NI (1 times)",
+  "*322": "UNIT: *322\nkind: logogram\nattestations: 3 in 3 documents\nsites: Khania 3\nsupports: Roundel 3\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "A-MA": "UNIT: A-MA\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Malia 1, Zakros 1, Haghios St 1\nsupports: 3-sided bar 1, Stone vessel 1, Stone object 1\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: the same sequence exists in Linear B:",
+  "A-JA": "UNIT: A-JA\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Malia 1, Petras 1, Syme 1\nsupports: Tablet 1, Inked inscri 1, Stone vessel 1\nwith a figure: never\nin first position of a tablet: 1 of 1 (base rate for all units 11%)\nLinear B: the same sequence exists in Linear B:",
+  "*412+E": "UNIT: *412+E\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Malia 3\nsupports: 4-sided bar 3\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 4\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "*418+L2": "UNIT: *418+L2\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 3 documents\nsites: Phaistos 1, Palaikastr 1, Knossos 1\nsupports: Tablet 1, Stone vessel 1, ivory object 1\nwith a figure: 1 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 1\nin first position of a tablet: 0 of 1 (base rate for all units 11%)\nother units in the same documents: NI (1)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "SI-PI-KI": "UNIT: SI-PI-KI\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Zakros 3\nsupports: Stone vessel 3\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)",
+  "QI+SI": "UNIT: QI+SI\nkind: logogram (ligature: base sign + added syllable)\nattestations: 3 in 1 documents\nsites: Zakros 3\nsupports: Stone vessel 3\nwith a figure: 3 times; fractions in 0 of them (0%; corpus base rate for commodity signs 27%); largest figure 5\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: *22F (3), RA (3)\nLinear B: shared sign shapes are noted in the dictionary entry only when established; none given here",
+  "DU-RE-ZA-SE": "UNIT: DU-RE-ZA-SE\nkind: syllabic sign-group\nattestations: 3 in 3 documents\nsites: Zakros 3\nsupports: Stone vessel 3\nwith a figure: never\nin first position of a tablet: 0 of 0 (base rate for all units 11%)\nother units in the same documents: PA (1), DA-I-PI-TA (1), *131B (1)"
+ },
+ "proposals": [
+  {
+   "unit": "*301",
+   "class": "heading",
+   "reading": "*301 is a record or transaction label that opens or frames an administrative entry, not a counted commodity.",
+   "why": "It appears on 230 nodules (administrative tags, not commodity tallies), it is almost never in first position on tablets (1 of 7, well below the base rate for commodity signs), and when it does carry a figure the largest is only 11 with fractions in only 17% of cases—consistent with an administrative label rather than a commodity being measured; crucially, it also attaches as a syllable to other signs (DA, I, MI), suggesting a functional/classificatory role rather than a commodity identity.",
+   "refuted_by": "If *301 were found consistently in first position on tablets heading lists of commodities with summing totals below it, or if it appeared in species-by-sex lists or alongside VIR with large whole-number figures, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SI",
+   "class": "staple",
+   "reading": "SI is a staple commodity, likely a plant product such as cyperus or a similar agricultural good, recorded in moderate whole-number quantities with fractions at the ordinary rate.",
+   "why": "Fractions appear in 23% of figured entries, matching the corpus base rate for commodity signs (27%), consistent with a staple rather than a fine or bulk good; the largest figure is only 14, indicating moderate quantities typical of staples; it co-occurs repeatedly with CYP (7 times) and appears after CYP with a smaller sub-quantity figure in all 3 measurable cases, suggesting it is a secondary commodity measured out from or alongside cyperus consignments.",
+   "refuted_by": "If SI were found with figures consistently in the hundreds, or if fractions were shown to be systematically absent across a larger sample, the staple reading would be undermined; equally, if SI were demonstrated to always precede a commodity sign as an attached syllable rather than standing independently with its own figure, it would be reclassified as a qualifier.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "RO",
+   "class": "qualifier",
+   "reading": "RO is a syllabic sign added to commodity logograms to mark a subtype or grade, not itself a counted commodity.",
+   "why": "It appears attached as an added syllable to other signs (*401, DA, ]TU) rather than standing alone with figures; it records a figure only once in 95 attestations (and that figure is small, 20), and it never opens a tablet (0 of 2), which rules out heading; the overwhelming support on nodules sealed by specific sealers suggests it tags batches rather than enumerates a commodity in its own right.",
+   "refuted_by": "If RO were found repeatedly heading its own columns with substantial figures and fractions at the corpus base rate, or listed in species-by-sex or graded series independent of any host logogram, the qualifier reading would be false.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "ZE",
+   "class": "heading",
+   "reading": "ZE is a transaction or record label that opens or frames an administrative entry, not a commodity or party counted in its own right.",
+   "why": "The largest figure recorded with ZE is 0, meaning it never actually carries a count; it appears overwhelmingly on nodules (46 of 47 attestations) rather than tablets, which fits a sealing label rather than a commodity entry; and it never appears in first position on the one tablet where it occurs, suggesting it functions as a tag or label attached to sealed consignments rather than as a line-item commodity.",
+   "refuted_by": "If ZE were found heading a tablet entry with a substantial positive integer following it, or if it appeared in a species-by-sex list alongside livestock signs with counts, the heading reading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "VIR+[?]",
+   "class": "persons",
+   "reading": "A category of male persons distinguished from plain VIR by an added syllabic qualifier, counted in whole units and recorded in moderate to large numbers.",
+   "why": "The base sign is VIR (the standard male-person logogram); figures reach 235 and fractions appear in only 1 of 20 cases (5%, far below the 27% commodity base rate), both hallmarks of person-counting; the ligature structure (VIR + added syllable) matches the Linear A practice of specifying a sub-class of persons by appending a qualifier to the base sign.",
+   "refuted_by": "If the unit were found consistently following GRA or CYP as a sub-quantity with fractional amounts at or above the corpus base rate, that would indicate a commodity ration or measure rather than a class of persons.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "TA",
+   "class": "staple",
+   "reading": "TA is a staple commodity, likely a plant-based foodstuff, recorded in modest whole-number quantities across multiple administrative sites.",
+   "why": "The largest figure is only 6, consistent with medium-scale staple accounting rather than bulk grain; fractions appear in 1 of 8 figured entries (12%), which is below the ordinary rate but not absent, fitting a staple better than a fine commodity; it appears on both tablets and nodules across four sites, suggesting a routinely tracked commodity in a standard administrative network, and it follows GRA and CYP in sequence, placing it among plant staples.",
+   "refuted_by": "If TA were found consistently with figures in the hundreds or thousands, or if it appeared exclusively as an addendum to another sign rather than as a free-standing entry, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*304",
+   "class": "staple",
+   "reading": "*304 is a staple commodity—likely a solid agricultural product such as figs, olives, or a similar stored good—recorded in moderate quantities with fractions at the ordinary rate.",
+   "why": "Fractions appear in 24% of attestations, matching the corpus base rate of 27% (consistent with staple, not bulk or fine); the largest figure is only 20, indicating moderate quantities typical of staples rather than bulk grain; it co-occurs overwhelmingly with GRA, OLIV, NI, and OLE-grade commodities, placing it firmly in the agricultural staple register, and it follows GRA or OLE in sequence with a smaller figure 8 of 14 times, suggesting it is a sub-quantity or secondary commodity within the same agricultural entry rather than a heading or total.",
+   "refuted_by": "If *304 were found consistently preceding its figure in first position on tablets (approaching the 11% base rate or higher), or if its figures were shown to sum the entries above them, it would indicate a heading or total rather than a commodity; alternatively, if fractions were found to be systematically absent across a larger sample, reclassification as a bulk staple would be warranted.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "OLE+U",
+   "class": "liquid",
+   "reading": "OLE+U is a graded variety or quality of oil, distinguished from plain OLE by the added syllable U, counted in bulk whole units with fractions at a low rate.",
+   "why": "The base sign OLE is the standard oil logogram and the ligature OLE+U follows the pattern of graded liquid commodities marked by an added syllable; fractions appear in only 2 of 19 figured entries (11%), consistent with the liquid class (ordinary rate) rather than the fine class (high fractions) or bulk grain class (near-zero fractions); it co-occurs repeatedly with OLE, OLE+MI, and OLIV, a cluster that is exactly what is expected for a set of oil grades recorded together.",
+   "refuted_by": "If OLE+U were found consistently heading tablets before any other entry, or if its figures were shown to sum the OLE and OLE+MI entries above it, it would be a heading or total rather than a commodity; alternatively, if the fraction rate rose well above the corpus base rate of 27% in a larger sample, a reclassification toward the fine class would be required.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "OLE+KI",
+   "class": "liquid",
+   "reading": "OLE+KI is a graded or typed variety of the oil commodity, distinguished from plain OLE by the added syllable KI, recorded in moderate quantities with fractions at a rate consistent with liquid commodities.",
+   "why": "(1) The base sign is OLE, the standard oil logogram, and the ligature pattern (base + added syllable) matches the graded-liquid convention seen across the corpus. (2) Fractions appear in 33% of entries, close to the corpus base rate of 27%, which fits liquid commodities rather than bulk staples (where fractions are rare) or fine commodities (where fractions dominate). (3) It recurs in the same documents as OLE, OLIV, and OLE+MI—a cluster of oil-related signs—and follows OLE with a smaller figure in 4 of 5 cases, consistent with a sub-type or secondary grade of oil being recorded after the main oil entry.",
+   "refuted_by": "If OLE+KI were found systematically in first position opening tablets, or consistently listed alongside VIR and person-counts rather than oil signs, or if its figures were shown to be whole-unit only with no fractions across a larger sample, the liquid-grade reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "GRA+PA",
+   "class": "staple",
+   "reading": "GRA+PA is a staple commodity, likely a variety or processed form of grain, recorded in moderate whole-number quantities with fractions at a below-average rate.",
+   "why": "The base sign is GRA (grain), and the ligature pattern—an added syllable modifying a commodity sign—matches graded staple commodities; figures reach 62 with fractions in only 17% of attestations (below the 27% corpus base rate, consistent with a bulk-leaning staple rather than a fine commodity); it co-occurs repeatedly with GRA and OLIV, the core staple signs, and follows GRA in the entry order three times, suggesting it is a related but distinct grain category.",
+   "refuted_by": "If GRA+PA were consistently found in fractional amounts at or above the corpus base rate (≥27%), or if it appeared exclusively with fine or liquid commodities rather than grain and olive signs, the staple reading would be undermined; equally, if future decipherment showed PA here functions as a qualifier on a non-grain base sign, the grain-variety interpretation would collapse.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "DI",
+   "class": "bulk",
+   "reading": "DI is a bulk staple commodity, most likely a grain or grain-like product recorded in whole units with figures up to 65.",
+   "why": "Fractions appear in only 2 of 14 counted entries (14%), well below the corpus base rate of 27%, pointing to a bulk commodity rather than a fine or liquid one; the largest figure reaches 65, consistent with staple-scale quantities; it follows GRA twice and its figure is smaller than the preceding GRA figure in the one case where comparison is possible, suggesting it is a related sub-commodity or secondary grain product tallied after the main grain entry.",
+   "refuted_by": "If future tablets showed DI consistently appearing with fractional amounts at or above the corpus base rate (≥27%), or if DI were found opening documents in first position at the base rate, the bulk classification would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "RE",
+   "class": "staple",
+   "reading": "RE is a staple commodity, likely a foodstuff or agricultural product counted in moderate whole quantities alongside grain and wine.",
+   "why": "Fractions appear in only 8% of attestations (below the corpus base rate of 27%, but not negligible), the largest figure is 104 (moderate, consistent with staple-scale quantities), and it co-occurs repeatedly with GRA and VIN—the core staple and liquid commodities—following them in sequence, suggesting it belongs to the same accounting register.",
+   "refuted_by": "If RE were found heading tablets at a rate near the base rate (11%) or consistently preceding rather than following commodity logograms, it would suggest a heading or qualifier role rather than a commodity entry; alternatively, if figures attached to RE were consistently small and fractional, a reclassification as a fine commodity would be warranted.",
+   "confidence": "low"
+  },
+  {
+   "unit": "CYP+E",
+   "class": "staple",
+   "reading": "CYP+E is a graded or differentiated variety of cyperus, counted in medium whole figures with fractions at an ordinary rate.",
+   "why": "It co-occurs overwhelmingly with CYP (6 times) and NI (10 times), the classic cyperus-and-NI pairing of staple accounting; its fraction rate (36%) is close to the corpus staple norm and well above the bulk-commodity pattern; and its largest figure (20) is modest, consistent with measured staple quantities rather than bulk grain or livestock tallies.",
+   "refuted_by": "If CYP+E were found systematically listed alongside VIR or sex-disaggregated counts, or if its figures were consistently sub-unit fractions only with no whole-number entries, the staple reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "NA",
+   "class": "staple",
+   "reading": "NA is a staple commodity, likely a foodstuff such as figs, olives, or a similar agricultural product, recorded in modest whole-number quantities with fractions at the ordinary rate.",
+   "why": "The largest figure is only 8, consistent with medium-scale staple quantities rather than bulk grain; fractions appear in 1 of 4 figured entries (25%), matching the corpus base rate for commodity signs (27%) and ruling out bulk or fine class; it appears alongside GRA (grain) and VIN (wine/vine), a grouping typical of agricultural staple records.",
+   "refuted_by": "If NA were found consistently recorded in large figures (dozens or hundreds) without fractions, or if it were shown to appear only as an addendum ligated to another sign rather than as a free-standing commodity entry, the staple reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "MA",
+   "class": "staple",
+   "reading": "MA is a staple commodity—likely a foodstuff such as figs, olives, or a similar agricultural product—recorded in moderate quantities across multiple palatial sites.",
+   "why": "Fractions appear in 2 of 6 figured attestations (33%), matching the ordinary corpus rate for staple commodities rather than the near-zero rate of bulk grains or the high rate of fine goods; the largest figure is 100, consistent with medium-scale staple accounting; it appears across four geographically distinct sites (Haghia Triada, Khania, Zakros, Thera), suggesting a widely administered commodity rather than a local specialty or personal name.",
+   "refuted_by": "If MA were consistently found only in fractional amounts with figures below 10, or if it were shown to appear as a ligature element added to another sign rather than standing alone as a commodity entry, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "DA",
+   "class": "fine",
+   "reading": "DA marks a valued commodity recorded in small quantities with fractional amounts, consistent with a precious or rare good such as a spice, aromatic, or metal.",
+   "why": "The single attested figure is small (largest 43, but fractions appear in 100% of occurrences against a corpus base rate of 27%, signalling fine subdivision typical of precious commodities); it appears on metal objects (3 supports), which are associated with high-value recording contexts; and it co-occurs with CYP (cyperus, an aromatic), suggesting an environment of valued plant or processed goods.",
+   "refuted_by": "If DA were found in documents with large whole-number figures and no fractions, or listed alongside livestock or grain tallies in bulk quantities, the fine-commodity reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*188",
+   "class": "fine",
+   "reading": "*188 is a valued commodity recorded in small quantities with fractions, likely a spice, aromatic, or similar high-value good.",
+   "why": "The largest figure is only 13, which is small; fractions appear in 50% of the documents with figures, well above the 27% corpus base rate for commodity signs; and it appears after GRA and NI as a sub-quantity (smaller figure than the preceding commodity), consistent with a minor valued additive rather than a bulk staple.",
+   "refuted_by": "If future tablets showed *188 recorded in large whole-number quantities (e.g., figures in the hundreds) without fractions, the fine-commodity reading would be false and a bulk or staple class would be required instead.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "*516",
+   "class": "staple",
+   "reading": "*516 is a staple commodity, likely a plant product such as cyperus or a similar agricultural good, recorded in whole units across administrative contexts at multiple palatial sites.",
+   "why": "The single attested figure is accompanied by fractions (100% fraction rate against a 27% base rate is based on only 1 figure, so this is weak, but fractions do appear, consistent with staple rather than bulk or fine); it appears on stone vessels and roundels as well as tablets, a support profile matching commodity recording; and it co-occurs with CYP (cyperus) and GRA (grain), placing it firmly in the agricultural commodity cluster.",
+   "refuted_by": "If *516 were found consistently preceding or following a figure that sums other entries (functioning like KU-RO), or if it appeared repeatedly without any accompanying numeral, the staple reading would be false and a heading or total classification would be required instead.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*401+RU",
+   "class": "staple",
+   "reading": "*401+RU is a staple commodity, likely a plant product or processed good, recorded in small-to-medium quantities alongside cyperus, olive products, and similar staples.",
+   "why": "It co-occurs repeatedly with CYP (cyperus, 4 times) and NI (figs, 3 times) and OLE (olive, 1 time), all canonical staple commodities; it follows CYP and OLE in entry order, consistent with a commodity listed in sequence with peers rather than heading or summing them; fractions appear in 100% of entries with figures, which is above the 27% base rate but not extreme, fitting the staple class better than bulk (which rarely takes fractions) or fine (which would show very small figures with high fraction rates).",
+   "refuted_by": "If future tablets show *401+RU appearing before a summing total that aggregates entries of CYP or NI, or if it is found qualifying another sign as a ligature component rather than standing as an independent entry with its own figure, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "KU-PA₃-NU",
+   "class": "total",
+   "reading": "KU-PA₃-NU is a totalling word that precedes or accompanies a summed figure in the account.",
+   "why": "It co-occurs overwhelmingly with KU-RO (5 times) and KI-RO (3 times), both well-known Linear A totalling/balancing terms, placing it firmly in the accounting summary vocabulary; it never appears with a commodity figure of its own (\"with a figure: never\"); and it never opens a tablet (0 of 8 in first position), consistent with a word that appears inside or at the close of an entry rather than as a heading.",
+   "refuted_by": "If a tablet were found showing KU-PA₃-NU followed directly by a numeral with no intervening KU-RO or KI-RO, and especially if it appeared in first position opening a new section, the totalling reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "RU",
+   "class": "heading",
+   "reading": "RU is a label or transaction term that opens or titles a record, not a counted commodity.",
+   "why": "It appears in first position on a tablet at a rate (1 of 5, 20%) well above the corpus base rate (11%), suggesting a document-opening role; it carries figures only twice across 8 attestations and never with fractions, which is inconsistent with a commodity being tallied; and it appears across diverse support types (tablet, stone vessel, 4-sided bar) and four sites, suggesting a functional administrative term rather than a site-specific commodity.",
+   "refuted_by": "If RU were found consistently following a total-marker or appearing mid-tablet after a list of entries with accumulating figures, its heading role would be falsified and a commodity or total reading would be preferred instead.",
+   "confidence": "low"
+  },
+  {
+   "unit": "QA2+[?]+PU",
+   "class": "fine",
+   "reading": "A valued commodity, likely a processed or graded derivative of olive oil or grain, recorded in small fractional amounts as a sub-quantity of a preceding commodity entry.",
+   "why": "Fractions appear in 80% of attestations with figures (far above the 27% corpus base rate for commodity signs), the largest figure is only 30, and in the one case where a preceding commodity figure is available the QA2+[?]+PU figure is smaller — a classic sub-quantity pattern consistent with a costly or refined product drawn from a bulk commodity.",
+   "refuted_by": "If future attestations show QA2+[?]+PU consistently recorded in large whole-number figures without fractions, or appearing independently of bulk commodity entries rather than after OLE or GRA, the fine-commodity reading would be falsified.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "MI+JA+RU",
+   "class": "fine",
+   "reading": "MI+JA+RU is a valued commodity recorded in small quantities with a high rate of fractional amounts, consistent with a spice, aromatic, or similar fine good.",
+   "why": "The largest figure is only 4, indicating small quantities typical of fine commodities; fractions appear in 60% of attestations with figures, more than double the corpus base rate of 27%, strongly suggesting a high-value commodity measured precisely; it appears alongside CYP (cyperus, an aromatic) and OLE (oil), company consistent with fine or aromatic goods.",
+   "refuted_by": "If MI+JA+RU were found recorded in large whole-number quantities (e.g., figures in the dozens or hundreds) without fractions, the fine-commodity reading would be falsified.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "QE",
+   "class": "qualifier",
+   "reading": "QE is a syllabic sign added to commodity logograms to mark a subtype or grade of the commodity.",
+   "why": "It is attested as an added syllable attached to at least five different signs (*307, DI, GRA, JU, PA3), which is the defining behaviour of a qualifier; it never opens a tablet (0 of 6, against an 11% base rate), making it unlikely to be a heading or total; and it co-occurs with commodity signs (GRA, VIN, CYP) rather than appearing as a standalone counted item.",
+   "refuted_by": "If QE were found standing alone before a numeral, without attachment to any logogram or commodity sign, across multiple documents, it would cease to be a qualifier and would need reclassification as a commodity or name.",
+   "confidence": "high"
+  },
+  {
+   "unit": "SU",
+   "class": "staple",
+   "reading": "SU is a staple commodity, likely a plant product or processed foodstuff, recorded in moderate whole-number quantities with fractions at a rate consistent with ordinary staple goods.",
+   "why": "The largest figure is only 12, consistent with staple-scale rather than bulk-grain quantities; fractions appear in 1 of 6 figured entries (17%), close to the corpus staple rate and not suppressed as in bulk commodities; it co-occurs with CYP (cyperus, a known staple) and VIN (wine), suggesting a commodity context rather than a personnel or textile list.",
+   "refuted_by": "If SU were found consistently in large figures (hundreds or thousands) with fractions near zero, or if it appeared exclusively attached to other signs as a ligature qualifier rather than standing alone with its own figures, the staple reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "NE",
+   "class": "heading",
+   "reading": "NE is a label or transaction word that opens a tablet record, not a counted commodity.",
+   "why": "It appears in first position on 2 of 7 tablets (29%), far above the 11% base rate for all units, signalling a document-opening function; it is attested on only 8 documents across four sites with no consistent large figures, unlike a commodity; and it appears on a metal object as well as tablets, consistent with a label rather than a tally entry.",
+   "refuted_by": "If NE were found consistently in mid-tablet position following other entries, or if it accumulated large summed figures under a KU-RO total, it would cease to look like a heading and would need reclassification as a commodity or name.",
+   "confidence": "low"
+  },
+  {
+   "unit": "VIR+KA",
+   "class": "persons",
+   "reading": "VIR+KA denotes a category of male persons, distinguished from plain VIR by the added syllable KA, counted in whole units and recorded in administratively significant quantities.",
+   "why": "The base sign is VIR (the standard male-person logogram); figures are whole numbers with no fractions (0% vs. 27% corpus base rate), consistent with counting persons; the largest figure of 82 is in the range typical of personnel tallies rather than small commodity lots.",
+   "refuted_by": "If VIR+KA were found recorded alongside fractional quantities, or if the sign appeared in contexts where livestock or commodity signs dominate without any personnel vocabulary, the persons reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "DA-RE",
+   "class": "heading",
+   "reading": "DA-RE is a transaction or record label that opens or frames an entry, functioning as an administrative heading rather than a commodity or party.",
+   "why": "It never appears with a figure of its own; it appears after GRA (a grain commodity sign), suggesting it labels or qualifies the record rather than being counted itself; it is never in first position on a tablet (0/6), which is unusual for a heading but consistent with a section label within a document rather than an opening title, and its co-occurrence with totalling words like KU-RO and PO-TO-KU-RO suggests it sits inside structured accounting blocks as a category marker.",
+   "refuted_by": "If DA-RE were found accompanied by its own numeral in a list alongside other commodities or persons, it would cease to be a heading and would instead be a commodity or name entry.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SE",
+   "class": "qualifier",
+   "reading": "SE is a bare syllable added to commodity signs to mark a subtype or grade of the commodity.",
+   "why": "It is attested as an added syllable attached to DA, RE, and SI, which is the defining behaviour of a qualifier; it never appears with a figure of its own in a first-position heading role (0 of 4 tablets); and it lacks a shared Linear B sign entry, consistent with a functional rather than lexical logogram.",
+   "refuted_by": "If SE were found standing alone before a large figure, counted independently as a commodity or person total without attachment to another sign, the qualifier reading would be false.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "SI-RU-TE",
+   "class": "name",
+   "reading": "SI-RU-TE is a party name — a person or place — recorded as a list entry on stone vessels at multiple sanctuary sites.",
+   "why": "All 7 attestations are on stone vessels (a dedicatory/administrative object type, not a commodity tablet), spread across four distinct sanctuary or peak-sanctuary sites (Iouktas, Kophinas, Syme, Troullos), which matches the pattern of a named dedicant or place rather than a commodity; its co-occurrence with JA-SA-SA-RA-ME, a well-known divine or ritual formula, further places it in a named-party context rather than a goods inventory.",
+   "refuted_by": "If SI-RU-TE were found accompanied by metrological signs (fractional or large whole-number quantities with commodity ideograms) on a tablet recording staples or liquids, the name reading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "MA-DI",
+   "class": "name",
+   "reading": "MA-DI is a personal or place name entered as a party in administrative records, most likely identifying an individual or locality associated with transactions at Haghia Triada and Phaistos.",
+   "why": "The identical sequence exists in Linear B as a personal name, providing the strongest parallel; it never appears with a commodity figure of its own and never opens a tablet (ruling out heading or total); it co-occurs with KU-RO (a known totalling word) and PA-I-TO (the place name Phaistos), the pattern typical of named parties in an account rather than a commodity entry.",
+   "refuted_by": "If MA-DI were found consistently preceding or following a numeral with a commodity ideogram (especially with fractional quantities or a species sign), it would indicate a commodity or staple rather than a name.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "*307",
+   "class": "staple",
+   "reading": "*307 is a staple commodity, likely a solid foodstuff such as figs, olives, or a similar agricultural product, counted in moderate whole figures with fractions occurring at roughly the ordinary rate.",
+   "why": "The largest figure of 156 is consistent with medium-scale staple quantities; fractions appear in 1 of 2 figured entries (50%), which is elevated above the bulk-grain rate but sits in the range expected for staples and liquids; it appears after OLE once, suggesting it belongs in the same commodity environment as oil-related goods rather than among persons or textiles.",
+   "refuted_by": "If *307 were found consistently recorded only in very small fractional amounts with no large whole-number entries, or if it were shown to attach systematically to VIR entries as a person-qualifier rather than standing as an independent commodity count, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "DI-NA-U",
+   "class": "liquid",
+   "reading": "DI-NA-U is a liquid commodity, most likely a grade or variety of wine, recorded in small quantities alongside VIN entries on tablets and a clay vessel.",
+   "why": "It co-occurs with VIN (wine) twice and follows VIN directly once, suggesting it is a related liquid commodity or grade; it appears on a clay vessel, a typical container for liquids; it is never in first position, consistent with a commodity entry rather than a heading or total.",
+   "refuted_by": "If DI-NA-U were consistently found with fractional notations at a rate markedly different from other liquid commodities, or if it appeared with textile or livestock determinatives, the liquid classification would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "WA",
+   "class": "liquid",
+   "reading": "WA is a liquid commodity, likely a grade or variety of wine or oil, recorded in fractional amounts across multiple administrative contexts.",
+   "why": "Fractions appear in 3 of 4 figured attestations (75%), which is far above the corpus base rate of 27% and matches the liquid class profile; it appears as an added syllable attached to VIN (the wine logogram), suggesting it marks a grade or type of that liquid; it is recorded on tablets, roundels, and a stone vessel, the kind of mixed support typical of liquid commodities in Minoan administration.",
+   "refuted_by": "If WA were consistently recorded in large whole-number figures without fractions, or if it appeared exclusively as a standalone logogram never attached to or associated with VIN, the liquid reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "QA2+[?]+RE",
+   "class": "liquid",
+   "reading": "A graded or typed liquid commodity, most likely a variety or quality of wine or oil, distinguished from the base commodity by the added syllabic signs incorporated into the ligature.",
+   "why": "It appears after VIN (twice) and OLE (once), the canonical liquid commodities, in a position consistent with a sub-type or grade entry; its fraction rate (25%) matches the corpus base rate for commodity signs (27%), which is the hallmark of the liquid class; and the ligature structure (base sign plus added syllable) matches the pattern by which liquid grades are formed (e.g. OLE+U).",
+   "refuted_by": "If the unit were found opening tablets at a rate near the corpus norm, or if its figures were consistently larger than the preceding VIN/OLE figures rather than equal or smaller, or if it appeared in species-by-sex lists alongside livestock signs, the liquid-grade reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "JU",
+   "class": "staple",
+   "reading": "JU is a staple commodity—likely a foodstuff such as figs, olives, or a similar agricultural product—counted in moderate whole-number quantities across multiple palatial sites.",
+   "why": "The largest figure is 22 (moderate, consistent with staple quantities rather than bulk grain or fine spice); fractions appear in 0 of 3 figured entries, which is low but not anomalously so for a small sample; it co-occurs with VIN (wine) and OLIV (olive), the typical company of agricultural staples in palatial accounts, and appears on tablets, clay vessels, and stone vessels across four sites, suggesting a redistributed commodity rather than a person or qualifier.",
+   "refuted_by": "If JU were found repeatedly with fractional quantities at or above the 27% corpus base rate, or if it were consistently placed before commodity logograms as an additive syllable (qualifying them rather than standing alone as a counted item), the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SA-RU",
+   "class": "total",
+   "reading": "SA-RU is a summation word appearing after commodity entries to introduce or mark a running total.",
+   "why": "It co-occurs with KU-RO (the well-attested Linear A total word) and RA in the same documents, suggesting it functions in the same accounting layer as totalling terms; it never opens a tablet (0/6, against an 11% base rate), ruling out a heading function; and it follows commodity signs GRA and OLIV, the position where a subtotal or category-sum label would naturally sit.",
+   "refuted_by": "If SA-RU were found consistently preceded by a figure rather than following commodity entries, or if it appeared with VIR or species signs as a counted item itself, the total reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "MI",
+   "class": "staple",
+   "reading": "MI is a staple commodity, likely a plant-based foodstuff or agricultural product, recorded in moderate to large quantities with fractions at an elevated rate.",
+   "why": "Fractions appear in 40% of its figured entries, above the corpus base rate of 27% but not the extreme rarity expected of bulk grain, placing it in the ordinary-fraction range of staples; the largest figure reaches 1000, consistent with agricultural commodities rather than fine or luxury goods; it appears on tablets and stone vessels alongside other staple-class units (OLE, VIN, CYP), and it takes added syllables attached to commodity signs (OLE, PA-OLE, SU), suggesting it participates in the graded-commodity system typical of staples.",
+   "refuted_by": "If MI were consistently found only in very small fractional quantities (like saffron or metal) or exclusively alongside fine-commodity signs with no large whole-number entries, the staple reading would be undermined; equally, if MI were shown to be purely an added syllable never heading its own figure, it would belong to the qualifier class instead.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SI-KA",
+   "class": "name",
+   "reading": "SI-KA is a personal name or place name appearing as a party in sealed nodule transactions at Haghia Triada.",
+   "why": "All 6 attestations are on nodules (the administrative support used to record transactions between named parties, not commodity tallies); the nodules are sealed by a specific sealer (AT 125, man in kilt & man in kilt), indicating a recurring named party in a controlled exchange relationship; SI-KA never appears with a commodity figure of its own, consistent with a party label rather than a commodity entry.",
+   "refuted_by": "If SI-KA were found on a tablet accompanied by a numeral and a commodity sign (e.g., GRA or OLE), with SI-KA in the commodity slot rather than the party slot, that would indicate it names a substance rather than a person or place.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "I-PI-NA-MA",
+   "class": "name",
+   "reading": "I-PI-NA-MA is a party name (person or place) recorded as the subject of stone-vessel accounts at multiple Cretan peak sanctuary sites.",
+   "why": "It appears exclusively on stone vessels (6/6), recurs across four geographically distinct sanctuary sites suggesting a named entity rather than a commodity label, and co-occurs with JA-SA-SA-RA-ME, a unit widely interpreted as a dedicatory or ritual heading associated with named parties rather than bulk goods.",
+   "refuted_by": "If I-PI-NA-MA were found followed directly by a commodity sign with a fraction, or appeared as a ligature element added to another sign, it would indicate a commodity or qualifier rather than a named party.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*131C",
+   "class": "staple",
+   "reading": "*131C is a staple commodity, likely a solid agricultural product such as olives, figs, or a similar processed good, recorded in moderate quantities.",
+   "why": "The largest figure is only 1, which is consistent with small-to-medium staple quantities; fractions appear in 1 of 3 figured entries (33%), matching the ordinary corpus rate for commodity signs (27%) rather than the suppressed rate expected for bulk grain or the elevated rate for fine commodities; it appears after OLE once, suggesting association with oil-related or olive-related commodity sequences typical of staple recording.",
+   "refuted_by": "If *131C were found consistently with very large whole-number figures and no fractions across a larger sample, it would point to a bulk commodity instead; alternatively, if it were shown to appear only as an addend ligated to another sign (like OLE+*131C as a graded form), it would be reclassified as a qualifier or graded liquid rather than an independent staple.",
+   "confidence": "low"
+  },
+  {
+   "unit": "OLE+NE",
+   "class": "liquid",
+   "reading": "OLE+NE is a graded variety or quality of oil, distinguished from plain OLE and OLE+MI by the added syllable NE.",
+   "why": "It is a ligature on the OLE (oil) base sign, exactly parallel to OLE+MI in the same documents; fractions appear in 50% of attestations, well above the bulk-commodity rate and consistent with the ordinary liquid rate; figures are small (largest 2) and it follows OLE or CYP with a smaller figure, fitting a sub-quantity or grade pattern within an oil-accounting context.",
+   "refuted_by": "If OLE+NE were found heading a tablet in first position with no preceding OLE entry, or if it appeared with large whole figures and no fractions across a larger sample, the graded-liquid reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "SA",
+   "class": "qualifier",
+   "reading": "SA is a bare syllable added to commodity signs, functioning as a qualifier that modifies the commodity rather than standing as a commodity itself.",
+   "why": "SA is explicitly attested as an added syllable attached to *330 and VIN, which is the defining behaviour of a qualifier; it appears after GRA and VIN rather than heading entries independently; and it has no established Linear B sign correspondence, consistent with a functional rather than lexical logogram.",
+   "refuted_by": "If SA were found heading its own entries with figures and never attached to another sign, it would be a commodity or name rather than a qualifier.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "CAP",
+   "class": "textile",
+   "reading": "CAP is a logogram for a type of textile or cloth item, counted in whole units and recorded in quantities consistent with textile administration.",
+   "why": "Figures are always whole (0% fractions, well below the 27% corpus base rate), the largest figure of 46 is consistent with textile batch sizes, and it co-occurs with TELA+KU — a known textile sign with a qualifier — placing CAP firmly in a textile administrative context.",
+   "refuted_by": "If CAP were found recorded with fractional amounts, or consistently alongside livestock or grain signs rather than textile signs, the textile classification would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "ZU",
+   "class": "staple",
+   "reading": "ZU records a staple commodity counted in small whole figures, appearing after wine (VIN) as a secondary or associated product in the same entry.",
+   "why": "Figures are small (largest 5) and always whole with no fractions recorded (0%), which fits staple-class commodities; it follows VIN once, suggesting it is a commodity entered alongside wine rather than a person or qualifier; it appears on tablets (supports: Tablet 5) in a commodity-list context with other known commodity signs (*305, TU, TE, KA).",
+   "refuted_by": "If ZU were found consistently attached directly to another sign as a ligature or modifier rather than standing alone with its own figure, it would be a qualifier rather than a staple commodity.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*904",
+   "class": "fine",
+   "reading": "*904 is a valued commodity recorded in small quantities with a high rate of fractional amounts, consistent with a spice, saffron, or metal-type entry.",
+   "why": "The largest figure is only 5, indicating small quantities; fractions appear in 3 of 5 attestations (60%), more than double the corpus base rate of 27% for commodity signs, which is the hallmark of a fine commodity; it appears consistently with a figure, confirming it is a counted commodity rather than a label or qualifier.",
+   "refuted_by": "If future tablets showed *904 recorded in large whole-number quantities (e.g., figures in the hundreds) with few or no fractions, the fine-commodity reading would be falsified and a bulk or staple classification would need to be considered instead.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "DA-KA",
+   "class": "name",
+   "reading": "DA-KA is a party name—a person or place—appearing as a labeled entry on sealed nodules at Haghia Triada.",
+   "why": "All 5 attestations are on nodules (not tablets), sealed by the same sealing type (AT 125, man in kilt & man in 5), which is the administrative signature of a transaction party, not a commodity label; the sign-group never appears with a commodity figure of its own, consistent with it identifying a party rather than a thing counted.",
+   "refuted_by": "If DA-KA were found on a tablet followed by a numeral and a commodity sign, or used as a ligature element on a commodity sign, it would indicate a commodity or qualifier rather than a name.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "I-DA",
+   "class": "name",
+   "reading": "I-DA is a party name—a person or place—entered in stone-vessel accounts at multiple sites alongside commodity or quantity entries.",
+   "why": "It appears exclusively on stone vessels (a prestige or dedicatory record type, not a running commodity ledger), it is attested across three geographically distinct sites suggesting a recurring named entity rather than a local commodity term, and it never appears in first position (ruling out heading) nor is it paired with VIR or species signs that would anchor it to persons or livestock.",
+   "refuted_by": "If I-DA were found written as a ligature with a commodity sign (e.g., GRA+I-DA) or consistently followed by fractional quantities across multiple tablets, it would indicate a commodity or qualifier rather than a name.",
+   "confidence": "low"
+  },
+  {
+   "unit": "OLE+E",
+   "class": "liquid",
+   "reading": "OLE+E is a graded variety or quality of olive oil, distinguished from plain OLE by the added syllable E.",
+   "why": "It is a ligature on the base sign OLE (the Linear A oil sign), exactly paralleling OLE+MI in the same documents — the pattern of multiple OLE-base logograms with added syllables is the hallmark of graded liquid commodities; fractions appear in 50% of entries, well above the corpus base rate of 27%, consistent with liquid measurement; and its figures are small (largest 3), fitting a sub-grade recorded in lesser quantities after the main OLE entry.",
+   "refuted_by": "If OLE+E were found recorded in large whole-number figures consistently without fractions, or if it appeared in contexts dominated by textiles or persons rather than oil-associated commodities, the liquid-grade reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "KI-RE-TA-NA",
+   "class": "heading",
+   "reading": "KI-RE-TA-NA is a label or transaction term that opens or titles a record, functioning as an administrative heading rather than a counted commodity or named party.",
+   "why": "It appears in first position on a tablet at a rate (1/4, 25%) well above the corpus base rate of 11%), suggesting it heads documents; it is never accompanied by a figure, which rules out commodity or name entries that require enumeration; and its four attestations are all at a single site (Haghia Triade), consistent with a local administrative formula rather than a traded good.",
+   "refuted_by": "If a tablet were found showing KI-RE-TA-NA followed directly by a numeral or fraction, or listed in a series alongside commodity ideograms with counts, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SA-MA",
+   "class": "heading",
+   "reading": "SA-MA is a label that opens or titles a record, marking the type of transaction or account that follows.",
+   "why": "It appears in first position on a tablet at a rate (1 of 3 tablet attestations) well above the corpus base rate of 11%; it never accompanies a figure of its own; and it occurs across two sites and multiple support types (tablet and stone vessel), suggesting a functional administrative label rather than a commodity or party entry.",
+   "refuted_by": "If SA-MA were found consistently followed by a numeral directly modifying it, or listed in parallel with other sign-groups that carry figures in a commodity-style column, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "TA-NA-TI",
+   "class": "heading",
+   "reading": "TA-NA-TI is a label or transaction term that opens or frames an account section, not itself a counted commodity or party.",
+   "why": "It never appears with a figure (ruling out commodity or person entries); it appears in 4 documents at the same site without occupying first position, suggesting it functions as a recurring administrative label within tablets rather than as a list entry; the co-occurring units TU and KI are sparse qualifiers or short labels consistent with a structured heading environment.",
+   "refuted_by": "If TA-NA-TI were found followed directly by a numeral or fraction in any tablet, it would indicate a commodity or name entry rather than a heading.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SA-RO",
+   "class": "total",
+   "reading": "SA-RO is a totalling word that appears before a summed figure, closing an account of liquid commodities.",
+   "why": "It co-occurs with VIN (wine) in 2 of 4 attestations and follows it positionally; its figure is smaller than the preceding commodity figure in both cases where comparison is possible, consistent with a sub-total or running sum rather than an independent commodity entry; KU-RO, the well-attested Linear A total word, also appears in the same documents, suggesting SA-RO may function as a parallel or subordinate summing term.",
+   "refuted_by": "If SA-RO were found opening a tablet in first position with no preceding commodity entries, or if its associated figure were consistently larger than the figures it follows, the total reading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "DA-RI-DA",
+   "class": "heading",
+   "reading": "DA-RI-DA is a transaction or record label that opens or titles an administrative entry, functioning as a heading word rather than a counted commodity or named party.",
+   "why": "It never appears with a figure (ruling out commodity or person classes); it never occupies first position on a tablet (0 of 4, below the 11% base rate, which is unusual but consistent with a section-internal label rather than a document-opening heading); its co-occurring units include KU-RO (a known totalling word) and PA, suggesting it appears in structured administrative contexts where labels organize entries rather than enumerate goods.",
+   "refuted_by": "If DA-RI-DA were found accompanied by a numeral or fraction in any new tablet, or if it were shown to appear as a ligature component added to a commodity sign, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "GRA+QE",
+   "class": "bulk",
+   "reading": "GRA+QE is a variety or grade of grain, distinguished from plain GRA by the added syllable QE, counted in large whole figures.",
+   "why": "The largest figure is 40, consistent with bulk staple quantities; fractions appear in 0 of 3 figured entries (0%, well below the 27% corpus base rate, matching the bulk/grain pattern); and the base sign GRA is itself a grain logogram, with QE functioning as a grade-marker in the ligature.",
+   "refuted_by": "If GRA+QE were found recorded in small fractional amounts, or if it appeared consistently alongside persons or livestock rather than other staple commodities, the bulk-grain reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "OLE+RI",
+   "class": "fine",
+   "reading": "OLE+RI is a graded variety of oil (or an oil-related commodity) recorded in small, fractional amounts, distinguished from plain OLE by the qualifying syllable RI.",
+   "why": "Fractions appear in 100% of the figured entries (far above the 27% base rate), the largest figure recorded is 0 (i.e., all quantities are sub-unit fractions), and it co-occurs consistently with OLE+TA—another ligature on the same base sign—suggesting a family of graded oil commodities of which this is a minor, high-value variety.",
+   "refuted_by": "If future tablets showed OLE+RI recorded in large whole-number quantities without fractions, the fine-commodity reading would be false and a staple or bulk classification would need to be considered instead.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "QA2+[?]+RE+PU",
+   "class": "liquid",
+   "reading": "A graded or typed liquid commodity, most likely a variety or quality of wine, marked by added syllabic signs within the ligature.",
+   "why": "It appears after VIN (wine) once, suggesting it belongs to the same commodity domain; fractions occur in 100% of figured attestations against a base rate of 27%, which is the hallmark of liquid/fine measurement; and the sign is a ligature with added syllables, the standard Linear A device for grading a liquid commodity.",
+   "refuted_by": "If the unit were found consistently in whole numbers only with no fractions across a larger attestation set, or if it appeared in livestock or textile lists rather than alongside VIN and liquid-domain signs, the liquid classification would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*86",
+   "class": "staple",
+   "reading": "*86 is a staple commodity—likely a solid foodstuff such as figs, olives, or a similar agricultural product—counted in moderate whole-number quantities at a single administrative site.",
+   "why": "The largest figure recorded is 51, consistent with medium-scale staple quantities rather than bulk grain (which runs into hundreds) or fine commodities (which appear in tiny fractional amounts); fractions occur in 0 of 2 figured entries (0%), which is below the corpus base rate of 27% but not dramatically so for a staple; and it co-occurs with CYP (cyperus), NI, VIN, and PA—a cluster of agricultural staples and their associated accounting terms, suggesting *86 belongs to the same commodity register.",
+   "refuted_by": "If *86 were found recorded with fractional amounts at or above the corpus base rate of 27%, or if it appeared consistently alongside VIR or species-by-sex livestock tallies rather than agricultural commodities, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PU",
+   "class": "heading",
+   "reading": "PU is a record or transaction label that opens a document, marking the type of entry that follows.",
+   "why": "It appears in first position on a tablet at twice the corpus base rate (1 of 2 tablets, vs. 11% base rate); it occurs with only small figures (largest 5), inconsistent with a counted commodity in bulk; and it appears across four different document types and sites without the fractional or species-list patterning of a commodity.",
+   "refuted_by": "If PU were found consistently in mid-tablet position following other entries, or if it were recorded with large figures or fractions as a standalone commodity, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PI",
+   "class": "staple",
+   "reading": "PI is a commodity logogram recording a staple good counted in moderate whole-number quantities, comparable to figs, olives, or a similar processed agricultural product.",
+   "why": "The largest figure is 62, consistent with medium-scale staple accounting rather than bulk grain (which runs into hundreds) or fine commodities (tiny fractional amounts); fractions appear in 0 of 2 figured entries (0%), which is below the corpus base rate of 27% but not dramatically so for a staple; it appears on both tablets and vessels (clay and stone), a spread typical of commodities being stored or redistributed rather than persons or headings.",
+   "refuted_by": "If future attestations show PI consistently appearing with fractional quantities, or if it is found in sex-differentiated species lists alongside livestock signs, the staple reading would be undermined; equally, if PI is always found sentence-initially without a following figure, a heading classification would be preferable.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*312",
+   "class": "staple",
+   "reading": "*312 is a staple commodity counted in small whole quantities, appearing after other commodity signs as a sub-quantity or associated entry.",
+   "why": "The largest figure is only 2, consistent with a staple in small amounts; fractions occur at 25%, matching the ordinary rate (corpus base rate 27%) rather than the near-zero rate of bulk or the high rate of fine commodities; it follows GRA and NI with a smaller figure, suggesting it is a secondary commodity recorded alongside grain rather than a heading or total.",
+   "refuted_by": "If *312 were found consistently in first position opening tablets, or if its figures were shown to sum preceding entries (total pattern), the staple reading would be false; equally, discovery of *312 attached as a syllable to a commodity sign (rather than receiving its own figure) would refute it.",
+   "confidence": "low"
+  },
+  {
+   "unit": "A-SE",
+   "class": "heading",
+   "reading": "A-SE is a label that opens a record or transaction, not a counted commodity.",
+   "why": "It appears in first position on tablets at more than twice the corpus base rate (2 of 3 tablet attestations vs. 11% base rate); it is never accompanied by a figure of its own; and it co-occurs with VIN (a commodity) after which it appears, suggesting it frames or titles the entry rather than being enumerated within it.",
+   "refuted_by": "If A-SE were found followed directly by a numeral in a mid-tablet entry, or if it appeared in a running list alongside other commodities each with their own figures, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "DA-ME",
+   "class": "name",
+   "reading": "DA-ME is a party name (person or place) appearing in administrative records at Haghia Triada, entered in lists alongside other named parties and commodity terms.",
+   "why": "It never appears with a figure of its own; it co-occurs repeatedly with KU-NI-SU (3 times) and A-DU (2 times), which are themselves likely party names or headings in the same documents; it never opens a tablet (0/4 vs. 11% base rate), suggesting it is embedded in a list rather than labelling a transaction.",
+   "refuted_by": "If DA-ME were found directly preceding or following a numeral in a clear commodity-count context, or if it appeared as a ligature element added to a commodity sign, the name reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "MI-NU-TE",
+   "class": "heading",
+   "reading": "MI-NU-TE is a label or transaction word that opens or titles a record, not a commodity or party.",
+   "why": "It never appears with a figure (ruling out commodity or person entries); it appears in first position at a rate (1/4 = 25%) well above the corpus base rate of 11%, consistent with a document-opening word; and it is attested across 4 separate tablets at one site, suggesting a recurring administrative label rather than a one-off name.",
+   "refuted_by": "If MI-NU-TE were found accompanied by a numeral or fraction in any tablet, or consistently in mid-document position following commodity entries, its role as a heading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "KU-PA",
+   "class": "staple",
+   "reading": "KU-PA is a staple commodity, likely recorded in moderate quantities alongside other agricultural products.",
+   "why": "It appears in the same documents as VIN (wine), OLIV (olives), and CYP (cyperus), which are canonical staple commodities; it follows VIN once, consistent with a commodity entry in a running list rather than a heading or total; it never appears with a figure of its own that marks it as a person or livestock entry.",
+   "refuted_by": "If KU-PA were found consistently written as a ligature added onto another commodity sign (e.g., GRA+KU-PA), or if it appeared only at the head of tablets before any commodity entries, the staple reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "U-NA-KA-NA-SI",
+   "class": "name",
+   "reading": "U-NA-KA-NA-SI is a party—person or place—entered in accounts alongside a figure on stone vessel records.",
+   "why": "It appears on stone vessels (a prestige administrative support), never with a determinative figure (VIR, livestock, or commodity sign) that would identify it as a commodity class; it co-occurs consistently with JA-SA-SA-RA-ME (3 of 4 documents), which is itself a recurring label-like unit, suggesting both are parties or headings in a fixed formulaic context rather than counted commodities; and its four attestations across three distinct sanctuary/peak-sanctuary sites (Iouktas, Kophinas, Palaikastro) fit a named entity referenced across locations rather than a locally produced staple or textile.",
+   "refuted_by": "If U-NA-KA-NA-SI were found preceded or followed by fractional quantities, or accompanied by a commodity ideogram (grain, oil, textile sign), it would indicate a commodity rather than a name.",
+   "confidence": "low"
+  },
+  {
+   "unit": "ZA",
+   "class": "staple",
+   "reading": "ZA records a staple commodity counted in small whole quantities, appearing as a sub-quantity following NI in the same entry.",
+   "why": "The largest figure is only 5, consistent with medium-small staple quantities; fractions occur in 0 of 1 figured attestations (not diagnostic against staple, which allows ordinary rates but does not require them at this sample size); and ZA follows NI with a smaller figure, suggesting it is a subordinate commodity measured out beneath a primary one, a pattern typical of staple sub-allocations.",
+   "refuted_by": "If ZA were found with large figures (dozens or hundreds), with fractional amounts at the corpus base rate across a larger sample, or consistently appearing as a ligature element added to another sign rather than standing alone, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*316",
+   "class": "staple",
+   "reading": "*316 is a staple commodity, likely a plant-based foodstuff, recorded in small whole quantities alongside other agricultural goods.",
+   "why": "The largest figure is 1, consistent with small-quantity staple recording; it appears with VIN (wine) and GRA (grain), placing it firmly in the agricultural commodity cluster; fractions occur in 0 of 3 figured attestations, which is below the corpus base rate but not as extreme as bulk commodities, and the association with CYP (cyperus, itself a staple) reinforces a plant-product context.",
+   "refuted_by": "If *316 were found repeatedly with figures in the tens or hundreds, or if it appeared with VIR or sex-differentiated livestock tallies, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "QE-RA₂-U",
+   "class": "heading",
+   "reading": "QE-RA₂-U is a label or transaction term that opens or introduces a record, not itself a counted commodity.",
+   "why": "It appears in first position on a tablet at a rate (1/3, ~33%) well above the corpus base rate of 11%, suggesting it heads entries rather than being listed among them; it never appears with a figure of its own; and its co-occurrence with KI-RO (a known balance/deficit term) and GRA (a grain commodity) fits a pattern where it labels the transaction type rather than contributing a quantity.",
+   "refuted_by": "If QE-RA₂-U were found followed directly by a numeral in any tablet, or if it appeared consistently in mid-tablet position among commodity entries with associated quantities, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PA₃-NI-NA",
+   "class": "heading",
+   "reading": "PA₃-NI-NA is a label or transaction term that opens or titles a record rather than naming a commodity or party.",
+   "why": "It appears in first position at a rate (1 of 3 occurrences, ~33%) far above the base rate of 11% for all units, suggesting it tends to head entries; it is never accompanied by a figure, which rules out commodity or person entries that require a count; and its sparse attestation (3 times across only 2 tablets at one site) fits a recurring administrative label rather than a counted item.",
+   "refuted_by": "If a tablet were found showing PA₃-NI-NA followed directly by a numeral or fraction, or appearing mid-tablet after other commodity entries with its own quantity, it would indicate a counted item rather than a heading.",
+   "confidence": "low"
+  },
+  {
+   "unit": "TE-TU",
+   "class": "total",
+   "reading": "TE-TU is a summation word appearing after a commodity entry (VIN) to mark the running or final total of the account.",
+   "why": "It follows VIN (wine) in position, consistent with a closing total word; it co-occurs with KU-RO (the best-attested Linear A total word), suggesting it functions in the same summation zone of the tablet; it never opens a tablet (0 of 3, below the 11% base rate), ruling out a heading role.",
+   "refuted_by": "If TE-TU were found consistently followed by a numeral that does not match the sum of preceding entries, or if it appeared mid-tablet before commodity lines rather than after them, the total reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PA-DE",
+   "class": "name",
+   "reading": "PA-DE is a place name or party name appearing as a labeled entry in commodity accounts at Haghia Triada.",
+   "why": "The identical sign sequence exists in Linear B as a place name; it follows VIN (wine) as a named recipient or source rather than a commodity descriptor; it never carries a figure of its own and never opens a tablet, consistent with a party label rather than a commodity or heading.",
+   "refuted_by": "If PA-DE were found with a numeral directly attached to it, or used as a ligature element added to a commodity sign, the name reading would be undermined and a commodity or qualifier class would need to be considered instead.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "TA-I-AROM",
+   "class": "total",
+   "reading": "TA-I-AROM is a summation word appearing before or near a running total of a commodity, here wine (VIN), functioning as the Linear A equivalent of KU-RO (\"total\").",
+   "why": "It co-occurs with KU-RO in all three documents (KU-RO is the best-attested total word in Linear A); it appears after VIN, consistent with a closing summary entry; it never accompanies a figure of its own, which suits a label rather than a counted commodity.",
+   "refuted_by": "If TA-I-AROM were found in the middle of a tablet followed by its own independent numeral and listed alongside other commodities in a series, it would indicate a commodity or name rather than a total label.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*560",
+   "class": "staple",
+   "reading": "*560 is a staple commodity, likely a solid agricultural product such as olives or a similar produce, recorded in small quantities across administrative tablets.",
+   "why": "It appears after OLE (olive oil) once, suggesting association with olive-related commodities; it co-occurs with other staple and liquid commodity signs (OLE+DI, KI-MA-RU, MA-RU-ME) in the same documents; and its attestation on tablets at Haghia Triada and Phaistos fits the standard administrative staple-recording pattern at those palatial sites.",
+   "refuted_by": "If *560 were found consistently appearing before a summing entry or opening a tablet without a following figure, it would indicate a heading or total rather than a commodity; alternatively, if it were found only in fractional amounts too small for a staple, it would suggest reclassification as a fine commodity.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*118",
+   "class": "liquid",
+   "reading": "*118 is a liquid commodity, likely a grade or variety of oil, recorded in small quantities alongside OLE entries.",
+   "why": "It appears after OLE once, suggesting it is associated with the oil-accounting system; its fraction rate (33%) matches the ordinary rate seen for liquid commodities (corpus base rate 27%); and its largest figure is only 5, consistent with small measured quantities of a liquid rather than a bulk staple.",
+   "refuted_by": "If *118 were found repeatedly in contexts entirely unconnected to OLE, or if it appeared with large whole-number figures and no fractions across a larger sample, the liquid reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "RE-ZA",
+   "class": "total",
+   "reading": "RE-ZA is a summation word that closes an account, equivalent in function to KU-RO (\"total due\") but perhaps marking a sub-total or alternative tally formula.",
+   "why": "It co-occurs with KU-RO (the known Linear A total word) in 2 of its 3 documents, suggesting it belongs to the same administrative closing vocabulary; it appears after VIN (wine), consistent with a tally closing a commodity entry rather than being the commodity itself; it never appears with a figure of its own, which fits a label rather than a counted item.",
+   "refuted_by": "If RE-ZA were found heading a column with its own numeral, or appearing in the middle of a tablet followed by a list of entries, it could not be a total word and would need reclassification.",
+   "confidence": "low"
+  },
+  {
+   "unit": "KA-KU-PA",
+   "class": "heading",
+   "reading": "KA-KU-PA is a label that opens a record, marking the type of transaction or account that follows.",
+   "why": "It appears in first position in the one tablet where it occurs (100%, against an 11% base rate), it is never accompanied by a figure of its own, and it co-occurs with CYP (a commodity) and *188+KU, consistent with a label introducing entries rather than being an entry itself.",
+   "refuted_by": "If KA-KU-PA were found mid-tablet following other entries and preceded by a numeral, or if it appeared in a summing position, its role as a heading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "OLE+TU",
+   "class": "liquid",
+   "reading": "OLE+TU is a graded or qualified variety of oil, distinguished from plain OLE and OLE+MI by the added syllable TU.",
+   "why": "It appears in documents alongside OLE, OLE+MI, VIN, and CYP — the classic liquid/staple commodity cluster; it follows OLE and CYP in sequence with a smaller figure, consistent with a sub-grade or sub-quantity of oil rather than an independent commodity; and its fraction rate (0%) is not disqualifying given only one recorded figure.",
+   "refuted_by": "If OLE+TU were found heading a tablet in first position, or listed with VIR signs and large whole-number person counts, the graded-oil reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "KI+MU",
+   "class": "bulk",
+   "reading": "KI+MU is a staple commodity counted in whole units with moderately large figures, consistent with a bulk good such as grain or a similar agricultural product.",
+   "why": "All three attestations carry whole-number figures (no fractions, against a 27% corpus base rate), the largest figure reaches 15 (a medium-to-large quantity typical of bulk staples), and it appears alongside KU-RO, a known totalling word, suggesting it is a commodity being summed in an accounting context.",
+   "refuted_by": "If future tablets showed KI+MU recorded in fractional amounts, or consistently in very small figures alongside known spice/metal signs, the bulk classification would be undermined in favour of fine or staple.",
+   "confidence": "low"
+  },
+  {
+   "unit": "MI+JA+I",
+   "class": "bulk",
+   "reading": "MI+JA+I is a bulk staple commodity, likely a grain or grain-related product, recorded in large whole-number quantities without fractions.",
+   "why": "The largest figure is 1000, consistent with bulk staple accounting; fractions appear in 0 of 2 instances with figures (against a 27% corpus base rate), matching the bulk pattern; it follows GRA (grain) once and its figure is not smaller than the preceding GRA figure, suggesting it is a parallel commodity entry rather than a sub-quantity.",
+   "refuted_by": "If future tablets showed MI+JA+I recorded with fractions at or above the corpus base rate of 27%, or in small figures alongside spice/metal signs, the bulk classification would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*326",
+   "class": "staple",
+   "reading": "*326 is a staple commodity, likely a plant-based foodstuff recorded in moderate quantities alongside other agricultural goods.",
+   "why": "It appears exclusively at Haghia Triada on tablets, co-occurring with GRA (grain), VIN (wine), OLE+TA (graded oil), NI (figs), and CYP (cyperus) — a cluster of staple and agricultural commodities that strongly suggests *326 belongs to the same administrative category; its 3 attestations across 3 documents indicate a recurring but not dominant commodity; it is never accompanied by a figure modifier suggesting fine or graded status.",
+   "refuted_by": "If *326 were found recorded in small fractional amounts with high-value context signs, or consistently heading a tablet before any commodity entries, the staple reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "AU",
+   "class": "heading",
+   "reading": "AU is a label or transaction word that opens or titles a record rather than naming a commodity or party.",
+   "why": "It appears in first position on a tablet at twice the corpus base rate (1 of 2 tablets, vs. 11% base rate, suggesting it leads entries); it occurs with only a single figure of 1 and zero fractions, consistent with a label rather than a counted commodity; and it co-occurs with KU-RO (a known totalling word) and TELA+KU (a textile sign), suggesting it heads a record that others fill out.",
+   "refuted_by": "If AU were found mid-tablet, after commodity entries and before a summed figure, or if it appeared repeatedly within a single document alongside varying quantities, the heading reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "SI+SE",
+   "class": "liquid",
+   "reading": "SI+SE is a graded or typed liquid commodity, most likely a variety or quality of oil, distinguished from plain OLE by the added syllable SE.",
+   "why": "It is a ligature of the form base-sign + added syllable, exactly the pattern used for graded liquid commodities; it appears directly after OLE in at least one document; and its co-documents are dominated by OLE and OLE+MI, the core oil vocabulary of the Linear A corpus.",
+   "refuted_by": "If SI+SE were consistently recorded with fractional amounts at rates unlike oil, or if it appeared in contexts with textile or livestock signs rather than oil signs, or if it were shown to carry its own independent figures in bulk-grain quantities, the liquid reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*OLIV+TU",
+   "class": "liquid",
+   "reading": "A graded or sub-type variety of olive oil, distinguished from plain OLIV and OLE by the added syllable TU, recorded in small quantities as a differentiated grade within oil-accounting contexts.",
+   "why": "(1) The base sign is OLIV, and the ligature pattern (base commodity + added syllable) matches exactly how Linear A marks grades of oil (cf. OLE+MI, OLE+DI in the same documents). (2) It consistently co-occurs with OLIV, OLE, OLE+MI, and OLE+DI — a cluster that is coherently an oil-grade dossier. (3) Its figure is never larger than the preceding commodity figure (0 of 2 cases), consistent with a sub-quantity or specialised grade drawn from a larger lot, as seen with other liquid grades.",
+   "refuted_by": "If *OLIV+TU were found heading a tablet in first position, or appeared in documents dominated by grain, textile, or livestock signs with no oil-family units, the oil-grade reading would be undermined; equally, if its figures were consistently large and whole while plain OLIV figures were small, the sub-grade interpretation would fail.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "NU",
+   "class": "bulk",
+   "reading": "NU is a bulk staple commodity, likely a grain or grain-like product counted in whole units with relatively large figures.",
+   "why": "Fractions appear in 0 of 2 attestations with figures (0%, well below the 27% corpus base rate, matching the bulk pattern); the largest figure is 25, consistent with bulk staple quantities; it follows GRA (grain) in one document and its figure is not smaller than the preceding GRA figure, suggesting it is a parallel commodity entry rather than a sub-quantity.",
+   "refuted_by": "If NU were found with fractional quantities in a larger sample, or consistently appearing as a sub-quantity after GRA with figures smaller than GRA's, the bulk reading would be undermined and a staple or fine classification would need to be considered instead.",
+   "confidence": "low"
+  },
+  {
+   "unit": "GRA+K+L",
+   "class": "bulk",
+   "reading": "GRA+K+L is a bulk staple commodity, likely a variety or grade of grain, recorded in whole units and counted in large quantities.",
+   "why": "The largest figure is 74, consistent with bulk staple accounting; fractions appear in 0 of 3 attestations against a corpus base rate of 27%, strongly matching the bulk (grain) profile; the base sign GRA is the standard Linear A/B grain logogram, and the added syllabic signs mark a specific type or grade.",
+   "refuted_by": "If fractional amounts were found recorded with GRA+K+L in further tablets, or if the sign were shown to appear in contexts listing persons or livestock rather than commodities, the bulk grain reading would be undermined.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "DI-DE-RU",
+   "class": "name",
+   "reading": "DI-DE-RU is a party name (person or place) appearing in commodity accounts at Haghia Triada.",
+   "why": "It never appears with a figure of its own; it occurs in documents alongside commodity signs including GRA (grain) and other syllabic units typical of named parties in accounts; it is never in first position, consistent with a party name rather than a heading or label.",
+   "refuted_by": "If DI-DE-RU were found consistently preceding or following a numeral as its direct object across multiple tablets, it would indicate a commodity or total rather than a name.",
+   "confidence": "low"
+  },
+  {
+   "unit": "TE-RI",
+   "class": "qualifier",
+   "reading": "TE-RI is a bare syllabic modifier attached to or following a commodity sign, specifying a grade or type of that commodity rather than naming a commodity itself.",
+   "why": "It never appears with its own figure (never with a figure), it follows VIN (a liquid commodity) in the one positional record we have suggesting it modifies rather than stands alone, and it appears alongside graded commodity signs (OLE+MI, VIN, GRA) in the same documents without itself carrying a numeral.",
+   "refuted_by": "If TE-RI were found written as a ligature with a commodity sign (e.g., VIN+TE or similar) or consistently followed by its own independent numeral, it would indicate a commodity or graded liquid rather than a bare qualifier.",
+   "confidence": "low"
+  },
+  {
+   "unit": "QA-QA-RU",
+   "class": "total",
+   "reading": "QA-QA-RU is a totalling word that closes or summarises an account, functioning like KU-RO in the Linear A administrative system.",
+   "why": "It appears exclusively alongside KU-RO (the well-attested Linear A total word, present in 2 of the same 3 documents) and PO-TO-KU-RO (another known total-type term), suggesting it occupies the same functional slot; it never appears with a figure of its own and never opens a tablet (0 of 3 in first position), consistent with a closing summary word rather than a commodity or heading.",
+   "refuted_by": "If QA-QA-RU were found followed directly by a numeral or fraction sign in any tablet, or if it appeared in first position on a tablet without KU-RO or PO-TO-KU-RO nearby, the total reading would be falsified.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PA-SE-JA",
+   "class": "heading",
+   "reading": "PA-SE-JA is a transaction or record label that opens or titles a document, not a counted commodity.",
+   "why": "It appears on roundels (2) and a tablet (1) across 3 documents at a single site, a pattern consistent with an administrative label rather than a commodity entry; it never appears with a figure, which rules out it being a counted item; and its co-occurrence with bare signs like KA and SA-RA₂ fits a labelling context rather than a commodity list.",
+   "refuted_by": "If PA-SE-JA were found followed directly by a numeral or fraction in any document, it would indicate a counted commodity rather than a heading.",
+   "confidence": "low"
+  },
+  {
+   "unit": "PA-TA-NE",
+   "class": "total",
+   "reading": "PA-TA-NE is a word that appears before or in place of a summing figure, functioning as a totalling term equivalent to KU-RO in the accounting system.",
+   "why": "It co-occurs with KU-RO (the known Linear A total word, attested twice in the same documents) and KI-RO (the known deficit/balance word), placing PA-TA-NE firmly in the vocabulary of accounting summation; it never appears with a commodity figure of its own; and it never opens a tablet (0/2, below the 11% base rate), consistent with a closing summary word rather than a heading.",
+   "refuted_by": "If PA-TA-NE were found heading a tablet in first position, or followed directly by a commodity sign and figure as a list entry repeated across multiple unrelated documents without KU-RO or KI-RO nearby, the totalling reading would be false.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*304+PA",
+   "class": "fine",
+   "reading": "*304+PA is a valued commodity recorded in small quantities, likely a specific grade or variety of something precious, appearing in fractional amounts.",
+   "why": "The largest figure recorded is only 1, indicating very small quantities consistent with a fine commodity; fractions appear in 50% of attestations, well above the 27% corpus base rate for commodity signs, matching the fine-commodity pattern; it appears alongside CYP (cyperus) and VIN (wine), a context of valued or specialized goods rather than bulk staples.",
+   "refuted_by": "If future tablets showed *304+PA recorded in large whole-number figures (tens or hundreds) without fractions, the fine-commodity reading would be false and a bulk or staple class would need to be considered instead.",
+   "confidence": "low"
+  },
+  {
+   "unit": "GRA+F",
+   "class": "fine",
+   "reading": "GRA+F is a valued commodity recorded in small fractional amounts, likely a grade or variety of grain distinguished by the added syllable F.",
+   "why": "Fractions appear in 100% of the figured attestations, far above the 27% base rate for commodity signs, which is the hallmark of a fine or precious commodity; the largest figure is only 70, consistent with small-quantity recording; it is a ligature (base GRA + added sign), the standard way Linear A marks a graded or distinguished sub-type of a commodity.",
+   "refuted_by": "If future tablets show GRA+F recorded consistently in large whole-number quantities without fractions, at the scale typical of bulk staple grain, the fine-commodity reading would be falsified.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "A-RI",
+   "class": "qualifier",
+   "reading": "A-RI is a bare syllabic element added to commodity signs as a modifier or grade marker, not itself a counted commodity.",
+   "why": "It never appears with a figure (0 of 3 attestations), which rules out any counted commodity class; it never opens a tablet (0% vs 11% base rate), which argues against heading; and its three occurrences are spread across two sites on tablet supports, consistent with a recurring adjectival or qualifying element attached to other signs rather than standing as an independent entry.",
+   "refuted_by": "If any tablet were found showing A-RI followed directly by a numeral or fraction, it would demonstrate it is a counted commodity rather than a qualifier.",
+   "confidence": "low"
+  },
+  {
+   "unit": "ME",
+   "class": "qualifier",
+   "reading": "ME is a bare syllable added to commodity signs to mark a grade, type, or processing state of the commodity recorded.",
+   "why": "ME appears as an added syllable attached to OLE and SI rather than standing alone with its own figures; it never appears with a figure of its own; it is attested on stone vessel supports, consistent with labelling commodity containers rather than counting independent items.",
+   "refuted_by": "If ME were found standing alone at the head of an entry followed by a numeral, with no host logogram, it would cease to be a qualifier and would require reclassification as a commodity or name.",
+   "confidence": "medium"
+  },
+  {
+   "unit": "JE",
+   "class": "heading",
+   "reading": "JE is a label or transaction word that opens a document, marking the record type or administrative category of what follows.",
+   "why": "It appears in first position on a tablet in 1 of 2 tablet attestations (50%), far above the 11% base rate for all units; it carries a figure only once and that figure is small (2), consistent with a label rather than a counted commodity; it has no fractions, which fits a non-commodity function.",
+   "refuted_by": "If JE were found consistently mid-tablet following other entries, or if it appeared with a range of larger figures summed by a total word, it would not be a heading.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*401+RO",
+   "class": "textile",
+   "reading": "*401+RO is a type of textile commodity, with the added syllable RO marking a specific grade or variety of the base cloth sign.",
+   "why": "It is a ligature (base sign + added syllable RO), which is the structural hallmark of textile logograms that use added signs to specify type; it appears with a figure of 1 (whole unit, no fractions), consistent with textiles counted in whole units; the zero fraction rate (vs. 27% corpus base rate) further supports a whole-unit commodity rather than a liquid or fine commodity.",
+   "refuted_by": "If *401+RO were found recorded in large figures, accompanied by fractional amounts, or listed alongside confirmed textile signs in a way that made it clearly a different commodity class, the textile reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "A-MA",
+   "class": "name",
+   "reading": "A-MA is a party name (person or place) appearing as a list entry associated with a recorded quantity on administrative objects.",
+   "why": "It appears only 3 times across 3 different sites and 3 different support types (bar, stone vessel, stone object), suggesting it labels a party rather than a commodity class; it never appears with a commodity figure-sign that would identify it as a staple or livestock entry; the small, scattered attestation count is consistent with a named party rather than a recurring commodity term.",
+   "refuted_by": "If A-MA were found consistently preceding or following a known commodity ideogram (grain, oil, livestock) with regular fractional or whole-number tallies across multiple tablets, it would indicate a commodity or qualifier rather than a name.",
+   "confidence": "low"
+  },
+  {
+   "unit": "A-JA",
+   "class": "heading",
+   "reading": "A-JA is a label or transaction term that opens a document, functioning as a record or category header rather than a counted commodity or named party.",
+   "why": "It appears in first position on its one tablet (1 of 1, against an 11% base rate, making initial position its defining feature); it is never accompanied by a figure, which rules out commodity or name entries that require a numeral; and its spread across three different document types and sites (tablet, inked inscription, stone vessel) suggests a functional administrative word rather than a site-specific commodity or personal name.",
+   "refuted_by": "If a tablet were found showing A-JA followed directly by a numeral and a commodity ideogram, it would demonstrate that A-JA is a counted item rather than a heading.",
+   "confidence": "low"
+  },
+  {
+   "unit": "*412+E",
+   "class": "textile",
+   "reading": "*412+E is a type of textile, distinguished from related cloth types by the added syllable E, recorded in small whole-number quantities at Malia.",
+   "why": "All three attestations carry whole-number figures with no fractions (0%), consistent with textiles counted in discrete units; the largest figure is only 4, typical of textile tallies rather than bulk staples; the sign is a ligature with an added syllable, the standard formation for textile-type distinctions in Linear A administration.",
+   "refuted_by": "If fractional quantities were found alongside *412+E in further documents, or if the sign appeared in species-by-sex lists or alongside VIR, the textile reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "QI+SI",
+   "class": "textile",
+   "reading": "QI+SI is a type of textile, with the added syllable SI specifying a variety or grade of the base cloth commodity.",
+   "why": "Figures are small (max 5) and always whole with no fractions (0%), consistent with counted textile units; it is a ligature (base sign + added syllable), the standard formation for textile type-marking in Linear A administration; it appears exclusively on stone vessel supports at Zakros alongside *22F (a known textile-associated logogram) and RA, a combination that fits a textile accounting context.",
+   "refuted_by": "If QI+SI were found recorded with fractional quantities, or in large figures typical of bulk staples, or consistently alongside liquid/grain logograms rather than textile-class signs, the textile reading would be undermined.",
+   "confidence": "low"
+  },
+  {
+   "unit": "DU-RE-ZA-SE",
+   "class": "name",
+   "reading": "DU-RE-ZA-SE is a party—a person or place—entered in stone-vessel accounts at Zakros alongside a figure.",
+   "why": "All three attestations are on stone vessels at a single site (Zakros), a context typical of named parties or commodities in administrative records; it never appears in first position, ruling out a heading; and its co-occurring units (PA, DA-I-PI-TA, *131B) are consistent with a list of named entries rather than commodity classifiers or totalling words.",
+   "refuted_by": "If DU-RE-ZA-SE were found consistently preceding or following a known commodity sign with varying quantities across multiple sites, it would be better read as a commodity or qualifier rather than a name.",
+   "confidence": "low"
+  }
+ ],
+ "log": [
+  {
+   "unit": "*301",
+   "outcome": "proposal",
+   "why": "heading: *301 is a record or transaction label that opens or frames an administ"
+  },
+  {
+   "unit": "SI",
+   "outcome": "proposal",
+   "why": "staple: SI is a staple commodity, likely a plant product such as cyperus or a "
+  },
+  {
+   "unit": "RO",
+   "outcome": "proposal",
+   "why": "qualifier: RO is a syllabic sign added to commodity logograms to mark a subtype o"
+  },
+  {
+   "unit": "ZE",
+   "outcome": "proposal",
+   "why": "heading: ZE is a transaction or record label that opens or frames an administra"
+  },
+  {
+   "unit": "VIR+[?]",
+   "outcome": "proposal",
+   "why": "persons: A category of male persons distinguished from plain VIR by an added sy"
+  },
+  {
+   "unit": "TA",
+   "outcome": "proposal",
+   "why": "staple: TA is a staple commodity, likely a plant-based foodstuff, recorded in "
+  },
+  {
+   "unit": "*304",
+   "outcome": "proposal",
+   "why": "staple: *304 is a staple commodity—likely a solid agricultural product such as"
+  },
+  {
+   "unit": "OLE+U",
+   "outcome": "proposal",
+   "why": "liquid: OLE+U is a graded variety or quality of oil, distinguished from plain "
+  },
+  {
+   "unit": "OLE+KI",
+   "outcome": "proposal",
+   "why": "liquid: OLE+KI is a graded or typed variety of the oil commodity, distinguishe"
+  },
+  {
+   "unit": "GRA+PA",
+   "outcome": "proposal",
+   "why": "staple: GRA+PA is a staple commodity, likely a variety or processed form of gr"
+  },
+  {
+   "unit": "DI",
+   "outcome": "proposal",
+   "why": "bulk: DI is a bulk staple commodity, most likely a grain or grain-like produ"
+  },
+  {
+   "unit": "RE",
+   "outcome": "proposal",
+   "why": "staple: RE is a staple commodity, likely a foodstuff or agricultural product c"
+  },
+  {
+   "unit": "CYP+E",
+   "outcome": "proposal",
+   "why": "staple: CYP+E is a graded or differentiated variety of cyperus, counted in med"
+  },
+  {
+   "unit": "NA",
+   "outcome": "proposal",
+   "why": "staple: NA is a staple commodity, likely a foodstuff such as figs, olives, or "
+  },
+  {
+   "unit": "*164",
+   "outcome": "unknown",
+   "why": "All 13 attestations are on roundels from Khania, and roundels are single-commodi"
+  },
+  {
+   "unit": "TI",
+   "outcome": "unknown",
+   "why": "The fraction rate (10%) sits between the bulk threshold (rare) and the staple/li"
+  },
+  {
+   "unit": "MA",
+   "outcome": "proposal",
+   "why": "staple: MA is a staple commodity—likely a foodstuff such as figs, olives, or a"
+  },
+  {
+   "unit": "JA",
+   "outcome": "unknown",
+   "why": "The fraction rate is 0% (against a 27% base rate), which would suggest bulk or f"
+  },
+  {
+   "unit": "*301+*311",
+   "outcome": "unknown",
+   "why": "It appears exclusively on roundels (9) and one stone object, never on tablets, w"
+  },
+  {
+   "unit": "DA",
+   "outcome": "proposal",
+   "why": "fine: DA marks a valued commodity recorded in small quantities with fraction"
+  },
+  {
+   "unit": "*188",
+   "outcome": "proposal",
+   "why": "fine: *188 is a valued commodity recorded in small quantities with fractions"
+  },
+  {
+   "unit": "*516",
+   "outcome": "proposal",
+   "why": "staple: *516 is a staple commodity, likely a plant product such as cyperus or "
+  },
+  {
+   "unit": "*401+RU",
+   "outcome": "proposal",
+   "why": "staple: *401+RU is a staple commodity, likely a plant product or processed goo"
+  },
+  {
+   "unit": "HIDE+[?]",
+   "outcome": "invented",
+   "why": "HIDE"
+  },
+  {
+   "unit": "KU-PA₃-NU",
+   "outcome": "proposal",
+   "why": "total: KU-PA₃-NU is a totalling word that precedes or accompanies a summed fi"
+  },
+  {
+   "unit": "RU",
+   "outcome": "proposal",
+   "why": "heading: RU is a label or transaction term that opens or titles a record, not a"
+  },
+  {
+   "unit": "QA2+[?]+PU",
+   "outcome": "proposal",
+   "why": "fine: A valued commodity, likely a processed or graded derivative of olive o"
+  },
+  {
+   "unit": "MI+JA+RU",
+   "outcome": "proposal",
+   "why": "fine: MI+JA+RU is a valued commodity recorded in small quantities with a hig"
+  },
+  {
+   "unit": "QE",
+   "outcome": "proposal",
+   "why": "qualifier: QE is a syllabic sign added to commodity logograms to mark a subtype o"
+  },
+  {
+   "unit": "SU",
+   "outcome": "proposal",
+   "why": "staple: SU is a staple commodity, likely a plant product or processed foodstuf"
+  },
+  {
+   "unit": "NE",
+   "outcome": "proposal",
+   "why": "heading: NE is a label or transaction word that opens a tablet record, not a co"
+  },
+  {
+   "unit": "VIR+KA",
+   "outcome": "proposal",
+   "why": "persons: VIR+KA denotes a category of male persons, distinguished from plain VI"
+  },
+  {
+   "unit": "I-RA₂",
+   "outcome": "unknown",
+   "why": "All 8 attestations are on nodules (not tablets), which are tags attached to good"
+  },
+  {
+   "unit": "*86+*188",
+   "outcome": "unknown",
+   "why": "All 8 attestations are on roundels from Khania, and roundels are single-commodit"
+  },
+  {
+   "unit": "DA-RE",
+   "outcome": "proposal",
+   "why": "heading: DA-RE is a transaction or record label that opens or frames an entry, "
+  },
+  {
+   "unit": "SE",
+   "outcome": "proposal",
+   "why": "qualifier: SE is a bare syllable added to commodity signs to mark a subtype or gr"
+  },
+  {
+   "unit": "SI-RU-TE",
+   "outcome": "proposal",
+   "why": "name: SI-RU-TE is a party name — a person or place — recorded as a list entr"
+  },
+  {
+   "unit": "MA-DI",
+   "outcome": "proposal",
+   "why": "name: MA-DI is a personal or place name entered as a party in administrative"
+  },
+  {
+   "unit": "*307",
+   "outcome": "proposal",
+   "why": "staple: *307 is a staple commodity, likely a solid foodstuff such as figs, oli"
+  },
+  {
+   "unit": "DI-NA-U",
+   "outcome": "proposal",
+   "why": "liquid: DI-NA-U is a liquid commodity, most likely a grade or variety of wine,"
+  },
+  {
+   "unit": "WA",
+   "outcome": "proposal",
+   "why": "liquid: WA is a liquid commodity, likely a grade or variety of wine or oil, re"
+  },
+  {
+   "unit": "QA2+[?]+RE",
+   "outcome": "proposal",
+   "why": "liquid: A graded or typed liquid commodity, most likely a variety or quality o"
+  },
+  {
+   "unit": "JU",
+   "outcome": "proposal",
+   "why": "staple: JU is a staple commodity—likely a foodstuff such as figs, olives, or a"
+  },
+  {
+   "unit": "SA-RU",
+   "outcome": "proposal",
+   "why": "total: SA-RU is a summation word appearing after commodity entries to introdu"
+  },
+  {
+   "unit": "MI",
+   "outcome": "proposal",
+   "why": "staple: MI is a staple commodity, likely a plant-based foodstuff or agricultur"
+  },
+  {
+   "unit": "SI-KA",
+   "outcome": "proposal",
+   "why": "name: SI-KA is a personal name or place name appearing as a party in sealed "
+  },
+  {
+   "unit": "I-PI-NA-MA",
+   "outcome": "proposal",
+   "why": "name: I-PI-NA-MA is a party name (person or place) recorded as the subject o"
+  },
+  {
+   "unit": "*131C",
+   "outcome": "proposal",
+   "why": "staple: *131C is a staple commodity, likely a solid agricultural product such "
+  },
+  {
+   "unit": "OLE+NE",
+   "outcome": "proposal",
+   "why": "liquid: OLE+NE is a graded variety or quality of oil, distinguished from plain"
+  },
+  {
+   "unit": "SA",
+   "outcome": "proposal",
+   "why": "qualifier: SA is a bare syllable added to commodity signs, functioning as a quali"
+  },
+  {
+   "unit": "CAP",
+   "outcome": "proposal",
+   "why": "textile: CAP is a logogram for a type of textile or cloth item, counted in whol"
+  },
+  {
+   "unit": "ZU",
+   "outcome": "proposal",
+   "why": "staple: ZU records a staple commodity counted in small whole figures, appearin"
+  },
+  {
+   "unit": "*904",
+   "outcome": "proposal",
+   "why": "fine: *904 is a valued commodity recorded in small quantities with a high ra"
+  },
+  {
+   "unit": "DA-KA",
+   "outcome": "proposal",
+   "why": "name: DA-KA is a party name—a person or place—appearing as a labeled entry o"
+  },
+  {
+   "unit": "I-DA",
+   "outcome": "proposal",
+   "why": "name: I-DA is a party name—a person or place—entered in stone-vessel account"
+  },
+  {
+   "unit": "OLE+E",
+   "outcome": "proposal",
+   "why": "liquid: OLE+E is a graded variety or quality of olive oil, distinguished from "
+  },
+  {
+   "unit": "KI-RE-TA-NA",
+   "outcome": "proposal",
+   "why": "heading: KI-RE-TA-NA is a label or transaction term that opens or titles a reco"
+  },
+  {
+   "unit": "SA-MA",
+   "outcome": "proposal",
+   "why": "heading: SA-MA is a label that opens or titles a record, marking the type of tr"
+  },
+  {
+   "unit": "TA-NA-TI",
+   "outcome": "proposal",
+   "why": "heading: TA-NA-TI is a label or transaction term that opens or frames an accoun"
+  },
+  {
+   "unit": "PA-JA-RE",
+   "outcome": "unknown",
+   "why": "With only 4 attestations across 4 documents on two sites, the dataset is too thi"
+  },
+  {
+   "unit": "SA-RO",
+   "outcome": "proposal",
+   "why": "total: SA-RO is a totalling word that appears before a summed figure, closing"
+  },
+  {
+   "unit": "DA-RI-DA",
+   "outcome": "proposal",
+   "why": "heading: DA-RI-DA is a transaction or record label that opens or titles an admi"
+  },
+  {
+   "unit": "GRA+QE",
+   "outcome": "proposal",
+   "why": "bulk: GRA+QE is a variety or grade of grain, distinguished from plain GRA by"
+  },
+  {
+   "unit": "OLE+RI",
+   "outcome": "proposal",
+   "why": "fine: OLE+RI is a graded variety of oil (or an oil-related commodity) record"
+  },
+  {
+   "unit": "QA2+[?]+RE+PU",
+   "outcome": "proposal",
+   "why": "liquid: A graded or typed liquid commodity, most likely a variety or quality o"
+  },
+  {
+   "unit": "*86",
+   "outcome": "proposal",
+   "why": "staple: *86 is a staple commodity—likely a solid foodstuff such as figs, olive"
+  },
+  {
+   "unit": "PU",
+   "outcome": "proposal",
+   "why": "heading: PU is a record or transaction label that opens a document, marking the"
+  },
+  {
+   "unit": "DU",
+   "outcome": "unknown",
+   "why": "With only 4 attestations across 4 documents, the dataset is too thin to establis"
+  },
+  {
+   "unit": "PI",
+   "outcome": "proposal",
+   "why": "staple: PI is a commodity logogram recording a staple good counted in moderate"
+  },
+  {
+   "unit": "*312",
+   "outcome": "proposal",
+   "why": "staple: *312 is a staple commodity counted in small whole quantities, appearin"
+  },
+  {
+   "unit": "A-SE",
+   "outcome": "proposal",
+   "why": "heading: A-SE is a label that opens a record or transaction, not a counted comm"
+  },
+  {
+   "unit": "DA-ME",
+   "outcome": "proposal",
+   "why": "name: DA-ME is a party name (person or place) appearing in administrative re"
+  },
+  {
+   "unit": "MI-NU-TE",
+   "outcome": "proposal",
+   "why": "heading: MI-NU-TE is a label or transaction word that opens or titles a record,"
+  },
+  {
+   "unit": "KU-PA",
+   "outcome": "proposal",
+   "why": "staple: KU-PA is a staple commodity, likely recorded in moderate quantities al"
+  },
+  {
+   "unit": "U-NA-KA-NA-SI",
+   "outcome": "proposal",
+   "why": "name: U-NA-KA-NA-SI is a party—person or place—entered in accounts alongside"
+  },
+  {
+   "unit": "JA-SA",
+   "outcome": "unknown",
+   "why": "It appears on only 4 documents across 4 geographically dispersed sites (Iouktas,"
+  },
+  {
+   "unit": "ZA",
+   "outcome": "proposal",
+   "why": "staple: ZA records a staple commodity counted in small whole quantities, appea"
+  },
+  {
+   "unit": "*316",
+   "outcome": "proposal",
+   "why": "staple: *316 is a staple commodity, likely a plant-based foodstuff, recorded i"
+  },
+  {
+   "unit": "QE-RA₂-U",
+   "outcome": "proposal",
+   "why": "heading: QE-RA₂-U is a label or transaction term that opens or introduces a rec"
+  },
+  {
+   "unit": "PA₃-NI-NA",
+   "outcome": "proposal",
+   "why": "heading: PA₃-NI-NA is a label or transaction term that opens or titles a record"
+  },
+  {
+   "unit": "TE-TU",
+   "outcome": "proposal",
+   "why": "total: TE-TU is a summation word appearing after a commodity entry (VIN) to m"
+  },
+  {
+   "unit": "PA-DE",
+   "outcome": "proposal",
+   "why": "name: PA-DE is a place name or party name appearing as a labeled entry in co"
+  },
+  {
+   "unit": "TA-I-AROM",
+   "outcome": "proposal",
+   "why": "total: TA-I-AROM is a summation word appearing before or near a running total"
+  },
+  {
+   "unit": "*560",
+   "outcome": "proposal",
+   "why": "staple: *560 is a staple commodity, likely a solid agricultural product such a"
+  },
+  {
+   "unit": "*118",
+   "outcome": "proposal",
+   "why": "liquid: *118 is a liquid commodity, likely a grade or variety of oil, recorded"
+  },
+  {
+   "unit": "RE-ZA",
+   "outcome": "proposal",
+   "why": "total: RE-ZA is a summation word that closes an account, equivalent in functi"
+  },
+  {
+   "unit": "KA-KU-PA",
+   "outcome": "proposal",
+   "why": "heading: KA-KU-PA is a label that opens a record, marking the type of transacti"
+  },
+  {
+   "unit": "OLE+TU",
+   "outcome": "proposal",
+   "why": "liquid: OLE+TU is a graded or qualified variety of oil, distinguished from pla"
+  },
+  {
+   "unit": "MU",
+   "outcome": "unknown",
+   "why": "It appears only 3 times across 3 documents at 3 geographically dispersed sites ("
+  },
+  {
+   "unit": "KI+MU",
+   "outcome": "proposal",
+   "why": "bulk: KI+MU is a staple commodity counted in whole units with moderately lar"
+  },
+  {
+   "unit": "MI+JA+I",
+   "outcome": "proposal",
+   "why": "bulk: MI+JA+I is a bulk staple commodity, likely a grain or grain-related pr"
+  },
+  {
+   "unit": "*326",
+   "outcome": "proposal",
+   "why": "staple: *326 is a staple commodity, likely a plant-based foodstuff recorded in"
+  },
+  {
+   "unit": "AU",
+   "outcome": "proposal",
+   "why": "heading: AU is a label or transaction word that opens or titles a record rather"
+  },
+  {
+   "unit": "SI+SE",
+   "outcome": "proposal",
+   "why": "liquid: SI+SE is a graded or typed liquid commodity, most likely a variety or "
+  },
+  {
+   "unit": "*318",
+   "outcome": "unknown",
+   "why": "Only 3 attestations across 3 tablets, all at a single site (Haghia Triada), prov"
+  },
+  {
+   "unit": "*OLIV+TU",
+   "outcome": "proposal",
+   "why": "liquid: A graded or sub-type variety of olive oil, distinguished from plain OL"
+  },
+  {
+   "unit": "NU",
+   "outcome": "proposal",
+   "why": "bulk: NU is a bulk staple commodity, likely a grain or grain-like product co"
+  },
+  {
+   "unit": "GRA+K+L",
+   "outcome": "proposal",
+   "why": "bulk: GRA+K+L is a bulk staple commodity, likely a variety or grade of grain"
+  },
+  {
+   "unit": "DI-DE-RU",
+   "outcome": "proposal",
+   "why": "name: DI-DE-RU is a party name (person or place) appearing in commodity acco"
+  },
+  {
+   "unit": "TE-RI",
+   "outcome": "proposal",
+   "why": "qualifier: TE-RI is a bare syllabic modifier attached to or following a commodity"
+  },
+  {
+   "unit": "QA-QA-RU",
+   "outcome": "proposal",
+   "why": "total: QA-QA-RU is a totalling word that closes or summarises an account, fun"
+  },
+  {
+   "unit": "PA-SE-JA",
+   "outcome": "proposal",
+   "why": "heading: PA-SE-JA is a transaction or record label that opens or titles a docum"
+  },
+  {
+   "unit": "PA-TA-NE",
+   "outcome": "proposal",
+   "why": "total: PA-TA-NE is a word that appears before or in place of a summing figure"
+  },
+  {
+   "unit": "*304+PA",
+   "outcome": "proposal",
+   "why": "fine: *304+PA is a valued commodity recorded in small quantities, likely a s"
+  },
+  {
+   "unit": "GRA+F",
+   "outcome": "proposal",
+   "why": "fine: GRA+F is a valued commodity recorded in small fractional amounts, like"
+  },
+  {
+   "unit": "A-RI",
+   "outcome": "proposal",
+   "why": "qualifier: A-RI is a bare syllabic element added to commodity signs as a modifier"
+  },
+  {
+   "unit": "ME",
+   "outcome": "proposal",
+   "why": "qualifier: ME is a bare syllable added to commodity signs to mark a grade, type, "
+  },
+  {
+   "unit": "JE",
+   "outcome": "proposal",
+   "why": "heading: JE is a label or transaction word that opens a document, marking the r"
+  },
+  {
+   "unit": "*401+RO",
+   "outcome": "proposal",
+   "why": "textile: *401+RO is a type of textile commodity, with the added syllable RO mar"
+  },
+  {
+   "unit": "*322",
+   "outcome": "unknown",
+   "why": "Only three attestations exist, all on roundels from a single site (Khania), and "
+  },
+  {
+   "unit": "A-MA",
+   "outcome": "proposal",
+   "why": "name: A-MA is a party name (person or place) appearing as a list entry assoc"
+  },
+  {
+   "unit": "A-JA",
+   "outcome": "proposal",
+   "why": "heading: A-JA is a label or transaction term that opens a document, functioning"
+  },
+  {
+   "unit": "*412+E",
+   "outcome": "proposal",
+   "why": "textile: *412+E is a type of textile, distinguished from related cloth types by"
+  },
+  {
+   "unit": "*418+L2",
+   "outcome": "unknown",
+   "why": "Only 3 attestations across 3 different sites and 3 different support types give "
+  },
+  {
+   "unit": "SI-PI-KI",
+   "outcome": "unknown",
+   "why": "Only 3 attestations across 3 documents, all on stone vessels (not clay tablets),"
+  },
+  {
+   "unit": "QI+SI",
+   "outcome": "proposal",
+   "why": "textile: QI+SI is a type of textile, with the added syllable SI specifying a va"
+  },
+  {
+   "unit": "DU-RE-ZA-SE",
+   "outcome": "proposal",
+   "why": "name: DU-RE-ZA-SE is a party—a person or place—entered in stone-vessel accou"
+  }
+ ],
+ "report": "117 units proposed on: proposal 102, unknown 14, invented 1"
+}

@@ -94,6 +94,8 @@ Nissen, H. J., P. Damerow and R. K. Englund 1993. Archaic Bookkeeping. Chicago.
 
 Postgate, J. N. 2013. Bronze Age Bureaucracy: Writing and the Practice of Government in Assyria. Cambridge.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos and N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Schoep, I. 2002. The Administration of Neopalatial Crete. Salamanca.
 
 Weingarten, J. 1987. Seal-use at LM IB Ayia Triada. In Aux origines de l'hellénisme, Paris, 187-198.

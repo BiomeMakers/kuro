@@ -262,4 +262,6 @@ Untermann, J. 1990. Monumenta Linguarum Hispanicarum III. Die iberischen Inschri
 
 Vico, G. 2023. Larth: Etruscan NLP corpus. https://github.com/GianlucaVico/Larth-Etruscan-NLP
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2024a-b. Linear A Lexicon; Linear A Texts in Phonetic Transcription. https://kansas.academia.edu/JYounger

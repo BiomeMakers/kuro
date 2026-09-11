@@ -1,0 +1,24 @@
+{
+ "prior_art": [],
+ "survivors": [
+  {
+   "units": [
+    "*304"
+   ],
+   "kind": "distributional",
+   "claim": "*304 is a secondary staple listed with OLE and GRA at the base fraction rate",
+   "refuted_by": "*304 counted in fine fractions like CYP or with VIR",
+   "mechanism": "model",
+   "score": 0.0,
+   "klass": "staple",
+   "confidence": "low",
+   "source": "model",
+   "prior_art": true,
+   "p": 1.0,
+   "instrument": "profile"
+  }
+ ],
+ "failed": [],
+ "unsupported": [],
+ "efficiency": "1 candidates through the cycle\n\n  filtered by the novelty gate      0 (0%)\n  measured                          1\n  would pass a bare p < 0.05         0\n  borderline after correction       0\n  survive the whole cycle           1\n\n\n  reduction is only meaningful beside the recall of true effects, which this corpus cannot supply: there is no key. It is reported as what it is — how many apparent results the cycle removes — and not as accuracy."
+}

@@ -16,3 +16,6 @@ testpaths = ["tests"]
 
 [project.scripts]
 kuro = "kuro.cli:main"
+
+[tool.setuptools]
+packages = ["kuro"]

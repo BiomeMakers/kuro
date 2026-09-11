@@ -5,5 +5,14 @@ dist/
 build/
 .venv/
 
-# uncomment before making the repository public:
-# data/raw/
+# third-party corpora are not redistributed: fetch them with data/fetch.py and scripts/fetch_candidates.py
+data/raw/*
+!data/raw/README.md
+docs/reference/*.txt
+data/raw/candidates/
+data/raw/grambank/
+data/derived/nd/
+*.cog
+log/
+runs/
+data/derived/iberian_corpus.json

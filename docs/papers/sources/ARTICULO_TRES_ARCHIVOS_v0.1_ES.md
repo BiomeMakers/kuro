@@ -130,4 +130,6 @@ Schoep, I. 2002. The Administration of Neopalatial Crete. Salamanca.
 
 Strona, G., D. Nappo, F. Boccacci, S. Fattorini and J. San-Miguel-Ayanz 2014. A fast and unbiased procedure to randomize ecological binary matrices with fixed row and column totals. Nature Communications 5, 4114.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2024. Linear A Texts in Phonetic Transcription. https://kansas.academia.edu/JYounger

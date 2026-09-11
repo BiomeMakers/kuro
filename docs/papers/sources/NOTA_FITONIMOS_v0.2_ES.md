@@ -101,6 +101,8 @@ Salgarella, E. y S. Castellan 2020. SigLA. The Signs of Linear A: a palaeographi
 
 Weingarten, J. 1987. Seal-use at LM IB Ayia Triada: a Minoan elite in action. I. Administrative considerations. Kadmos 26, 1-43.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2024a. Linear A Lexicon (updated 26 May 2024). https://www.academia.edu/120182223
 
 Younger, J. G. 2024b. Linear A Texts in Phonetic Transcription: Haghia Triada. https://kansas.academia.edu/JYounger

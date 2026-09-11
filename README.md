@@ -29,6 +29,19 @@ See `examples/linear_a_quickstart.py`. The corpora themselves are fetched with `
 
 Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocypriot vs Cypriot Greek (word-final syllables), Proto-Elamite (Dahl's numeral systems by object class, the M157 header, the name/commodity partition), Uruk vs Susa (inheritance of the sexagesimal system, adaptation of the capacity system, invention of the decimal), Iberian (Untermann's onomastic formants, the southern S56 and north-eastern -mi isoglosses). Its use on Linear A is reported in the papers under `docs/papers/`.
 
+## Since 10 September 2026
+
+Twelve instruments now carry a measured error rate (`data/derived/error_rates.json`), including the
+quantity-profile test for logograms (`kuro/profile.py`) and the name matcher with its nulls
+(`kuro/names.py`). The functional inventory (`data/derived/dictionary.json`) holds 56 units with
+evidence for and against and a refutation condition each; 276 of 783 syllabic units are flagged as
+broken in every attestation. The sound-value search (`kuro/valuesearch.py`, `scripts/value_search.py`)
+optimises the values of the unanchored Linear A signs against each candidate language with a control
+corpus; no candidate beats the control (z max 1.7). Two model-in-the-loop stages are measured: the
+literature Reader (`kuro/reader.py`, 22% invented units without a dossier) and the Hypothesizer
+(`kuro/hypothesize.py`, 1% with one), both judged by `scripts/cycle_*.py`. Calibrations on Iberian
+(Ascoli bronze anchoring, ending profiles) are under `docs/analysis/`.
+
 ## Reports
 
 ```
@@ -49,7 +62,7 @@ Every report ends with a verification sec
 | path | what it holds |
 |---|---|
 | `kuro/` | the package: corpus loaders, nulls, tests, reports, provenance, power thresholds |
-| `tests/` | 32 tests on synthetic data with known answers, plus the manifest and language-pair checks |
+| `tests/` | 106 tests on synthetic data with known answers, plus the manifest and language-pair checks |
 | `manifest.json` | every figure the papers assert, the withdrawn claims, the prior art and its holders |
 | `scripts/check_manifest.py` | reads the papers and fails when any of those drifts |
 | `biblio/` | which work bears on which claim, and whether it has been read |
@@ -81,7 +94,7 @@ photographic brightness at r = 0.990.
 
 ```
 pip install -e ".[test]"
-pytest -q          # 11 tests on synthetic data with known answers
+pytest -q          # 106 tests on synthetic data with known answers
 ```
 
 Each test plants a structure (a register difference, a prefix, mutually exclusive blocks, a vocabulary that depends on the hand, a tablet whose total adds up) and checks that the instrument sees it and that the nulls preserve what they must: margins, word lengths, strata.
@@ -119,6 +132,273 @@ Every figure a report states carries a marker: `[C]` computed here, with the has
 ## Corpus size
 
 `power_report` states which instruments have power at a given size, with the evidence for each threshold: co-exclusion needs around 800 documents (zero pairs at 224, thirteen at 830), a network descriptor with test-retest reliability needs tens of thousands (noise at 224, 2.9% between halves at 34,000), and frequency rank-matching for phonetic values needs around 10,000 sign tokens — that last one from Briakos (2026), who calibrates it against a synthetic Linear B corpus.
+
+
+## Look it up before you measure it
+
+In one week this project measured something, concluded something, and then found the conclusion
+already published — six times. Twice it was in Younger's *Lexicon*, which catalogues the corpus word
+by word and is freely available. `kuro.Reference` makes that lookup take a second:
+
+```python
+from kuro import Reference
+ref = Reference('docs/reference')
+print(ref.lookup('KU-NI-SU'))                      # what the literature already says
+print(ref.unread(['*305', 'KI-RE-TA-NA']))         # which of these are untouched
+```
+
+The reference texts are not redistributed; `docs/reference/README.md` says which works to obtain and
+how to extract them. When the folder is empty the lookup says so, rather than reporting an absence
+that would read as novelty.
+
+
+
+## The hypothesis cycle
+
+Three claims were made and killed on 9 September 2026. Each took hours; each died at a different
+step; the steps were the same every time and were carried out by hand. `kuro.Hypothesis` is that
+cycle as an object.
+
+```python
+from kuro import Hypothesis
+h = Hypothesis(claim='the suffix -na prevents a word from heading its document',
+               refuted_by='a document headed by a form in -na whose root also occurs',
+               kind='positional')
+h.check_literature(ref)      # stops if the indexed works already treat these units
+h.test(measure, null)        # the null the claim's kind requires
+h.control('genre', note=...) # the confounders that kind of claim carries
+h.correct(n_tests=18)        # the family it belongs to
+print(h.report())            # every step, and what is still unchecked
+```
+
+**A Hypothesis cannot be built without a refutation condition.** The protocol's third requirement is
+structural here, not advisory. Confounders are attached to the kind of claim, so a distributional
+claim that has not been checked against scribe, site and support returns `incomplete` rather than
+`survives`. A claim that dies files itself as a withdrawal; one that survives files itself as
+evidence in the dictionary.
+
+**The cycle was validated against the three claims of that day**: it kills each at the step where it
+died by hand — the first at the bibliography, the second at the scribe control, the third at the
+multiple-comparison correction.
+
+### What the genre forbids
+
+`kuro.Constraints` holds the rules already measured here, each formulated as an **elimination**
+("cannot be a category of persons") rather than an assignment, with its source and its exception
+rate. Two of the first five rules were removed by validation, and are kept in the source as comments
+because a rule that failed is information: `single_site` eliminated KI-RO, which is a transaction
+term occurring only at Haghia Triada; `carries_logogram` eliminated KU-RO, which is followed by a
+logogram on mixed-commodity tablets. The remaining rules recover the true category of all thirteen
+units whose category is known, with no false eliminations.
+
+### Orders of co-occurrence
+
+`kuro.Orders` measures order 0 (same document), order 1 (adjacency, with a null that shuffles within
+document so it does not merely retest order 0), order 2 (fixed separation, which a template leaves),
+and co-exclusion — pairs frequent enough to have met and which never do. `power_note()` reports how
+many pairs are testable at all, because a null result on a corpus with no testable pair measures the
+corpus and not the language.
+
+### The pieces are wired together
+
+A measurement returns a hypothesis with its p already set (`Orders.adjacency_hypothesis`,
+`Constraints.as_hypothesis`), and a hypothesis files itself where it belongs (`h.file(dictionary=…,
+manifest_path=…)`): as evidence on each of its units if it survives, as a withdrawal in the manifest
+if it does not. Carrying a p-value across by hand is where a confounder gets forgotten.
+
+`ErrorRate` measures the false-positive rate **at several thresholds, not only at 0.05**, because a
+result at p = 0.0001 is not qualified by how often the instrument errs at 0.05. When the trials do
+not reach that far down it says so rather than inventing a number, and a p of exactly zero is
+reported as a bound (`p < 1/n`) rather than as zero, since no run of n draws resolves below 1/n.
+
+### What the failures taught
+
+`kuro.Lessons` reads the withdrawn claims and applies them to the next hypothesis before it runs.
+Six claims have been withdrawn here and three notation artefacts were caught in one afternoon; their
+reasons repeat, and a system that files failures without using them repeats them too.
+
+```python
+L = Lessons.from_manifest('manifest.json')
+L.advise(h)                 # warnings, and the controls a past failure now requires
+L.affordable(units, docs, test='adjacency')   # can this corpus decide it at all?
+```
+
+**A lesson warns and schedules a control; it never rejects.** If failures could block, the system
+would end up refusing everything — not because the claims are bad but because it accumulated
+prohibitions. A hypothesis that resembles a past failure still runs; what it cannot do is come out
+as `survives` while skipping the check that killed its predecessor.
+
+**And the brake on generation is power, not a count.** A limit of N hypotheses would be arbitrary.
+`affordable()` refuses only what the corpus cannot decide, and its threshold depends on the test:
+a co-occurrence test needs a reasonable expected joint count, while an ordering test needs enough
+documents that actually contain both. Applying the first threshold to the second would have refused
+CYP → NI, which is one of the clearest results in this corpus.
+
+### Where the hypotheses come from
+
+`kuro.Generator` has three sources, and they differ in kind.
+
+**From the dictionary.** Every unit the corpus can decide, crossed with every category the
+constraints have not eliminated; every pair that shares enough documents for the test in question.
+Ranked by what settling them would add, with units no indexed work treats weighted above the rest.
+Mechanical, and it produces the volume.
+
+**From the literature.** The indexed works are full of assertions made without a figure — "*308 is
+measured in proportion to OLIV", "KI-RO is always smaller than the KU-RO it follows", "the Zb
+inscriptions are not administrative". Each is a hypothesis already written by someone else;
+measuring one settles a published statement rather than proposing a new one. Two of the eight
+recorded here were measured on 9 September, and the module marks them so they are not offered again.
+
+**From other fields.** Every method that has survived in this project came from outside epigraphy:
+hypergeometric co-occurrence from microbial ecology, margin-preserving nulls from species networks,
+power curves from experimental design, capture-artefact control from microscopy.
+`Generator.problem_shape()` states this corpus's structural problem — a thousand types of which 76%
+occur once, nested in sites and scribes and genres, with no verifier — so that fields with the same
+shape can be searched deliberately rather than found by luck. Six are named, and the closest untried
+one is **market-basket analysis**: a Haghia Triada tablet is a basket, and fifty years of
+association-rule methods with their own false-discovery controls have never been pointed at it.
+
+`transplant_checklist()` is what a borrowed method must answer first. It exists because this
+project's failures were transplants applied without it: the Ulanowicz window came from ecology and
+was reproduced by the margins, compositionality came from linguistics and was reproduced by the
+phonotactics. The rule is short — **a method that cannot recover the known answer in a corpus where
+the answer is known is not applied to Linear A**.
+
+### Where the hypotheses come from
+
+`kuro.Generator` supplies them from two sources, so that the rate does not depend on one person
+having an idea.
+
+Candidates are ranked by **informativeness, not frequency**. Frequent units are grammaticalised and
+occur with everything, so their distribution does not discriminate; rare ones have no distribution at
+all, and 596 units here occur once. The band from three to about fifteen attestations is the only one
+with cases enough to measure and specificity enough for the measurement to mean something, and it is
+where every result of this project has come from. The first version of this generator ranked by raw
+frequency and put exactly the useless end on top.
+
+**Combinatorial**, from the dictionary: every unit against every category its constraints have not
+eliminated, every pair that shares documents and passes the power check, every unit that shares
+documents with something already read. Ranked by what settling them would buy. Cheap and mostly
+dull, but it does not miss the obvious.
+
+**Bibliographic**, from the reference index: the literature is full of claims stated without a
+number — "measured in proportion to OLIV", "the same commodities in the same order", "mutually
+exclusive". Each is a hypothesis already formed by someone who knows the field, waiting for a null.
+Three were run on 9 September 2026; two produced results and one produced a withdrawal.
+
+**And the third source is not automated, deliberately.** `kuro.transfer.ProblemShape` states the
+shape of this problem — short documents, a type space where three quarters of units occur once,
+nested structure by site and scribe, no verifier — so that a method from another field can be
+matched to it on purpose rather than by luck. Every instrument in this package came from outside
+epigraphy: the hypergeometric test and the marginal-preserving null from microbial ecology, the
+power curve from experimental design, the capture-artefact control from microscopy. Those are the
+ones that survived. Four fields with the same shape are recorded as untried, with what each has
+already solved — market-basket analysis being the closest match, since a Haghia Triada tablet is
+literally a basket.
+
+### Claims that predict
+
+Every other instrument here describes the corpus. `kuro.PredictiveTest` predicts held-out material,
+which is the protocol's third requirement and the one this project demanded of others seven times
+before meeting it once.
+
+```python
+t = PredictiveTest(items, exclude_positions={0})   # what alignment used, and cannot be scored
+t.run(predictor)
+t.as_hypothesis(claim=..., refuted_by=...)          # carries its p and its baseline
+```
+
+Two things are enforced because both were got wrong first. **The baseline is not the null**: a
+predictor must beat always guessing the commonest element, and it is easy to beat a shuffled null
+while losing to a constant guess, so `beats_base` is a control and a claim that fails it comes out
+`not_supported`. **And the alignment cannot be scored**: the first run of the libation experiment
+scored 20.2% and eleven of its seventeen hits were the anchor position used to align the
+inscriptions. `exclude_positions` is a required argument for that reason — it has no default.
+
+### The piece that was missing: something that reads
+
+The bibliographic generator finds passages with a regular expression and hands back the nearest
+unit name with some context. That is a pointer, not a claim: running 26 of them through the cycle
+gave four "survivors" that were nothing. What produced a result was reading the 26 by hand — seven
+contained a proposition, one was worth something. `kuro.Reader` automates that reading with a
+language model in the loop:
+
+```python
+from kuro import Reader
+from kuro.models import anthropic_model
+reader = Reader(model=anthropic_model(), known_units=set(dic.entries))
+props = reader.read_all(candidates)     # a Proposition or None per passage
+for p in props:
+    p.to_hypothesis()                   # straight into the cycle
+```
+
+The output format is strict — units, kind, claim, and **what would refute it** — and a reading that
+cannot fill all four is discarded. A unit the corpus does not have is treated as invented and the
+proposition dropped. Temperature is zero, because extraction that varies cannot be audited.
+
+`scripts/read_literature.py` runs the whole thing end to end: regex → reader → cycle → filing, with
+every passage logged. The idea came from a news item about ten thousand agents solving a mathematics
+problem with a verifier behind them: Linear A has no verifier, but it now has a judge, and this is the
+generating half at our scale.
+
+### Proposing from our own measurements
+
+The reader reproduces: every proposition it yields is one someone already wrote. What produced a new
+unit was an analogy over our own data — MA-RU-ME entered because it behaved like OLE+KI. `kuro.Proposer`
+makes that systematic, with three mechanisms over the dictionary and the corpus:
+
+```python
+P = Proposer(dictionary, docs, sites)
+P.analogies()             # each unread unit and the read unit it most resembles in behaviour
+P.anomalies()             # read units that break their own category's pattern
+P.extrapolate('qualifier')   # a syllable attached to several commodities is a grade, not a name
+```
+
+Its first run proposed that RA qualifies both oil and wine (which gave VIN+RA, one of the corpus's
+seven untreated units, a reading), that KU qualifies grain, cloth and *188, and that *86 follows a
+count of persons with a smaller figure. Two of its three mechanisms were wrong on first use and fixed
+by their tests: extrapolation matched any prefix on any word, and analogy matched everything to KU-RO
+because it ignored quantity magnitude.
+
+### Iteration
+
+A surviving hypothesis is a constraint, not a result: it restricts the other units of its documents
+and triggers a second pass. `kuro.Iteration` records what each claim leans on and **fails if a cycle
+is built** — a hypothesis may use another as a constraint only if that other survived without using
+it. Without that guard, a second pass builds a castle of cards no reviewer can unpick.
+
+## A dictionary in which every claim is dated and signed
+
+`data/derived/dictionary.json` holds all 1,006 units of the corpus. It is not a lexicon — Younger's
+already exists and catalogues attestations with their readings — but its complement: for each unit,
+what its distribution measures, what the literature says, **with whom and in what year**, what
+evidence bears on it **and in which direction**, and what would refute it.
+
+```python
+from kuro import Dictionary
+d = Dictionary.load('data/derived/dictionary.json')
+print(d.report())
+print(d['CYP'].summary())     # a contested unit, with the evidence against it shown
+d.gaps()                      # units measured but with no proposed reading
+d.contested()                 # units where the evidence points both ways
+d.by_year()                   # every claim by the year it was made
+```
+
+Three design decisions follow from what went wrong in this project's first week:
+
+**Every field carries its source and its year.** A reading proposed in 1955, before GORILA and with
+an incomplete corpus, is not the same kind of claim as one made in 2025 with the corpus catalogued.
+The year is not a ranking — older work is often better argued — but it records what its author had
+in front of them.
+
+**Evidence is typed and signed, never counted.** Three weak supports do not equal one strong one:
+this project's KU-PA reading had three and fell, because one of them was a ligature that does not
+exist. Each piece records its kind (distribution, arithmetic, documentary parallel, chemistry,
+archaeobotany, etymology, palaeography, context) and its direction. A unit with four supports and one
+chemical result against it reads as contested, which a count would hide.
+
+**A refutation condition is a required field.** A reading with none is reported as unassessable, and
+a test fails if any entry has a gloss without one.
 
 ## One source of truth for the figures
 

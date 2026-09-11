@@ -98,6 +98,10 @@ The case of -ja rests on three converging observations: it had already been meas
 
 **What this adds to what is published.** Davis asks whether Minoan uses affixes, and the answer is that it does. This paper asks what the stems being affixed are stems of, and measures that they are specifically Cretan. Two questions of the same data, and the second requires a control the first does not need.
 
+### What would refute this work
+
+This work must state what observation would refute it, under the third requirement of the protocol its author proposes. Two would. First, that a count using the full list of toponyms of Roman or Byzantine Crete, that is, Cretan place names Minoan cannot have generated, should yield a number of matches comparable to that of the Linear B toponyms: this would show that the asymmetry measures Cretan phonotactics in general and not Minoan inheritance. And second, that a systematic treatment of Linear A onomastics, such as the one occupying chapter 13 of van Soesbergen, should account for the fifteen cases by a route requiring no toponym stems, in which case the geographic control would remain a fact but would cease to sustain this reading.
+
 ## Data
 
 Cretan toponyms: the Knossos tablets in Linear B. Linear A corpus: GORILA (Godart and Olivier 1976-1985) in the form of the LinearA Explorer (Hogan 2022), with verification in SigLA (Salgarella and Castellan 2020). Scripts: the kuro package (Acedo 2026d).
@@ -131,5 +135,7 @@ Salgarella, E. and S. Castellan 2020. SigLA: the Signs of Linear A. https://sigl
 Schoep, I. 2002. The Administration of Neopalatial Crete. Minos Suppl. 17, Salamanca.
 
 Steele, P. and T. Meißner 2017. From Linear B to Linear A: the problem of the backward projection of sound values. In P. Steele (ed.), Understanding Relations Between Scripts, Oxford, 93-110.
+
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos and N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
 
 Younger, J. G. 2024. Linear A texts and inscriptions in phonetic transcription. Academia.edu.

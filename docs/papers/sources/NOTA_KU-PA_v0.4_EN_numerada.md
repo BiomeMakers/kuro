@@ -124,7 +124,9 @@ Corpus processing, permutation tests and a first draft of this text were produce
 
 [10] Del Freo, M., M.-L. Nosch and F. Rougemont 2010. The terminology of textiles in the Linear B tablets, including some considerations on Linear A logograms and abbreviations. In C. Michel and M.-L. Nosch (eds), Textile Terminologies in the Ancient Near East and Mediterranean, Oxford, 338-373.
 
-[11] Younger, J. G. 2024a. Linear A Lexicon (updated 26 May 2024). https://www.academia.edu/120182223
+[11] Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
+Younger, J. G. 2024a. Linear A Lexicon (updated 26 May 2024). https://www.academia.edu/120182223
 
 [12] Hallager, E. 1996. The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration. Liège and Austin.
 

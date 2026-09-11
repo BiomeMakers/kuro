@@ -158,6 +158,8 @@ Steele, P. M. and T. Meißner 2017. From Linear B to Linear A: the problem of th
 
 Weingarten, J. 1987. Seal-use at LM IB Ayia Triada: a Minoan elite in action. I. Administrative considerations. Kadmos 26, 1-43.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos and N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2010. The Myrtos-Pyrgos and Gournia roundels inscribed in Linear A: suffixes, prefixes, and a journey to Syme. In Cretan Offerings. Studies in Honour of Peter Warren, London, 345-352.
 
 Younger, J. G. 2024a. Linear A Lexicon (updated 26 May 2024). https://www.academia.edu/120182223

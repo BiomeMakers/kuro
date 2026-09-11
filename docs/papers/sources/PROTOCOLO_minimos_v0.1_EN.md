@@ -24,7 +24,7 @@ Own case: we measured the ascendency-to-capacity ratio of the document-word netw
 
 Own case 2: we measured the compositionality of the Minoan lexicon (whether long words decompose into recurrent elements) and obtained 0.12 against 0.02 for the shuffled-syllable null, above Greek at equal size. With a null preserving syllable transitions, the observed value falls within the null (p = 0.60): it was the phonotactics of the syllabary. Withdrawn.
 
-Rule: the null must preserve everything that is not the hypothesis.
+Rule: the null must preserve everything that is not the hypothesis. A second part must be added to this requirement, which applying the protocol to someone else's proposal showed to be necessary. Declaring the null is not enough: one must declare **which claim it covers and which it does not**. A null over a set does not cover its members, and this is a common case: in the companion paper on toponyms, fifteen cases jointly exceed the null and none stands on its own, which is stated there expressly. And a null on coincidence, however well built, measures how improbable the observed would be were there no effect; it does not turn a proposal into a certainty, nor does it eliminate apophenia, the bias of seeing structure where there is none, which no calculation internal to the material can rule out. The gap between what a null measures and what is concluded from it is as real a failure as not running one.
 
 ### 2.2 A positive control in a corpus with a known answer
 Before applying an instrument to the unknown, one must check that it recovers the known in a comparable corpus. If it does not, the instrument's silence is not information.

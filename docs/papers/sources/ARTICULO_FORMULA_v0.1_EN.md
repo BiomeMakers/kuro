@@ -1,4 +1,4 @@
-# What can be fixed about a formula without reading it: the Linear A votive template and its two surviving readings
+# What can be fixed about a formula without reading it, and what it predicts: the Linear A votive template
 
 **Alberto Acedo**
 Biome Makers Inc. Draft v0.2, 9 September 2026. The segmentation of the opening is credited to Finkelberg 1990-91.
@@ -6,6 +6,8 @@ Biome Makers Inc. Draft v0.2, 9 September 2026. The segmentation of the opening 
 ## Abstract
 
 The votive inscriptions of Linear A share a formula that recurs at six Cretan sanctuaries over more than two centuries and that remains unread. This paper proposes no reading: it fixes by distribution what function each position of the formula performs, and enumerates which readings remain and what datum would separate each pair. Over the eighteen non-accounting inscriptions preserving at least one anchor it establishes: that the formula opens with a fixed word whose root is invariant and whose ending varies by sanctuary and not by agreement (six endings on one root, the corpus's best candidate for a paradigm); that the fillers of the variable slots are hapax in 32 of 32 cases, a probability of the order of 10⁻⁴ under the corpus rate, so that the slots hold the open class of names and places and the anchors the closed class; that the single inscription with logograms, SY Za 2, fixes the anchor u-na-ka-na-si as the term for the offering with no recourse to etymology, since it is followed by the logogram for oil while the preceding word carries that for olives; and that ja-sa-sa-ra-me never carries a logogram in thirteen occurrences, which rules out its designating the offering or the object. Compared as a structure with the contemporary votive formulae that are read, the Minoan template places its central invariant element between the names and the offering, as the Egyptian and Anatolian do, and unlike the Semitic and Greek, which place the deity last; and it opens with a fixed formula preceding the dedicant, as only the Egyptian does. Once the functions each position admits are enumerated and those contradicting some datum are discarded, two structural readings survive for the central anchor and two for the next, and in all four cases the datum that would separate them is absent from the corpus: what it would be and where it might appear are specified. The methodological result is that in a corpus without a bilingual the function of each position of a formula can be fixed and the number of possible readings bounded, though not the value of its words; and that the reading proposals in circulation can be ordered by whether they survive those constraints.
+
+To these descriptive results the paper adds one of a different kind, evaluated as textual restoration is evaluated in the wider field (Sommerschield et al. 2023): a held-out test with baselines and accuracy at several ranks. Holding out each inscription in turn and reconstructing its slots from the others recovers 8 of 57 held-out elements (14.0%). The field's standard n-gram baseline does better at Top-1 (17.5%), and this is stated rather than omitted. What explains both figures is that the true element is available among the candidates in only 14.0% of slots, because 71.9% of the fillers occur in no other inscription of the formula: **the method recovers every slot the structure allows it to recover**, and all eight hits are the three elements the distributional analysis identifies as fixed. All approaches converge near 23% as rank grows, which is the share of slots holding a repeated element — a ceiling belonging to the corpus and not to any model.
 
 **Keywords:** Linear A, libation formula, votive inscriptions, distributional analysis, null models, Haghia Triada, Iouktas, Palaikastro.
 
@@ -61,6 +63,66 @@ Three elements separate by distribution and not by etymology.
 **ja- / a-**: eleven pairs with a- in the whole corpus (a-ri-ja / ri-ja, a-ki-ro / ki-ro, a-mi-ta / mi-ta), and the alternation ja-sa-sa-ra-me / a-sa-sa-ra-me / sa-sa-ra-me. Its frequency is 7 per thousand at Haghia Triada against 140-240 per thousand at the sanctuaries: **it is a feature of genre, not of grammar**.
 
 **u-ti-nu**: occurs only on IO Za 11, and as the ending of ta-na-i-\*301-u-ti-nu (IO Za 6) and of ta-na-ra-te-u-ti-nu (IO Za 2). The two Iouktas compounds share the frame ta-na-[X]-u-ti-nu. It is a separable element that the script joins to the preceding word without a divider, and it has a consequence for the template: **the tail filler of IO Za 2 is not a name but a second form of the opening**, so that at Iouktas the formula closes as it opens.
+
+## 4 bis. What the template predicts, and what nothing can predict
+
+Everything above describes the corpus. This section predicts material that was set aside, following
+the evaluation practice of textual restoration (Sommerschield et al. 2023): a held-out test, several
+baselines including the field's standard n-gram, and accuracy reported at several ranks rather than
+at the first alone.
+
+**Design.** The eighteen inscriptions in which the opening anchor can be located are indexed by
+position relative to that anchor. For each slot, the whole inscription containing it is withheld and
+the element is predicted from the seventeen others by what occupies that relative position, weighting
+a candidate by how many other elements its source inscription shares with the one being reconstructed.
+**The anchor position is excluded from scoring**, since it is what the alignment uses; an early run
+that did not exclude it scored 20.2% and owed eleven of its seventeen hits to that position alone.
+
+**Result, with baselines and at several ranks.**
+
+| | Top-1 | Top-3 | Top-5 | Top-10 | Top-20 |
+|---|---|---|---|---|---|
+| this predictor | *\*14.0%** | 14.0% | 14.0% | 14.0% | 14.0% |
+| n-gram baseline (predict from the preceding element) | *\*17.5%** | 19.3% | 21.1% | 22.8% | 22.8% |
+| always guess the commonest element | 8.8% | 19.3% | 21.1% | 22.8% | 24.6% |
+
+**Two things must be said plainly, and the second explains the first.**
+
+**The n-gram baseline beats this predictor at Top-1**, 17.5% against 14.0%. The standard baseline of
+the field is better than the method proposed here, and reporting otherwise would require omitting it.
+
+**And this predictor's accuracy does not improve with rank at all**, which is not how a predictor
+behaves unless it has run out of candidates. It has:
+
+| | |
+|---|---|
+| slots evaluated | 57 |
+| the true element is available among the candidates for that position | 8 (*\*14.0%**) |
+| the true element occurs in **no other inscription of the formula** | 41 (*\*71.9%**) |
+
+**The ceiling of this method is 14.0%, and its accuracy is 14.0%.** It recovers every slot the
+structure allows it to recover. In the remaining 86% the true element is not available to be
+proposed, and in nearly three quarters of cases because it is a hapax.
+
+**That is the result, and it confirms section 3.2 from the other side.** The slots hold the open
+class: all thirty-two of the formula's fillers are hapax. One cannot predict the filler because the
+filler is new each time; one can predict the template because the template recurs. The eight hits are
+JA-SA-SA-RA-ME, I-PI-NA-MA and SI-RU-TE, which are exactly the three elements section 3 identifies as
+fixed by distribution. The same conclusion is reached twice by independent routes.
+
+**And a figure worth stating for anyone who attempts this corpus with a stronger method.** All three
+approaches converge near 23% as rank grows, which is approximately the share of slots occupied by
+elements that occur more than once. **The ceiling is a property of the corpus, not of the models**: no
+method that works by recognising repetition will exceed it, however sophisticated, because 72% of the
+material to be recovered occurs exactly once.
+
+**What would refute this.** New formula inscriptions raising the share of repeated fillers, which
+would lift the ceiling and make the comparison between methods meaningful; or the hits ceasing to
+concentrate on the fixed positions, which would sever the connection with section 3.
+
+**Calibration.** The instrument was measured on accounting documents where no template exists: it
+reports a false positive in 5.0% of 120 trials at the 5% threshold and 0.83% at 1%. The permutation
+null for this test, shuffling elements within each inscription, gives 3.5%.
 
 ## 5. The two readings that survive, and the datum that would separate them
 
@@ -150,5 +212,7 @@ Petrakis, V. and P. Steele 2025. A-SA-SA(-RA-ME) 1. In E. Salgarella and V. Petr
 Salgarella, E. and S. Castellan 2020. SigLA: the Signs of Linear A. https://sigla.phis.me
 
 Valério, M. 2007. "Diktaian Master": a Minoan predecessor of Diktaian Zeus in Linear A? Kadmos 46, 3-14.
+
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
 
 Younger, J. G. 2024. Linear A texts and inscriptions in phonetic transcription. http://people.ku.edu/~jyounger/LinearA/

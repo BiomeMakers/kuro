@@ -98,6 +98,10 @@ El de -ja se apoya en tres observaciones convergentes: ya se había medido como 
 
 **Qué añade esto a lo publicado.** Davis pregunta si el minoico usa afijos, y la respuesta es que sí. Este trabajo pregunta de qué son raíces las raíces sobre las que se afija, y mide que son específicamente cretenses. Son dos preguntas sobre los mismos datos, y la segunda requiere un control que la primera no necesita.
 
+### Qué refutaría este trabajo
+
+Este trabajo debe declarar qué observación lo refutaría, según el tercer requisito del protocolo que su autor propone. Dos lo harían. Primera, que un recuento con la lista completa de topónimos de la Creta romana o bizantina, es decir, nombres de lugar cretenses que el minoico no pudo generar, diera un número de coincidencias comparable al de los topónimos del Lineal B: eso mostraría que la asimetría mide la fonotaxis cretense en general y no la herencia minoica. Y segunda, que un tratamiento sistemático de la onomástica del Lineal A, como el que ocupa el capítulo 13 de van Soesbergen, explicara los quince casos por una vía que no requiera raíces de topónimo, en cuyo caso el control geográfico seguiría siendo un hecho pero dejaría de sostener esta lectura.
+
 ## Datos
 
 Topónimos cretenses: tablillas de Cnosos en Lineal B. Corpus del Lineal A: GORILA (Godart y Olivier 1976-1985) en la forma del LinearA Explorer (Hogan 2022), con verificación en SigLA (Salgarella y Castellan 2020). Scripts: paquete kuro (Acedo 2026d).
@@ -131,5 +135,7 @@ Salgarella, E. y S. Castellan 2020. SigLA: the Signs of Linear A. https://sigla.
 Schoep, I. 2002. The Administration of Neopalatial Crete. Minos Supl. 17, Salamanca.
 
 Steele, P. y T. Meißner 2017. From Linear B to Linear A: the problem of the backward projection of sound values. En P. Steele (ed.), Understanding Relations Between Scripts, Oxford, 93-110.
+
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
 
 Younger, J. G. 2024. Linear A texts and inscriptions in phonetic transcription. Academia.edu.

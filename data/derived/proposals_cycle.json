@@ -1,0 +1,1416 @@
+[
+ {
+  "unit": "*301",
+  "class": "heading",
+  "reading": "*301 is a record or transaction label that opens or frames an administrative entry, not a counted commodity.",
+  "why": "It appears on 230 nodules (administrative tags, not commodity tallies), it is almost never in first position on tablets (1 of 7, well below the base rate for commodity signs), and when it does carry a figure the largest is only 11 with fractions in only 17% of cases—consistent with an administrative label rather than a commodity being measured; crucially, it also attaches as a syllable to other signs (DA, I, MI), suggesting a functional/classificatory role rather than a commodity identity.",
+  "refuted_by": "If *301 were found consistently in first position on tablets heading lists of commodities with summing totals below it, or if it appeared in species-by-sex lists or alongside VIR with large whole-number figures, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.5613097398516054,
+   "detail": "first position 1/7 vs base 0.11"
+  }
+ },
+ {
+  "unit": "SI",
+  "class": "staple",
+  "reading": "SI is a staple commodity, likely a plant product such as cyperus or a similar agricultural good, recorded in moderate whole-number quantities with fractions at the ordinary rate.",
+  "why": "Fractions appear in 23% of figured entries, matching the corpus base rate for commodity signs (27%), consistent with a staple rather than a fine or bulk good; the largest figure is only 14, indicating moderate quantities typical of staples; it co-occurs repeatedly with CYP (7 times) and appears after CYP with a smaller sub-quantity figure in all 3 measurable cases, suggesting it is a secondary commodity measured out from or alongside cyperus consignments.",
+  "refuted_by": "If SI were found with figures consistently in the hundreds, or if fractions were shown to be systematically absent across a larger sample, the staple reading would be undermined; equally, if SI were demonstrated to always precede a commodity sign as an attached syllable rather than standing independently with its own figure, it would be reclassified as a qualifier.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "3/13 fractional, max 14"
+  }
+ },
+ {
+  "unit": "RO",
+  "class": "qualifier",
+  "reading": "RO is a syllabic sign added to commodity logograms to mark a subtype or grade, not itself a counted commodity.",
+  "why": "It appears attached as an added syllable to other signs (*401, DA, ]TU) rather than standing alone with figures; it records a figure only once in 95 attestations (and that figure is small, 20), and it never opens a tablet (0 of 2), which rules out heading; the overwhelming support on nodules sealed by specific sealers suggests it tags batches rather than enumerates a commodity in its own right.",
+  "refuted_by": "If RO were found repeatedly heading its own columns with substantial figures and fractions at the corpus base rate, or listed in species-by-sex or graded series independent of any host logogram, the qualifier reading would be false.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 0 commodities: "
+  }
+ },
+ {
+  "unit": "ZE",
+  "class": "heading",
+  "reading": "ZE is a transaction or record label that opens or frames an administrative entry, not a commodity or party counted in its own right.",
+  "why": "The largest figure recorded with ZE is 0, meaning it never actually carries a count; it appears overwhelmingly on nodules (46 of 47 attestations) rather than tablets, which fits a sealing label rather than a commodity entry; and it never appears in first position on the one tablet where it occurs, suggesting it functions as a tag or label attached to sealed consignments rather than as a line-item commodity.",
+  "refuted_by": "If ZE were found heading a tablet entry with a substantial positive integer following it, or if it appeared in a species-by-sex list alongside livestock signs with counts, the heading reading would be falsified.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "first position 0/1 vs base 0.11"
+  }
+ },
+ {
+  "unit": "VIR+[?]",
+  "class": "persons",
+  "reading": "A category of male persons distinguished from plain VIR by an added syllabic qualifier, counted in whole units and recorded in moderate to large numbers.",
+  "why": "The base sign is VIR (the standard male-person logogram); figures reach 235 and fractions appear in only 1 of 20 cases (5%, far below the 27% commodity base rate), both hallmarks of person-counting; the ligature structure (VIR + added syllable) matches the Linear A practice of specifying a sub-class of persons by appending a qualifier to the base sign.",
+  "refuted_by": "If the unit were found consistently following GRA or CYP as a sub-quantity with fractional amounts at or above the corpus base rate, that would indicate a commodity ration or measure rather than a class of persons.",
+  "confidence": "medium",
+  "verdict": "borderline",
+  "result": {
+   "p": 0.030133994217577086,
+   "compatible": true,
+   "base_dir": false,
+   "detail": "1/20 fractional, max 235"
+  }
+ },
+ {
+  "unit": "TA",
+  "class": "staple",
+  "reading": "TA is a staple commodity, likely a plant-based foodstuff, recorded in modest whole-number quantities across multiple administrative sites.",
+  "why": "The largest figure is only 6, consistent with medium-scale staple accounting rather than bulk grain; fractions appear in 1 of 8 figured entries (12%), which is below the ordinary rate but not absent, fitting a staple better than a fine commodity; it appears on both tablets and nodules across four sites, suggesting a routinely tracked commodity in a standard administrative network, and it follows GRA and CYP in sequence, placing it among plant staples.",
+  "refuted_by": "If TA were found consistently with figures in the hundreds or thousands, or if it appeared exclusively as an addendum to another sign rather than as a free-standing entry, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.7841669560917178,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/8 fractional, max 6"
+  }
+ },
+ {
+  "unit": "*304",
+  "class": "staple",
+  "reading": "*304 is a staple commodity—likely a solid agricultural product such as figs, olives, or a similar stored good—recorded in moderate quantities with fractions at the ordinary rate.",
+  "why": "Fractions appear in 24% of attestations, matching the corpus base rate of 27% (consistent with staple, not bulk or fine); the largest figure is only 20, indicating moderate quantities typical of staples rather than bulk grain; it co-occurs overwhelmingly with GRA, OLIV, NI, and OLE-grade commodities, placing it firmly in the agricultural staple register, and it follows GRA or OLE in sequence with a smaller figure 8 of 14 times, suggesting it is a sub-quantity or secondary commodity within the same agricultural entry rather than a heading or total.",
+  "refuted_by": "If *304 were found consistently preceding its figure in first position on tablets (approaching the 11% base rate or higher), or if its figures were shown to sum the entries above them, it would indicate a heading or total rather than a commodity; alternatively, if fractions were found to be systematically absent across a larger sample, reclassification as a bulk staple would be warranted.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "6/25 fractional, max 20"
+  }
+ },
+ {
+  "unit": "OLE+U",
+  "class": "liquid",
+  "reading": "OLE+U is a graded variety or quality of oil, distinguished from plain OLE by the added syllable U, counted in bulk whole units with fractions at a low rate.",
+  "why": "The base sign OLE is the standard oil logogram and the ligature OLE+U follows the pattern of graded liquid commodities marked by an added syllable; fractions appear in only 2 of 19 figured entries (11%), consistent with the liquid class (ordinary rate) rather than the fine class (high fractions) or bulk grain class (near-zero fractions); it co-occurs repeatedly with OLE, OLE+MI, and OLIV, a cluster that is exactly what is expected for a set of oil grades recorded together.",
+  "refuted_by": "If OLE+U were found consistently heading tablets before any other entry, or if its figures were shown to sum the OLE and OLE+MI entries above it, it would be a heading or total rather than a commodity; alternatively, if the fraction rate rose well above the corpus base rate of 27% in a larger sample, a reclassification toward the fine class would be required.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.2609552071222353,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "2/19 fractional, max 54"
+  }
+ },
+ {
+  "unit": "OLE+KI",
+  "class": "liquid",
+  "reading": "OLE+KI is a graded or typed variety of the oil commodity, distinguished from plain OLE by the added syllable KI, recorded in moderate quantities with fractions at a rate consistent with liquid commodities.",
+  "why": "(1) The base sign is OLE, the standard oil logogram, and the ligature pattern (base + added syllable) matches the graded-liquid convention seen across the corpus. (2) Fractions appear in 33% of entries, close to the corpus base rate of 27%, which fits liquid commodities rather than bulk staples (where fractions are rare) or fine commodities (where fractions dominate). (3) It recurs in the same documents as OLE, OLIV, and OLE+MI—a cluster of oil-related signs—and follows OLE with a smaller figure in 4 of 5 cases, consistent with a sub-type or secondary grade of oil being recorded after the main oil entry.",
+  "refuted_by": "If OLE+KI were found systematically in first position opening tablets, or consistently listed alongside VIR and person-counts rather than oil signs, or if its figures were shown to be whole-unit only with no fractions across a larger sample, the liquid-grade reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.4986996184941283,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "6/18 fractional, max 51"
+  }
+ },
+ {
+  "unit": "GRA+PA",
+  "class": "staple",
+  "reading": "GRA+PA is a staple commodity, likely a variety or processed form of grain, recorded in moderate whole-number quantities with fractions at a below-average rate.",
+  "why": "The base sign is GRA (grain), and the ligature pattern—an added syllable modifying a commodity sign—matches graded staple commodities; figures reach 62 with fractions in only 17% of attestations (below the 27% corpus base rate, consistent with a bulk-leaning staple rather than a fine commodity); it co-occurs repeatedly with GRA and OLIV, the core staple signs, and follows GRA in the entry order three times, suggesting it is a related but distinct grain category.",
+  "refuted_by": "If GRA+PA were consistently found in fractional amounts at or above the corpus base rate (≥27%), or if it appeared exclusively with fine or liquid commodities rather than grain and olive signs, the staple reading would be undermined; equally, if future decipherment showed PA here functions as a qualifier on a non-grain base sign, the grain-variety interpretation would collapse.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.6806246803825375,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "3/18 fractional, max 62"
+  }
+ },
+ {
+  "unit": "DI",
+  "class": "bulk",
+  "reading": "DI is a bulk staple commodity, most likely a grain or grain-like product recorded in whole units with figures up to 65.",
+  "why": "Fractions appear in only 2 of 14 counted entries (14%), well below the corpus base rate of 27%, pointing to a bulk commodity rather than a fine or liquid one; the largest figure reaches 65, consistent with staple-scale quantities; it follows GRA twice and its figure is smaller than the preceding GRA figure in the one case where comparison is possible, suggesting it is a related sub-commodity or secondary grain product tallied after the main grain entry.",
+  "refuted_by": "If future tablets showed DI consistently appearing with fractional amounts at or above the corpus base rate (≥27%), or if DI were found opening documents in first position at the base rate, the bulk classification would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.31042564131229966,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "2/14 fractional, max 65"
+  }
+ },
+ {
+  "unit": "RE",
+  "class": "staple",
+  "reading": "RE is a staple commodity, likely a foodstuff or agricultural product counted in moderate whole quantities alongside grain and wine.",
+  "why": "Fractions appear in only 8% of attestations (below the corpus base rate of 27%, but not negligible), the largest figure is 104 (moderate, consistent with staple-scale quantities), and it co-occurs repeatedly with GRA and VIN—the core staple and liquid commodities—following them in sequence, suggesting it belongs to the same accounting register.",
+  "refuted_by": "If RE were found heading tablets at a rate near the base rate (11%) or consistently preceding rather than following commodity logograms, it would suggest a heading or qualifier role rather than a commodity entry; alternatively, if figures attached to RE were consistently small and fractional, a reclassification as a fine commodity would be warranted.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.3550565493686989,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/12 fractional, max 104"
+  }
+ },
+ {
+  "unit": "CYP+E",
+  "class": "staple",
+  "reading": "CYP+E is a graded or differentiated variety of cyperus, counted in medium whole figures with fractions at an ordinary rate.",
+  "why": "It co-occurs overwhelmingly with CYP (6 times) and NI (10 times), the classic cyperus-and-NI pairing of staple accounting; its fraction rate (36%) is close to the corpus staple norm and well above the bulk-commodity pattern; and its largest figure (20) is modest, consistent with measured staple quantities rather than bulk grain or livestock tallies.",
+  "refuted_by": "If CYP+E were found systematically listed alongside VIR or sex-disaggregated counts, or if its figures were consistently sub-unit fractions only with no whole-number entries, the staple reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.5199535886401869,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "4/11 fractional, max 20"
+  }
+ },
+ {
+  "unit": "NA",
+  "class": "staple",
+  "reading": "NA is a staple commodity, likely a foodstuff such as figs, olives, or a similar agricultural product, recorded in modest whole-number quantities with fractions at the ordinary rate.",
+  "why": "The largest figure is only 8, consistent with medium-scale staple quantities rather than bulk grain; fractions appear in 1 of 4 figured entries (25%), matching the corpus base rate for commodity signs (27%) and ruling out bulk or fine class; it appears alongside GRA (grain) and VIN (wine/vine), a grouping typical of agricultural staple records.",
+  "refuted_by": "If NA were found consistently recorded in large figures (dozens or hundreds) without fractions, or if it were shown to appear only as an addendum ligated to another sign rather than as a free-standing commodity entry, the staple reading would be false.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/4 fractional, max 8"
+  }
+ },
+ {
+  "unit": "MA",
+  "class": "staple",
+  "reading": "MA is a staple commodity—likely a foodstuff such as figs, olives, or a similar agricultural product—recorded in moderate quantities across multiple palatial sites.",
+  "why": "Fractions appear in 2 of 6 figured attestations (33%), matching the ordinary corpus rate for staple commodities rather than the near-zero rate of bulk grains or the high rate of fine goods; the largest figure is 100, consistent with medium-scale staple accounting; it appears across four geographically distinct sites (Haghia Triada, Khania, Zakros, Thera), suggesting a widely administered commodity rather than a local specialty or personal name.",
+  "refuted_by": "If MA were consistently found only in fractional amounts with figures below 10, or if it were shown to appear as a ligature element added to another sign rather than standing alone as a commodity entry, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.8851253287498114,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "2/6 fractional, max 100"
+  }
+ },
+ {
+  "unit": "DA",
+  "class": "fine",
+  "reading": "DA marks a valued commodity recorded in small quantities with fractional amounts, consistent with a precious or rare good such as a spice, aromatic, or metal.",
+  "why": "The single attested figure is small (largest 43, but fractions appear in 100% of occurrences against a corpus base rate of 27%, signalling fine subdivision typical of precious commodities); it appears on metal objects (3 supports), which are associated with high-value recording contexts; and it co-occurs with CYP (cyperus, an aromatic), suggesting an environment of valued plant or processed goods.",
+  "refuted_by": "If DA were found in documents with large whole-number figures and no fractions, or listed alongside livestock or grain tallies in bulk quantities, the fine-commodity reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.24015748031496062,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "1/1 fractional, max 43"
+  }
+ },
+ {
+  "unit": "*188",
+  "class": "fine",
+  "reading": "*188 is a valued commodity recorded in small quantities with fractions, likely a spice, aromatic, or similar high-value good.",
+  "why": "The largest figure is only 13, which is small; fractions appear in 50% of the documents with figures, well above the 27% corpus base rate for commodity signs; and it appears after GRA and NI as a sub-quantity (smaller figure than the preceding commodity), consistent with a minor valued additive rather than a bulk staple.",
+  "refuted_by": "If future tablets showed *188 recorded in large whole-number quantities (e.g., figures in the hundreds) without fractions, the fine-commodity reading would be false and a bulk or staple class would be required instead.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.2452232782588821,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "2/4 fractional, max 13"
+  }
+ },
+ {
+  "unit": "*516",
+  "class": "staple",
+  "reading": "*516 is a staple commodity, likely a plant product such as cyperus or a similar agricultural good, recorded in whole units across administrative contexts at multiple palatial sites.",
+  "why": "The single attested figure is accompanied by fractions (100% fraction rate against a 27% base rate is based on only 1 figure, so this is weak, but fractions do appear, consistent with staple rather than bulk or fine); it appears on stone vessels and roundels as well as tablets, a support profile matching commodity recording; and it co-occurs with CYP (cyperus) and GRA (grain), placing it firmly in the agricultural commodity cluster.",
+  "refuted_by": "If *516 were found consistently preceding or following a figure that sums other entries (functioning like KU-RO), or if it appeared repeatedly without any accompanying numeral, the staple reading would be false and a heading or total classification would be required instead.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.48031496062992124,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/1 fractional, max 0"
+  }
+ },
+ {
+  "unit": "*401+RU",
+  "class": "staple",
+  "reading": "*401+RU is a staple commodity, likely a plant product or processed good, recorded in small-to-medium quantities alongside cyperus, olive products, and similar staples.",
+  "why": "It co-occurs repeatedly with CYP (cyperus, 4 times) and NI (figs, 3 times) and OLE (olive, 1 time), all canonical staple commodities; it follows CYP and OLE in entry order, consistent with a commodity listed in sequence with peers rather than heading or summing them; fractions appear in 100% of entries with figures, which is above the 27% base rate but not extreme, fitting the staple class better than bulk (which rarely takes fractions) or fine (which would show very small figures with high fraction rates).",
+  "refuted_by": "If future tablets show *401+RU appearing before a summing total that aggregates entries of CYP or NI, or if it is found qualifying another sign as a ligature component rather than standing as an independent entry with its own figure, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.1153512307024614,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "2/2 fractional, max 0"
+  }
+ },
+ {
+  "unit": "KU-PA₃-NU",
+  "class": "total",
+  "reading": "KU-PA₃-NU is a totalling word that precedes or accompanies a summed figure in the account.",
+  "why": "It co-occurs overwhelmingly with KU-RO (5 times) and KI-RO (3 times), both well-known Linear A totalling/balancing terms, placing it firmly in the accounting summary vocabulary; it never appears with a commodity figure of its own (\"with a figure: never\"); and it never opens a tablet (0 of 8 in first position), consistent with a word that appears inside or at the close of an entry rather than as a heading.",
+  "refuted_by": "If a tablet were found showing KU-PA₃-NU followed directly by a numeral with no intervening KU-RO or KI-RO, and especially if it appeared in first position opening a new section, the totalling reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.9999999999999999,
+   "detail": "sum matches 0/7 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "RU",
+  "class": "heading",
+  "reading": "RU is a label or transaction term that opens or titles a record, not a counted commodity.",
+  "why": "It appears in first position on a tablet at a rate (1 of 5, 20%) well above the corpus base rate (11%), suggesting a document-opening role; it carries figures only twice across 8 attestations and never with fractions, which is inconsistent with a commodity being tallied; and it appears across diverse support types (tablet, stone vessel, 4-sided bar) and four sites, suggesting a functional administrative term rather than a site-specific commodity.",
+  "refuted_by": "If RU were found consistently following a total-marker or appearing mid-tablet after a list of entries with accumulating figures, its heading role would be falsified and a commodity or total reading would be preferred instead.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.44486505570330787,
+   "detail": "first position 1/5 vs base 0.11"
+  }
+ },
+ {
+  "unit": "QA2+[?]+PU",
+  "class": "fine",
+  "reading": "A valued commodity, likely a processed or graded derivative of olive oil or grain, recorded in small fractional amounts as a sub-quantity of a preceding commodity entry.",
+  "why": "Fractions appear in 80% of attestations with figures (far above the 27% corpus base rate for commodity signs), the largest figure is only 30, and in the one case where a preceding commodity figure is available the QA2+[?]+PU figure is smaller — a classic sub-quantity pattern consistent with a costly or refined product drawn from a bulk commodity.",
+  "refuted_by": "If future attestations show QA2+[?]+PU consistently recorded in large whole-number figures without fractions, or appearing independently of bulk commodity entries rather than after OLE or GRA, the fine-commodity reading would be falsified.",
+  "confidence": "medium",
+  "verdict": "borderline",
+  "result": {
+   "p": 0.013436870070483619,
+   "compatible": true,
+   "base_dir": false,
+   "detail": "4/5 fractional, max 30"
+  }
+ },
+ {
+  "unit": "MI+JA+RU",
+  "class": "fine",
+  "reading": "MI+JA+RU is a valued commodity recorded in small quantities with a high rate of fractional amounts, consistent with a spice, aromatic, or similar fine good.",
+  "why": "The largest figure is only 4, indicating small quantities typical of fine commodities; fractions appear in 60% of attestations with figures, more than double the corpus base rate of 27%, strongly suggesting a high-value commodity measured precisely; it appears alongside CYP (cyperus, an aromatic) and OLE (oil), company consistent with fine or aromatic goods.",
+  "refuted_by": "If MI+JA+RU were found recorded in large whole-number quantities (e.g., figures in the dozens or hundreds) without fractions, the fine-commodity reading would be falsified.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.09340842493186544,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "3/5 fractional, max 4"
+  }
+ },
+ {
+  "unit": "QE",
+  "class": "qualifier",
+  "reading": "QE is a syllabic sign added to commodity logograms to mark a subtype or grade of the commodity.",
+  "why": "It is attested as an added syllable attached to at least five different signs (*307, DI, GRA, JU, PA3), which is the defining behaviour of a qualifier; it never opens a tablet (0 of 6, against an 11% base rate), making it unlikely to be a heading or total; and it co-occurs with commodity signs (GRA, VIN, CYP) rather than appearing as a standalone counted item.",
+  "refuted_by": "If QE were found standing alone before a numeral, without attachment to any logogram or commodity sign, across multiple documents, it would cease to be a qualifier and would need reclassification as a commodity or name.",
+  "confidence": "high",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 1 commodities: GRA"
+  }
+ },
+ {
+  "unit": "SU",
+  "class": "staple",
+  "reading": "SU is a staple commodity, likely a plant product or processed foodstuff, recorded in moderate whole-number quantities with fractions at a rate consistent with ordinary staple goods.",
+  "why": "The largest figure is only 12, consistent with staple-scale rather than bulk-grain quantities; fractions appear in 1 of 6 figured entries (17%), close to the corpus staple rate and not suppressed as in bulk commodities; it co-occurs with CYP (cyperus, a known staple) and VIN (wine), suggesting a commodity context rather than a personnel or textile list.",
+  "refuted_by": "If SU were found consistently in large figures (hundreds or thousands) with fractions near zero, or if it appeared exclusively attached to other signs as a ligature qualifier rather than standing alone with its own figures, the staple reading would be false.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/6 fractional, max 12"
+  }
+ },
+ {
+  "unit": "NE",
+  "class": "heading",
+  "reading": "NE is a label or transaction word that opens a tablet record, not a counted commodity.",
+  "why": "It appears in first position on 2 of 7 tablets (29%), far above the 11% base rate for all units, signalling a document-opening function; it is attested on only 8 documents across four sites with no consistent large figures, unlike a commodity; and it appears on a metal object as well as tablets, consistent with a label rather than a tally entry.",
+  "refuted_by": "If NE were found consistently in mid-tablet position following other entries, or if it accumulated large summed figures under a KU-RO total, it would cease to look like a heading and would need reclassification as a commodity or name.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.17771217770447867,
+   "detail": "first position 2/7 vs base 0.11"
+  }
+ },
+ {
+  "unit": "VIR+KA",
+  "class": "persons",
+  "reading": "VIR+KA denotes a category of male persons, distinguished from plain VIR by the added syllable KA, counted in whole units and recorded in administratively significant quantities.",
+  "why": "The base sign is VIR (the standard male-person logogram); figures are whole numbers with no fractions (0% vs. 27% corpus base rate), consistent with counting persons; the largest figure of 82 is in the range typical of personnel tallies rather than small commodity lots.",
+  "refuted_by": "If VIR+KA were found recorded alongside fractional quantities, or if the sign appeared in contexts where livestock or commodity signs dominate without any personnel vocabulary, the persons reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 82"
+  }
+ },
+ {
+  "unit": "DA-RE",
+  "class": "heading",
+  "reading": "DA-RE is a transaction or record label that opens or frames an entry, functioning as an administrative heading rather than a commodity or party.",
+  "why": "It never appears with a figure of its own; it appears after GRA (a grain commodity sign), suggesting it labels or qualifies the record rather than being counted itself; it is never in first position on a tablet (0/6), which is unusual for a heading but consistent with a section label within a document rather than an opening title, and its co-occurrence with totalling words like KU-RO and PO-TO-KU-RO suggests it sits inside structured accounting blocks as a category marker.",
+  "refuted_by": "If DA-RE were found accompanied by its own numeral in a list alongside other commodities or persons, it would cease to be a heading and would instead be a commodity or name entry.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0000000000000002,
+   "detail": "first position 0/6 vs base 0.11"
+  }
+ },
+ {
+  "unit": "SE",
+  "class": "qualifier",
+  "reading": "SE is a bare syllable added to commodity signs to mark a subtype or grade of the commodity.",
+  "why": "It is attested as an added syllable attached to DA, RE, and SI, which is the defining behaviour of a qualifier; it never appears with a figure of its own in a first-position heading role (0 of 4 tablets); and it lacks a shared Linear B sign entry, consistent with a functional rather than lexical logogram.",
+  "refuted_by": "If SE were found standing alone before a large figure, counted independently as a commodity or person total without attachment to another sign, the qualifier reading would be false.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 0 commodities: "
+  }
+ },
+ {
+  "unit": "SI-RU-TE",
+  "class": "name",
+  "reading": "SI-RU-TE is a party name — a person or place — recorded as a list entry on stone vessels at multiple sanctuary sites.",
+  "why": "All 7 attestations are on stone vessels (a dedicatory/administrative object type, not a commodity tablet), spread across four distinct sanctuary or peak-sanctuary sites (Iouktas, Kophinas, Syme, Troullos), which matches the pattern of a named dedicant or place rather than a commodity; its co-occurrence with JA-SA-SA-RA-ME, a well-known divine or ritual formula, further places it in a named-party context rather than a goods inventory.",
+  "refuted_by": "If SI-RU-TE were found accompanied by metrological signs (fractional or large whole-number quantities with commodity ideograms) on a tablet recording staples or liquids, the name reading would be falsified.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "MA-DI",
+  "class": "name",
+  "reading": "MA-DI is a personal or place name entered as a party in administrative records, most likely identifying an individual or locality associated with transactions at Haghia Triada and Phaistos.",
+  "why": "The identical sequence exists in Linear B as a personal name, providing the strongest parallel; it never appears with a commodity figure of its own and never opens a tablet (ruling out heading or total); it co-occurs with KU-RO (a known totalling word) and PA-I-TO (the place name Phaistos), the pattern typical of named parties in an account rather than a commodity entry.",
+  "refuted_by": "If MA-DI were found consistently preceding or following a numeral with a commodity ideogram (especially with fractional quantities or a species sign), it would indicate a commodity or staple rather than a name.",
+  "confidence": "medium",
+  "verdict": "category",
+  "result": {
+   "p": 0.0,
+   "detail": "5 figures; heading p=1.0000000000000002; total p=0.9999999999999999; added=False",
+   "category_only": true
+  }
+ },
+ {
+  "unit": "*307",
+  "class": "staple",
+  "reading": "*307 is a staple commodity, likely a solid foodstuff such as figs, olives, or a similar agricultural product, counted in moderate whole figures with fractions occurring at roughly the ordinary rate.",
+  "why": "The largest figure of 156 is consistent with medium-scale staple quantities; fractions appear in 1 of 2 figured entries (50%), which is elevated above the bulk-grain rate but sits in the range expected for staples and liquids; it appears after OLE once, suggesting it belongs in the same commodity environment as oil-related goods rather than among persons or textiles.",
+  "refuted_by": "If *307 were found consistently recorded only in very small fractional amounts with no large whole-number entries, or if it were shown to attach systematically to VIR entries as a person-qualifier rather than standing as an independent commodity count, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.845278690557381,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/2 fractional, max 156"
+  }
+ },
+ {
+  "unit": "DI-NA-U",
+  "class": "liquid",
+  "reading": "DI-NA-U is a liquid commodity, most likely a grade or variety of wine, recorded in small quantities alongside VIN entries on tablets and a clay vessel.",
+  "why": "It co-occurs with VIN (wine) twice and follows VIN directly once, suggesting it is a related liquid commodity or grade; it appears on a clay vessel, a typical container for liquids; it is never in first position, consistent with a commodity entry rather than a heading or total.",
+  "refuted_by": "If DI-NA-U were consistently found with fractional notations at a rate markedly different from other liquid commodities, or if it appeared with textile or livestock determinatives, the liquid classification would be undermined.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "class needs a logogram"
+  }
+ },
+ {
+  "unit": "WA",
+  "class": "liquid",
+  "reading": "WA is a liquid commodity, likely a grade or variety of wine or oil, recorded in fractional amounts across multiple administrative contexts.",
+  "why": "Fractions appear in 3 of 4 figured attestations (75%), which is far above the corpus base rate of 27% and matches the liquid class profile; it appears as an added syllable attached to VIN (the wine logogram), suggesting it marks a grade or type of that liquid; it is recorded on tablets, roundels, and a stone vessel, the kind of mixed support typical of liquid commodities in Minoan administration.",
+  "refuted_by": "If WA were consistently recorded in large whole-number figures without fractions, or if it appeared exclusively as a standalone logogram never attached to or associated with VIN, the liquid reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.0908509840300727,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "3/4 fractional, max 60"
+  }
+ },
+ {
+  "unit": "QA2+[?]+RE",
+  "class": "liquid",
+  "reading": "A graded or typed liquid commodity, most likely a variety or quality of wine or oil, distinguished from the base commodity by the added syllabic signs incorporated into the ligature.",
+  "why": "It appears after VIN (twice) and OLE (once), the canonical liquid commodities, in a position consistent with a sub-type or grade entry; its fraction rate (25%) matches the corpus base rate for commodity signs (27%), which is the hallmark of the liquid class; and the ligature structure (base sign plus added syllable) matches the pattern by which liquid grades are formed (e.g. OLE+U).",
+  "refuted_by": "If the unit were found opening tablets at a rate near the corpus norm, or if its figures were consistently larger than the preceding VIN/OLE figures rather than equal or smaller, or if it appeared in species-by-sex lists alongside livestock signs, the liquid-grade reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/4 fractional, max 10"
+  }
+ },
+ {
+  "unit": "JU",
+  "class": "staple",
+  "reading": "JU is a staple commodity—likely a foodstuff such as figs, olives, or a similar agricultural product—counted in moderate whole-number quantities across multiple palatial sites.",
+  "why": "The largest figure is 22 (moderate, consistent with staple quantities rather than bulk grain or fine spice); fractions appear in 0 of 3 figured entries, which is low but not anomalously so for a small sample; it co-occurs with VIN (wine) and OLIV (olive), the typical company of agricultural staples in palatial accounts, and appears on tablets, clay vessels, and stone vessels across four sites, suggesting a redistributed commodity rather than a person or qualifier.",
+  "refuted_by": "If JU were found repeatedly with fractional quantities at or above the 27% corpus base rate, or if it were consistently placed before commodity logograms as an additive syllable (qualifying them rather than standing alone as a counted item), the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.8774063493008876,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/3 fractional, max 22"
+  }
+ },
+ {
+  "unit": "SA-RU",
+  "class": "total",
+  "reading": "SA-RU is a summation word appearing after commodity entries to introduce or mark a running total.",
+  "why": "It co-occurs with KU-RO (the well-attested Linear A total word) and RA in the same documents, suggesting it functions in the same accounting layer as totalling terms; it never opens a tablet (0/6, against an 11% base rate), ruling out a heading function; and it follows commodity signs GRA and OLIV, the position where a subtotal or category-sum label would naturally sit.",
+  "refuted_by": "If SA-RU were found consistently preceded by a figure rather than following commodity entries, or if it appeared with VIR or species signs as a counted item itself, the total reading would be false.",
+  "confidence": "low",
+  "verdict": "borderline",
+  "result": {
+   "p": 0.039599999999999996,
+   "detail": "sum matches 1/2 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "MI",
+  "class": "staple",
+  "reading": "MI is a staple commodity, likely a plant-based foodstuff or agricultural product, recorded in moderate to large quantities with fractions at an elevated rate.",
+  "why": "Fractions appear in 40% of its figured entries, above the corpus base rate of 27% but not the extreme rarity expected of bulk grain, placing it in the ordinary-fraction range of staples; the largest figure reaches 1000, consistent with agricultural commodities rather than fine or luxury goods; it appears on tablets and stone vessels alongside other staple-class units (OLE, VIN, CYP), and it takes added syllables attached to commodity signs (OLE, PA-OLE, SU), suggesting it participates in the graded-commodity system typical of staples.",
+  "refuted_by": "If MI were consistently found only in very small fractional quantities (like saffron or metal) or exclusively alongside fine-commodity signs with no large whole-number entries, the staple reading would be undermined; equally, if MI were shown to be purely an added syllable never heading its own figure, it would belong to the qualifier class instead.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.40320252065315826,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "4/10 fractional, max 1000"
+  }
+ },
+ {
+  "unit": "SI-KA",
+  "class": "name",
+  "reading": "SI-KA is a personal name or place name appearing as a party in sealed nodule transactions at Haghia Triada.",
+  "why": "All 6 attestations are on nodules (the administrative support used to record transactions between named parties, not commodity tallies); the nodules are sealed by a specific sealer (AT 125, man in kilt & man in kilt), indicating a recurring named party in a controlled exchange relationship; SI-KA never appears with a commodity figure of its own, consistent with a party label rather than a commodity entry.",
+  "refuted_by": "If SI-KA were found on a tablet accompanied by a numeral and a commodity sign (e.g., GRA or OLE), with SI-KA in the commodity slot rather than the party slot, that would indicate it names a substance rather than a person or place.",
+  "confidence": "medium",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "I-PI-NA-MA",
+  "class": "name",
+  "reading": "I-PI-NA-MA is a party name (person or place) recorded as the subject of stone-vessel accounts at multiple Cretan peak sanctuary sites.",
+  "why": "It appears exclusively on stone vessels (6/6), recurs across four geographically distinct sanctuary sites suggesting a named entity rather than a commodity label, and co-occurs with JA-SA-SA-RA-ME, a unit widely interpreted as a dedicatory or ritual heading associated with named parties rather than bulk goods.",
+  "refuted_by": "If I-PI-NA-MA were found followed directly by a commodity sign with a fraction, or appeared as a ligature element added to another sign, it would indicate a commodity or qualifier rather than a named party.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "*131C",
+  "class": "staple",
+  "reading": "*131C is a staple commodity, likely a solid agricultural product such as olives, figs, or a similar processed good, recorded in moderate quantities.",
+  "why": "The largest figure is only 1, which is consistent with small-to-medium staple quantities; fractions appear in 1 of 3 figured entries (33%), matching the ordinary corpus rate for commodity signs (27%) rather than the suppressed rate expected for bulk grain or the elevated rate for fine commodities; it appears after OLE once, suggesting association with oil-related or olive-related commodity sequences typical of staple recording.",
+  "refuted_by": "If *131C were found consistently with very large whole-number figures and no fractions across a larger sample, it would point to a bulk commodity instead; alternatively, if it were shown to appear only as an addend ligated to another sign (like OLE+*131C as a graded form), it would be reclassified as a qualifier or graded liquid rather than an independent staple.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/3 fractional, max 1"
+  }
+ },
+ {
+  "unit": "OLE+NE",
+  "class": "liquid",
+  "reading": "OLE+NE is a graded variety or quality of oil, distinguished from plain OLE and OLE+MI by the added syllable NE.",
+  "why": "It is a ligature on the OLE (oil) base sign, exactly parallel to OLE+MI in the same documents; fractions appear in 50% of attestations, well above the bulk-commodity rate and consistent with the ordinary liquid rate; figures are small (largest 2) and it follows OLE or CYP with a smaller figure, fitting a sub-quantity or grade pattern within an oil-accounting context.",
+  "refuted_by": "If OLE+NE were found heading a tablet in first position with no preceding OLE entry, or if it appeared with large whole figures and no fractions across a larger sample, the graded-liquid reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.845278690557381,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/2 fractional, max 2"
+  }
+ },
+ {
+  "unit": "SA",
+  "class": "qualifier",
+  "reading": "SA is a bare syllable added to commodity signs, functioning as a qualifier that modifies the commodity rather than standing as a commodity itself.",
+  "why": "SA is explicitly attested as an added syllable attached to *330 and VIN, which is the defining behaviour of a qualifier; it appears after GRA and VIN rather than heading entries independently; and it has no established Linear B sign correspondence, consistent with a functional rather than lexical logogram.",
+  "refuted_by": "If SA were found heading its own entries with figures and never attached to another sign, it would be a commodity or name rather than a qualifier.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 1 commodities: VIN"
+  }
+ },
+ {
+  "unit": "CAP",
+  "class": "textile",
+  "reading": "CAP is a logogram for a type of textile or cloth item, counted in whole units and recorded in quantities consistent with textile administration.",
+  "why": "Figures are always whole (0% fractions, well below the 27% corpus base rate), the largest figure of 46 is consistent with textile batch sizes, and it co-occurs with TELA+KU — a known textile sign with a qualifier — placing CAP firmly in a textile administrative context.",
+  "refuted_by": "If CAP were found recorded with fractional amounts, or consistently alongside livestock or grain signs rather than textile signs, the textile classification would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 46"
+  }
+ },
+ {
+  "unit": "ZU",
+  "class": "staple",
+  "reading": "ZU records a staple commodity counted in small whole figures, appearing after wine (VIN) as a secondary or associated product in the same entry.",
+  "why": "Figures are small (largest 5) and always whole with no fractions recorded (0%), which fits staple-class commodities; it follows VIN once, suggesting it is a commodity entered alongside wine rather than a person or qualifier; it appears on tablets (supports: Tablet 5) in a commodity-list context with other known commodity signs (*305, TU, TE, KA).",
+  "refuted_by": "If ZU were found consistently attached directly to another sign as a ligature or modifier rather than standing alone with its own figure, it would be a qualifier rather than a staple commodity.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.8774063493008876,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/3 fractional, max 5"
+  }
+ },
+ {
+  "unit": "*904",
+  "class": "fine",
+  "reading": "*904 is a valued commodity recorded in small quantities with a high rate of fractional amounts, consistent with a spice, saffron, or metal-type entry.",
+  "why": "The largest figure is only 5, indicating small quantities; fractions appear in 3 of 5 attestations (60%), more than double the corpus base rate of 27% for commodity signs, which is the hallmark of a fine commodity; it appears consistently with a figure, confirming it is a counted commodity rather than a label or qualifier.",
+  "refuted_by": "If future tablets showed *904 recorded in large whole-number quantities (e.g., figures in the hundreds) with few or no fractions, the fine-commodity reading would be falsified and a bulk or staple classification would need to be considered instead.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.09340842493186544,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "3/5 fractional, max 5"
+  }
+ },
+ {
+  "unit": "DA-KA",
+  "class": "name",
+  "reading": "DA-KA is a party name—a person or place—appearing as a labeled entry on sealed nodules at Haghia Triada.",
+  "why": "All 5 attestations are on nodules (not tablets), sealed by the same sealing type (AT 125, man in kilt & man in 5), which is the administrative signature of a transaction party, not a commodity label; the sign-group never appears with a commodity figure of its own, consistent with it identifying a party rather than a thing counted.",
+  "refuted_by": "If DA-KA were found on a tablet followed by a numeral and a commodity sign, or used as a ligature element on a commodity sign, it would indicate a commodity or qualifier rather than a name.",
+  "confidence": "medium",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "I-DA",
+  "class": "name",
+  "reading": "I-DA is a party name—a person or place—entered in stone-vessel accounts at multiple sites alongside commodity or quantity entries.",
+  "why": "It appears exclusively on stone vessels (a prestige or dedicatory record type, not a running commodity ledger), it is attested across three geographically distinct sites suggesting a recurring named entity rather than a local commodity term, and it never appears in first position (ruling out heading) nor is it paired with VIR or species signs that would anchor it to persons or livestock.",
+  "refuted_by": "If I-DA were found written as a ligature with a commodity sign (e.g., GRA+I-DA) or consistently followed by fractional quantities across multiple tablets, it would indicate a commodity or qualifier rather than a name.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "OLE+E",
+  "class": "liquid",
+  "reading": "OLE+E is a graded variety or quality of olive oil, distinguished from plain OLE by the added syllable E.",
+  "why": "It is a ligature on the base sign OLE (the Linear A oil sign), exactly paralleling OLE+MI in the same documents — the pattern of multiple OLE-base logograms with added syllables is the hallmark of graded liquid commodities; fractions appear in 50% of entries, well above the corpus base rate of 27%, consistent with liquid measurement; and its figures are small (largest 3), fitting a sub-grade recorded in lesser quantities after the main OLE entry.",
+  "refuted_by": "If OLE+E were found recorded in large whole-number figures consistently without fractions, or if it appeared in contexts dominated by textiles or persons rather than oil-associated commodities, the liquid-grade reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.4904465565177642,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "2/4 fractional, max 3"
+  }
+ },
+ {
+  "unit": "KI-RE-TA-NA",
+  "class": "heading",
+  "reading": "KI-RE-TA-NA is a label or transaction term that opens or titles a record, functioning as an administrative heading rather than a counted commodity or named party.",
+  "why": "It appears in first position on a tablet at a rate (1/4, 25%) well above the corpus base rate of 11%), suggesting it heads documents; it is never accompanied by a figure, which rules out commodity or name entries that require enumeration; and its four attestations are all at a single site (Haghia Triade), consistent with a local administrative formula rather than a traded good.",
+  "refuted_by": "If a tablet were found showing KI-RE-TA-NA followed directly by a numeral or fraction, or listed in a series alongside commodity ideograms with counts, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.37551954161948586,
+   "detail": "first position 1/4 vs base 0.11"
+  }
+ },
+ {
+  "unit": "SA-MA",
+  "class": "heading",
+  "reading": "SA-MA is a label that opens or titles a record, marking the type of transaction or account that follows.",
+  "why": "It appears in first position on a tablet at a rate (1 of 3 tablet attestations) well above the corpus base rate of 11%; it never accompanies a figure of its own; and it occurs across two sites and multiple support types (tablet and stone vessel), suggesting a functional administrative label rather than a commodity or party entry.",
+  "refuted_by": "If SA-MA were found consistently followed by a numeral directly modifying it, or listed in parallel with other sign-groups that carry figures in a commodity-style column, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.2975116286487737,
+   "detail": "first position 1/3 vs base 0.11"
+  }
+ },
+ {
+  "unit": "TA-NA-TI",
+  "class": "heading",
+  "reading": "TA-NA-TI is a label or transaction term that opens or frames an account section, not itself a counted commodity or party.",
+  "why": "It never appears with a figure (ruling out commodity or person entries); it appears in 4 documents at the same site without occupying first position, suggesting it functions as a recurring administrative label within tablets rather than as a list entry; the co-occurring units TU and KI are sparse qualifiers or short labels consistent with a structured heading environment.",
+  "refuted_by": "If TA-NA-TI were found followed directly by a numeral or fraction in any tablet, it would indicate a commodity or name entry rather than a heading.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "first position 0/4 vs base 0.11"
+  }
+ },
+ {
+  "unit": "SA-RO",
+  "class": "total",
+  "reading": "SA-RO is a totalling word that appears before a summed figure, closing an account of liquid commodities.",
+  "why": "It co-occurs with VIN (wine) in 2 of 4 attestations and follows it positionally; its figure is smaller than the preceding commodity figure in both cases where comparison is possible, consistent with a sub-total or running sum rather than an independent commodity entry; KU-RO, the well-attested Linear A total word, also appears in the same documents, suggesting SA-RO may function as a parallel or subordinate summing term.",
+  "refuted_by": "If SA-RO were found opening a tablet in first position with no preceding commodity entries, or if its associated figure were consistently larger than the figures it follows, the total reading would be falsified.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "never after two figures"
+  }
+ },
+ {
+  "unit": "DA-RI-DA",
+  "class": "heading",
+  "reading": "DA-RI-DA is a transaction or record label that opens or titles an administrative entry, functioning as a heading word rather than a counted commodity or named party.",
+  "why": "It never appears with a figure (ruling out commodity or person classes); it never occupies first position on a tablet (0 of 4, below the 11% base rate, which is unusual but consistent with a section-internal label rather than a document-opening heading); its co-occurring units include KU-RO (a known totalling word) and PA, suggesting it appears in structured administrative contexts where labels organize entries rather than enumerate goods.",
+  "refuted_by": "If DA-RI-DA were found accompanied by a numeral or fraction in any new tablet, or if it were shown to appear as a ligature component added to a commodity sign, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "first position 0/4 vs base 0.11"
+  }
+ },
+ {
+  "unit": "GRA+QE",
+  "class": "bulk",
+  "reading": "GRA+QE is a variety or grade of grain, distinguished from plain GRA by the added syllable QE, counted in large whole figures.",
+  "why": "The largest figure is 40, consistent with bulk staple quantities; fractions appear in 0 of 3 figured entries (0%, well below the 27% corpus base rate, matching the bulk/grain pattern); and the base sign GRA is itself a grain logogram, with QE functioning as a grade-marker in the ligature.",
+  "refuted_by": "If GRA+QE were found recorded in small fractional amounts, or if it appeared consistently alongside persons or livestock rather than other staple commodities, the bulk-grain reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 40"
+  }
+ },
+ {
+  "unit": "OLE+RI",
+  "class": "fine",
+  "reading": "OLE+RI is a graded variety of oil (or an oil-related commodity) recorded in small, fractional amounts, distinguished from plain OLE by the qualifying syllable RI.",
+  "why": "Fractions appear in 100% of the figured entries (far above the 27% base rate), the largest figure recorded is 0 (i.e., all quantities are sub-unit fractions), and it co-occurs consistently with OLE+TA—another ligature on the same base sign—suggesting a family of graded oil commodities of which this is a minor, high-value variety.",
+  "refuted_by": "If future tablets showed OLE+RI recorded in large whole-number quantities without fractions, the fine-commodity reading would be false and a staple or bulk classification would need to be considered instead.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.0576756153512307,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "2/2 fractional, max 0"
+  }
+ },
+ {
+  "unit": "QA2+[?]+RE+PU",
+  "class": "liquid",
+  "reading": "A graded or typed liquid commodity, most likely a variety or quality of wine, marked by added syllabic signs within the ligature.",
+  "why": "It appears after VIN (wine) once, suggesting it belongs to the same commodity domain; fractions occur in 100% of figured attestations against a base rate of 27%, which is the hallmark of liquid/fine measurement; and the sign is a ligature with added syllables, the standard Linear A device for grading a liquid commodity.",
+  "refuted_by": "If the unit were found consistently in whole numbers only with no fractions across a larger attestation set, or if it appeared in livestock or textile lists rather than alongside VIN and liquid-domain signs, the liquid classification would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.1153512307024614,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "2/2 fractional, max 17"
+  }
+ },
+ {
+  "unit": "*86",
+  "class": "staple",
+  "reading": "*86 is a staple commodity—likely a solid foodstuff such as figs, olives, or a similar agricultural product—counted in moderate whole-number quantities at a single administrative site.",
+  "why": "The largest figure recorded is 51, consistent with medium-scale staple quantities rather than bulk grain (which runs into hundreds) or fine commodities (which appear in tiny fractional amounts); fractions occur in 0 of 2 figured entries (0%), which is below the corpus base rate of 27% but not dramatically so for a staple; and it co-occurs with CYP (cyperus), NI, VIN, and PA—a cluster of agricultural staples and their associated accounting terms, suggesting *86 belongs to the same commodity register.",
+  "refuted_by": "If *86 were found recorded with fractional amounts at or above the corpus base rate of 27%, or if it appeared consistently alongside VIR or species-by-sex livestock tallies rather than agricultural commodities, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/2 fractional, max 51"
+  }
+ },
+ {
+  "unit": "PU",
+  "class": "heading",
+  "reading": "PU is a record or transaction label that opens a document, marking the type of entry that follows.",
+  "why": "It appears in first position on a tablet at twice the corpus base rate (1 of 2 tablets, vs. 11% base rate); it occurs with only small figures (largest 5), inconsistent with a counted commodity in bulk; and it appears across four different document types and sites without the fractional or species-list patterning of a commodity.",
+  "refuted_by": "If PU were found consistently in mid-tablet position following other entries, or if it were recorded with large figures or fractions as a standalone commodity, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.20975924024351023,
+   "detail": "first position 1/2 vs base 0.11"
+  }
+ },
+ {
+  "unit": "PI",
+  "class": "staple",
+  "reading": "PI is a commodity logogram recording a staple good counted in moderate whole-number quantities, comparable to figs, olives, or a similar processed agricultural product.",
+  "why": "The largest figure is 62, consistent with medium-scale staple accounting rather than bulk grain (which runs into hundreds) or fine commodities (tiny fractional amounts); fractions appear in 0 of 2 figured entries (0%), which is below the corpus base rate of 27% but not dramatically so for a staple; it appears on both tablets and vessels (clay and stone), a spread typical of commodities being stored or redistributed rather than persons or headings.",
+  "refuted_by": "If future attestations show PI consistently appearing with fractional quantities, or if it is found in sex-differentiated species lists alongside livestock signs, the staple reading would be undermined; equally, if PI is always found sentence-initially without a following figure, a heading classification would be preferable.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/2 fractional, max 62"
+  }
+ },
+ {
+  "unit": "*312",
+  "class": "staple",
+  "reading": "*312 is a staple commodity counted in small whole quantities, appearing after other commodity signs as a sub-quantity or associated entry.",
+  "why": "The largest figure is only 2, consistent with a staple in small amounts; fractions occur at 25%, matching the ordinary rate (corpus base rate 27%) rather than the near-zero rate of bulk or the high rate of fine commodities; it follows GRA and NI with a smaller figure, suggesting it is a secondary commodity recorded alongside grain rather than a heading or total.",
+  "refuted_by": "If *312 were found consistently in first position opening tablets, or if its figures were shown to sum preceding entries (total pattern), the staple reading would be false; equally, discovery of *312 attached as a syllable to a commodity sign (rather than receiving its own figure) would refute it.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/4 fractional, max 2"
+  }
+ },
+ {
+  "unit": "A-SE",
+  "class": "heading",
+  "reading": "A-SE is a label that opens a record or transaction, not a counted commodity.",
+  "why": "It appears in first position on tablets at more than twice the corpus base rate (2 of 3 tablet attestations vs. 11% base rate); it is never accompanied by a figure of its own; and it co-occurs with VIN (a commodity) after which it appears, suggesting it frames or titles the entry rather than being enumerated within it.",
+  "refuted_by": "If A-SE were found followed directly by a numeral in a mid-tablet entry, or if it appeared in a running list alongside other commodities each with their own figures, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "borderline",
+  "result": {
+   "p": 0.034254463432983426,
+   "detail": "first position 2/3 vs base 0.11"
+  }
+ },
+ {
+  "unit": "DA-ME",
+  "class": "name",
+  "reading": "DA-ME is a party name (person or place) appearing in administrative records at Haghia Triada, entered in lists alongside other named parties and commodity terms.",
+  "why": "It never appears with a figure of its own; it co-occurs repeatedly with KU-NI-SU (3 times) and A-DU (2 times), which are themselves likely party names or headings in the same documents; it never opens a tablet (0/4 vs. 11% base rate), suggesting it is embedded in a list rather than labelling a transaction.",
+  "refuted_by": "If DA-ME were found directly preceding or following a numeral in a clear commodity-count context, or if it appeared as a ligature element added to a commodity sign, the name reading would be false.",
+  "confidence": "low",
+  "verdict": "category",
+  "result": {
+   "p": 0.0,
+   "detail": "2 figures; heading p=1.0; total p=-; added=False",
+   "category_only": true
+  }
+ },
+ {
+  "unit": "MI-NU-TE",
+  "class": "heading",
+  "reading": "MI-NU-TE is a label or transaction word that opens or titles a record, not a commodity or party.",
+  "why": "It never appears with a figure (ruling out commodity or person entries); it appears in first position at a rate (1/4 = 25%) well above the corpus base rate of 11%, consistent with a document-opening word; and it is attested across 4 separate tablets at one site, suggesting a recurring administrative label rather than a one-off name.",
+  "refuted_by": "If MI-NU-TE were found accompanied by a numeral or fraction in any tablet, or consistently in mid-document position following commodity entries, its role as a heading would be falsified.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.37551954161948586,
+   "detail": "first position 1/4 vs base 0.11"
+  }
+ },
+ {
+  "unit": "KU-PA",
+  "class": "staple",
+  "reading": "KU-PA is a staple commodity, likely recorded in moderate quantities alongside other agricultural products.",
+  "why": "It appears in the same documents as VIN (wine), OLIV (olives), and CYP (cyperus), which are canonical staple commodities; it follows VIN once, consistent with a commodity entry in a running list rather than a heading or total; it never appears with a figure of its own that marks it as a person or livestock entry.",
+  "refuted_by": "If KU-PA were found consistently written as a ligature added onto another commodity sign (e.g., GRA+KU-PA), or if it appeared only at the head of tablets before any commodity entries, the staple reading would be false.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "class needs a logogram"
+  }
+ },
+ {
+  "unit": "U-NA-KA-NA-SI",
+  "class": "name",
+  "reading": "U-NA-KA-NA-SI is a party—person or place—entered in accounts alongside a figure on stone vessel records.",
+  "why": "It appears on stone vessels (a prestige administrative support), never with a determinative figure (VIR, livestock, or commodity sign) that would identify it as a commodity class; it co-occurs consistently with JA-SA-SA-RA-ME (3 of 4 documents), which is itself a recurring label-like unit, suggesting both are parties or headings in a fixed formulaic context rather than counted commodities; and its four attestations across three distinct sanctuary/peak-sanctuary sites (Iouktas, Kophinas, Palaikastro) fit a named entity referenced across locations rather than a locally produced staple or textile.",
+  "refuted_by": "If U-NA-KA-NA-SI were found preceded or followed by fractional quantities, or accompanied by a commodity ideogram (grain, oil, textile sign), it would indicate a commodity rather than a name.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "ZA",
+  "class": "staple",
+  "reading": "ZA records a staple commodity counted in small whole quantities, appearing as a sub-quantity following NI in the same entry.",
+  "why": "The largest figure is only 5, consistent with medium-small staple quantities; fractions occur in 0 of 1 figured attestations (not diagnostic against staple, which allows ordinary rates but does not require them at this sample size); and ZA follows NI with a smaller figure, suggesting it is a subordinate commodity measured out beneath a primary one, a pattern typical of staple sub-allocations.",
+  "refuted_by": "If ZA were found with large figures (dozens or hundreds), with fractional amounts at the corpus base rate across a larger sample, or consistently appearing as a ligature element added to another sign rather than standing alone, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/1 fractional, max 5"
+  }
+ },
+ {
+  "unit": "*316",
+  "class": "staple",
+  "reading": "*316 is a staple commodity, likely a plant-based foodstuff, recorded in small whole quantities alongside other agricultural goods.",
+  "why": "The largest figure is 1, consistent with small-quantity staple recording; it appears with VIN (wine) and GRA (grain), placing it firmly in the agricultural commodity cluster; fractions occur in 0 of 3 figured attestations, which is below the corpus base rate but not as extreme as bulk commodities, and the association with CYP (cyperus, itself a staple) reinforces a plant-product context.",
+  "refuted_by": "If *316 were found repeatedly with figures in the tens or hundreds, or if it appeared with VIR or sex-differentiated livestock tallies, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 0.8774063493008876,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/3 fractional, max 1"
+  }
+ },
+ {
+  "unit": "QE-RA₂-U",
+  "class": "heading",
+  "reading": "QE-RA₂-U is a label or transaction term that opens or introduces a record, not itself a counted commodity.",
+  "why": "It appears in first position on a tablet at a rate (1/3, ~33%) well above the corpus base rate of 11%, suggesting it heads entries rather than being listed among them; it never appears with a figure of its own; and its co-occurrence with KI-RO (a known balance/deficit term) and GRA (a grain commodity) fits a pattern where it labels the transaction type rather than contributing a quantity.",
+  "refuted_by": "If QE-RA₂-U were found followed directly by a numeral in any tablet, or if it appeared consistently in mid-tablet position among commodity entries with associated quantities, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.2975116286487737,
+   "detail": "first position 1/3 vs base 0.11"
+  }
+ },
+ {
+  "unit": "PA₃-NI-NA",
+  "class": "heading",
+  "reading": "PA₃-NI-NA is a label or transaction term that opens or titles a record rather than naming a commodity or party.",
+  "why": "It appears in first position at a rate (1 of 3 occurrences, ~33%) far above the base rate of 11% for all units, suggesting it tends to head entries; it is never accompanied by a figure, which rules out commodity or person entries that require a count; and its sparse attestation (3 times across only 2 tablets at one site) fits a recurring administrative label rather than a counted item.",
+  "refuted_by": "If a tablet were found showing PA₃-NI-NA followed directly by a numeral or fraction, or appearing mid-tablet after other commodity entries with its own quantity, it would indicate a counted item rather than a heading.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.2975116286487737,
+   "detail": "first position 1/3 vs base 0.11"
+  }
+ },
+ {
+  "unit": "TE-TU",
+  "class": "total",
+  "reading": "TE-TU is a summation word appearing after a commodity entry (VIN) to mark the running or final total of the account.",
+  "why": "It follows VIN (wine) in position, consistent with a closing total word; it co-occurs with KU-RO (the best-attested Linear A total word), suggesting it functions in the same summation zone of the tablet; it never opens a tablet (0 of 3, below the 11% base rate), ruling out a heading role.",
+  "refuted_by": "If TE-TU were found consistently followed by a numeral that does not match the sum of preceding entries, or if it appeared mid-tablet before commodity lines rather than after them, the total reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.9999999999999999,
+   "detail": "sum matches 0/2 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "PA-DE",
+  "class": "name",
+  "reading": "PA-DE is a place name or party name appearing as a labeled entry in commodity accounts at Haghia Triada.",
+  "why": "The identical sign sequence exists in Linear B as a place name; it follows VIN (wine) as a named recipient or source rather than a commodity descriptor; it never carries a figure of its own and never opens a tablet, consistent with a party label rather than a commodity or heading.",
+  "refuted_by": "If PA-DE were found with a numeral directly attached to it, or used as a ligature element added to a commodity sign, the name reading would be undermined and a commodity or qualifier class would need to be considered instead.",
+  "confidence": "medium",
+  "verdict": "category",
+  "result": {
+   "p": 0.0,
+   "detail": "2 figures; heading p=1.0; total p=1.0; added=False",
+   "category_only": true
+  }
+ },
+ {
+  "unit": "TA-I-AROM",
+  "class": "total",
+  "reading": "TA-I-AROM is a summation word appearing before or near a running total of a commodity, here wine (VIN), functioning as the Linear A equivalent of KU-RO (\"total\").",
+  "why": "It co-occurs with KU-RO in all three documents (KU-RO is the best-attested total word in Linear A); it appears after VIN, consistent with a closing summary entry; it never accompanies a figure of its own, which suits a label rather than a counted commodity.",
+  "refuted_by": "If TA-I-AROM were found in the middle of a tablet followed by its own independent numeral and listed alongside other commodities in a series, it would indicate a commodity or name rather than a total label.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.9999999999999999,
+   "detail": "sum matches 0/2 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "*560",
+  "class": "staple",
+  "reading": "*560 is a staple commodity, likely a solid agricultural product such as olives or a similar produce, recorded in small quantities across administrative tablets.",
+  "why": "It appears after OLE (olive oil) once, suggesting association with olive-related commodities; it co-occurs with other staple and liquid commodity signs (OLE+DI, KI-MA-RU, MA-RU-ME) in the same documents; and its attestation on tablets at Haghia Triada and Phaistos fits the standard administrative staple-recording pattern at those palatial sites.",
+  "refuted_by": "If *560 were found consistently appearing before a summing entry or opening a tablet without a following figure, it would indicate a heading or total rather than a commodity; alternatively, if it were found only in fractional amounts too small for a staple, it would suggest reclassification as a fine commodity.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "no figure"
+  }
+ },
+ {
+  "unit": "*118",
+  "class": "liquid",
+  "reading": "*118 is a liquid commodity, likely a grade or variety of oil, recorded in small quantities alongside OLE entries.",
+  "why": "It appears after OLE once, suggesting it is associated with the oil-accounting system; its fraction rate (33%) matches the ordinary rate seen for liquid commodities (corpus base rate 27%); and its largest figure is only 5, consistent with small measured quantities of a liquid rather than a bulk staple.",
+  "refuted_by": "If *118 were found repeatedly in contexts entirely unconnected to OLE, or if it appeared with large whole-number figures and no fractions across a larger sample, the liquid reading would be undermined.",
+  "confidence": "low",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "1/3 fractional, max 5"
+  }
+ },
+ {
+  "unit": "RE-ZA",
+  "class": "total",
+  "reading": "RE-ZA is a summation word that closes an account, equivalent in function to KU-RO (\"total due\") but perhaps marking a sub-total or alternative tally formula.",
+  "why": "It co-occurs with KU-RO (the known Linear A total word) in 2 of its 3 documents, suggesting it belongs to the same administrative closing vocabulary; it appears after VIN (wine), consistent with a tally closing a commodity entry rather than being the commodity itself; it never appears with a figure of its own, which fits a label rather than a counted item.",
+  "refuted_by": "If RE-ZA were found heading a column with its own numeral, or appearing in the middle of a tablet followed by a list of entries, it could not be a total word and would need reclassification.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "never after two figures"
+  }
+ },
+ {
+  "unit": "KA-KU-PA",
+  "class": "heading",
+  "reading": "KA-KU-PA is a label that opens a record, marking the type of transaction or account that follows.",
+  "why": "It appears in first position in the one tablet where it occurs (100%, against an 11% base rate), it is never accompanied by a figure of its own, and it co-occurs with CYP (a commodity) and *188+KU, consistent with a label introducing entries rather than being an entry itself.",
+  "refuted_by": "If KA-KU-PA were found mid-tablet following other entries and preceded by a numeral, or if it appeared in a summing position, its role as a heading would be falsified.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.11104513064133016,
+   "detail": "first position 1/1 vs base 0.11"
+  }
+ },
+ {
+  "unit": "OLE+TU",
+  "class": "liquid",
+  "reading": "OLE+TU is a graded or qualified variety of oil, distinguished from plain OLE and OLE+MI by the added syllable TU.",
+  "why": "It appears in documents alongside OLE, OLE+MI, VIN, and CYP — the classic liquid/staple commodity cluster; it follows OLE and CYP in sequence with a smaller figure, consistent with a sub-grade or sub-quantity of oil rather than an independent commodity; and its fraction rate (0%) is not disqualifying given only one recorded figure.",
+  "refuted_by": "If OLE+TU were found heading a tablet in first position, or listed with VIR signs and large whole-number person counts, the graded-oil reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "compatible",
+  "result": {
+   "p": 1.0,
+   "compatible": true,
+   "base_dir": true,
+   "detail": "0/1 fractional, max 1"
+  }
+ },
+ {
+  "unit": "KI+MU",
+  "class": "bulk",
+  "reading": "KI+MU is a staple commodity counted in whole units with moderately large figures, consistent with a bulk good such as grain or a similar agricultural product.",
+  "why": "All three attestations carry whole-number figures (no fractions, against a 27% corpus base rate), the largest figure reaches 15 (a medium-to-large quantity typical of bulk staples), and it appears alongside KU-RO, a known totalling word, suggesting it is a commodity being summed in an accounting context.",
+  "refuted_by": "If future tablets showed KI+MU recorded in fractional amounts, or consistently in very small figures alongside known spice/metal signs, the bulk classification would be undermined in favour of fine or staple.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 15"
+  }
+ },
+ {
+  "unit": "MI+JA+I",
+  "class": "bulk",
+  "reading": "MI+JA+I is a bulk staple commodity, likely a grain or grain-related product, recorded in large whole-number quantities without fractions.",
+  "why": "The largest figure is 1000, consistent with bulk staple accounting; fractions appear in 0 of 2 instances with figures (against a 27% corpus base rate), matching the bulk pattern; it follows GRA (grain) once and its figure is not smaller than the preceding GRA figure, suggesting it is a parallel commodity entry rather than a sub-quantity.",
+  "refuted_by": "If future tablets showed MI+JA+I recorded with fractions at or above the corpus base rate of 27%, or in small figures alongside spice/metal signs, the bulk classification would be undermined.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.5773606547213094,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/2 fractional, max 1000"
+  }
+ },
+ {
+  "unit": "*326",
+  "class": "staple",
+  "reading": "*326 is a staple commodity, likely a plant-based foodstuff recorded in moderate quantities alongside other agricultural goods.",
+  "why": "It appears exclusively at Haghia Triada on tablets, co-occurring with GRA (grain), VIN (wine), OLE+TA (graded oil), NI (figs), and CYP (cyperus) — a cluster of staple and agricultural commodities that strongly suggests *326 belongs to the same administrative category; its 3 attestations across 3 documents indicate a recurring but not dominant commodity; it is never accompanied by a figure modifier suggesting fine or graded status.",
+  "refuted_by": "If *326 were found recorded in small fractional amounts with high-value context signs, or consistently heading a tablet before any commodity entries, the staple reading would be undermined.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "no figure"
+  }
+ },
+ {
+  "unit": "AU",
+  "class": "heading",
+  "reading": "AU is a label or transaction word that opens or titles a record rather than naming a commodity or party.",
+  "why": "It appears in first position on a tablet at twice the corpus base rate (1 of 2 tablets, vs. 11% base rate, suggesting it leads entries); it occurs with only a single figure of 1 and zero fractions, consistent with a label rather than a counted commodity; and it co-occurs with KU-RO (a known totalling word) and TELA+KU (a textile sign), suggesting it heads a record that others fill out.",
+  "refuted_by": "If AU were found mid-tablet, after commodity entries and before a summed figure, or if it appeared repeatedly within a single document alongside varying quantities, the heading reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.20975924024351023,
+   "detail": "first position 1/2 vs base 0.11"
+  }
+ },
+ {
+  "unit": "SI+SE",
+  "class": "liquid",
+  "reading": "SI+SE is a graded or typed liquid commodity, most likely a variety or quality of oil, distinguished from plain OLE by the added syllable SE.",
+  "why": "It is a ligature of the form base-sign + added syllable, exactly the pattern used for graded liquid commodities; it appears directly after OLE in at least one document; and its co-documents are dominated by OLE and OLE+MI, the core oil vocabulary of the Linear A corpus.",
+  "refuted_by": "If SI+SE were consistently recorded with fractional amounts at rates unlike oil, or if it appeared in contexts with textile or livestock signs rather than oil signs, or if it were shown to carry its own independent figures in bulk-grain quantities, the liquid reading would be undermined.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "no figure"
+  }
+ },
+ {
+  "unit": "*OLIV+TU",
+  "class": "liquid",
+  "reading": "A graded or sub-type variety of olive oil, distinguished from plain OLIV and OLE by the added syllable TU, recorded in small quantities as a differentiated grade within oil-accounting contexts.",
+  "why": "(1) The base sign is OLIV, and the ligature pattern (base commodity + added syllable) matches exactly how Linear A marks grades of oil (cf. OLE+MI, OLE+DI in the same documents). (2) It consistently co-occurs with OLIV, OLE, OLE+MI, and OLE+DI — a cluster that is coherently an oil-grade dossier. (3) Its figure is never larger than the preceding commodity figure (0 of 2 cases), consistent with a sub-quantity or specialised grade drawn from a larger lot, as seen with other liquid grades.",
+  "refuted_by": "If *OLIV+TU were found heading a tablet in first position, or appeared in documents dominated by grain, textile, or livestock signs with no oil-family units, the oil-grade reading would be undermined; equally, if its figures were consistently large and whole while plain OLIV figures were small, the sub-grade interpretation would fail.",
+  "confidence": "medium",
+  "verdict": "untestable",
+  "result": {
+   "detail": "class needs a logogram"
+  }
+ },
+ {
+  "unit": "NU",
+  "class": "bulk",
+  "reading": "NU is a bulk staple commodity, likely a grain or grain-like product counted in whole units with relatively large figures.",
+  "why": "Fractions appear in 0 of 2 attestations with figures (0%, well below the 27% corpus base rate, matching the bulk pattern); the largest figure is 25, consistent with bulk staple quantities; it follows GRA (grain) in one document and its figure is not smaller than the preceding GRA figure, suggesting it is a parallel commodity entry rather than a sub-quantity.",
+  "refuted_by": "If NU were found with fractional quantities in a larger sample, or consistently appearing as a sub-quantity after GRA with figures smaller than GRA's, the bulk reading would be undermined and a staple or fine classification would need to be considered instead.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.5773606547213094,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/2 fractional, max 25"
+  }
+ },
+ {
+  "unit": "GRA+K+L",
+  "class": "bulk",
+  "reading": "GRA+K+L is a bulk staple commodity, likely a variety or grade of grain, recorded in whole units and counted in large quantities.",
+  "why": "The largest figure is 74, consistent with bulk staple accounting; fractions appear in 0 of 3 attestations against a corpus base rate of 27%, strongly matching the bulk (grain) profile; the base sign GRA is the standard Linear A/B grain logogram, and the added syllabic signs mark a specific type or grade.",
+  "refuted_by": "If fractional amounts were found recorded with GRA+K+L in further tablets, or if the sign were shown to appear in contexts listing persons or livestock rather than commodities, the bulk grain reading would be undermined.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 74"
+  }
+ },
+ {
+  "unit": "DI-DE-RU",
+  "class": "name",
+  "reading": "DI-DE-RU is a party name (person or place) appearing in commodity accounts at Haghia Triada.",
+  "why": "It never appears with a figure of its own; it occurs in documents alongside commodity signs including GRA (grain) and other syllabic units typical of named parties in accounts; it is never in first position, consistent with a party name rather than a heading or label.",
+  "refuted_by": "If DI-DE-RU were found consistently preceding or following a numeral as its direct object across multiple tablets, it would indicate a commodity or total rather than a name.",
+  "confidence": "low",
+  "verdict": "category",
+  "result": {
+   "p": 0.0,
+   "detail": "3 figures; heading p=1.0; total p=0.9999999999999999; added=False",
+   "category_only": true
+  }
+ },
+ {
+  "unit": "TE-RI",
+  "class": "qualifier",
+  "reading": "TE-RI is a bare syllabic modifier attached to or following a commodity sign, specifying a grade or type of that commodity rather than naming a commodity itself.",
+  "why": "It never appears with its own figure (never with a figure), it follows VIN (a liquid commodity) in the one positional record we have suggesting it modifies rather than stands alone, and it appears alongside graded commodity signs (OLE+MI, VIN, GRA) in the same documents without itself carrying a numeral.",
+  "refuted_by": "If TE-RI were found written as a ligature with a commodity sign (e.g., VIN+TE or similar) or consistently followed by its own independent numeral, it would indicate a commodity or graded liquid rather than a bare qualifier.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 0 commodities: "
+  }
+ },
+ {
+  "unit": "QA-QA-RU",
+  "class": "total",
+  "reading": "QA-QA-RU is a totalling word that closes or summarises an account, functioning like KU-RO in the Linear A administrative system.",
+  "why": "It appears exclusively alongside KU-RO (the well-attested Linear A total word, present in 2 of the same 3 documents) and PO-TO-KU-RO (another known total-type term), suggesting it occupies the same functional slot; it never appears with a figure of its own and never opens a tablet (0 of 3 in first position), consistent with a closing summary word rather than a commodity or heading.",
+  "refuted_by": "If QA-QA-RU were found followed directly by a numeral or fraction sign in any tablet, or if it appeared in first position on a tablet without KU-RO or PO-TO-KU-RO nearby, the total reading would be falsified.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.9999999999999999,
+   "detail": "sum matches 0/2 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "PA-SE-JA",
+  "class": "heading",
+  "reading": "PA-SE-JA is a transaction or record label that opens or titles a document, not a counted commodity.",
+  "why": "It appears on roundels (2) and a tablet (1) across 3 documents at a single site, a pattern consistent with an administrative label rather than a commodity entry; it never appears with a figure, which rules out it being a counted item; and its co-occurrence with bare signs like KA and SA-RA₂ fits a labelling context rather than a commodity list.",
+  "refuted_by": "If PA-SE-JA were found followed directly by a numeral or fraction in any document, it would indicate a counted commodity rather than a heading.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "first position 0/1 vs base 0.11"
+  }
+ },
+ {
+  "unit": "PA-TA-NE",
+  "class": "total",
+  "reading": "PA-TA-NE is a word that appears before or in place of a summing figure, functioning as a totalling term equivalent to KU-RO in the accounting system.",
+  "why": "It co-occurs with KU-RO (the known Linear A total word, attested twice in the same documents) and KI-RO (the known deficit/balance word), placing PA-TA-NE firmly in the vocabulary of accounting summation; it never appears with a commodity figure of its own; and it never opens a tablet (0/2, below the 11% base rate), consistent with a closing summary word rather than a heading.",
+  "refuted_by": "If PA-TA-NE were found heading a tablet in first position, or followed directly by a commodity sign and figure as a list entry repeated across multiple unrelated documents without KU-RO or KI-RO nearby, the totalling reading would be false.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "sum matches 0/1 (floor base 2%)"
+  }
+ },
+ {
+  "unit": "*304+PA",
+  "class": "fine",
+  "reading": "*304+PA is a valued commodity recorded in small quantities, likely a specific grade or variety of something precious, appearing in fractional amounts.",
+  "why": "The largest figure recorded is only 1, indicating very small quantities consistent with a fine commodity; fractions appear in 50% of attestations, well above the 27% corpus base rate for commodity signs, matching the fine-commodity pattern; it appears alongside CYP (cyperus) and VIN (wine), a context of valued or specialized goods rather than bulk staples.",
+  "refuted_by": "If future tablets showed *304+PA recorded in large whole-number figures (tens or hundreds) without fractions, the fine-commodity reading would be false and a bulk or staple class would need to be considered instead.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4226393452786905,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "1/2 fractional, max 1"
+  }
+ },
+ {
+  "unit": "GRA+F",
+  "class": "fine",
+  "reading": "GRA+F is a valued commodity recorded in small fractional amounts, likely a grade or variety of grain distinguished by the added syllable F.",
+  "why": "Fractions appear in 100% of the figured attestations, far above the 27% base rate for commodity signs, which is the hallmark of a fine or precious commodity; the largest figure is only 70, consistent with small-quantity recording; it is a ligature (base GRA + added sign), the standard way Linear A marks a graded or distinguished sub-type of a commodity.",
+  "refuted_by": "If future tablets show GRA+F recorded consistently in large whole-number quantities without fractions, at the scale typical of bulk staple grain, the fine-commodity reading would be falsified.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 0.0576756153512307,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "2/2 fractional, max 70"
+  }
+ },
+ {
+  "unit": "A-RI",
+  "class": "qualifier",
+  "reading": "A-RI is a bare syllabic element added to commodity signs as a modifier or grade marker, not itself a counted commodity.",
+  "why": "It never appears with a figure (0 of 3 attestations), which rules out any counted commodity class; it never opens a tablet (0% vs 11% base rate), which argues against heading; and its three occurrences are spread across two sites on tablet supports, consistent with a recurring adjectival or qualifying element attached to other signs rather than standing as an independent entry.",
+  "refuted_by": "If any tablet were found showing A-RI followed directly by a numeral or fraction, it would demonstrate it is a counted commodity rather than a qualifier.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 0 commodities: "
+  }
+ },
+ {
+  "unit": "ME",
+  "class": "qualifier",
+  "reading": "ME is a bare syllable added to commodity signs to mark a grade, type, or processing state of the commodity recorded.",
+  "why": "ME appears as an added syllable attached to OLE and SI rather than standing alone with its own figures; it never appears with a figure of its own; it is attested on stone vessel supports, consistent with labelling commodity containers rather than counting independent items.",
+  "refuted_by": "If ME were found standing alone at the head of an entry followed by a numeral, with no host logogram, it would cease to be a qualifier and would require reclassification as a commodity or name.",
+  "confidence": "medium",
+  "verdict": "fails",
+  "result": {
+   "p": 1.0,
+   "detail": "attached to 1 commodities: OLE"
+  }
+ },
+ {
+  "unit": "JE",
+  "class": "heading",
+  "reading": "JE is a label or transaction word that opens a document, marking the record type or administrative category of what follows.",
+  "why": "It appears in first position on a tablet in 1 of 2 tablet attestations (50%), far above the 11% base rate for all units; it carries a figure only once and that figure is small (2), consistent with a label rather than a counted commodity; it has no fractions, which fits a non-commodity function.",
+  "refuted_by": "If JE were found consistently mid-tablet following other entries, or if it appeared with a range of larger figures summed by a total word, it would not be a heading.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.20975924024351023,
+   "detail": "first position 1/2 vs base 0.11"
+  }
+ },
+ {
+  "unit": "*401+RO",
+  "class": "textile",
+  "reading": "*401+RO is a type of textile commodity, with the added syllable RO marking a specific grade or variety of the base cloth sign.",
+  "why": "It is a ligature (base sign + added syllable RO), which is the structural hallmark of textile logograms that use added signs to specify type; it appears with a figure of 1 (whole unit, no fractions), consistent with textiles counted in whole units; the zero fraction rate (vs. 27% corpus base rate) further supports a whole-unit commodity rather than a liquid or fine commodity.",
+  "refuted_by": "If *401+RO were found recorded in large figures, accompanied by fractional amounts, or listed alongside confirmed textile signs in a way that made it clearly a different commodity class, the textile reading would be undermined.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.7598425196850394,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/1 fractional, max 1"
+  }
+ },
+ {
+  "unit": "A-MA",
+  "class": "name",
+  "reading": "A-MA is a party name (person or place) appearing as a list entry associated with a recorded quantity on administrative objects.",
+  "why": "It appears only 3 times across 3 different sites and 3 different support types (bar, stone vessel, stone object), suggesting it labels a party rather than a commodity class; it never appears with a commodity figure-sign that would identify it as a staple or livestock entry; the small, scattered attestation count is consistent with a named party rather than a recurring commodity term.",
+  "refuted_by": "If A-MA were found consistently preceding or following a known commodity ideogram (grain, oil, livestock) with regular fractional or whole-number tallies across multiple tablets, it would indicate a commodity or qualifier rather than a name.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ },
+ {
+  "unit": "A-JA",
+  "class": "heading",
+  "reading": "A-JA is a label or transaction term that opens a document, functioning as a record or category header rather than a counted commodity or named party.",
+  "why": "It appears in first position on its one tablet (1 of 1, against an 11% base rate, making initial position its defining feature); it is never accompanied by a figure, which rules out commodity or name entries that require a numeral; and its spread across three different document types and sites (tablet, inked inscription, stone vessel) suggests a functional administrative word rather than a site-specific commodity or personal name.",
+  "refuted_by": "If a tablet were found showing A-JA followed directly by a numeral and a commodity ideogram, it would demonstrate that A-JA is a counted item rather than a heading.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.11104513064133016,
+   "detail": "first position 1/1 vs base 0.11"
+  }
+ },
+ {
+  "unit": "*412+E",
+  "class": "textile",
+  "reading": "*412+E is a type of textile, distinguished from related cloth types by the added syllable E, recorded in small whole-number quantities at Malia.",
+  "why": "All three attestations carry whole-number figures with no fractions (0%), consistent with textiles counted in discrete units; the largest figure is only 4, typical of textile tallies rather than bulk staples; the sign is a ligature with an added syllable, the standard formation for textile-type distinctions in Linear A administration.",
+  "refuted_by": "If fractional quantities were found alongside *412+E in further documents, or if the sign appeared in species-by-sex lists or alongside VIR, the textile reading would be undermined.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 4"
+  }
+ },
+ {
+  "unit": "QI+SI",
+  "class": "textile",
+  "reading": "QI+SI is a type of textile, with the added syllable SI specifying a variety or grade of the base cloth commodity.",
+  "why": "Figures are small (max 5) and always whole with no fractions (0%), consistent with counted textile units; it is a ligature (base sign + added syllable), the standard formation for textile type-marking in Linear A administration; it appears exclusively on stone vessel supports at Zakros alongside *22F (a known textile-associated logogram) and RA, a combination that fits a textile accounting context.",
+  "refuted_by": "If QI+SI were found recorded with fractional quantities, or in large figures typical of bulk staples, or consistently alongside liquid/grain logograms rather than textile-class signs, the textile reading would be undermined.",
+  "confidence": "low",
+  "verdict": "fails",
+  "result": {
+   "p": 0.4387031746504438,
+   "compatible": false,
+   "base_dir": false,
+   "detail": "0/3 fractional, max 5"
+  }
+ },
+ {
+  "unit": "DU-RE-ZA-SE",
+  "class": "name",
+  "reading": "DU-RE-ZA-SE is a party—a person or place—entered in stone-vessel accounts at Zakros alongside a figure.",
+  "why": "All three attestations are on stone vessels at a single site (Zakros), a context typical of named parties or commodities in administrative records; it never appears in first position, ruling out a heading; and its co-occurring units (PA, DA-I-PI-TA, *131B) are consistent with a list of named entries rather than commodity classifiers or totalling words.",
+  "refuted_by": "If DU-RE-ZA-SE were found consistently preceding or following a known commodity sign with varying quantities across multiple sites, it would be better read as a commodity or qualifier rather than a name.",
+  "confidence": "low",
+  "verdict": "untestable",
+  "result": {
+   "detail": "fewer than two figures"
+  }
+ }
+]

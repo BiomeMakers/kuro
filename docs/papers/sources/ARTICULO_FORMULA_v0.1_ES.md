@@ -1,4 +1,4 @@
-# Qué se puede fijar de una fórmula sin leerla: la plantilla votiva del Lineal A y sus dos lecturas posibles
+# Qué se puede fijar de una fórmula sin leerla, y qué predice: la plantilla votiva del Lineal A
 
 **Alberto Acedo**
 Biome Makers Inc. Borrador v0.2, 9 de septiembre de 2026. La segmentación de la apertura se atribuye a Finkelberg 1990-91.
@@ -6,6 +6,8 @@ Biome Makers Inc. Borrador v0.2, 9 de septiembre de 2026. La segmentación de la
 ## Resumen
 
 Las inscripciones votivas del Lineal A comparten una fórmula que se repite en seis santuarios de Creta durante más de dos siglos y que sigue sin leerse. Este trabajo no propone una lectura: fija por distribución qué función cumple cada posición de la fórmula, y enumera qué lecturas quedan y cuál es el dato que separaría cada par. Sobre las dieciocho inscripciones no contables que conservan al menos un ancla, se establece: que la fórmula abre con una palabra fija cuya raíz es invariante y cuya terminación varía por santuario y no por concordancia (seis terminaciones sobre la misma raíz, la mejor candidata del corpus a paradigma); que los rellenos de los huecos variables son hapax en 32 de 32 casos, probabilidad del orden de 10⁻⁴ bajo la tasa del corpus, de modo que los huecos contienen la clase abierta de nombres y lugares y las anclas la clase cerrada; que la única inscripción con logogramas, SY Za 2, fija el ancla u-na-ka-na-si como término de la ofrenda sin recurrir a etimología, porque va seguida del logograma del aceite mientras la palabra previa lleva el de la aceituna; y que ja-sa-sa-ra-me nunca lleva logograma en trece apariciones, lo que descarta que designe la ofrenda o el objeto. Comparada como estructura con las fórmulas votivas contemporáneas que sí se leen, la plantilla minoica coloca su elemento invariante central entre los nombres y la ofrenda, como la egipcia y la anatolia, y a diferencia de la semítica y la griega, que ponen la divinidad al final; y abre con una fórmula fija anterior al dedicante, como solo hace la egipcia. Enumeradas las funciones que cada posición admite y descartadas las que contradicen algún dato, sobreviven dos lecturas de estructura para el ancla central y dos para la siguiente, y en los cuatro casos el dato que las separaría no está en el corpus: se especifica cuál sería y dónde podría aparecer. El resultado de método es que en un corpus sin bilingüe puede fijarse la función de cada posición de una fórmula y acotarse el número de lecturas posibles, aunque no el valor de sus palabras; y que las propuestas de lectura que circulan pueden ordenarse por si sobreviven o no a esas restricciones.
+
+A estos resultados descriptivos el artículo añade uno de otra naturaleza, evaluado como el campo evalúa la restauración textual (Sommerschield y otros 2023): una prueba sobre material retenido, con líneas base y acierto a varios rangos. Apartando cada inscripción por turno y reconstruyendo sus huecos a partir de las demás se recuperan 8 de 57 elementos apartados (14,0%). La línea base de n-gramas que el campo emplea como referencia lo hace mejor en Top-1 (17,5%), y así se declara en vez de omitirse. Lo que explica ambas cifras es que el elemento verdadero solo está disponible entre los candidatos en el 14,0% de los huecos, porque el 71,9% de los rellenos no aparece en ninguna otra inscripción de la fórmula: **el método recupera todos los huecos que la estructura le permite recuperar**, y los ocho aciertos son los tres elementos que el análisis distribucional identifica como fijos. Los tres procedimientos convergen cerca del 23% al crecer el rango, que es la proporción de huecos con un elemento repetido: un techo que pertenece al corpus y no a ningún modelo.
 
 **Palabras clave:** Lineal A, fórmula de libación, inscripciones votivas, análisis distribucional, modelos nulos, Hagia Triada, Iouktas, Palaikastro.
 
@@ -61,6 +63,68 @@ Tres elementos se separan por distribución y no por etimología.
 **ja- / a-**: once pares con a- en el corpus completo (a-ri-ja / ri-ja, a-ki-ro / ki-ro, a-mi-ta / mi-ta), y la alternancia ja-sa-sa-ra-me / a-sa-sa-ra-me / sa-sa-ra-me. Su frecuencia es de 7 por mil en Hagia Triada frente a 140-240 por mil en los santuarios: **es un rasgo de género, no de gramática**.
 
 **u-ti-nu**: aparece solo en IO Za 11, y como final de ta-na-i-\*301-u-ti-nu (IO Za 6) y de ta-na-ra-te-u-ti-nu (IO Za 2). Los dos compuestos de Iouktas comparten el marco ta-na-[X]-u-ti-nu. Es un elemento separable que la escritura une a la palabra anterior sin divisor, y tiene una consecuencia sobre la plantilla: **el relleno de cola de IO Za 2 no es un nombre sino una segunda forma de la apertura**, de modo que en Iouktas la fórmula cierra como abre.
+
+## 4 bis. Qué predice la plantilla, y qué no puede predecir nada
+
+Todo lo anterior describe el corpus. Esta sección predice material apartado, siguiendo la práctica de
+evaluación de la restauración textual (Sommerschield y otros 2023): una prueba sobre material
+retenido, varias líneas base incluida la de n-gramas que el campo emplea como referencia, y el
+acierto informado a varios rangos y no solo al primero.
+
+**Diseño.** Las dieciocho inscripciones en que se localiza el ancla de apertura se indexan por
+posición relativa a esa ancla. Para cada hueco se aparta la inscripción entera que lo contiene y se
+predice el elemento a partir de las diecisiete restantes, por lo que ocupa esa posición relativa,
+ponderando cada candidato por cuántos otros elementos comparte su inscripción de origen con la que se
+reconstruye. **La posición del ancla queda excluida de la puntuación**, ya que es lo que la alineación
+emplea; una corrida temprana que no la excluía dio un 20,2% y debía once de sus diecisiete aciertos a
+esa sola posición.
+
+**Resultado, con líneas base y a varios rangos.**
+
+| | Top-1 | Top-3 | Top-5 | Top-10 | Top-20 |
+|---|---|---|---|---|---|
+| este predictor | *\*14,0%** | 14,0% | 14,0% | 14,0% | 14,0% |
+| línea base de n-gramas (predecir por el elemento anterior) | *\*17,5%** | 19,3% | 21,1% | 22,8% | 22,8% |
+| adivinar siempre el elemento más frecuente | 8,8% | 19,3% | 21,1% | 22,8% | 24,6% |
+
+**Dos cosas hay que decir sin rodeos, y la segunda explica la primera.**
+
+**La línea base de n-gramas bate a este predictor en Top-1**, 17,5% frente a 14,0%. La referencia
+estándar del campo es mejor que el método aquí propuesto, y afirmar otra cosa exigiría omitirla.
+
+**Y el acierto de este predictor no mejora en absoluto al ampliar el rango**, cosa que no le ocurre a
+un predictor salvo que se haya quedado sin candidatos. Y se ha quedado:
+
+| | |
+|---|---|
+| huecos evaluados | 57 |
+| el elemento verdadero está disponible entre los candidatos de esa posición | 8 (*\*14,0%**) |
+| el elemento verdadero no aparece en **ninguna otra inscripción de la fórmula** | 41 (*\*71,9%**) |
+
+**El techo de este método es del 14,0% y su acierto es del 14,0%.** Recupera todos los huecos que la
+estructura le permite recuperar. En el 86% restante el elemento verdadero no está disponible para ser
+propuesto, y en casi tres cuartas partes de los casos porque es un hapax.
+
+**Ese es el resultado, y confirma la sección 3.2 desde el otro lado.** Los huecos albergan la clase
+abierta: los treinta y dos rellenos de la fórmula son hapax. No puede predecirse el relleno porque el
+relleno es nuevo cada vez; sí puede predecirse la plantilla porque la plantilla recurre. Los ocho
+aciertos son JA-SA-SA-RA-ME, I-PI-NA-MA y SI-RU-TE, que son exactamente los tres elementos que la
+sección 3 identifica como fijos por distribución. La misma conclusión se alcanza dos veces por
+caminos independientes.
+
+**Y una cifra que conviene dejar dicha para quien aborde este corpus con un método más potente.** Los
+tres procedimientos convergen cerca del 23% al crecer el rango, que es aproximadamente la proporción
+de huecos ocupados por elementos que aparecen más de una vez. **El techo es una propiedad del corpus y
+no de los modelos**: ningún método que funcione reconociendo repetición lo superará, por sofisticado
+que sea, porque el 72% del material a recuperar aparece exactamente una vez.
+
+**Qué lo refutaría.** Que inscripciones nuevas de la fórmula elevaran la proporción de rellenos
+repetidos, lo que subiría el techo y haría significativa la comparación entre métodos; o que los
+aciertos dejaran de concentrarse en las posiciones fijas, lo que rompería la conexión con la sección 3.
+
+**Calibración.** El instrumento se midió sobre documentos contables donde no hay plantilla: informa de
+un falso positivo el 5,0% de 120 ensayos al umbral del 5% y el 0,83% al del 1%. El nulo de permutación
+de esta prueba, barajando los elementos dentro de cada inscripción, da un 3,5%.
 
 ## 5. Las dos lecturas que sobreviven, y el dato que las separaría
 
@@ -150,5 +214,7 @@ Petrakis, V. y P. Steele 2025. A-SA-SA(-RA-ME) 1. En E. Salgarella y V. Petrakis
 Salgarella, E. y S. Castellan 2020. SigLA: the Signs of Linear A. https://sigla.phis.me
 
 Valério, M. 2007. "Diktaian Master": a Minoan predecessor of Diktaian Zeus in Linear A? Kadmos 46, 3-14.
+
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
 
 Younger, J. G. 2024. Linear A texts and inscriptions in phonetic transcription. http://people.ku.edu/~jyounger/LinearA/

@@ -258,6 +258,8 @@ Weingarten, J. 1987. Seal-use at LM IB Ayia Triada: a Minoan elite in action. I.
 
 Wiener, M. H. 2015. The Mycenaean conquest of Minoan Crete. In The Great Islands: Studies of Crete and Cyprus presented to Gerald Cadogan, Athens, 131-142.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2010. The Myrtos-Pyrgos and Gournia roundels inscribed in Linear A: suffixes, prefixes, and a journey to Syme. In Cretan Offerings. Studies in Honour of Peter Warren, London, 345-352.
 
 Uchitel, A. 2002-2003. HT 94. Minos 37-38, 81-88.

@@ -132,6 +132,8 @@ Montecchi, B. 2009. Le frazioni, gli errori di calcolo e le unità di misura nel
 
 Montecchi, B. Planning a Feast in Neopalatial Crete: a Look at the Linear A Evidence.
 
+Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos and N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
+
 Younger, J. G. 2024. Linear A texts and inscriptions in phonetic transcription. Academia.edu.
 
 Chadwick, J. The classification of the Knossos tablets.

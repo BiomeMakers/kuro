@@ -59,6 +59,17 @@ TASKS = {
         ['items_analysis/inscriptions.json'], ['inscriptions.json']),
  'linearb': lambda: from_github_zip('mwenge/linearb.xyz', 'master',
         ['items_analysis/inscriptions.json'], ['linearb_inscriptions.json']),
+ # the full Linear B corpus and lexicon used since 10 Sep 2026 are the JS bundles of the same repository;
+ # scripts/extract_linearb.py turns them into data/raw/linearb/{inscriptions_B,lexicon_B,forms_B}.json
+ 'linearb_js': lambda: from_github_zip('mwenge/linearb.xyz', 'master',
+        ['LinearBInscriptions.js', 'lexicon.js'], ['linearb/LinearBInscriptions.js', 'linearb/lexicon.js']),
+ # Younger's per-document commentary pages (HTML), the source of the sign/seal table of the HT nodules
+ # (scripts/extract_nodule_seals.py): folder commentary/ of the Explorer
+ 'younger_commentary': lambda: from_github_zip('mwenge/lineara.xyz', 'master',
+        ['commentary/'], ['younger_commentary/']),
+ # NeuroDecipher (Luo, Cao & Barzilay 2019) data: Linear B-Greek and Ugaritic-Hebrew cognate files
+ 'neurodecipher': lambda: from_github_zip('j-luo93/NeuroDecipher', 'master',
+        ['data/linear_b-greek.cog', 'data/uga-heb.small.no_spe.cog'], ['neurodecipher/linear_b-greek.cog', 'neurodecipher/uga-heb.small.no_spe.cog']),
  'iberian': lambda: from_github_zip('j-luo93/DecipherUnsegmented', 'main',
         ['data/iberian.csv'], ['iberico_hesperia_luo2021.csv']),
  'etruscan': lambda: from_github_zip('GianlucaVico/Larth-Etruscan-NLP', 'main',
@@ -67,6 +78,8 @@ TASKS = {
  'uruk': lambda: [cdli(p, 'uruk.atf' if i == 0 else 'uruk_III.atf', 'uruk_cat.csv' if i == 0 else 'uruk_III_cat.csv')
                   for i, p in enumerate(['Uruk IV (ca. 3350-3200 BC)', 'Uruk III (ca. 3200-3000 BC)'])],
 }
+# Candidate-language corpora (CDLI bulk ATF, TLHdig from Zenodo 15459134) are fetched by
+# scripts/fetch_candidates.py; Grambank by hand from grambank.clld.org.
 # SigLA: not fetched automatically. Download the dataset from https://sigla.phis.me (CC BY-NC-SA)
 # or the pyaegean release, and place sigla_corpus.json in data/raw/.
 
