@@ -452,3 +452,12 @@ MIT.
 - **Tests:** 124.
 
 What this repository does not do, and says so: it does not read a word of Minoan. Every result fixes what a unit *does*; none fixes what it *means*, and no quantity of the first produces the second.
+
+## How to cite
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22877160.svg)](https://doi.org/10.5281/zenodo.22877160) Book
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22679156.svg)](https://doi.org/10.5281/zenodo.22679156) Software
+
+Acedo, A. (2026). *Kurometry: Measuring Linear A* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22877160
+
+Acedo, A. (2026). *kuro: measuring undeciphered script corpora against null models* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22679156
