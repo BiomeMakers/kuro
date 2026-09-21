@@ -1,0 +1,112 @@
+[
+ {
+  "language": "akkadian",
+  "linear_b_values": 0.29938529894008115,
+  "real_best": 0.10148572562074021,
+  "control_mean": 0.12628507620910545,
+  "control_sd": 0.003602105296282314,
+  "z": 6.884682303418595,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "luwian",
+  "linear_b_values": 0.3143136633046423,
+  "real_best": 0.194422150954547,
+  "control_mean": 0.2028551427702136,
+  "control_sd": 0.0039061805863690514,
+  "z": 2.1588842679455813,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "palaic",
+  "linear_b_values": 0.3266903800707738,
+  "real_best": 0.20800862123423047,
+  "control_mean": 0.21204280132719155,
+  "control_sd": 0.0026414223586708266,
+  "z": 1.5272756663539018,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "mycenaean",
+  "linear_b_values": 0.07815357481116586,
+  "real_best": 0.05090911057390167,
+  "control_mean": 0.05440328775563612,
+  "control_sd": 0.003610013191953154,
+  "z": 0.9679125797997336,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "iberian",
+  "linear_b_values": 0.3756539685562812,
+  "real_best": 0.1838671561128042,
+  "control_mean": 0.1864062432367845,
+  "control_sd": 0.003172770105208424,
+  "z": 0.8002745360630297,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "hittite",
+  "linear_b_values": 0.30512660889996096,
+  "real_best": 0.20454955126128477,
+  "control_mean": 0.20367528346016814,
+  "control_sd": 0.002669052012344842,
+  "z": -0.327557423786792,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "sumerian",
+  "linear_b_values": 0.32569217482191526,
+  "real_best": 0.13822397679186174,
+  "control_mean": 0.13639700567168606,
+  "control_sd": 0.0035214297796558026,
+  "z": -0.5188151502354422,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "hurrian",
+  "linear_b_values": 0.320972476536735,
+  "real_best": 0.20989833905850214,
+  "control_mean": 0.20652504815556977,
+  "control_sd": 0.002851707022579258,
+  "z": -1.1829023375204084,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "hattian",
+  "linear_b_values": 0.3279558867423986,
+  "real_best": 0.18881145800775523,
+  "control_mean": 0.18471409840367856,
+  "control_sd": 0.003314651270494435,
+  "z": -1.236135952083274,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "etruscan",
+  "linear_b_values": 0.33525867212664917,
+  "real_best": 0.14311049847241605,
+  "control_mean": 0.13090803127109282,
+  "control_sd": 0.0028218866604058355,
+  "z": -4.324223000355481,
+  "controls": 20,
+  "steps": 6000
+ },
+ {
+  "language": "ugaritic",
+  "linear_b_values": 0.2596931989172838,
+  "real_best": 0.09226487658677207,
+  "control_mean": 0.06983492103090823,
+  "control_sd": 0.0041966351981431406,
+  "z": -5.344747517198609,
+  "controls": 20,
+  "steps": 6000
+ }
+]

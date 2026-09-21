@@ -1,5 +1,8 @@
 # Minoan names formed on plant words: the KU-PA family, KU-MI-NA-QE and KI-KI-RA-JA in the Linear A archives
 
+> **SUPERSEDED, 15 September 2026.** The readings of KU-PA, KU-MI-NA-QE and KI-KI-RA-JA as Minoan names built on plant names are **withdrawn as identifications** and restated as candidates in version 2.0 of paper 05. The three-condition criterion they rest on selects five groups of 661 against 1.74 expected by chance, **p = 0.0515**, and two further groups that satisfy the same criterion (KA-NA, KI-TA-I) were not proposed. This draft is kept as a source and must not be circulated.
+
+
 **Alberto Acedo**
 Biome Makers Inc. Draft v1.1, 9 September 2026. The KU-MI-NA-QE case is qualified after an objection from J. M. Jiménez Delgado. Not for circulation.
 

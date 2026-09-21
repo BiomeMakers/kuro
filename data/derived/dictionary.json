@@ -384,8 +384,53 @@
   ],
   "behaviour": "heads a document 1x; quantities 1-156; fractional 1x",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": []
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "on HT 27a and HT 89 it stands in the frame divider-sign-divider in the header zone, and both tablets have the same structure: label, *307, a list of entries, KU-RO with its total, then CYP, NI and VIN. On HT 32 it opens the tablet immediately before SA-RA2"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "that frame is occupied above all by TE, the transaction term, in 11 of its 24 tablet occurrences; *307 is 2 of 5, against a base rate of 0.029 over 678 occurrences of single signs on tablets"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "at Petras it appears twice with oil and the same quantity, on two different supports: OLE-*307 1 1/2 on the tablet PE Wy 5 and OLE *307 1 1/2 on the stone object PE Zg 5"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the frame was chosen after seeing the two tablets that display it. The uncorrected p is 0.0082 and the threshold corrected for the single signs of the corpus is near 0.0017, so the frame claim does not survive correction and is filed as a structural observation"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the Petras use as an oil qualifier and the Haghia Triada use in the header frame may be two signs or one; eight attestations across three sites do not separate them"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "on PK Za 8 it appears inside a long sequence of a libation inscription, JA-DI-KI-TE-TE-*307-PU2-RE, which is neither of the two uses"
+   }
+  ],
+  "gloss": "occupies the header frame between the record label and the list, the same slot TE occupies; and separately qualifies oil at Petras",
+  "refuted_by": "attestations of *307 in the header frame that are not followed by a list closed with KU-RO, or a reading of PE Wy 5 that separates OLE from *307 as two independent entries"
  },
  {
   "form": "MA-SI",
@@ -503,10 +548,17 @@
     "year": 2026,
     "direction": "for",
     "note": "in the pattern [separator] TE [separator] LOGOGRAM in 10 of 24 tablet attestations against a 2.5% base rate for isolated CV signs (p=1.5e-10); on nodules TE stands alone as one of the nine signs of the HT repertoire"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "of its 58 attestations, 24 are on tablets and 28 on sealings; on the tablets a sign group precedes it in 45 of 58 (base 0.10, p=3.5e-33) and a commodity follows in 10 (base 0.04, p=3.5e-5), but on the sealings it stands alone in 27 of 28, and 25 of those are HT Wa 1122 to 1146, a single consecutive run. The only sealing where it appears in a sequence is SAM Wa 1, at Samothrace"
    }
   ],
-  "gloss": "transaction term set between a party and the commodity (\"X 𐄁 TE 𐄁 VIN\"); also the mark on 25 HT nodules",
-  "refuted_by": "TE carrying a quantity of its own between two commodities, which a transaction term would not do"
+  "gloss": "transaction term set between a party and the commodity on the tablets; on the nodules the same sign stands alone as a batch mark, and the two uses are not shown to be one function",
+  "refuted_by": "TE carrying a quantity of its own between two commodities, which a transaction term would not do ; and sealings on which TE appears accompanied, which would show the nodule mark and the transaction term to be one use"
  },
  {
   "form": "NI",
@@ -631,12 +683,24 @@
     "source": "Acedo",
     "year": 2026,
     "direction": "for",
-    "note": "in first position of the tablet in 2 of 3 attestations against an 11.8% base rate for units on tablets (binomial p=0.039; borderline after Bonferroni over the 14 heading candidates of this pass)"
+    "note": "in first position of the tablet in 2 of 2 intact (HT 57a attestation is broken after RA, GORILA I p. 111) attestations against an 11.8% base rate for units on tablets (binomial p=0.039; borderline after Bonferroni over the 14 heading candidates of this pass)"
    }
   ],
   "intact": true,
   "gloss": "heading term of HT tablets (HT 6a.6 as a second heading, HT 120.1)",
-  "refuted_by": "DA-QE-RA as a list entry with a quantity"
+  "refuted_by": "DA-QE-RA as a list entry with a quantity",
+  "verification": [
+   {
+    "date": "2026-09-11",
+    "source": "SigLA (Salgarella and Castellan) vs LinearA Explorer",
+    "note": "HT 57a: SigLA reads DA QE RA A *705; the Explorer reads DA-QE-RA as a unit. Check GORILA I p. 146 for the word division."
+   },
+   {
+    "date": "2026-09-11",
+    "source": "GORILA I p. 111 (cefael)",
+    "note": "HT 57a line .1 DA-QE-RA[ with the break AFTER RA: the word may continue; this attestation is a fragment. The Explorer places the break at the end of the line. The heading reading rests on HT 6a and HT 120 (2 of 2 first position, p=0.014 bare)."
+   }
+  ]
  },
  {
   "form": "QE-PI-TA",
@@ -1120,7 +1184,19 @@
   ],
   "gloss": "total",
   "refuted_by": "a tablet where the figure following KU-RO is not the sum of the entries above it, systematically",
-  "intact": true
+  "intact": true,
+  "verification": [
+   {
+    "date": "2026-09-11",
+    "source": "SigLA (Salgarella and Castellan) vs LinearA Explorer",
+    "note": "HT 130: SigLA gives no KU RO sequence where the Explorer has KU-RO; one attestation of 34 (29 confirmed, 4 in documents SigLA lacks). Check GORILA I p. 260."
+   },
+   {
+    "date": "2026-09-11",
+    "source": "GORILA I p. 225 (cefael)",
+    "note": "HT 130 line .4 ]KU-RO[: both signs complete, breaks on either side. Explorer confirmed; SigLA read RA for KU."
+   }
+  ]
  },
  {
   "form": "WA-JA-PI",
@@ -1182,11 +1258,30 @@
     "year": 2024,
     "direction": "against",
     "note": "rejects the method of identifying words by another language without context"
+   },
+   {
+    "kind": "documentary_parallel",
+    "source": "Uchitel and Finkelberg",
+    "year": 1995,
+    "direction": "for",
+    "note": "Uchitel and Finkelberg 1995 note that ku-ni-su functions as a heading in the group of HT 10; verified against the corpus, it heads HT 10a. A cereal name heading a tablet is an argument against the emmer reading"
    }
   ],
   "gloss": "first name in a list; the Semitic reading as emmer is proposed and contested",
   "refuted_by": "an attestation with a logogram other than grain, or in a position no personal name could occupy",
-  "intact": true
+  "intact": true,
+  "verification": [
+   {
+    "date": "2026-09-11",
+    "source": "SigLA (Salgarella and Castellan) vs LinearA Explorer",
+    "note": "SigLA reads HT 95a as KU-NI-[ ] with a gap where the Explorer reads KU-NI-SU; the other four attestations are confirmed. The emmer reading (disputed) rests on the complete form."
+   },
+   {
+    "date": "2026-09-11",
+    "source": "GORILA I p. 155 (cefael)",
+    "note": "HT 95a line .3-4 KU-NI-SU 10, three complete signs, repeated on 95b; SigLA gap is a SigLA error. Explorer confirmed."
+   }
+  ]
  },
  {
   "form": "*301",
@@ -1982,9 +2077,16 @@
     "year": 2003,
     "direction": "for",
     "note": "on HT 105 it heads a near-identical figure to ka-pa"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "Schoep's observation that SA-RA2 and TE are mutually exclusive is confirmed as a fact (0 documents carry both) but is not significant: with SA-RA2 in 20 documents and TE in 58 of 1,720, the hypergeometric probability of no overlap by chance is p = 0.50. The exclusion is what two rare terms do in a large corpus, and carries no evidence that they represent opposite transactions"
    }
   ],
-  "gloss": "transaction term, Haghia Triada only; possibly the ethnic of the site",
+  "gloss": "the term that opens a commodity section: it stands before the goods and is not itself counted. Its reported mutual exclusion with TE is not significant",
   "refuted_by": "a document with both TE and SA-RA2 would settle the exclusion; the ethnic reading needs the toponym written separately",
   "intact": true
  },
@@ -4885,9 +4987,47 @@
   ],
   "behaviour": "quantities 1-20; followed by OLIV",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": [],
-  "intact": true
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "six attestations: with grain on HT 86a, HT 86b, HT 95a and HT 95b; with OLIV 16 on HT 123+124a; and on HT 94b in the deficit list KI-RO / TU-MA 1 PA-TA-NE 1 DE-DI 1 KE-KI-RU 1 SA-RU 1 KU-RO 5, which balances exactly"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "a variety of cereal does not take a figure of 1 in a deficit list beside four other units that behave as parties, one of which (PA-TA-NE) is independently attested on a sealed nodule; nor does it receive olives"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "member of a stable group of five that recurs across HT 86a, HT 95a and HT 95b under three distinct headings (A-KA-RU, A-DU, DA-DU-MA-TA), with the most regular quantities in the corpus (coefficient of variation 0.34 against 0.75 for the 58 entries with two or more quantities, p = 0.021)"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the grain documents of the group carry no summation term, so the allocation cannot be checked against a declared total"
+   },
+   {
+    "kind": "documentary_parallel",
+    "source": "Uchitel and Finkelberg",
+    "year": 1995,
+    "direction": "for",
+    "note": "Uchitel and Finkelberg 1995 set out this group by inspection (their Table I), citing Packard 1974 pp. 62-63; they read the items as men from villages, without a null. Recorded as prior art for the grouping, not as support for the reading."
+   }
+  ],
+  "intact": true,
+  "gloss": "a party in the account, not a variety of cereal: it recurs with five others across three grain documents and also stands in a deficit list, beside olives and beside cyperus",
+  "refuted_by": "attestations of the unit carrying its own commodity logogram in the position a commodity occupies, or a reading of GORILA that resolves the HT 95 entries as commodity ligatures rather than as bare sign groups"
  },
  {
   "form": "DI-DE-RU",
@@ -4927,9 +5067,47 @@
   ],
   "behaviour": "quantities 10-10; followed by GRA+B,GRA+K+L",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": [],
-  "intact": true
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "four attestations: with grain on HT 86a, HT 95a and HT 95b, and on HT 120 under the heading DA-QE-RA with GRA+K+L 74 followed by GRA+PA"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "on HT 120 it is followed by two distinct grain ligatures, which a grain variety could not be"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "member of a stable group of five that recurs across HT 86a, HT 95a and HT 95b under three distinct headings (A-KA-RU, A-DU, DA-DU-MA-TA), with the most regular quantities in the corpus (coefficient of variation 0.34 against 0.75 for the 58 entries with two or more quantities, p = 0.021)"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the grain documents of the group carry no summation term, so the allocation cannot be checked against a declared total"
+   },
+   {
+    "kind": "documentary_parallel",
+    "source": "Uchitel and Finkelberg",
+    "year": 1995,
+    "direction": "for",
+    "note": "Uchitel and Finkelberg 1995 set out this group by inspection (their Table I), citing Packard 1974 pp. 62-63; they read the items as men from villages, without a null. Recorded as prior art for the grouping, not as support for the reading."
+   }
+  ],
+  "intact": true,
+  "gloss": "a party in the account, not a variety of cereal: it recurs with five others across three grain documents and also stands in a deficit list, beside olives and beside cyperus",
+  "refuted_by": "attestations of the unit carrying its own commodity logogram in the position a commodity occupies, or a reading of GORILA that resolves the HT 95 entries as commodity ligatures rather than as bare sign groups"
  },
  {
   "form": "GRA+B",
@@ -4954,9 +5132,47 @@
   ],
   "behaviour": "heads a document 1x; quantities 10-20; followed by CYP",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": [],
-  "intact": true
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "four attestations: with grain on HT 86a, HT 95a and HT 95b, and with CYP 6 on HT 106"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "a variety of cereal does not head a record of cyperus"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "member of a stable group of five that recurs across HT 86a, HT 95a and HT 95b under three distinct headings (A-KA-RU, A-DU, DA-DU-MA-TA), with the most regular quantities in the corpus (coefficient of variation 0.34 against 0.75 for the 58 entries with two or more quantities, p = 0.021)"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the grain documents of the group carry no summation term, so the allocation cannot be checked against a declared total"
+   },
+   {
+    "kind": "documentary_parallel",
+    "source": "Uchitel and Finkelberg",
+    "year": 1995,
+    "direction": "for",
+    "note": "Uchitel and Finkelberg 1995 set out this group by inspection (their Table I), citing Packard 1974 pp. 62-63; they read the items as men from villages, without a null. Recorded as prior art for the grouping, not as support for the reading."
+   }
+  ],
+  "intact": true,
+  "gloss": "a party in the account, not a variety of cereal: it recurs with five others across three grain documents and also stands in a deficit list, beside olives and beside cyperus",
+  "refuted_by": "attestations of the unit carrying its own commodity logogram in the position a commodity occupies, or a reading of GORILA that resolves the HT 95 entries as commodity ligatures rather than as bare sign groups"
  },
  {
   "form": "DI-DE",
@@ -5459,9 +5675,33 @@
   ],
   "behaviour": "heads a document 1x; quantities 1-1",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": [],
-  "intact": true
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "on HT 94b and HT 122a it stands among other list entries each taking the figure 1 (TU-MA 1, PA-TA-NE 1, DE-DI 1; KU-PA3-NU 1, PA-TA-NE 1, *306-TU 1), which is the profile of a party receiving"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "it also appears on HT Wa 1019, a sealed nodule of the same archive, alongside SI-TU; only seven of the 443 intact syllabic units cross between the accounting and the sealing systems, against 34.4 expected under a null that preserves how often each unit occurs and how many units each document carries (800 repetitions)"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "three attestations in all, so the reading rests on the rarity of the crossing and not on the frequency of the unit"
+   }
+  ],
+  "intact": true,
+  "gloss": "a party in the account whose goods were sealed: it is a list entry on the tablets and a name on a nodule of the same archive",
+  "refuted_by": "attestations of the unit on tablets without a figure, or on nodules attached to something other than a commodity, which would make it a label rather than a party"
  },
  {
   "form": "DE-DI",
@@ -6878,6 +7118,13 @@
     "year": 2002,
     "direction": "for",
     "note": "sums the KU-RO figures of the tablet"
+   },
+   {
+    "kind": "arithmetic",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "checked against the corpus: on HT 122 the KU-RO figures of the two faces are 31 and 65, summing 96 against the 97 declared, a discrepancy of one of the kind this archive shows elsewhere (HT 94a declares 110 where the entries sum 111). On HT 131b, PO-TO-KU-RO 451 1/2 stands with no KU-RO on either face, so the claim holds for one of its two attestations"
    }
   ],
   "gloss": "grand total",
@@ -7578,11 +7825,25 @@
     "source": "Acedo",
     "year": 2026,
     "direction": "for",
-    "note": "fine-commodity profile: 13/16 fractional against a 27% base (p<0.0001), maximum figure 2; proposed by the model from the dossier, judged by the profile test"
+    "note": "in the Khania archive CYP+D carries the same quantity (1/2) in 12 of its 16 quantified attestations (75%) against a 22% base rate for that figure among all quantified logograms of the archive (binomial p=1e-5); no commodity in the Haghia Triada archive shows a dominant quantity at that level"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "it is issued after entries of persons: KH 7a has VIR+*313b 10, CYP+D 1/2; VIR+*313b 4, CYP+D 1/3; VIR+*313b 18, CYP+D 1; and in KH 6 and KH 7b it follows personal entries in sequence, the pattern of a per-head allocation"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "the fine-commodity profile of CYP holds for the ligature: fractions in 13 of 16 attestations, maximum figure 2"
    }
   ],
-  "gloss": "a grade of cyperus recorded in the smallest amounts (fractions in 13 of 16, maximum 2)",
-  "refuted_by": "CYP+D counted in whole units or large figures"
+  "gloss": "a fixed-quantity allocation of cyperus: a standard half-unit issued per person or per entry in the Khania archive",
+  "refuted_by": "CYP+D carrying large or varied whole quantities in new documents, or occurring in contexts without persons, which would make the constant figure a coincidence of the surviving tablets"
  },
  {
   "form": "KA-RE-RO",
@@ -7941,9 +8202,40 @@
   ],
   "behaviour": "",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": [],
-  "intact": true
+  "status": "disputed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "SY Za 2 is the one formula inscription that carries logograms, and there the Explorer transliterates the token as U-NA-KA-NA-SI-OLE, joining the sign group to the oil logogram. Read as adjacency, the position names what is offered"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the hyphen in that token is the Explorer convention that joins adjacent elements and has been shown to be spurious elsewhere (*304+PA-CYP+D reversed as CYP+D-*304+PA on HT Wc 3017); SY Za 2 is absent from SigLA, so the segmentation cannot be checked against a second transliteration"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "across nine attestations the form varies (U-NA-RU-KA-NA-SI, U-NA-RU-KA-NA-TI, U-NA-RU-KA-JA-SI, JA-SA-U-NA-KA-NA-SI), which is not the behaviour of a fixed commodity term"
+   },
+   {
+    "kind": "etymology",
+    "source": "di Mino",
+    "year": 2026,
+    "direction": "against",
+    "note": "reads it as hunna kanasi, \"behold, my assembly\", a body of worshippers rather than the offering; compatible with everything in the corpus except the SY Za 2 adjacency"
+   }
+  ],
+  "intact": true,
+  "gloss": "the term for what is offered, on the strength of a single tokenisation (SY Za 2) that cannot be checked",
+  "refuted_by": "the page of GORILA IV for SY Za 2 showing the oil logogram separated from the sign group, or belonging to the following word-group, which would remove the only evidence for the offering reading"
  },
  {
   "form": "I-PI-NA-MA",
@@ -11587,7 +11879,24 @@
   ],
   "intact": true,
   "gloss": "Sybrita, the place name (Linear B su-ki-ri-ta)",
-  "refuted_by": "SU-KI-RI-TA in a context incompatible with a place"
+  "refuted_by": "SU-KI-RI-TA in a context incompatible with a place",
+  "verification": [
+   {
+    "date": "2026-09-11",
+    "source": "SigLA (Salgarella and Castellan) vs LinearA Explorer",
+    "note": "SigLA reads PH Wa 32 as SU-KI-RA-TA (AB 60 for the third sign) where the Explorer and the literature read SU-KI-RI-TA; the only attestation of the bare form. To be checked against GORILA II (cefael p. 150) before publication; SU-KI-RI-TE-I-JA (HT Zb 158b) is confirmed in SigLA."
+   },
+   {
+    "date": "2026-09-11",
+    "source": "GORILA II p. 90 (cefael)",
+    "note": "photo, drawing and normalised script only; no transcription line on this page. The third sign is an angular L-shape. Decides with GORILA V index, entry su-ki-ri-ta. Still open."
+   },
+   {
+    "date": "2026-09-11",
+    "source": "GORILA V p. 233, index of sign 58",
+    "note": "PH Wa 32 = 58-67-53-59: third sign AB 53 (RI). GORILA reads su-ki-ri-ta; SigLA (via the third-party dump) read RA in error. Closed. HT Zb 158b = 58-67-53-04-28-57 (su-ki-ri-te-i-ja), same sign."
+   }
+  ]
  },
  {
   "form": "*320",
@@ -12942,8 +13251,53 @@
   ],
   "behaviour": "quantities 6-290",
   "in_literature": true,
-  "status": "untouched",
-  "evidence": []
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "twelve of the fourteen entries of TY 2 carry it, in three graphic variants (*309, *309B, *309C) and with nine distinct qualifying sequences"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "none of its ten quantities carries a fraction. The bulk commodities of the corpus carry one in 34% of cases (GRA, OLE, VIN, NI, CYP, OLIV) and persons and livestock in 5%; the probability of seeing no fraction in ten quantities if it were bulk is p = 0.017"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "its quantities are large and whole (500, 290, 250, 160, 100, 50, 30, 17, 10, 6), above the maximum of VIR (235), and it stands on the same tablet as the personnel entry VIR+[?] 82"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "the three graphic variants with their own qualifiers resemble the way livestock signs carry sex marks, but the corpus gives no way to test that"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "all six attestations are in one document, so no internal comparison with an identified class is possible: whether it counts persons, animals or discrete goods is not fixed"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "four of the nine qualifiers end in -JU, against a base rate of 0.020 over 661 intact units, but the ending was chosen after seeing it and with nine cases this is an observation and not a test"
+   }
+  ],
+  "gloss": "counted by pieces and not in bulk: none of its ten quantities takes a fraction, which places it with persons, livestock and discrete goods and not with grain or oil; the sole subject of TY 2",
+  "refuted_by": "any attestation of *309 with a fractional quantity, which would place it with the bulk commodities after all"
  },
  {
   "form": "PA-DA-RU",
@@ -15181,5 +15535,107 @@
   ],
   "gloss": "person (man), the unit counted in personnel lists",
   "refuted_by": "VIR with fractional quantities as a rule, or with a unit of measure"
+ },
+ {
+  "form": "SA-RA2",
+  "kind": "sign-group",
+  "attestations": 20,
+  "documents": 20,
+  "sites": [
+   "Haghia Triada"
+  ],
+  "behaviour": "",
+  "in_literature": true,
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "a commodity logogram follows it immediately in 17 of its 20 intact attestations against a base rate of 0.131 over 1,034 positions (binomial p = 7e-13); of the 21 units with five or more attestations it is the only one to reach that level, and the Bonferroni threshold is 2.4e-3"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "it takes no figure of its own in 19 of 20 attestations, against a base rate of 0.558 for units without a following figure (p = 1.4e-4): it is not an entry in the account"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "in fourteen attestations it follows a closed quantity or a completed entry (HT 18, HT 30, HT 94a, HT 100, HT 101, HT 105, HT 121, HT 125a, HT 130), which places it at the boundary between sections rather than inside one"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "it is confined to Haghia Triada in all twenty attestations, so the reading is a reading of that archive and does not transfer to Khania"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "HT 93a gives SA-RA2 followed by the figure 20 with no logogram, the one attestation that does not fit"
+   }
+  ],
+  "gloss": "the term that opens a commodity section: it stands before the goods and is not itself counted",
+  "refuted_by": "attestations outside Haghia Triada in which the unit carries its own quantity, or in which the following logogram belongs to a preceding entry rather than to a new section"
+ },
+ {
+  "form": "QE-RA2-U",
+  "kind": "sign-group",
+  "attestations": 0,
+  "documents": 0,
+  "sites": [
+   "Haghia Triada"
+  ],
+  "behaviour": "",
+  "in_literature": false,
+  "status": "proposed",
+  "evidence": [
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "three attestations: with grain on HT 95a and HT 95b, and on HT 1 immediately before KI-RO 197, the largest deficit of the archive"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "it stands in the deficit position, which is occupied by parties and not by commodities"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "for",
+    "note": "member of a stable group of five that recurs across HT 86a, HT 95a and HT 95b under three distinct headings (A-KA-RU, A-DU, DA-DU-MA-TA), with the most regular quantities in the corpus (coefficient of variation 0.34 against 0.75 for the 58 entries with two or more quantities, p = 0.021)"
+   },
+   {
+    "kind": "distribution",
+    "source": "Acedo",
+    "year": 2026,
+    "direction": "against",
+    "note": "the grain documents of the group carry no summation term, so the allocation cannot be checked against a declared total"
+   },
+   {
+    "kind": "documentary_parallel",
+    "source": "Uchitel and Finkelberg",
+    "year": 1995,
+    "direction": "for",
+    "note": "Uchitel and Finkelberg 1995 set out this group by inspection (their Table I), citing Packard 1974 pp. 62-63; they read the items as men from villages, without a null. Recorded as prior art for the grouping, not as support for the reading."
+   }
+  ],
+  "gloss": "a party in the account, not a variety of cereal: it recurs with five others across three grain documents and also stands in a deficit list, beside olives and beside cyperus",
+  "refuted_by": "attestations of the unit carrying its own commodity logogram in the position a commodity occupies, or a reading of GORILA that resolves the HT 95 entries as commodity ligatures rather than as bare sign groups"
  }
 ]

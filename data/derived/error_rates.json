@@ -265,22 +265,5 @@
    "min_p_seen": 0.0,
    "median_p": 1.0
   }
- ],
- "profile": [
-  {
-   "corpus": "linear_a_logograms_shuffled_at_base",
-   "trials": 500,
-   "alpha": 0.05,
-   "false_positives": 23,
-   "rate": 0.046,
-   "curve": {
-    "0.05": 0.046,
-    "0.01": 0.006,
-    "0.001": 0.002,
-    "0.0001": 0.002
-   },
-   "min_p_seen": 1.073313159371525e-05,
-   "median_p": 0.37201208738698244
-  }
  ]
 }

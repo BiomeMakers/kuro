@@ -33,7 +33,7 @@ Etruscan (genitive before *clan*, syncope by period, sibilants by city), Eteocyp
 
 Twelve instruments now carry a measured error rate (`data/derived/error_rates.json`), including the
 quantity-profile test for logograms (`kuro/profile.py`) and the name matcher with its nulls
-(`kuro/names.py`). The functional inventory (`data/derived/dictionary.json`) holds 56 units with
+(`kuro/names.py`). The functional inventory (`data/derived/dictionary.json`) holds 65 units fixed one by one, and 151 once the opening-position class is counted, with
 evidence for and against and a refutation condition each; 276 of 783 syllabic units are flagged as
 broken in every attestation. The sound-value search (`kuro/valuesearch.py`, `scripts/value_search.py`)
 optimises the values of the unanchored Linear A signs against each candidate language with a control
@@ -440,3 +440,15 @@ MIT.
 ## Parked ideas
 
 `docs/IDEAS.md` records things worth doing later, with the condition that would make each worth the work.
+
+
+## State at 12 September 2026
+
+- **Functional inventory:** 65 units fixed one by one (25 established, 35 proposed, 5 disputed), 151 with the class-level function of the opening position. Every entry carries evidence for, evidence against, and a refutation condition.
+- **Closed avenues:** 15, each with its measurement (`manifest.json`, `closed_avenues`).
+- **Withdrawn claims:** 12, each with the reason and the date (`manifest.json`, `withdrawn`). The withdrawals are part of the record, not a footnote: three of them survived less than a day.
+- **The information count:** specifying a decipherment costs 587 bits; the corpus supplies at most 236 through lexical fit. Of the 94 free signs, 89 now carry a constraint (direct, inherited from a fixed position, or by belonging to the sealing system); **five remain**, with one to six attestations each, beyond any method that works on recurrence.
+- **Papers:** eight, all in English, in `docs/papers/submission/`.
+- **Tests:** 124.
+
+What this repository does not do, and says so: it does not read a word of Minoan. Every result fixes what a unit *does*; none fixes what it *means*, and no quantity of the first produces the second.

@@ -1,7 +1,7 @@
 {
  "_comment": "Single source of truth for every figure the papers assert. tests/test_manifest.py fails when a paper states a figure that disagrees with this file. Adapted from the release-manifest practice of OpenEtruscan (github.com/Eddy1919/openEtruscan).",
  "version": "1.1.0",
- "updated": "2026-09-10",
+ "updated": "2026-09-12",
  "corpora": {
   "linear_a": {
    "documents": 1719,
@@ -84,7 +84,692 @@
   "formula_inscriptions_aligned": 18,
   "formula_ceiling_pct": 14,
   "formula_fillers_hapax_pct": 72,
-  "formula_convergence_pct": 23
+  "formula_convergence_pct": 23,
+  "khania_tablets_with_total": 0,
+  "khania_tablets": 105,
+  "ht_tablets_with_total": 41,
+  "ht_tablets": 205,
+  "cypd_khania_fixed_quantity": 12,
+  "cypd_khania_quantified": 16,
+  "ratio_304_ole_cv": 0.59,
+  "ratio_304_ole_null_cv": 2.05,
+  "egyptian_formulae_aligned": 1357,
+  "minoan_offering_position": 0.75,
+  "egyptian_deity_position": 0.62,
+  "sigla_attestations_checked": 124,
+  "sigla_confirmed": 121,
+  "explorer_errors_found": 1,
+  "sigla_errors_found": 3,
+  "kuro_arithmetic_failures": 19,
+  "kuro_failures_montecchi": 6,
+  "kuro_failures_structural": 13,
+  "between_room_order_consistency": 0.9,
+  "between_room_cases": 124,
+  "olives_figs_cooccurrences": 3,
+  "tablet_formats_found": 5,
+  "format_transaction_observed": 7,
+  "format_transaction_null": 0.48,
+  "format_WfWfWf_docs": 3,
+  "format_CfCfCf_docs": 6,
+  "tablets_modelled": 308,
+  "gw_linear_a_vs_b_correct": 2,
+  "gw_shared_signs": 50,
+  "gw_power_455": 0.1,
+  "gw_power_1000": 0.15,
+  "gw_power_2486": 0.25,
+  "wanderworter_tested": 21,
+  "wanderworter_matched": 9,
+  "wanderworter_null": 2.3,
+  "military_logograms_B_share": 0.143,
+  "military_logograms_A_share": 0.0007,
+  "direct_trade_terms_tested": 53,
+  "direct_trade_terms_matched": 13,
+  "direct_trade_terms_null": 20.6,
+  "substrate_words_tested": 34,
+  "substrate_words_matched": 0,
+  "substrate_null": 0.2,
+  "b_names_tested": 1730,
+  "b_names_matched": 12,
+  "b_names_null": 11.94,
+  "units_in_2plus_archives": 48,
+  "units_total_intact": 661,
+  "toponym_archive_span": 9,
+  "toponym_archive_span_null": 8.4,
+  "cross_archive_unknown": 44,
+  "keftiu_names_vs_candidates_matched": 1,
+  "keftiu_names_tested": 14,
+  "keftiu_null": 3.95,
+  "shared_units_mean_distance_km": 115.8,
+  "shared_units_null_weighted_km": 89.4,
+  "ht_phaistos_km": 2,
+  "ht_phaistos_shared": 5,
+  "ht_zakros_km": 134,
+  "ht_zakros_shared": 10,
+  "sign_301_occurrences": 288,
+  "sign_301_distinct_units": 28,
+  "dimino_na_distance_ugaritic": 0.2173,
+  "dimino_na_control": 0.2248,
+  "no_value_distance_ugaritic": 0.2189,
+  "no_value_control": 0.2265,
+  "arbitrary_ra_distance": 0.2192,
+  "arbitrary_ka_distance": 0.219,
+  "nwy_skeleton_units": 0,
+  "bench_constraints": 53,
+  "bench_semitic_testable": 2,
+  "bench_semitic_agree": 1,
+  "bench_semitic_clash": 1,
+  "unakanasi_attestations": 9,
+  "unakanasi_form_variants": 5,
+  "dimino_catalogue_entries": 67,
+  "dimino_in_our_corpus": 51,
+  "dimino_overlap_with_our_functions": 7,
+  "dimino_agreements": 4,
+  "dimino_clashes": 1,
+  "dimino_entries_verified_in_corpus": 57,
+  "dimino_entries_elsewhere_in_corpus": 2,
+  "dimino_entries_absent": 4,
+  "dimino_own_correction_confirmed": 1,
+  "root_signature_ugaritic": 1.03,
+  "root_signature_akkadian": 1.36,
+  "root_signature_hittite": 1.46,
+  "root_signature_linear_a": 1.05,
+  "packard_linear_a_semitic_match": 0.891,
+  "packard_mycenaean_semitic_match": 0.797,
+  "packard_fictitious_grid_match": 0.971,
+  "packard_z": -4.71,
+  "packard_units_tested": 615,
+  "prefix_conj_linear_a": 0.85,
+  "prefix_conj_ugaritic": 1.2,
+  "prefix_conj_akkadian": 1.28,
+  "prefix_conj_mycenaean": 0.99,
+  "prefix_conj_hittite": 0.89,
+  "mimation_linear_a": 0.071,
+  "mimation_mycenaean": 0.031,
+  "mimation_ugaritic": 0.158,
+  "mimation_akkadian": 0.065,
+  "mimation_hittite": 0.001,
+  "mimation_linear_a_without_formula": 0.068,
+  "free_signs": 94,
+  "anchored_signs": 16,
+  "bits_to_specify": 587,
+  "bits_corpus_provides": 236,
+  "bits_deficit": 351,
+  "mean_match_rate_across_languages": 0.738,
+  "signs_needed_to_close_deficit": 57,
+  "bits_destroyed_by_conversion_rules": 4194,
+  "bits_length_unmarked": 1758,
+  "bits_stops_merged": 1081,
+  "bits_laryngeals": 745,
+  "bits_sibilants": 386,
+  "bits_r_series": 224,
+  "consonant_positions": 1758,
+  "match_rate_permissive": 0.864,
+  "match_rate_strict": 0.629,
+  "bits_corpus_permissive": 112,
+  "bits_corpus_strict": 355,
+  "bits_deficit_best_case": 13,
+  "glossed_lexicon_entries": 44855,
+  "double_constraint_units_tested": 15,
+  "double_constraint_candidates_with_vowels": 0,
+  "double_constraint_candidates_skeleton_only": 4,
+  "akkadian_glossed_entries": 28000,
+  "ugaritic_glossed_entries": 100,
+  "double_constraint_candidates": 1,
+  "double_constraint_permissive": 1,
+  "double_constraint_strict": 0,
+  "double_constraint_exact_length": 0,
+  "ugaritic_dulat_lemmas": 2297,
+  "ugaritic_dulat_entries": 3281,
+  "akkadian_glossed": 28187,
+  "sumerian_glossed": 5599,
+  "double_constraint_ugaritic_hits": 0,
+  "double_constraint_exact_all_languages": 0,
+  "attempt_uga_linearb_grid": 1,
+  "attempt_uga_best_search": 76,
+  "attempt_uga_controls": 0.4,
+  "attempt_akk_linearb_grid_permissive": 66,
+  "attempt_akk_linearb_grid_strict": 38,
+  "attempt_akk_best_search": 266,
+  "attempt_akk_controls_permissive": 33.1,
+  "attempt_functional_all_cases": 0,
+  "attempt_units": 455,
+  "attempt_free_signs": 38,
+  "attempt_values": 85,
+  "attempt_lexicon": 16147,
+  "attempt_real_permissive": 75,
+  "attempt_fictitious_permissive": 41.5,
+  "attempt_shuffled_permissive": 58.3,
+  "attempt_z_permissive": 2.69,
+  "attempt_real_strict": 40,
+  "attempt_fictitious_strict": 24.4,
+  "attempt_shuffled_strict": 29.1,
+  "attempt_z_strict": 2.92,
+  "attempt_functional_score": 0,
+  "search_best_permissive": 183,
+  "search_best_strict": 131,
+  "search_signs_changed_permissive": 37,
+  "search_signs_changed_strict": 38,
+  "search_functional_always": 0,
+  "tg_pairs_observed": 6,
+  "tg_pairs_series_r": 6,
+  "tg_pairs_series_s": 6,
+  "tg_null_mean": 2.23,
+  "mimation_cypriot_syllabary": 0.062,
+  "cypriot_words": 693,
+  "list_entry_groups": 4,
+  "list_entry_pairs_observed": 35,
+  "list_entry_pairs_null": 8.2,
+  "list_entry_pairs_null_max": 18,
+  "list_entry_units_in_groups": 21,
+  "documents_with_3plus_entries": 56,
+  "group_c_members": 6,
+  "group_c_headings": 3,
+  "group_c_cv": 0.344,
+  "group_c_cv_baseline": 0.747,
+  "group_c_multi_commodity": 2,
+  "group_c_multi_commodity_base": 0.116,
+  "opening_units": 184,
+  "opening_with_figure": 53,
+  "other_units": 464,
+  "other_with_figure": 334,
+  "opening_distinct": 141,
+  "opening_never_figure": 95,
+  "opening_newly_classified": 88,
+  "inventory_after_class": 146,
+  "units_tablets_only": 389,
+  "units_seals_only": 47,
+  "units_crossing_both": 7,
+  "crossing_null": 35.3,
+  "te_attestations": 58,
+  "te_on_tablets": 24,
+  "te_on_seals": 28,
+  "te_alone_on_seals": 27,
+  "te_consecutive_run": 25,
+  "single_sign_nodules_ht": 854,
+  "nodule_mark_signs": 28,
+  "nodule_top5_coverage": 0.83,
+  "sign_301_nodules": 225,
+  "consecutive_same_sign_pairs": 825,
+  "consecutive_expected_if_mixed": 135,
+  "ht_seals_identified": 42,
+  "seals_with_multiple_marks": 18,
+  "seals_multiple_null": 24.3,
+  "circuit_I_marks": 8,
+  "circuit_II_marks": 2,
+  "sign_301_sealed_nodules": 271,
+  "circuit_I_impressions": 455,
+  "circuit_II_impressions": 312,
+  "circuit_I_human_pct": 0.7,
+  "circuit_II_animal_pct": 0.7,
+  "iconography_statistic": 684,
+  "iconography_null": 3.5,
+  "units_3plus_with_commodity": 11,
+  "units_exclusive_one_commodity": 2,
+  "units_only_fractions": 0,
+  "units_only_integers": 19,
+  "fraction_base_rate": 0.08,
+  "tablets_4plus_figures": 119,
+  "tablets_modular": 8,
+  "tablets_modular_null": 1.9,
+  "tablets_repeated_figure": 51,
+  "tablets_repeated_null": 36.0,
+  "gra_multiples_of_ten": 0.34,
+  "ole_multiples_of_ten": 0.08,
+  "cyp_multiples_of_ten": 0.04,
+  "oliv_multiples_of_ten": 0.04,
+  "multiples_of_ten_baseline": 0.17,
+  "integer_figures_by_commodity": 645,
+  "group_c_documents_with_total": 0,
+  "ht94b_balances": true,
+  "ht94a_discrepancy": 1,
+  "group_c_members_shown_parties": 4,
+  "readings_fixed_individually": 64,
+  "readings_with_class": 151,
+  "free_signs_touched_start": 18,
+  "free_signs_touched_end": 39,
+  "free_signs_unconstrained": 55,
+  "unconstrained_bits_floor": 342,
+  "unconstrained_signs_hapax": 32,
+  "unconstrained_signs_5plus": 10,
+  "universe_reduction_bits": 429,
+  "syllabic_units_read_start": 22,
+  "syllabic_units_read_end": 101,
+  "units_inheriting_context": 39,
+  "signs_reached_by_context": 30,
+  "free_signs_constrained_total": 69,
+  "free_signs_remaining": 25,
+  "remaining_bits_floor": 155,
+  "remaining_25_on_sealing_supports": 9,
+  "remaining_25_single_votive": 7,
+  "sign_309_single_document": true,
+  "sign_307_fixed": true,
+  "remaining_signs_sealing_only": 8,
+  "remaining_signs_in_accounts": 5,
+  "remaining_bits_accounts": 43,
+  "sign_309_forms": 8,
+  "sign_309_qualifiers": 9,
+  "sign_309_variants": 3,
+  "sign_309_median": 75,
+  "sign_309_max": 500,
+  "sign_309_combos_elsewhere": 0,
+  "remaining_signs_after_309": 6,
+  "ty2_entries_with_309": 12,
+  "ty2_total_entries": 14,
+  "ju_ending_units": 13,
+  "ju_base_rate": 0.02,
+  "sign_309_fractions": 0,
+  "sign_309_quantities": 10,
+  "bulk_fraction_rate": 0.34,
+  "persons_livestock_fraction_rate": 0.05,
+  "sign_307_header_frame": 2,
+  "sign_307_tablet_occurrences": 5,
+  "header_frame_base_rate": 0.029,
+  "te_in_header_frame": 11,
+  "remaining_signs_final": 5,
+  "remaining_bits_final": 31,
+  "medial_rate_logograms": 0.348,
+  "medial_rate_syllabograms": 0.33,
+  "free_signs_unconstrained_start": 76,
+  "functional_search_targets": 20,
+  "functional_search_free_signs": 17,
+  "functional_search_linear_b_grid": 0,
+  "functional_search_best": 1,
+  "functional_search_seeds": 8,
+  "acronym_units_tested": 11,
+  "acronym_units_covered": 2,
+  "acronym_null_mean": 1.64,
+  "acronym_null_max": 6,
+  "acronym_syllables_total_class": 17,
+  "acronym_syllables_heading_class": 15,
+  "uf_IIa_items": 15,
+  "uf_IIa_shared_with_A": 4,
+  "uf_IIb_items": 10,
+  "uf_IIb_shared_with_B": 3,
+  "uf_IIb_shared_with_A": 4,
+  "sara2_documents": 20,
+  "te_documents": 58,
+  "sara2_te_overlap": 0,
+  "potokuro_ht122_sum": 96,
+  "potokuro_ht122_declared": 97,
+  "finkelberg_paradigm_attestations": 17,
+  "finkelberg_paradigm_first_position": 12,
+  "first_position_base_rate": 0.405,
+  "a_di_attestations": 0,
+  "ata_i_301_wa_ja_stone_vessels": 11,
+  "readings_on_archive": 51,
+  "readings_on_votive": 7,
+  "readings_on_sealings": 4,
+  "readings_other": 2,
+  "vowel_o_linear_a": 0.047,
+  "vowel_o_linear_b": 0.267,
+  "vowel_u_linear_a": 0.174,
+  "vowel_u_linear_b": 0.077,
+  "syllabogram_positions_la": 2677,
+  "syllabogram_positions_lb": 17646,
+  "u_final_units_la": 90,
+  "u_o_doublets": 16,
+  "u_o_doublets_null": 8.0,
+  "o_series_signs_absent": 8,
+  "o_series_total_occurrences": 126,
+  "o_series_without_ro_ko": 29,
+  "o_series_pct_without_ro_ko": 0.009,
+  "ko_occurrences": 11,
+  "ro_occurrences": 187,
+  "finkelberg_sign_claims_correct": 12,
+  "finkelberg_sign_claims_total": 13,
+  "vowel_o_etruscan": 0.023,
+  "vowel_o_iberian": 0.082,
+  "vowel_o_mycenaean": 0.263,
+  "candidates_testable_for_o": 3,
+  "candidates_cuneiform_untestable": 7,
+  "lycian_texts": 187,
+  "lydian_texts": 116,
+  "vowel_o_lycian": 0.001,
+  "vowel_o_lydian": 0.075,
+  "vowel_e_lycian": 0.391,
+  "distance_lycian_minoan": 0.307,
+  "distance_lydian_minoan": 0.102,
+  "lycian_vowels": 11899,
+  "lydian_vowels": 2955,
+  "vowel_o_carian": 0.194,
+  "vowel_o_pisidian": 0.243,
+  "vowel_o_sidetic": 0.174,
+  "vowel_o_milyan": 0.0,
+  "vowel_o_palaic": 0.0,
+  "distance_carian": 0.205,
+  "distance_pisidian": 0.257,
+  "distance_sidetic": 0.189,
+  "distance_milyan": 0.266,
+  "anatolian_corpora_measured": 7,
+  "carian_texts": 264,
+  "pisidian_texts": 54,
+  "sidetic_texts": 11,
+  "reduplication_linear_a": 0.044,
+  "reduplication_mycenaean": 0.023,
+  "reduplication_lycian": 0.063,
+  "reduplication_lydian": 0.012,
+  "reduplication_carian": 0.012,
+  "reduplication_minoan_alpha": 0.048,
+  "endings_linear_a_ratio": 1.04,
+  "endings_mycenaean_ratio": 0.94,
+  "ligatures_distinct": 39,
+  "ligature_syllabograms": 26,
+  "ligature_specific": 16,
+  "ligature_shared": 10,
+  "ligature_null_shared": 19.4,
+  "ligature_null_min": 15,
+  "distance_minoan_lydian": 0.102,
+  "distance_minoan_etruscan": 0.11,
+  "distance_etruscan_lydian": 0.154,
+  "decipherability_linear_b_deficit": -9481,
+  "decipherability_iberian_deficit": -5021,
+  "decipherability_etruscan_deficit": -6107,
+  "decipherability_linear_a_deficit": 345,
+  "decipherability_cypro_minoan_deficit": 445,
+  "decipherability_proto_elamite_deficit": 19670,
+  "linear_a_anchors_needed": 56,
+  "cypro_minoan_anchors_needed": 68,
+  "proto_elamite_anchors_needed": 1806,
+  "linear_a_units_needed": 788,
+  "cypro_minoan_units_needed": 1382,
+  "valuesearch_controls": 20,
+  "valuesearch_steps": 6000,
+  "valuesearch_z_akkadian": 6.88,
+  "valuesearch_z_luwian": 2.16,
+  "valuesearch_z_palaic": 1.53,
+  "valuesearch_z_mycenaean": 0.97,
+  "valuesearch_z_iberian": 0.8,
+  "valuesearch_z_hittite": -0.33,
+  "valuesearch_z_sumerian": -0.52,
+  "valuesearch_z_hurrian": -1.18,
+  "valuesearch_z_hattian": -1.24,
+  "valuesearch_z_etruscan": -4.32,
+  "valuesearch_z_ugaritic": -5.34,
+  "valuesearch_final_z_etruscan": 1.75,
+  "valuesearch_final_z_luwian": 1.3,
+  "valuesearch_final_z_ugaritic": 1.28,
+  "valuesearch_final_z_iberian": 0.99,
+  "valuesearch_final_z_hittite": 0.22,
+  "valuesearch_final_z_palaic": -0.19,
+  "valuesearch_final_z_mycenaean": -0.9,
+  "valuesearch_final_z_akkadian": -1.15,
+  "valuesearch_final_z_sumerian": -2.59,
+  "valuesearch_final_z_hattian": -3.32,
+  "valuesearch_final_z_hurrian": -4.04,
+  "valuesearch_final_controls": 20,
+  "valuesearch_final_steps": 6000,
+  "valuesearch_final_max_z": 1.75,
+  "valuesearch_forms_etruscan": 1750,
+  "valuesearch_forms_luwian": 1363,
+  "valuesearch_forms_ugaritic": 3649,
+  "valuesearch_forms_iberian": 1320,
+  "valuesearch_forms_hittite": 975,
+  "valuesearch_forms_palaic": 319,
+  "valuesearch_forms_mycenaean": 1937,
+  "valuesearch_forms_akkadian": 3548,
+  "valuesearch_forms_sumerian": 2330,
+  "valuesearch_forms_hattian": 2626,
+  "valuesearch_forms_hurrian": 5517,
+  "cm_signs_total": 1378,
+  "cm_sign_types": 155,
+  "cm_documents": 182,
+  "cm_units": 300,
+  "cm_unit_mean_length": 3.51,
+  "cm_cost_bits": 1073,
+  "cm_deficit_lower_bound": 941,
+  "cm_anchors_needed": 130,
+  "cretan_hieroglyphic_signs": 96,
+  "cretan_hieroglyphic_corpus": 1555,
+  "cretan_hieroglyphic_groups": 581,
+  "phaistos_signs": 45,
+  "phaistos_corpus": 241,
+  "indus_signs_mahadevan": 417,
+  "proto_elamite_signs": 1200,
+  "ligature_value_constrained_signs": 19,
+  "ligature_values_min": 15,
+  "ligature_values_max": 33,
+  "ligature_bits_recovered": 36,
+  "ligature_remaining_assignments": 4.79e+24,
+  "mixed_b_units": 13961,
+  "mixed_b_ligatures": 158,
+  "mixed_b_logogram_types": 25,
+  "ligature_acrophony_b_hits": 2,
+  "ligature_acrophony_b_tested": 10,
+  "ligature_adjacent_b_hits": 4,
+  "ligature_adjacent_b_tested": 11,
+  "kober_bridges_A": 4,
+  "kober_bridges_A_null": 6.6,
+  "kober_bridges_B_full": 1201,
+  "kober_bridges_B_full_null": 603.1,
+  "kober_bridges_B_501": 1,
+  "kober_bridges_B_501_null": 1.8,
+  "kober_power_at_501": 0.0,
+  "kober_rule_strong_ok": 1,
+  "kober_rule_strong_null": 0.2,
+  "kober_rule_all_ok": 5,
+  "kober_rule_all_null": 2.29,
+  "vowel_alternation_pairs": 55,
+  "vowel_alternation_null": 54.1,
+  "ligature_initial_functional": 21,
+  "ligature_initial_base": 0.58,
+  "structural_relations": 688,
+  "relations_touching_function": 106,
+  "relations_both_functions": 3,
+  "fisher_morphology_p": 0.087,
+  "stouffer_morphology_p": 0.056,
+  "cluster_rate_A": 0.052,
+  "cluster_rate_B": 0.029,
+  "cypriot_inscriptions": 178,
+  "eteocypriot_inscriptions": 21,
+  "nongreek_B_words_tested": 19,
+  "nongreek_B_in_A": 2,
+  "nongreek_B_in_A_null": 0.68,
+  "shared_sign_distance_MA": 0.069,
+  "shared_sign_distance_SA": 0.079,
+  "shared_sign_distance_ZE": 0.856,
+  "shared_ideograms_A_B": 41,
+  "identical_ligatures_A_B": 3,
+  "shared_syllabogram_logograms": 33,
+  "NI_occurrences_A": 76,
+  "linear_b_ligatures": 31,
+  "linear_a_ligatures_palaima": 137,
+  "ligatures_mycenaean": 12,
+  "ligatures_unidentified_absent_from_A": 20,
+  "ligatures_candidates": 3,
+  "CAP_occurrences_A": 5,
+  "brown_glosses_extracted": 180,
+  "brown_glosses_greek": 98,
+  "brown_glosses_nongreek": 37,
+  "SUS_occurrences_A": 0,
+  "eteocretan_words": 71,
+  "eteocretan_loose_match": 17,
+  "eteocretan_loose_null": 5.11,
+  "greek_control_loose_match": 8,
+  "greek_control_loose_n": 23,
+  "eteocretan_strict_match": 0,
+  "greek_control_strict_match": 0,
+  "chic_pages_downloaded": 454,
+  "chic_documents_total": 331,
+  "chic_documents_recovered": 176,
+  "chic_index_pages": "366-393",
+  "chic_sequences_recovered": 108,
+  "chic_ordered_documents": 5,
+  "chic_references_with_order": 39,
+  "chic_references_total": 547,
+  "valueless_initial_rate": 0.468,
+  "valued_initial_rate": 0.323,
+  "valued_matched_freq_initial": 0.244,
+  "valueless_null_matched": 0.293,
+  "valueless_roundel_rate": 0.19,
+  "valued_roundel_rate": 0.05,
+  "sign_411_initial": 15,
+  "sign_411_roundel": 15,
+  "sign_118_final": 15,
+  "valueless_signs_fixed": 6,
+  "vowel_harmony_A": 0.271,
+  "vowel_harmony_A_null": 0.278,
+  "vowel_harmony_B": 0.293,
+  "vowel_harmony_B_null": 0.24,
+  "vowel_harmony_power": 1.0,
+  "mi_consonant_A_excess": 0.081,
+  "mi_consonant_B_excess": 0.226,
+  "confined_units": 15,
+  "toponyms_in_corpus": 3,
+  "toponyms_tested": 17,
+  "toponyms_null": 0.24,
+  "cretan_glosses_with_ideogram": 4,
+  "cretan_glosses_tested": 22,
+  "glosses_new_cases": 0,
+  "shared_simple_ideograms": 41,
+  "unclassified_syllabogram_logograms": 30,
+  "lexical_predictions": 32,
+  "oil_ligature_types": 11,
+  "ligature_contains_syllable_B": 13,
+  "ligature_starts_syllable_B": 12,
+  "syntax_documents": 289,
+  "syntax_transitions_A": 2884,
+  "syntax_transitions_B": 21778,
+  "unit_unit_A": 0.63,
+  "unit_unit_B": 1.07,
+  "unit_num_A": 1.41,
+  "unit_num_B": 0.7,
+  "pos_label": 0.3,
+  "pos_total": 0.737,
+  "pos_deficit": 0.498,
+  "te_flanked": 13,
+  "te_occurrences": 58,
+  "te_flank_rate": 0.224,
+  "divider_base_rate": 0.032,
+  "single_signs_total": 1114,
+  "single_signs_flanked_rate": 0.023,
+  "ka_flanked": 0,
+  "ka_occurrences": 169,
+  "votive_inscriptions_3plus": 35,
+  "atai_position": 0.0,
+  "sirute_position": 0.96,
+  "jasasarame_position": 0.68,
+  "ipinama_position": 0.64,
+  "votive_word_length": 3.44,
+  "archive_word_length": 2.8,
+  "stone_vessel_docs": 96,
+  "corpus_lmib_fraction": 0.76,
+  "scribal_hands": 102,
+  "scribe_jaccard_mean": 0.026,
+  "scribes_with_10plus": 14,
+  "walls_identified": 7,
+  "phyto_cond2_groups": 269,
+  "phyto_cond3_groups": 504,
+  "phyto_both": 165,
+  "phyto_all_three": 5,
+  "phyto_null_mean": 1.74,
+  "phyto_null_max": 9,
+  "nestor_entries_indexed": 34515,
+  "nestor_linear_a_entries": 88,
+  "phoible_inventories": 3020,
+  "phoible_with_aeiu": 1566,
+  "phoible_no_o": 112,
+  "phoible_no_o_share": 0.078,
+  "phoible_no_o_mediterranean": 0,
+  "bdproto_languages": 212,
+  "bdproto_with_3plus_vowels": 185,
+  "bdproto_no_o": 38,
+  "bdproto_no_o_share": 0.21,
+  "o_series_B_signs": 17,
+  "o_series_with_A": 6,
+  "o_series_share": 0.35,
+  "all_series_share": 0.63,
+  "i_series_share": 1.0,
+  "u_series_share": 0.9,
+  "e_series_share": 0.69,
+  "a_series_share": 0.67,
+  "o_series_freq_median": 217,
+  "a_series_freq_median": 200,
+  "u_series_freq_median": 92,
+  "o_series_freq_matched_null": 12.18,
+  "o_gap_basic_signs": 6,
+  "o_gap_basic_null": 1.04,
+  "cu_for_co_pairs": 5,
+  "cu_for_co_null": 7.0,
+  "valueless_as_co": 24,
+  "valueless_as_co_null": 28.9,
+  "zo_occurrences": 2,
+  "zo_standalone": 2,
+  "po_occurrences": 8,
+  "o_occurrences": 29,
+  "ro_final_units": 73,
+  "kuro_kiro_share_of_ro_final": 0.73,
+  "o_final_without_kuro": 0.415,
+  "o_final_null": 0.455,
+  "logograms_classified": 8,
+  "ambiguous_signs": 11,
+  "syllabograms_classified": 38,
+  "logogram_validation_hits": 11,
+  "logogram_validation_misses": 0,
+  "te_party_commodity": 9,
+  "te_party_commodity_base": 0.015,
+  "syntactic_slots": 6,
+  "slot_party_commodity_fillers": 4,
+  "generator_mycenaean_bare": -28.58,
+  "generator_hittite_fair": -39.46,
+  "generator_mycenaean_fair": -43.02,
+  "hittite_vs_false_z": 1.16,
+  "false_vocab_runs": 30,
+  "grid_same_consonant": 0.715,
+  "grid_same_consonant_null": 0.6335,
+  "grid_same_vowel": 0.6523,
+  "grid_same_vowel_null": 0.6343,
+  "grid_clusters": 13,
+  "sirute_occurrences": 4,
+  "sirute_final": 3,
+  "sirute_stone_only": 4,
+  "sirute_with_figure": 0,
+  "sirute_variants": 2,
+  "unakanasi_position": 0.58,
+  "bench_mycenaean_units": 44,
+  "bench_mycenaean_tested": 21,
+  "bench_mycenaean_hits": 4,
+  "bench_mycenaean_hits_all_names": 4,
+  "kuro_pairs": 57,
+  "kuro_function_hits": 0,
+  "kiro_pairs": 51,
+  "kiro_function_hits": 0,
+  "regular_correspondences": 590,
+  "regular_correspondences_null": 349.7,
+  "synthetic_units": 501,
+  "trigram_reuse_real": 0.05,
+  "trigram_reuse_null": 0.016,
+  "reuse_initial_share": 0.56,
+  "reuse_final_share": 0.44,
+  "reuse_medial_share": 0.0,
+  "synthetic_reduplication": 0.086,
+  "real_reduplication": 0.08,
+  "synthetic_entropy": 5.44,
+  "real_entropy": 5.47,
+  "affix_families": 29,
+  "affix_families_null": 20.9,
+  "affix_units_covered": 57,
+  "vocabulary_after_merge": 473,
+  "vocabulary_reduction": 0.06,
+  "iconic_logograms_ligature_rate": 0.34,
+  "generic_logograms_ligature_rate": 0.508,
+  "ni_ligatures": 0,
+  "ni_occurrences": 76,
+  "oliv_ligatures": 0,
+  "cap_ligatures": 0,
+  "vir_ligature_rate": 1.0,
+  "fraction_token_share": 0.147,
+  "fraction_documents": 400,
+  "new_inscription_signs": 119,
+  "te_final_units": 44,
+  "te_with_attested_base": 6,
+  "te_productivity": 0.136,
+  "te_productivity_rank": 17,
+  "siru_occurrences": 2,
+  "ipinamina_occurrences": 2,
+  "me_productivity": 0.43,
+  "omegan_linearb_signs": 45,
+  "omegan_linearb_density": 0.91,
+  "omegan_linearb_flagged": 0
  },
  "p_values": {
   "montecchi_2010_logograms": 0.0005,
@@ -105,7 +790,88 @@
   "etruscan_genitive_before_puia": 0.63,
   "aromatics_capture_correlation": 0.409,
   "star305_capture_correlation": 0.326,
-  "formula_prediction": 0.007
+  "formula_prediction": 0.007,
+  "khania_no_totals": 7e-11,
+  "cypd_fixed_quantity": 1e-05,
+  "ratio_304_ole": 0.002,
+  "egyptian_phonotactics": 1.0,
+  "entries_ju_ending": 0.0004,
+  "wanderworter": 0.001,
+  "no_military_in_linear_a": 2.5e-97,
+  "direct_trade_terms": 1.0,
+  "pregreek_substrate_in_linear_a": 1.0,
+  "all_b_names_in_linear_a": 0.533,
+  "toponyms_span_archives": 0.405,
+  "keftiu_vs_cross_archive_candidates": 0.99,
+  "shared_units_closer_than_null": 0.98,
+  "packard_real_vs_fictitious_grids": 1.0,
+  "mimation_vs_mycenaean": 1.48e-07,
+  "mimation_without_formula": 7.76e-07,
+  "tg_stem_uncorrected": 0.033,
+  "tg_stem_corrected": 0.4,
+  "list_entries_recur_together": 0.0017,
+  "group_c_quantity_stability": 0.0214,
+  "group_c_parties_vs_varieties": 0.147,
+  "opening_position_not_an_entry": 8.1e-34,
+  "marks_and_seals_paired": 0.0025,
+  "circuits_differ_in_iconography": 0.002,
+  "modular_allocation": 0.002,
+  "repeated_figure": 0.002,
+  "grain_counted_in_tens": 0.002,
+  "sign_309_not_bulk": 0.0167,
+  "sign_307_header_frame_uncorrected": 0.0082,
+  "acronym_hypothesis": 0.52,
+  "sara2_te_exclusion": 0.5,
+  "finkelberg_paradigm_is_heading_not_verb": 0.012,
+  "o_series_underrepresented": 1e-300,
+  "u_o_doublets": 0.002,
+  "reduplication_vs_mycenaean": 0.0038,
+  "ligatures_are_commodity_specific": 0.0005,
+  "ligature_acrophony_linear_b": 0.22,
+  "ligature_adjacent_linear_b": 0.41,
+  "kober_bridges_linear_a": 0.86,
+  "kober_rule_strong_bridges": 0.18,
+  "kober_rule_all_bridges": 0.07,
+  "vowel_alternation": 0.44,
+  "ligature_signs_as_morphemes": 0.13,
+  "consonant_cluster_signature": 0.76,
+  "nongreek_B_vocabulary_in_A": 0.127,
+  "eteocretan_vs_linear_a_loose": 0.0,
+  "eteocretan_vs_linear_a_strict": 1.0,
+  "valueless_signs_open_more": 0.002,
+  "sign_411_opens": 7.6e-08,
+  "sign_411_roundel": 3.7e-19,
+  "sign_118_closes": 4.8e-06,
+  "sign_409_roundel": 5.8e-05,
+  "sign_306_opens": 0.009,
+  "sign_86_opens": 0.009,
+  "sign_188_opens": 0.046,
+  "vowel_harmony_linear_a": 0.74,
+  "vowel_harmony_linear_b": 0.0001,
+  "mi_consonant_linear_a": 0.005,
+  "toponyms_strict": 0.0005,
+  "label_opens_document": 0.0005,
+  "total_closes_document": 0.0005,
+  "deficit_position": 0.89,
+  "te_flanked_by_dividers": 1.2e-15,
+  "phytonym_three_conditions": 0.0515,
+  "o_series_fewer_correspondences": 0.0173,
+  "o_series_freq_matched": 0.0005,
+  "o_gap_structure": 0.0003,
+  "cu_for_co": 1.0,
+  "valueless_as_co": 0.82,
+  "o_series_final_position": 0.62,
+  "te_between_party_and_commodity": 2e-07,
+  "sign_307_slot": 5.5e-06,
+  "sign_516_slot": 0.0072,
+  "sara2_slot": 8.8e-06,
+  "generator_hittite_vs_false": 0.1,
+  "grid_consonant_structure": 0.0005,
+  "grid_vowel_structure": 0.045,
+  "regular_correspondences": 0.0,
+  "trigram_reuse": 0.0,
+  "affix_families": 0.07,
+  "iconic_logograms_ligate_less": 1.4e-05
  },
  "withdrawn": [
   {
@@ -142,6 +908,91 @@
    "claim": "the predictor beats the baselines on the libation formula",
    "why": "the field's standard n-gram baseline reaches 17.5% at Top-1 against this method's 14.0%; the earlier comparison omitted it",
    "where_stated": "formula paper, section 4 bis, now reporting all three"
+  },
+  {
+   "claim": "fraction signs are transliterated as whole numbers in the Explorer corpus, showing up as KU-RO arithmetic failures",
+   "why": "checked 12 Sep 2026: of 19 failing totals, 6 are on the Montecchi 2009 list of scribal errors and 13 are structural (KU-RO heading a broken tablet, section totals, KI-RO intervening); no failure is closed by reading a whole number as a fraction, and the quantity token inventory is clean (120 instances of 1/2, 56 of 1/4, 24 of 1/3)",
+   "where_stated": "email to R. Hogan, 12 Sep 2026; retracted in the reply"
+  },
+  {
+   "claim": "the excess of word-final m-syllables in Linear A (7.1% against 3.1% in Mycenaean, p = 1.5e-7) supports Semitic mimation",
+   "why": "the Cypriot syllabary writing Greek, a second syllabic control of the same kind, gives 6.2% over 693 words. Two syllabaries writing languages without mimation give 3.1% and 6.2%: the rate is set by the orthographic convention for final consonants, not by the language. Linear A at 7.1% is indistinguishable from the Cypriot rate",
+   "where_stated": "MORFOLOGIA_SEMITICA.md, 12 September 2026; retracted the same day"
+  },
+  {
+   "claim": "the transaction term TE functions the same way in the accounting and in the sealing systems, and is therefore the element common to both",
+   "why": "measured the same night: on the tablets TE sits in a frame (a sign group precedes it in 45 of 58, p=3.5e-33), but on the sealings it stands alone in 27 of 28 attestations, and 25 of those are the consecutive run HT Wa 1122 to 1146, a single sealing operation. The only sealing with TE in a sequence is SAM Wa 1 at Samothrace, which is the case that prompted the generalisation",
+   "where_stated": "LOS_SIETE_PUENTE.md, 12 September 2026; corrected the same night"
+  },
+  {
+   "claim": "the twenty-five nodules HT Wa 1122 to 1146 marked TE are a single sealing operation, and the corpus shows batches of consecutive nodules sharing a mark",
+   "why": "GORILA orders the nodules by sign: of the 854 single-sign nodules at Haghia Triada, 825 consecutive pairs share a sign where 135 would be expected if they were mixed. Consecutive numbering with the same mark is a property of the catalogue, not of the archive",
+   "where_stated": "LOS_SIETE_PUENTE.md, 12 September 2026; corrected the same night"
+  },
+  {
+   "claim": "*309 is a bulk commodity logogram counted in tens and hundreds",
+   "why": "none of its ten quantities takes a fraction. The bulk commodities of the corpus take one in 34% of cases and persons and livestock in 5%; the probability of no fraction in ten quantities if it were bulk is p = 0.017. Its large round figures exceed even the maximum of VIR, and TY 2 carries an explicit personnel entry besides",
+   "where_stated": "TY2_Y_EL_SIGNO_309.md, 12 September 2026; corrected within the hour"
+  },
+  {
+   "claim": "that Etruscan is not an Anatolian language, used as the premise of the argument that sharing the absence of o with Lycian brings Minoan no closer to Anatolia",
+   "why": "the affiliation of Etruscan is not settled. The Tyrsenian hypothesis groups it with Lemnian and Raetic, its connection with Anatolia is open, and Herodotus derived the Etruscans from Lydia. M. Finkelberg raised the point in reply on 13 September 2026 and it is correct: the argument assumed a settled answer to a live question",
+   "where_stated": "correspondence and LICIO_Y_LIDIO.md, 13 September 2026; corrected the same day"
+  },
+  {
+   "claim": "the z-values of the thirteen-candidate table as computed over five controls, in particular Luwian as the highest at 2.3 and Etruscan at -3.2",
+   "why": "rerun with twenty controls at the same 6,000 steps, the table changes substantially: Luwian falls to 2.16, Etruscan drops to -4.32, Ugaritic from 0.1 to -5.34, and Akkadian rises from 0.4 to +6.88. A standard deviation estimated from five points is not usable, and the ordering built on it was not either",
+   "where_stated": "IBERICO_primer_pase_y_valores.md and papers 02 and 07; corrected 13 September 2026"
+  },
+  {
+   "claim": "that the ligature constrains the phonetic value of the bound syllabogram, worth 36 bits of the Linear A deficit",
+   "why": "validated on Linear B, where every value is known: acrophony of the commodity gives 2 hits of 10 against a null of 0.9 (p = 0.22), abbreviation of the adjacent qualifier gives 4 of 11 against 3.23 (p = 0.41). Neither formulation beats chance. What each ligature abbreviates is not predictable even where it is known",
+   "where_stated": "paper 03 §2.8 and manifest, 13 September 2026; withdrawn the same evening"
+  },
+  {
+   "claim": "that ku-su-to-ro-qa in Linear B preserves Minoan KU-RO",
+   "why": "ku-su is how the syllabary writes the cluster /ks/, as ke-se writes xe, ki-si xi and ko-so xo. The word is transparent Greek xun-strophA and the ku is half of a consonant with no sign of its own",
+   "where_stated": "raised in session 14 September 2026 and settled the same hour"
+  },
+  {
+   "claim": "that Eteocretan words match Linear A units above chance (17 of 69 against 5.1, p = 0.0000)",
+   "why": "the Greek words of the same chapter, which should not match anything, match at a higher rate (35% against 21%). The effect is the collapse of 24 Greek letters into 8 consonants, not any relation between the languages. Redone preserving vowels and only the distinctions the syllabary makes, both give zero",
+   "where_stated": "measured and withdrawn within the hour, 14 September 2026"
+  },
+  {
+   "claim": "that *411 is a sign of the sealing system that opens its unit (15 of 15, p = 7.6e-08)",
+   "why": "all fifteen occurrences are Khania roundels of one consecutive series, KHWc 2008 to 2022. The documents are not independent and the sign marks provenance or office rather than function",
+   "where_stated": "14 September 2026, withdrawn the same hour"
+  },
+  {
+   "claim": "that Minoan has the profile of a consonantal-root language (consonant predicts, vowel does not)",
+   "why": "the comparison syllabified the candidate languages from their alphabetic forms, a function that assigns vowels by construction and therefore returns zero vowel dependency for every language. Compared only with Linear B, which its own scribes syllabified, Minoan shows three times less consonant dependency than Greek, not more",
+   "where_stated": "14 September 2026, withdrawn within the hour"
+  },
+  {
+   "claim": "that the oil ligature syllables of Linear A match the aromatics of Mycenaean perfumed oil (7 of 13 against 3.4, p = 0.033)",
+   "why": "the list of aromatics was written from memory with the Linear A syllables in view. Run against the Linear B vocabulary actually in our lexicon, oil gives one match of fourteen syllables (p = 0.35) and grain, wine, textile and men give none. Selection bias, of the kind this work measures in other proposals",
+   "where_stated": "14 September 2026, withdrawn within the hour"
+  },
+  {
+   "claim": "that 88% of the votive vocabulary is exclusive to that genre (196 of 223 against a 70% null)",
+   "why": "the split was made by support, stone against everything else, and stone vessels are a support and not a genre: those of Zakros carry accounts, with KU-RO and commodity figures, while those of Iouktas, Palaikastro, Symi, Troullos and Psychro carry the libation formula. The figure must be redone with a split by content",
+   "where_stated": "14 September 2026, corrected the same hour"
+  },
+  {
+   "claim": "that KU-PA, KU-MI-NA-QE and KI-KI-RA-JA are Minoan names built on plant names (paper 05 v1.0)",
+   "why": "the three-condition criterion they rest on selects five groups of 661 against 1.74 expected, p = 0.0515, and does not reach significance. Two further groups, KA-NA and KI-TA-I, satisfy the same criterion and were not proposed: selecting three of five without a prior rule is post-hoc choice",
+   "where_stated": "paper 05 v1.0; corrected in v2.0 on 15 September 2026, where the three become candidates with their measurement declared and the other two are added"
+  },
+  {
+   "claim": "that a Minoan without /o/ would be typologically exceptional for its area (112 of 3,020 PHOIBLE inventories lack /o/, none in the eastern Mediterranean)",
+   "why": "PHOIBLE holds living languages. Screened against BDPROTO, which holds 212 ancient and reconstructed ones, 21% of ancient languages with three or more vowels lack a vowel of o quality — nearly three times the living rate — and seven are of the Near East and Aegean, including Hittite and Akkadian with a, e, i, u. A four-vowel Minoan would be ordinary for its area, not exceptional",
+   "where_stated": "map and papers 02 and 10, 15 September 2026; corrected the same day"
+  },
+  {
+   "claim": "that the o-series of Linear A is essentially a word-final series (67.8% final against 32.2% for all other syllables, p < 0.0005)",
+   "why": "the effect is KU-RO and KI-RO. Of the 73 intact units ending in RO, 53 are those two administrative terms, 73%. With them removed the o-series is final in 41.5% of cases against 45.5% expected, p = 0.62 — below chance",
+   "where_stated": "measured and withdrawn within the hour, 15 September 2026"
   }
  ],
  "prior_art": {
@@ -165,7 +1016,77 @@
   "continuity_principle": "Younger, Linear A Texts and Commentary",
   "ka_pa_vs_ka_pa_qe_alternation": "Salgarella 2019, SMEA NS 5, n. 9",
   "qe_as_a_filing_device_not_a_conjunction": "Salgarella 2019, on the Pylos E series",
-  "textual_restoration_as_a_task_with_its_evaluation": "Sommerschield et al. 2023, Computational Linguistics 49"
+  "textual_restoration_as_a_task_with_its_evaluation": "Sommerschield et al. 2023, Computational Linguistics 49",
+  "tamburini_2025_csa": "Tamburini F. 2025, On automatic decipherment of lost ancient scripts relying on combinatorial optimisation and coupled simulated annealing, Frontiers in Artificial Intelligence 8:1581129. Simulated annealing over sign assignments, the same family as our value search, with k-permutations allowing null, one-to-many and many-to-one mappings, wildcards for unreadable signs and fixed partial knowledge. Evaluates against gold cognate lists; has no control corpus, which is what we add. Code at github.com/ftamburin/CSA_OptMatcher. MUST be cited in the candidates paper.",
+  "rao_sproat_indus_controversy": "Rao et al. 2009 (Science) argued from conditional entropy that the Indus script encodes language; Lee et al. 2010 did the same for Pictish symbols; Sproat 2010 (Language) refuted both with a larger set of non-linguistic corpora and a repetition-based measure that classified them the other way. The precedent for what the protocol paper warns about.",
+  "di_mino_2026_semitic": "Tom Di Mino, June-August 2026: claims Linear A records an extinct Semitic language, pivoting on *301 = na, which yields the Semitic root n-w-y (nawaya, to dwell) in the libation formula. 42 sign readings, 508-entry lexicon, 443 translations, 41-page draft Ya Diktu. Built with Python over GORILA and SigLA. Under review at Rutgers and Cambridge; preprint public on Zenodo with DOI 10.5281/zenodo.22129502, CC BY 4.0, version 5 of 27 August 2026, with an auditable catalogue of 67 readings in Appendix B; not peer reviewed, not replicated. Precedent: Cyrus Gordon 1957 (Antiquity), not accepted. MUST be addressed in the formula paper and the candidates paper.",
+  "assael_2025_aeneas": "Assael, Sommerschield et al., Nature 2025 (doi 10.1038/s41586-025-09292-5): Aeneas restores, dates and localises Latin inscriptions and retrieves parallels from 150,000 texts; successor to Ithaca (2022). The evaluation standard our prediction test follows.",
+  "vesuvius_2026": "Vesuvius Challenge: PHerc. 1667 became in 2026 the first Herculaneum scroll virtually unwrapped and read end to end. The example that when the problem is data and not method, acquisition technology solves it, not analysis.",
+  "nushurescue_2024": "Yang, Ma and Vosoughi (Dartmouth), NushuRescue: a language-model framework for scripts with very little digital data, applied to Nushu from 35 verified Chinese-Nushu pairs plus a description of the script structure. The only recent empirical figure on how much bilingual material is needed, with the language known.",
+  "packard_1974_fictitious_decipherments": "D.W. Packard, Minoan Linear A (Berkeley, Los Angeles, London 1974; from his Harvard thesis of 1967): constructed NINE fictitious decipherments by redistributing the Linear B phonetic values among the Linear A signs so that no sign kept the same value in any of them, and compared the matches they produced with those of the Ventris values. This is the control corpus idea, in the field itself, fifty years before ours. It is the strongest precedent for the value search control and MUST be cited in the candidates paper.",
+  "rendsburg_semitic_critiques": "Gary A. Rendsburg (Rutgers, Jewish Studies): On Jan Best's \"Decipherment\" of Minoan Linear A (JANES), and \"Someone Will Succeed in Deciphering Minoan\": Cyrus H. Gordon and Minoan Linear A, Biblical Archaeologist 59:1 (1996) 36-43. The standing critical literature on Semitic readings of Linear A, and the likely Rutgers reviewer of the 2026 claim.",
+  "van_soesbergen_2022_hurrian": "P.G. van Soesbergen, The Decipherment of Minoan Linear A (2022), eight volumes, over 4,100 pages, arguing the language is Hurrian. One of at least four mutually incompatible complete decipherments in circulation (Greek, Hittite, Indic, North-West Semitic, Hurrian), which is the argument for a bench.",
+  "copenhagen_ugaritic_corpus": "DT-UCPH/cuc, the Copenhagen Ugaritic Corpus (CACCHT project: Hojgaard, Naaijer, Ehrensvard, Rezetko, Glanz, van Peursen, with Notarius, Sosnovshchenko and Yerofeieva), DOI 10.5281/zenodo.10695308, CC BY-NC 4.0: 278 KTU tablets with word-by-word morphological parsing, DULAT lemma and English gloss. The source of the 2,297 glossed Ugaritic lemmas used in the double-constraint screening.",
+  "uchitel_finkelberg_1995": "Alexander Uchitel and Margalit Finkelberg, \"Some possible identifications in the headings of the Linear A archives\", 1995, pp. 29-31+. They identify by inspection the same recurrent groups of list entries that this work measures against a null in 2026. Their Table I is our group C exactly: HT 86a, HT 86b, HT 95a and HT 95b, under the headings a-ka-ru, a-du and da-du-ma-ta, with the six items ku-ni-su, sa-ru, di-de-ru, qa-ra2-wa/qe-ra2-u, da-me and mi-nu-te, and the quantities we recount. Their Tables IIa and IIb are NOT our groups A and B: checked item by item, their IIa holds fifteen items and shares four with group A, their IIb holds ten and shares three with group B and four more with group A. The partitions overlap and do not coincide, theirs being organised by document and ours by co-occurrence above a null: HT 6b, 8a, 10, 13, 111 recapitulated in HT 85, and HT 122 summarising HT 85 with HT 9, containing da-re, da-ri-da, da-si-*118, u-*325-za, te-ke/i, pa-de, *306-tu and *324-di-ra. They credit the first observation of the connection to Packard 1974, pp. 62-63. Their reading is that the items are men from six villages reappearing under different headings, and that headings also found in the lists are place names. They also note that ku-ni-su, an item in group 1, functions as a heading in group 2, and read ki-ki-ra-ja as related to ki-ro, \"deficit\", designating men absent from a group whose present members are headed by a-du. Obtained 13 September 2026 directly from M. Finkelberg, who sent page images of her last offprint. Two of their observations were verified against the corpus and hold: ku-ni-su heads HT 10a, and ki-ki-ra-ja heads HT 85b. Their reading of the items as men from villages is by inspection without a null and is recorded as prior art, not as support.",
+  "packard_1974_groups": "D. W. Packard, Minoan Linear A, Berkeley 1974, pp. 62-63: the first observation that HT 86 and HT 95 form a connected group. Cited by Uchitel and Finkelberg 1995 as their starting point.",
+  "schurr_1976": "D. Schurr, \"Linear A KI.KI.RA.JA\", Kadmos 15, 1976, pp. 31-39.",
+  "finkelberg_1990_91": "M. Finkelberg, \"Minoan Inscriptions on Libation Vessels\", Minos 25/26, 1990-91, p. 58: proposes Minoan a-di/ja-di as the third person singular present/future of the Anatolian verb a-/aia- \"to make\".",
+  "finkelberg_2001": "M. Finkelberg, \"The Language of Linear A: Greek, Semitic, or Anatolian?\", in R. Drews (ed.), Greater Anatolia and the Indo-Hittite Language Family, JIES Monograph 38, 2001, pp. 81-105. The most methodologically serious classification proposal examined here: it rejects the etymological method explicitly, citing Duhoux, dismantles the Semitic proposals of Gordon and Best and the Luwian one of Palmer for methodological incoherence, and builds a fourteen-point morphological profile of Minoan compared against five Anatolian languages, concluding that Minoan is Anatolian and Lycian its descendant. Measured against the corpus: her verbal paradigm of the stem a- has a-di with zero attestations, and the paradigm as a whole (ja-di, je-di, a-da, a-du, a-ra-u-da) occupies the first syllabic position of its document in 12 of 17 attestations against a base rate of 0.405, p = 0.012, which is the behaviour of a record label and not of a verb. Her features 5 to 12 rest on A-TA-I-*301-WA-JA, whose eleven attestations are all on stone vessels: they describe the votive formula, a different genre from the accounting archive this work measures. Received from the author, 13 September 2026.",
+  "lejeune_1956": "M. Lejeune, \"Mycenien QAQARO / minoen QAQARU\", 1956: the observation that Linear A -u endings correspond to Linear B -o, with the doublets a-ku-tu/a-ko-to, di-de-ru/di-de-ro, ka-ru/ka-ro, ma-ru/ma-ro, qa-qa-ru/qa-qa-ro. Cited by Finkelberg 2001. Measured here against a null for the first time: 16 doublets of 90 -u-final units against 8.0 expected, p < 0.002.",
+  "ediana": "eDiAna, Digitales Etymologisches Woerterbuch der Sprachen des alten Anatolien (LMU Munich and Marburg, DFG), CC BY-SA 4.0: digital corpora of Lycian, Lycian B, Lydian, Carian, Palaic, Pisidian, Sidetic and the two Luwians, adapted from Melchert 2001a-c with later inscriptions added. Source of the 187 Lycian and 116 Lydian texts measured here.",
+  "de_abreu_e_souza_2022": "R. Freire de Abreu e Souza, \"Aspects of Non-Greek Vocabulary in Mycenaean Greek\", MA thesis, National and Kapodistrian University of Athens, 2022, supervised by V. Petrakis. A curated list of non-Greek words attested in Linear B across four sectors (metals, precious materials, textiles, perfumes), with the archaeological context of each borrowing. Source of the nineteen-word list tested here. Notes that the MA+RU ligature was probably the Minoan term for wool, attested in Linear A at PH 3, HT 12, HT 24 and KH 43, and that SA as the flax ideogram was taken from Linear A as the acrophonic abbreviation of the Minoan term.",
+  "palaima_2005_ideograms": "T. G. Palaima, \"Mycenaean Ideograms and How They Are Used\", 2005. Gives the scale (Linear A about 137 ligatured ideograms against about 31 in Linear B), the classification of ideogram types, and two cases where a sign was taken over from Linear A with its Minoan value: NI, the fig ideogram, which Neumann (Glotta 40, 1962, 51-54) reads as the initial syllable of a Minoan word preserved in the Greek gloss nikuleon, cited from Hermonax in Athenaeus 3.76e; and the goat ideogram with value mi or mbi, against the lexicographical gloss giving the Cretan word for goat as miglas.",
+  "neumann_1962": "G. Neumann, \"nikuleon\", Glotta 40 (1962), 51-54: the Minoan word for fig preserved in a Greek gloss, and the source of the reading of the NI ideogram as its initial syllable.",
+  "brown_1985": "R. A. Brown, Evidence for Pre-Greek Speech on Crete from Greek Alphabetic Sources, Amsterdam: Hakkert 1985, 408 pp. Chapter 2 collects the Cretan glosses of Hesychius and classifies each as Greek or non-Greek; chapter 4 treats the Eteocretan texts including the Dreros bilinguals. Full OCR text on Internet Archive. 180 entries extracted here, 37 of them classified by Brown as non-Greek.",
+  "chic_1996": "J.-P. Olivier, L. Godart and J.-C. Poursat, Corpus Hieroglyphicarum Inscriptionum Cretae, Etudes cretoises 31, Ecole francaise d'Athenes 1996, 447 pp. The reference corpus of Cretan Hieroglyphic: 331 texts, of which 266 from 32 Cretan sites, 61 seals of general Cretan provenance, one from Kythera, and two roundels and a clay boulette from Samothrace. Freely readable on CEFAEL. Its texts are published as photographs and drawings, not as transliterations; the sign sequences are recoverable only from the sign index (pp. 360-387 of the volume), where each sign is listed with every document and position in which it occurs.",
+  "davis_2014_syntax": "B. E. Davis, \"Syntax in Linear A: The Word-Order of the Libation Formula\", Kadmos 52 (1), 2014, pp. 35-52. Establishes the word order of Minoan as verb-subject-object, comparable to Ancient Egyptian, working on the votive libation formula. The syntax measured here is that of the accounting document, a different genre. Measured here on the 35 stone-vessel inscriptions with three or more words: the order is fixed without exception at the ends, A-TA-I-*301-WA-JA first in 7 of 7 (mean position 0.00) and SI-RU-TE last (0.96), with the intermediate elements in narrow bands. The fixed order is confirmed; the verb-subject-object identification is not, since assigning those categories requires knowing what the words mean.",
+  "younger_transaction_words": "J. G. Younger identified a set of \"transaction words\" in Linear A by positional pattern alone, functional terms behaving like \"and\", \"total\" or \"received from\". The functional inventory of this work is of the same kind and reaches 151 readings.",
+  "younger_transaction_signs": "J. G. Younger, Linear A Texts in phonetic transcription (Univ. of Kansas; moved to academia.edu in 2024): single signs functioning as transaction signs are usually preceded and followed by dividers, with three named exceptions (HT 44b.1, 63.1, 133.1). Measured here: over all 1,114 single-sign occurrences the claim fails (2.3% against a base of 3.2%); sign by sign it holds for TE alone (13 of 58, 22.4%, p = 1.2e-15) and fails for KA (0 of 169), KU (1 of 170) and DI (0 of 16), which the field also calls transactional.",
+  "davis_2013_syntax_kadmos": "B. E. Davis, \"Syntax in Linear A: The Word-Order of the Libation Formula\", Kadmos 52 (1), 2013/2014. Establishes verb-subject-object order from the libation formula. Affects paper 01.",
+  "davis_2014_stone_vessels": "B. E. Davis, Minoan Stone Vessels with Linear A Inscriptions, Aegaeum 36, Leuven and Liege 2014. A monograph on the entire corpus of inscribed stone vessels — the body this work calls the votive corpus and had not surveyed. Affects papers 01 and 05.",
+  "valerio_2007_diktaian": "M. Valerio, \"Diktaian Master: A Minoan Predecessor of Diktaian Zeus in Linear A\", 2007. Reads (-)du-pu2-re as a Wanderwort of rulership and j/a-di-ki-te-te-du-pu2-re as \"Diktaian Master\", a Minoan deity preceding Diktaian Zeus. This is the reading independently reconstructed here on 14 September 2026 from the formula slots; it is his. Affects paper 01.",
+  "witczak_2009_cretan_toponyms": "K. T. Witczak, \"Cretan Toponyms in the Minoan Libation Formula\", 2009. Treats precisely the place names occupying slot 2 of the formula. Affects paper 01.",
+  "soldani_2012_libation": "F. Soldani, \"Alcune osservazioni sulla formula di libagione minoica\", 2012. Affects paper 01.",
+  "schrijver_2014_fractions": "P. Schrijver, \"Fractions and food rations in Linear A\", Kadmos 53.1-2, 2014, pp. 1ff. Peer-reviewed treatment of the metrology this work measures independently in paper 03.",
+  "facchetti_2012_metrograms": "G. M. Facchetti, \"Again on Linear A Metrograms J and E\", Kadmos 51, 2012, pp. 27ff. Affects paper 03.",
+  "montecchi_2012_banqueting": "B. Montecchi, \"Linear A banqueting lists?\", Kadmos 51, 2012, pp. 1-26. Affects paper 03.",
+  "montecchi_2019_contare": "B. Montecchi, Contare a Haghia Triada: le tavolette in lineare A, i noduli, 2019. A monograph on counting in the Haghia Triada archive — the subject of paper 03.",
+  "montecchi_2010_classification": "B. Montecchi, \"A Classification Proposal of Linear A Tablets from Haghia Triada\", 2010. Affects paper 03.",
+  "weingarten_2017_roundel": "J. Weingarten, \"When One Equals One: The Minoan Roundel\", 2017, pp. 99ff. Affects paper 06.",
+  "weingarten_2010_seals": "J. Weingarten, \"Minoan Seals and Sealings\", pp. 317-328 in The Oxford Handbook of the Bronze Age Aegean, 2010. Affects paper 06.",
+  "hallager_2021_roundel": "E. Hallager, \"The Minoan Roundel — its function, seals and inscriptions\", 2021. The reference treatment of the document type paper 06 measures.",
+  "tomas_2012_sealing_transition": "H. Tomas, \"The Transition from the Linear A to the Linear B Sealing System\", 2012. Affects paper 06.",
+  "uchitel_2006_listing": "A. Uchitel, \"Listing by Age and Occupation in Minoan Linear A\", Kadmos, 2006. Affects paper 03.",
+  "uchitel_2016_ships": "A. Uchitel, \"Ships and Shipment in Minoan Linear A\", Minos 39, 2016, pp. 9-16.",
+  "aspesi_1996_dupure": "F. Aspesi, \"Lineare A (-)du-pu-re\", pp. 137-145, 1996. A study of the word discussed here on 14 September 2026. Affects paper 01.",
+  "tomas_linear_a_vs_b": "H. Tomas, eight entries between 2008 and 2023 comparing Linear A and Linear B administrative and epigraphic systems, including \"Linear A tablet != Linear B tablet\" (2011) and \"Similarities and differences between Linear A and Linear B\" (2023). Affects the administrative comparison of papers 03 and 10.",
+  "nestor_bibliography": "NESTOR, International Bibliography of Aegean Studies (University of Cincinnati), monthly and free since 1957. 34,515 entries from the 2006-2026 bulletins indexed here by scripts/nestor_index.py and classified by reliability and topic. The index is the first filter against which any claim of novelty must be checked; a nil return is not evidence of novelty.",
+  "packard_1974_vowels": "D. W. Packard, Minoan Linear A, Berkeley 1974, pp. 112-114: the absence of Linear A counterparts to many o-series signs, and the vowel confusions it implies.",
+  "duhoux_1989_vowels": "Y. Duhoux 1989, pp. 72-73: proposes that Minoan had MORE than five vowels, against the three-vowel reading of the o-series scarcity.",
+  "davis_2014_three_vowels": "B. E. Davis 2014, pp. 240-241: proposes that e and o are secondary developments from an original three-vowel system, by contraction of i-diphthongs.",
+  "meissner_steele_attestation": "T. Meissner and P. M. Steele, \"Linear A and Linear B: Structural and contextual concerns\": argue that the scarcity of o-series correspondences is due to chances of attestation rather than to the phonology of Minoan. Judson calls the argument persuasive. This is the most recent position and the one that most constrains any phonological reading of the o-series.",
+  "judson_extra_signs": "A. P. Judson on the extra signs of Linear B and their Linear A counterparts: states that the absence of known Linear A counterparts to many o-series signs has often been taken as evidence that Minoan lacked the vowel, forming part of an argument for a three-vowel system.",
+  "phoible": "PHOIBLE (phoible.org), phoneme inventories of 2,176 languages in 3,020 inventories. Used here to price the three-vowel reading: 112 languages have a, e, i, u and lack /o/ (7.8% of those with all four), and none of them is in the eastern Mediterranean.",
+  "bdproto": "BDPROTO, a database of phonological inventories from 212 ancient and reconstructed languages (Marsico et al. 2018; expanded version in Language Resources and Evaluation 2020). Its authors note a temporal bias that complicates comparing ancient with present-day languages — the bias this work committed on 15 September 2026 by screening PHOIBLE, which holds living languages only.",
+  "brown_1985_dreros": "R. A. Brown, Evidence for Pre-Greek Speech on Crete, Amsterdam 1985, ch. 4: the two Dreros bilinguals D2 and D7, published by Van Effenterre and lost during the occupation of Crete. In D7 the Eteocretan text ends in tuprmeriia and the Greek version, beginning at omo-, reads homosai d haper en orkioisi... katharon genoito, \"may he swear the very things he has sworn in oaths... may it become pure\".",
+  "kanta_2025_ivory_scepter": "A. Kanta, D. Nakassis, T. G. Palaima and M. Perna, \"An archaeological and epigraphical overview of some inscriptions found in the Cult Center of the city of Knossos (Anetaki plot)\", Ariadne Supplement Series 5, Rethymno 2024, 27-43, doi 10.26248/ariadne.vi.1841, open access. Publishes KN Zg 57 (an ivory ring) and KN Zg 58 (its handle) from the Anetaki plot: about 119 signs, 84 preserved whole or in part and 35 in traces, the longest Linear A inscription known. The ring carries NO numerals at all and the authors align it with stone libation vessels rather than with accounting records; its sign groups have few parallels in the extant corpus. Three findings bear on this work: (1) vases on the ring carry a ligatured syllabogram (vas+PA, vas+RU) which the authors read as specifying the vase or its contents, and they argue from the rhyton and tripod, the only two vases without one, that the ligature is absent where the shape already identifies the object; (2) the handle gives six fraction signs in sequence and, in the authors words, a different sequence of values than those suggested until now, which bears on Corazza, Ferrara, Montecchi, Tamburini and Valerio 2021 (JAS 125); (3) Cretan Hieroglyphic signs *180 and *181 are shown to be used in Linear A as well. The full transliteration is not in this article; it is announced for Kanta (ed.), Anetaki II.",
+  "schumann_2026_ioza2": "M. Schumann 2026, \"The Linear A Inscription IO Za 2: A Ritual Invocation from the Sanctuary of Tinu and Ida-Mate\", Zenodo, doi 10.5281/zenodo.20698076, 29 pp., CC BY. Read in full on 16 September 2026. Translates the Juktas libation table entire, with TA-NA-RA as sanctuary, TE-U as of the god, TI-NU as a divine name comparable to Mycenaean di-wo-nu-so, and I-DA-MA-TE as a pre-Mycenaean Demeter; SI-RU-TE is read as an optative from Old Lithuanian sruti, to flow, with -TE as the optative marker. Two sign values are revised, A301 to JO and AB013 from ME to ZA, and the paper does not argue them: it refers to another preprint of the same author (doi 10.5281/zenodo.20697538) and announces a comprehensive treatment of the Linear A signary as forthcoming. The lacuna on side C is restored as I-DA[-MA-TE-QE] from AR Zf 1, AR Zf 2 and KY Za 2, again by reference to another of his preprints. Eight of his own Zenodo deposits are cited, and the reading of each element is referred to one of them, so the argument is a chain of self-citation none of which is refereed. The count of readings tried before the one published is not stated, which is requirement 4. Measured here on the corpus: SI-RU occurs on its own, once in HT 55a, a tablet; SI-RU-MA-RI-TA2 occurs in HT 90 and has no place in the analysis; I-PI-NA-MI-NA occurs twice beside I-PI-NA-MA, so -MA as a first-person possessive leaves -MI-NA unexplained; and -TE has an attested base in only 6 of 44 cases, 13.6%, ranking 17th of 44 final syllables by productivity against 43% for -ME. The paper does publish with a DOI and an open text, which is what allows any of this to be measured.",
+  "ferrara_salgarella_bellinato_2025_spices": "S. Ferrara, E. Salgarella and L. Bellinato 2025, \"On Aegean spices: decipherment prospects on Linear A and B spice-related signs\", Kadmos 64 (1-2): 29-44, read in the published version on 16 September 2026; the author order on the paper is Salgarella, Bellinato and Ferrara, doi 10.1515/kadmos-2025-0002. Reads Linear B *157 as \"root\" by acrophony, the upper element wi abbreviating wi-ri-za, and proposes the same mechanism for Linear A A646 on HT 33, whose upper element pi would abbreviate a Minoan word for root; and separates ka-po written out, generic \"fruit\", from the monogram KA+PO, which occurs only at Pylos in perfume ingredient lists and which they read, after Sacconi 1972, as a dried stalk or aromatic. This bears on two results here. First, on the acrophony of the bound syllabogram, measured in Linear B at 2 of 10, p = 0.22, which is why the 36 bits once attributed to ligature were withdrawn: their two cases are argued individually with contextual support and are not incompatible with a general rate that low, but each claim weighs on the other. Second, their statement that in Linear A commodities are almost never written out in full, full writing being reserved for personal names, place names and transaction terms, is independent confirmation of the distributional sign list built here. Their perfume context (cyperus, coriander, wool, wine, honey) is the aromatics block measured in this work.",
+  "petrakis_steele_2025_wola": "V. Petrakis and P. M. Steele, concluding remarks to E. Salgarella and V. Petrakis (eds.), The Wor(l)ds of Linear A: Interdisciplinary Approaches to Documents and Inscriptions of a Cretan Bronze Age Script, AURA Supplement 15, Athens 2025. Read on 16 September 2026. Bears on this work at three points. First, on the power argument: they report, from J.-P. Olivier, that the size of the published Linear A corpus is almost equal to the amount of text assigned to Hand 1 of Pylos, the most prolific Linear B scribe, and they name the paucity of material, alongside the absence of bilinguals, as the main reason the script remains unread. That is the same ceiling this book quantifies at 345 bits, 56 anchors or some 788 further units, arrived at independently and expressed as a figure rather than as a comparison. Second, they open the section with Younger on Aegeanet, 25 April 2024: \"I can read Linear A; I just don't know what every inscription says\", which is the distinction between reading and understanding that this book draws throughout. Third, B. E. Davis in the same volume argues that the affixation patterns of Linear A sign-groups fit neither Indo-European nor Afroasiatic, supporting the possibility that Minoan is unrelated to any family historically attested in the area; that agrees with the thirteen-candidate result here, none of which reaches z = 3, reached by a different route. The volume accommodates, in its editors' words, no new proposals for the Minoan language.",
+  "chiapello_2026_grain": "D. Chiapello 2026, \"Grain management in Linear A accounting tablets: practical and lexical similarities between Minoan Crete and Ancient Greece, a key to the Minoan Greek?\", read 16 September 2026. Argues for a Greek reading of the headers DA-DU-MA-TA and A-DU on HT 95+113bis by comparison with the Greek inscription IG V,1 1379, in a series of papers proposing that the Minoan language is Greek. Bears directly on this work: A-DU is measured here as a label that opens its document in 12 of 17 occurrences, p = 0.012, which is a distributional result about function and not about language, and is compatible with any reading that makes A-DU a heading.",
+  "whalen_2026_jawapi": "S. Whalen 2026, \"Linear A ja-wa-pi, ja-wa-pa3, ja-wa-VIR (draft)\", 2 pp., a note responding to Chiapello on academia.edu. Not refereed.",
+  "vallance_janke_2026_dikte": "R. Vallance Janke, with F. Perono Cacciafoco, D. Chiapello and A. Madhu 2026, \"More light on the role Mount Dikte and Mount Ida, Crete, play in Minoan Linear A Anatolian proto-Greek invocations\", 26 pp. Reads the libation formula as Anatolian proto-Greek invocation with the two mountains as addressees. Bears on the formula chapter here, where the second slot is measured as fixed by distribution and where the Diktaian reading is credited to Valerio 2007.",
+  "yao_cacciafoco_cavallaro_2022_minoan_challenge": "K. Yao, F. Perono Cacciafoco and F. Cavallaro 2022, \"The Minoan Challenge: an external analysis approach to the Linear A decipherment\". Strips vowels from Linear A read with Linear B values, reduces to consonant skeletons, and matches against Ancient Egyptian, allowing word division where the corpus marks none. That is the configuration measured in Part Two of this work: consonant skeletons, a large lexicon and free segmentation, under which fictitious grids reach 97.1%.",
+  "desherieva_2026_yeniseian": "Y. Desherieva 2026, \"Some Minoan words reconstructed after syllabic signs of the Linear A demonstrate notorious resemblance with Proto-Yeniseian forms\", CAES 12 (2), 9 pp. Takes Minoan to be a dialect of Hattic within Sino-Caucasian and compares reconstructed Minoan words with Proto-Yeniseian. The reconstruction proceeds by acrophony, taking each syllabogram to depict an object whose name began with that syllable, which is the mechanism measured here at 2 of 10 in Linear B, p = 0.22.",
+  "cohen_2026_sign81": "G. L. Cohen 2026, \"Reflections on Linear B (part 15): sign 81 in Linear A and the Egyptian four-headed ram god\", Comments on Etymology 55 (6-7), and \"Reflections on Linear B (part 13): sign 21 may derive from the Ancient Egyptian wedjat eye\", same series. Derives individual Aegean sign shapes from Egyptian iconography.",
+  "salgarella_judson_2025_palaeography": "E. Salgarella and A. P. Judson, \"Signs of the times? Testing the chronological significance of Linear A and B palaeography\", in J. Bennet, A. Karnava and T. Meissner (eds.), KO-RO-NO-WE-SA: Proceedings of the 15th International Colloquium on Mycenaean Studies, Faculty of Philosophy, University of Crete, 359-379. Refereed. Concludes that any chronology based purely on palaeographic analysis is thoroughly unreliable: graphic variation prevails over standardisation, no clear process of development over time can be identified with certainty, most individual sign variants persist from Linear A into Linear B and within Linear B, and apparent simplification may reflect the styles of two scribes rather than a date. This raises the first wall of this work rather than lowering it: the corpus lacks a time series because 76% of it belongs to one destruction horizon, and palaeography cannot supply the chronology that the archaeology does not.",
+  "civitillo_2025_seal_stones": "M. Civitillo, \"Comparing Cretan Hieroglyphic and Linear A seal stones: a preliminary assessment of forms, materials, sequences, uses\", in KO-RO-NO-WE-SA, 511-526. Refereed. Gives the composition of CHIC: of 331 Cretan Hieroglyphic documents, 136 are seals and 57 seal impressions, 122 are on clay and 16 on other media, a picture unchanged by finds after 1996; seals are spread across central and north-eastern Crete while the other documents come from Knossos, Malia and Petras and date to MM II. Bears on the sealing chapter here and on the sixth wall, the Cretan Hieroglyphic corpus published as photographs.",
+  "vallance_janke_2026_pkza": "R. Vallance Janke, with F. Perono Cacciafoco and others, \"Are the Minoan Linear A PK Za 4 to PK Za 18 libation invocations in Anatolian proto-Greek?\", 2026. A second paper of the same series as the Dikte and Ida one, applying the same reading to the Palaikastro libation tables. Not refereed.",
+  "desherieva_2025_ph6": "Y. Desherieva 2025, \"The Linear A tablet Phaistos 6 (PH 6): a sample of Minoan poetry\", CAES 11 (3). Reads PH 6 as verse, by the same acrophonic reconstruction as her Yeniseian paper.",
+  "chiapello_2026_orphic": "D. Chiapello 2026, \"Another libation table as an Orphic hymn: Linear A IO Za 16 and the Minoan Greek hypothesis\". Reads a second libation table as Greek, extending the series. Bears on the formula chapter here, where the slot structure is measured and no reading of it is proposed.",
+  "marino_2025_suspension": "B. Marino 2025, \"Phonological suspension in Linear A: a comparative proposal with Sanskrit\". Independent researcher, not refereed.",
+  "cohen_2026_part14": "G. L. Cohen 2026, a further instalment of \"Reflections on Linear B\" in Comments on Etymology, deriving Aegean sign shapes from Egyptian iconography.",
+  "finkelberg_1990_libation_vessels_read": "M. Finkelberg 1990-91, \"Minoan inscriptions on libation vessels\", Minos 25-26: 43-85. Read in full on 16 September 2026, having been cited by reference until then. It already establishes what this work measures: that the opening formula A-TA-I-*301-WA-JA stands at the head of the preserved inscriptions, with the documents enumerated (KO Za 1, PK Za 12, TL Za 1, IO Za 2, 3 and 7, SY Za 1, 2 and 3), and that its phonetic and graphic variants (JA-TA-I-*301-U-JA, A-TA-I-*301-WA-E, TA-NA-I-*301-U-TI-NU) belong to the same formula; that the formula has variable ends and a fixed middle; and it proposes a slot distribution of the sentence. Its argument for the pattern is that it can hardly be due to mere chance, stated without a null. THIS IS THE SIXTEENTH TIME a finding of this project turns out to be published: the slot structure of the libation formula is credited in this book to Davis 2013 and Salgarella, and Finkelberg had it in 1990-91, twenty-three years earlier. What this work adds to it is the measurement against a permutation null (7 of 7, mean position 0.00; SI-RU-TE closing at 0.96), which is what her own wording invites."
  },
  "disputed": {
   "star303_identification": {
@@ -214,6 +1135,186 @@
    "why": "the field records that the crocus logogram (ra3/CROC) is documented in Cretan Hieroglyphic and not in Linear A (Weilhartner 2014; Petrakis 2017a; Palaima 2020a); *904 keeps its fine-commodity profile but saffron is not the reading the literature allows",
    "source": "Salgarella and Petrakis (eds.) 2026, The Wor(l)ds of Linear A",
    "consequence": "*904 stays unread; the honey/metal/fish gaps stand"
+  },
+  {
+   "what": "a standard ration or a fixed conversion rate between commodities (the Proskouriakoff route: content from an arithmetic pattern)",
+   "why": "no commodity has a modal quantity per entry, and the ten documents recording VIR beside a commodity give no rate per head (HT 108: VIR 1, GRA 70; PE 1: VIR 122, GRA 62.5). The tablets do not record beneficiary and allocation together, which is what the Maya monuments did",
+   "source": "Proskouriakoff 1960 as the model; measured 12 September 2026",
+   "consequence": "the one quantity that behaves as a fixed allocation, CYP+D in the Khania archive, was found by a different route"
+  },
+  {
+   "what": "alignment of the sign inventories by relational structure (Gromov-Wasserstein optimal transport), the one comparison that does not pass through the shape of the signs",
+   "why": "the instrument has no power at this corpus size. Its free positive control (Linear A and Linear B share sign names, so the correct coupling is the identity) gives 2 of 50 correct, the same as the shuffled control. The diagnostic settles it: splitting Linear B into two halves, where the two sides are the same language, the method recovers 10% of signs at 455 words (our size), 15% at 1,000 and 25% at 2,486",
+   "source": "Alvarez-Melis and Jaakkola 2018 (EMNLP); implemented in kuro/relational.py, measured 12 September 2026",
+   "consequence": "the negative against every candidate is uninterpretable and is not reported as a result; reopening would need document-level contexts or a corpus five times larger"
+  },
+  {
+   "what": "matching trade-good terms in their source languages (Egyptian from AES, Semitic) directly against Linear A, without the Linear B detour",
+   "why": "13 of 53 consonant skeletons match against 20.6 expected under a bigram null of the corpus itself: fewer than chance. A consonant skeleton extracted from a CV syllabary is not comparable with one from a consonantal script, which is the transcription filter already declared",
+   "source": "measured 12 September 2026",
+   "consequence": "the Wanderworter result stands only through Linear B, and therefore shows shared Aegean forms rather than a Semitic route; stated as such in the analysis"
+  },
+  {
+   "what": "the triconsonantal root signature as a test of the Semitic classification of Minoan",
+   "why": "the measure does not calibrate: with equal sample sizes, Ugaritic (indisputably Semitic) scores lowest of nine languages at 1.03 and Hittite (Indo-European) highest at 1.46, with Akkadian at 1.36. Consonant-skeleton repetition is driven by phonotactics and corpus composition, not by root morphology, and lemma lists and attested-form corpora are not comparable in kind",
+   "source": "measured 12 September 2026 against Di Mino 2026",
+   "consequence": "the obvious typological test of a Semitic classification is unusable and is declared as such; the classification question is not answerable with our instruments"
+  },
+  {
+   "what": "Akkadian as the language of the Linear A archive, tested with the double constraint (vocalised form plus the meaning the measured function requires)",
+   "why": "none of 28,000 glossed Akkadian entries from ORACC (all dialects) matches any of the fifteen Linear A units with a measured function both in vocalised form and in meaning. The single hit, KU-RO against Sumerian gu \"entirety\", is two consonants against four and survives only the length margin",
+   "source": "ORACC glossaries of saao, rinap and dcclt; measured 12 September 2026",
+   "consequence": "a real negative for Akkadian, obtained by a test no previous proposal has applied. It says nothing about Ugaritic or West Semitic: the set holds 100 Ugaritic entries"
+  },
+  {
+   "what": "Ugaritic as the language of the Linear A archive, tested with the double constraint",
+   "why": "none of 2,297 glossed Ugaritic lemmas from the Copenhagen corpus (DULAT lemmas over 278 KTU tablets) matches any of the fifteen Linear A units with a measured function both in vocalised form and in meaning, under either the permissive or the strict phonology",
+   "source": "measured 12 September 2026",
+   "consequence": "the most direct available test of the Semitic hypothesis, and the language Gordon and di Mino both invoke, returns zero. It does not close West Semitic: Phoenician, Amorite and Eblaite lack glossed lexicons"
+  },
+  {
+   "what": "lexical fit as a criterion for choosing between decipherments of Linear A",
+   "why": "simulated annealing over the 38 free signs finds grids scoring 183 (permissive) and 131 (strict) against the Linear B grid at 75 and 40, changing 37 and 38 of the 38 free signs respectively, converging from three independent seeds. Optimising for lexical fit actively prefers grids that keep almost none of the Linear B values",
+   "source": "measured 12 September 2026; Packard 1974 reproduced with a modern optimiser and a 16,147-form glossed lexicon",
+   "consequence": "any proposal resting on the number of translations achieved is using a measure that rewards the opposite of what it seeks. The functional score stays at zero under every grid tested, which is why it is the only criterion that discriminates"
+  },
+  {
+   "what": "the tG stem (an infixed -t- after the first root consonant) as evidence for a Semitic classification",
+   "why": "six pairs of units differing by an inserted T-series syllable in second position (A-TA-DE ~ A-DE, DA-TA-RE ~ DA-RE and four more), p = 0.033 against a shuffled null; but the same test on the other consonant series gives 6 pairs for R and 6 for S, so the T series does not stand out, and with twelve series tested the corrected p is 0.40",
+   "source": "measured 12 September 2026",
+   "consequence": "measurable after all, and measured: no signal"
+  },
+  {
+   "what": "class-level functions defined by company (a unit always beside the same commodity), by quantity profile (only fractions or only integers) and by crossing supports",
+   "why": "only eleven units appear three or more times beside a commodity and two of those are exclusive (p = 0.046, n = 2); no unit takes only fractions because the base rate of fractions is 0.08, so only-integers is what chance gives; and the crossing of supports is a result by defect, seven against 34.4 expected, which describes the separation of the two systems rather than a function",
+   "source": "measured 12 September 2026",
+   "consequence": "of four candidate classes only the opening position yields, and it yields because every tablet instantiates it exactly once over 184 tablets. The ceiling is the size of the material, not the design of the tests"
+  },
+  {
+   "what": "classifying an unread sign as logogram or syllabogram by whether it occurs inside a sign group",
+   "why": "known logograms occur medially in 0.348 of their occurrences and known syllabograms in 0.330: the rates are the same. The transliteration hyphenates ligatures and compounds, so medial position inside a sign group does not mean in Linear A what it would mean in an alphabetic script",
+   "source": "measured 12 September 2026",
+   "consequence": "the five remaining signs of the accounting system cannot be classified by this route, and none of them recurs in a repeated form, so no distributional method reaches them"
+  },
+  {
+   "what": "the existence of any grid of sign values that satisfies the measured functional constraints",
+   "why": "simulated annealing over the seventeen free signs touched by the twenty functionally constrained units, with the functional constraint as the sole objective and eight independent seeds, satisfies 1 of 20 and that one is spurious; the standard Linear B grid satisfies 0. Optimising for lexical fit alone finds grids 2.4 times better than the standard; adding the functional constraint leaves nothing",
+   "source": "measured 13 September 2026",
+   "consequence": "the defence that the problem lies in the values rather than in the language does not hold for the three languages with a glossed lexicon. The criterion the field uses yields too many answers; the criterion that measures what the archive does yields none"
+  },
+  {
+   "what": "the acronym hypothesis: that the functional units of Linear A are acrophonic abbreviations rather than words, each syllable standing for the first syllable of a word of the required semantic field",
+   "why": "of eleven units with a clear function, two have a candidate word for every syllable; a null of false units of the same length built from real syllabary signs gives 1.64 on average with a maximum of 6, p = 0.52. The real units do not spell out as acronyms better than invented ones. The cause is visible in the coverage: the totality field offers seventeen distinct initial syllables of the sixty in the syllabary and the heading field fifteen, so covering a two-syllable unit is roughly chance",
+   "source": "measured 13 September 2026",
+   "consequence": "the one new alternative the work generated, and the one that would have explained the functional-search negative without changing the language, does not hold in its strict form"
+  },
+  {
+   "what": "Schoep's inference that SA-RA2 and TE represent opposite transactions, drawn from their mutual exclusion in mixed-commodity tablets",
+   "why": "the exclusion is a fact, 0 of 1,720 documents carry both, but it is not significant: with SA-RA2 in 20 documents and TE in 58, the hypergeometric probability of no overlap by chance is p = 0.50. Two rare terms in a large corpus do not meet. The fact was checked and holds; the inference from it does not",
+   "source": "measured 13 September 2026 while auditing the claims that rest on external sources alone",
+   "consequence": "a widely cited reading of SA-RA2 loses the argument it rested on, and our own entry has been amended"
+  },
+  {
+   "what": "using the absence of the o-series in Minoan to exclude candidate languages across the board",
+   "why": "seven of the eleven candidates with sufficient data are transmitted in cuneiform, which does not distinguish o from u, so their transliterations give 0.0% o as a property of the script and not of the language. The test can only be run on the three candidates written in systems that distinguish o: Mycenaean (26.3%), Etruscan (2.3%) and Iberian (8.2%)",
+   "source": "measured 13 September 2026",
+   "consequence": "the constraint is real and hard but reaches only three of eleven candidates. Of those three, Etruscan is the closest to Minoan and has a four-vowel system without o, while our own anchored value search ranks Etruscan worst of the thirteen at z = -3.2: a shared phonological profile is evidence of area or typology, not of kinship, and the two measurements must be read together"
+  },
+  {
+   "what": "using the near-absence of the o-series to place Minoan within the Anatolian family",
+   "why": "measured across the seven Anatolian corpora of eDiAna, the o ranges from 0.0% in Lycian and Lycian B to 7.5% in Lydian, 17.4% in Sidetic, 19.4% in Carian and 24.3% in Pisidian. The absence of o does not group the Anatolian languages: it is a feature of individual languages, not of the branch. Sharing it with Lycian brings Minoan no closer to Anatolia than to Etruscan, which shares it and is not Anatolian. The cuneiform languages are excluded from this measurement because their script does not distinguish o from u, not because they are irrelevant: morphological comparison reads perfectly well in cuneiform, and including them on the vowel count would require reconstructed phonological systems rather than attested transliterations, which would carry a school of thought inside the measurement",
+   "source": "measured 13 September 2026 on the eDiAna corpora (CC BY-SA 4.0)",
+   "consequence": "the phonological support Finkelberg 2001 invokes for her Anatolian classification does not hold, and on the full vowel profile Lydian, which she discards on eight morphological disagreements, is the closest of ten comparable languages while Lycian, which she chooses, is the furthest, tied with Mycenaean Greek"
+  },
+  {
+   "what": "comparing the ending profile of Linear A with that of the alphabetic languages",
+   "why": "the null is not comparable across writing systems: shuffling syllables and shuffling letters generate spurious endings at very different rates, so the alphabetic languages return ratios below one (Lycian 0.44, Lydian 0.63) while Pisidian on 165 words returns 2.87. The test works within a writing system and not between systems",
+   "source": "measured 13 September 2026",
+   "consequence": "of three features compared across the Anatolian corpora, the vowel profile points to Lydian, reduplication points to Lycian, and the ending profile cannot point anywhere. Choosing a candidate by single features depends on which feature is chosen"
+  },
+  {
+   "what": "building a decipherment framework for Linear A on the model of Luo et al. 2021, extended from an alphabet to a syllabary with logograms, ligatures and fractions",
+   "why": "the only constraint on phonetic values such a framework would add that existing methods lack is the ligature: nineteen syllabograms bound to a single commodity, each admitting 15 to 33 values against 74 for a free sign. That is 36 bits of a 587-bit cost, a tenth of the deficit, leaving 4.8e24 assignments. Their own model, run on Iberian — five times more text than Linear A and an accepted value grid — found no language standing out",
+   "source": "measured 13 September 2026",
+   "consequence": "the framework is buildable and would not close the gap. The ligature constraint is reported as a result in its own right"
+  },
+  {
+   "what": "the ligature as a constraint on phonetic values, and with it the decipherment framework for mixed scripts as a route to Linear A values",
+   "why": "built (kuro/mixed.py, six tests) and validated on Linear B before touching Linear A: the two natural formulations of the constraint fail where the answer is known, p = 0.22 and p = 0.41",
+   "source": "measured 13 September 2026",
+   "consequence": "the framework stands as a classifier of mixed scripts and as the instrument that produced this negative; the distributional fact that bound syllabograms are commodity-specific (p < 0.0005) stands; the 36 bits are withdrawn"
+  },
+  {
+   "what": "Kober's test of inflection applied to Linear A",
+   "why": "the test has zero power at 501 units: Linear B subsampled to that size gives a bridge ratio of 0.56 against 0.61 for Linear A, and none of four inflection statistics detects Greek inflection at that size in 25 subsamples. Whether Linear A is inflected is undeterminable with this corpus",
+   "source": "measured 14 September 2026",
+   "consequence": "a negative that would have been published as \"Linear A is not inflected\" is a statement about corpus size"
+  },
+  {
+   "what": "reading the Linear B spelling of consonant clusters as evidence about Minoan phonology",
+   "why": "the two branches descending from Linear A solve clusters incompatibly: Linear B omits final consonants and simplifies, the Cypriot syllabary writes every consonant with an echo vowel (po-to-li-se for ptolis). A rule inherited from the parent would be the same in both",
+   "source": "measured 14 September 2026",
+   "consequence": "the Linear B cluster convention is a Mycenaean innovation and says nothing about Minoan"
+  },
+  {
+   "what": "anchoring Linear A ideograms through the Cretan glosses of Hesychius",
+   "why": "of the 37 non-Greek Cretan glosses collected by Brown (1985), none can be tested against a Linear A ideogram: either the corresponding ideogram is absent from Linear A (SUS, the pig, occurs zero times although marin means \"sow\") or the gloss has no associated logogram. The glosses preserve general vocabulary — sun, mountain, fly, hare, head, sweet — while the archive records commodities and accounting parties",
+   "source": "measured 14 September 2026",
+   "consequence": "the two cases the field already has, NI for fig via nikuleon and CAP for goat via miglas, are not joined by others from this source. The glossary remains as a constraint on future readings rather than as an anchor"
+  },
+  {
+   "what": "lexical continuity between attested Eteocretan and Linear A",
+   "why": "with vowels preserved and only the distinctions a CV syllabary makes, zero of 71 Eteocretan words match any of 499 Linear A units, and zero of 28 Greek controls, against a null of 0.10. Seventy-one fragmentary words against five hundred units, a thousand years apart: the material does not reach even if the continuity exists",
+   "source": "measured 14 September 2026",
+   "consequence": "the best available analogue of Linear A, a script that is read and not understood and probably descended from Minoan, yields no lexical bridge"
+  },
+  {
+   "what": "adding the Cretan Hieroglyphic corpus to Linear A to break the power ceiling",
+   "why": "the CHIC publishes its 331 texts as photographs and drawings, not transliterations, and its sign index gives sign-to-document without order: of 547 references only 39 carry the position letter within a face, and five documents have two or more orderable signs. What is recoverable is the inventory of signs per face, not lexical sequences, and without order it serves neither Kober nor the clique test nor the ending profile",
+   "source": "measured 14 September 2026, after downloading all 454 pages of the volume from CEFAEL",
+   "consequence": "the material is on disk and located section by section, but reconstructing sequences requires reading the plates sign by sign against the reference plate, which is weeks of trained specialist work and not a computational problem"
+  },
+  {
+   "what": "finding further Linear A toponyms through Linear B place names",
+   "why": "of seventeen Linear B toponyms, three appear exactly in the intact Linear A corpus (PA-I-TO, SU-KI-RI-TA, SE-TO-I-JA) against 0.24 expected, p = 0.0005; the other fourteen, including Knossos, Tylissos, Amnisos and Lyktos, do not appear at all, nor at edit distance one",
+   "source": "measured 14 September 2026",
+   "consequence": "the three known toponyms are the three there are. The archives name their neighbours and not the island"
+  },
+  {
+   "what": "extending Neumann's method to the Cretan glosses of Hesychius, and classifying the shared ideograms by relative frequency",
+   "why": "of 22 non-Greek Cretan glosses with a concrete meaning, only four have a corresponding Linear A ideogram; two are the known cases NI and CAP, and the other two (SUS, VAS) have no phonetic value in either script. And the frequency classifier fails its own control: of the four signs the field identifies as Minoan, three fall on the expected side and SA falls on the other",
+   "source": "measured 14 September 2026",
+   "consequence": "two falsifiable predictions are left on record — if the value of SUS is ever fixed it must be /ma/ from marin \"sow\", and if VAS is fixed it must be /a/ from agdys \"vessel\" — and the only live route to new anchors is the three ligatures TELA+KU, OLE+RA and CYP+PA, which requires a specialist"
+  },
+  {
+   "what": "reading the Minoan vowel system from the scarcity of the o-series",
+   "why": "the series is too thinly attested to carry interpretation: ZO occurs twice and both times standalone, PO eight times, O twenty-nine with seventeen standalone; only KO, RO and TO have clear syllabic use, and RO is dominated by KU-RO and KI-RO. Meissner and Steele are right that attestation is the limiting factor",
+   "source": "measured 15 September 2026",
+   "consequence": "the measured facts stand — the gap is specific to the o-series, is not explained by sign frequency, and is structured — but their interpretation does not, and the structure itself may reflect what has survived rather than what existed"
+  },
+  {
+   "what": "the generative half: running the alignment model on Linear A with every measured constraint connected, and building the grid from internal distribution as Kober did",
+   "why": "the generator, given matched vocabularies and matched syllabification and all measured constraints, ranks Hittite first but does not separate it from thirty false vocabularies built from its own syllables (z = +1.16, p = 0.100). And the grid structure is present in the corpus — signs sharing a consonant have more similar contexts than chance, 0.7150 against 0.6335, p < 0.0005 — but too weakly to drive clustering: grouped into thirteen clusters, the consonant series do not emerge",
+   "source": "measured 15 September 2026",
+   "consequence": "the two halves of the problem, the one that rejects and the one that proposes, now give the same answer. The power ceiling established on 14 September from the critical side is confirmed from the generative side"
+  },
+  {
+   "what": "recovering Minoan-Mycenaean sound correspondences by the comparative method, and running the double-constraint bench against Mycenaean",
+   "why": "without a function requirement the search yields 590 correspondences with three or more cases against 349.7 expected: RU corresponds to TO, RO, TA, JO, TE, RI, KI, MA and NO alike, because with 501 units and 4,941 Mycenaean words one-syllable pairs are everywhere. With the function requirement the bench returns zero for every specific category — 57 candidate pairs for KU-RO and none means total, 51 for KI-RO and none means deficit — and its four hits are all in the name category, the least constrained one, where Mycenaean has 1,807 entries",
+   "source": "measured 15 September 2026",
+   "consequence": "the bench now returns zero for Akkadian, Ugaritic, Sumerian and Mycenaean alike. The Mycenaeans inherited the signs and not the lexicon, and the failure is not one of choosing the wrong candidate language"
+  },
+  {
+   "what": "reducing the effective vocabulary by merging affixed forms, to see whether the power floor is an artefact of counting forms as separate words",
+   "why": "29 affix families over the 501 intact types against 20.9 expected under a generative null (p = 0.07), and merging them would take the vocabulary from 501 to 473, a 6% reduction that moves no power calculation. The method does recover the families the field already knows — JA-SA-SA-RA with its variants, and DA-MA-TE with I-DA-MA-TE of the Arkalochori axes — but not enough new ones",
+   "source": "measured 15 September 2026",
+   "consequence": "the power floor belongs to the corpus and not to how it is counted"
+  },
+  {
+   "what": "applying Omega-N, the per-node structural descriptor of the Omega family, to the sign co-occurrence graph, to find signs whose structural position is not explained by their degree",
+   "why": "the control on Linear B, where the values are known, flags none of 45 signs at |z| > 2 against a degree-preserving null. The reason is visible in the graph itself: its density is 0.91, because with 1,340 words almost any two frequent syllables co-occur somewhere, so every node sits in almost every triangle and there is no per-node structure to detect. By the third rule of this project, a method that does not recover the known answer is not applied to Linear A",
+   "source": "measured 16 September 2026",
+   "consequence": "of the Omega family, Omega-S needs a network that is trained, Omega-R needs two time points that a single destruction horizon does not provide, and the TSI needs signed relations. None of the four applies to this corpus"
   }
  ],
  "reader_failures": [
@@ -221,6 +1322,484 @@
    "date": "2026-09-10",
    "what": "the literature regex matched the page number 301 in \"Weilhartner 2014, 301-2\" as sign *301, and the Reader turned \"the crocus logogram is not documented in Linear A\" into \"*301 (crocus)\"",
    "fix": "sign numbers require the asterisk or an AB/A prefix (kuro/generate.py); 48 passages became 35; the four propositions of the first live run were all stopped by the novelty gate, none reached a null"
+  },
+  {
+   "date": "2026-09-11",
+   "what": "the NeuroDecipher tournament run (13 known languages) produced meaningless matches and the positive control did not find Hebrew",
+   "fix": "explained by Tamburini 2025: he could not reproduce the published accuracies of Luo et al. 2019 either, reports that they appear to be maxima over many restarts, and had to strip information from the input that is unavailable in real settings (the expected number of cognates). Superseded by the plan to run CSA_OptMatcher with our shuffled control."
+  },
+  {
+   "date": "2026-09-12",
+   "what": "the Linear A against Mycenaean run with sixteen anchors fixed was designed as a positive control of CSA_OptMatcher and gives 1 of 38 free signs (3%, chance)",
+   "fix": "it is not a control: the method optimises for a matching between the two lexica, and where no cognates exist the correct sign mapping carries no advantage. It is a fifth measurement of the same negative. The real control is Tamburini own benchmark, linear_b-greek.cog, pending"
+  },
+  {
+   "date": "2026-09-12",
+   "what": "the formula paper states that SY Za 2 fixes U-NA-KA-NA-SI as the term for the offering, but the unit was never archived in the dictionary with its evidence and refutation condition, and the claim rests on a single hyphenated token (U-NA-KA-NA-SI-OLE) in an inscription absent from SigLA",
+   "fix": "found by running the bench on a rival proposal, 12 September 2026. The unit is now archived as disputed with the evidence against; the formula paper must be qualified and the page of GORILA IV for SY Za 2 checked"
   }
- ]
+ ],
+ "p_value_support": {
+  "reduplication_vs_mycenaean": {
+   "n": 501,
+   "baseline_n": 4962,
+   "test": "binomial vs Mycenaean rate"
+  },
+  "u_o_doublets": {
+   "n": 90,
+   "repetitions": 500,
+   "test": "permutation, final vowel replaced"
+  },
+  "o_series_underrepresented": {
+   "n": 2677,
+   "baseline_n": 17646,
+   "test": "binomial vs Linear B rate"
+  },
+  "grain_counted_in_tens": {
+   "n": 151,
+   "repetitions": 500,
+   "test": "permutation across commodities"
+  },
+  "modular_allocation": {
+   "n": 119,
+   "repetitions": 500,
+   "test": "permutation of figures across documents"
+  },
+  "repeated_figure": {
+   "n": 119,
+   "repetitions": 500,
+   "test": "permutation of figures across documents"
+  },
+  "list_entries_recur_together": {
+   "n": 56,
+   "repetitions": 600,
+   "test": "permutation preserving document size and item frequency"
+  },
+  "group_c_quantity_stability": {
+   "n": 5,
+   "repetitions": 5000,
+   "test": "random samples of five entries"
+  },
+  "group_c_parties_vs_varieties": {
+   "n": 6,
+   "test": "binomial vs base rate 0.116"
+  },
+  "opening_position_not_an_entry": {
+   "n": 184,
+   "baseline_n": 464,
+   "test": "binomial vs base rate"
+  },
+  "sara2_te_exclusion": {
+   "n": 1720,
+   "test": "hypergeometric"
+  },
+  "ligatures_are_commodity_specific": {
+   "n": 26,
+   "repetitions": 2000,
+   "test": "permutation of syllabograms across logograms preserving ligature counts"
+  },
+  "acronym_hypothesis": {
+   "n": 11,
+   "repetitions": 2000,
+   "test": "false units of the same length from the real syllabary"
+  },
+  "circuits_differ_in_iconography": {
+   "n": 767,
+   "repetitions": 500,
+   "test": "permutation of circuit labels"
+  },
+  "marks_and_seals_paired": {
+   "n": 42,
+   "repetitions": 400,
+   "test": "random reassignment of marks"
+  },
+  "finkelberg_paradigm_is_heading_not_verb": {
+   "n": 17,
+   "test": "binomial vs base rate 0.405"
+  },
+  "tg_stem_uncorrected": {
+   "n": 11,
+   "repetitions": 400,
+   "test": "shuffled syllables"
+  },
+  "tg_stem_corrected": {
+   "n": 11,
+   "repetitions": 400,
+   "test": "shuffled syllables, Bonferroni over 12 series"
+  },
+  "mimation_vs_mycenaean": {
+   "n": 661,
+   "baseline_n": 5000,
+   "test": "binomial vs Mycenaean rate"
+  },
+  "sign_309_not_bulk": {
+   "n": 10,
+   "test": "binomial vs bulk fraction rate 0.34"
+  },
+  "sign_307_header_frame_uncorrected": {
+   "n": 5,
+   "test": "binomial vs base rate 0.029; does not survive correction"
+  },
+  "class_v_exclusives": {
+   "n": 70,
+   "null_expectation": 41.2,
+   "test": "exclusive words of class V against null expectation"
+  },
+  "direct_trade_terms": {
+   "n": 53,
+   "matched": 13,
+   "null": 20.6,
+   "test": "trade terms matched against null"
+  },
+  "egyptian_phonotactics": {
+   "n": 1357,
+   "test": "aligned Egyptian formulae, position of the deity"
+  },
+  "formula_prediction": {
+   "n": 66,
+   "hits": 8,
+   "test": "blind prediction of formula slot fillers"
+  },
+  "keftiu_vs_cross_archive_candidates": {
+   "null": 3.95,
+   "test": "permutation across archives"
+  },
+  "khania_no_totals": {
+   "n": 105,
+   "test": "binomial, Khania tablets without a total term"
+  },
+  "mimation_without_formula": {
+   "n": 661,
+   "test": "final-consonant rate vs Mycenaean, Ugaritic and Akkadian"
+  },
+  "packard_real_vs_fictitious_grids": {
+   "z": -4.71,
+   "test": "real corpus against Packard's fictitious grids"
+  },
+  "phytonyms_vs_null": {
+   "matched": 9,
+   "test": "phytonym matches against shuffled null"
+  },
+  "ratio_304_ole": {
+   "cv": 0.59,
+   "null_cv": 2.05,
+   "test": "coefficient of variation against null"
+  },
+  "te_sara2_exclusion": {
+   "n": 1720,
+   "te_documents": 58,
+   "test": "hypergeometric"
+  },
+  "wanderworter": {
+   "n": 21,
+   "matched": 9,
+   "null": 2.3,
+   "test": "Wanderwoerter matched against null"
+  },
+  "all_b_names_in_linear_a": {
+   "n": 1730,
+   "matched": 12,
+   "null": 11.94,
+   "repetitions": 2000,
+   "test": "Linear B names against length-matched null"
+  },
+  "pregreek_substrate_in_linear_a": {
+   "n": 34,
+   "matched": 0,
+   "null": 0.2,
+   "repetitions": 2000,
+   "test": "pre-Greek substrate vocabulary against length-matched null"
+  },
+  "toponyms_vs_null": {
+   "n": 8,
+   "matched": 4,
+   "null": 0.045,
+   "repetitions": 2000,
+   "test": "toponyms against random units built from the real syllabary"
+  },
+  "toponyms_vs_random_mycenaean": {
+   "n": 8,
+   "matched": 4,
+   "note": "the comparison as named is ill-posed: random Mycenaean words are in the Mycenaean lexicon by construction",
+   "test": "ILL-POSED, to be withdrawn"
+  },
+  "entries_ju_ending": {
+   "n": 661,
+   "observed": 12,
+   "mean_ending_frequency": 6.8,
+   "test": "frequency of -ju among final syllables; -ju is NOT unusually frequent (12 of 661, mean ending 5.9)"
+  },
+  "qe_suffix_pairs": {
+   "n": 6,
+   "pairs": 1,
+   "test": "X-QE with X attested: only one pair, KA-PA-QE ~ KA-PA. A p-value on one case is not reportable"
+  },
+  "no_military_in_linear_a": {
+   "n": 8596,
+   "observed": 1,
+   "test": "count, not a test: 1 military logogram in 8,596 signs. The archived p compares against the Linear B rate with no null of its own and should be withdrawn"
+  },
+  "objects_vs_null": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "aromatics_capture_correlation": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "star305_capture_correlation": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "cypd_fixed_quantity": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "eight_pairs_vs_same_series": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "shared_units_closer_than_null": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "room_within_series": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "series_within_room": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "toponyms_span_archives": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "toponyms_strict_stems": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "montecchi_2010_logograms": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "montecchi_2019_logograms": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "etruscan_genitive_before_clan": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "etruscan_genitive_before_puia": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "etruscan_genitive_before_sec": {
+   "test": "NOT RECOVERABLE: no trace in documents or code; to be remeasured or withdrawn"
+  },
+  "valuesearch_z": {
+   "controls": 20,
+   "steps": 6000,
+   "targets": "normalised: deduplicated, no logograms or cuneiform signs, skeletons of 6 consonants or fewer",
+   "test": "simulated annealing over the 59 free signs; real corpus against a control Minoan with syllable order destroyed"
+  },
+  "ligature_acrophony_linear_b": {
+   "n": 10,
+   "repetitions": 500,
+   "test": "semantic fields shuffled across logograms"
+  },
+  "ligature_adjacent_linear_b": {
+   "n": 11,
+   "repetitions": 500,
+   "test": "logograms shuffled"
+  },
+  "kober_bridges_linear_a": {
+   "n": 501,
+   "repetitions": 500,
+   "test": "final syllables shuffled across stems"
+  },
+  "kober_rule_strong_bridges": {
+   "n": 4,
+   "repetitions": 2000,
+   "test": "random pairs of finals from the real inventory"
+  },
+  "kober_rule_all_bridges": {
+   "n": 44,
+   "repetitions": 2000,
+   "test": "random pairs of finals from the real inventory"
+  },
+  "vowel_alternation": {
+   "n": 55,
+   "repetitions": 300,
+   "test": "vowels permuted within each consonant family"
+  },
+  "ligature_signs_as_morphemes": {
+   "n": 30,
+   "test": "binomial against corpus base rate 0.58"
+  },
+  "consonant_cluster_signature": {
+   "n": 880,
+   "repetitions": 300,
+   "test": "signs permuted"
+  },
+  "nongreek_B_vocabulary_in_A": {
+   "n": 19,
+   "repetitions": 2000,
+   "test": "Greek Linear B words of matched length"
+  },
+  "eteocretan_vs_linear_a_loose": {
+   "n": 69,
+   "repetitions": 1000,
+   "test": "three nulls: uniform, Linear A consonant frequency, Eteocretan consonant frequency — all defeated by the Greek control"
+  },
+  "eteocretan_vs_linear_a_strict": {
+   "n": 71,
+   "repetitions": 800,
+   "test": "CV sequences with vowels preserved, real Linear A syllables as null"
+  },
+  "valueless_signs_open_more": {
+   "n": 201,
+   "test": "frequency-matched null over 2000 draws",
+   "repetitions": 2000
+  },
+  "sign_411_opens": {
+   "n": 15,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_411_roundel": {
+   "n": 15,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_118_closes": {
+   "n": 17,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_409_roundel": {
+   "n": 5,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_306_opens": {
+   "n": 9,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_86_opens": {
+   "n": 9,
+   "test": "binomial against the corpus base rate"
+  },
+  "sign_188_opens": {
+   "n": 7,
+   "test": "binomial against the corpus base rate"
+  },
+  "vowel_harmony_linear_a": {
+   "n": 1094,
+   "repetitions": 400,
+   "test": "syllables shuffled across units preserving lengths; power verified at 100% on Linear B subsamples"
+  },
+  "vowel_harmony_linear_b": {
+   "n": 27737,
+   "repetitions": 400,
+   "test": "same"
+  },
+  "mi_consonant_linear_a": {
+   "n": 880,
+   "repetitions": 300,
+   "test": "mutual information of adjacent consonants against shuffled null"
+  },
+  "toponyms_strict": {
+   "n": 17,
+   "repetitions": 2000,
+   "test": "false toponyms built from real syllables"
+  },
+  "label_opens_document": {
+   "n": 46,
+   "repetitions": 2000,
+   "test": "positions drawn at random from the pooled set of functional units"
+  },
+  "total_closes_document": {
+   "n": 41,
+   "repetitions": 2000,
+   "test": "positions drawn at random from the pooled set of functional units"
+  },
+  "deficit_position": {
+   "n": 32,
+   "repetitions": 2000,
+   "test": "positions drawn at random from the pooled set of functional units"
+  },
+  "te_flanked_by_dividers": {
+   "n": 58,
+   "test": "binomial against the corpus base rate of 0.032 for any token between dividers"
+  },
+  "phytonym_three_conditions": {
+   "n": 661,
+   "repetitions": 2000,
+   "test": "false plant names built from real corpus syllables, preserving count and root length"
+  },
+  "o_series_fewer_correspondences": {
+   "n": 17,
+   "test": "binomial against the 63% correspondence rate of all 82 Linear B syllabograms"
+  },
+  "o_series_freq_matched": {
+   "n": 17,
+   "repetitions": 4000,
+   "test": "frequency-matched null over Linear B syllabograms"
+  },
+  "o_gap_structure": {
+   "n": 73,
+   "repetitions": 4000,
+   "test": "52 correspondences dealt at random among the 73 basic signs"
+  },
+  "cu_for_co": {
+   "n": 89,
+   "repetitions": 600,
+   "test": "substitution by o-series syllables that do exist in Linear A"
+  },
+  "valueless_as_co": {
+   "n": 9,
+   "repetitions": 800,
+   "test": "substitution by seven syllables of known value, matched in number"
+  },
+  "o_series_final_position": {
+   "n": 65,
+   "repetitions": 2000,
+   "test": "frequency-matched null, with KU-RO and KI-RO removed"
+  },
+  "te_between_party_and_commodity": {
+   "n": 59,
+   "test": "binomial against the corpus base rate for that slot, with logograms identified distributionally (kuro/signclass.py)"
+  },
+  "sign_307_slot": {
+   "n": 9,
+   "test": "binomial against the corpus base rate for that slot, with logograms identified distributionally (kuro/signclass.py)"
+  },
+  "sign_516_slot": {
+   "n": 9,
+   "test": "binomial against the corpus base rate for that slot, with logograms identified distributionally (kuro/signclass.py)"
+  },
+  "sara2_slot": {
+   "n": 20,
+   "test": "binomial against the corpus base rate for that slot, with logograms identified distributionally (kuro/signclass.py)"
+  },
+  "generator_hittite_vs_false": {
+   "n": 868,
+   "repetitions": 30,
+   "test": "false vocabularies from the language own syllables"
+  },
+  "grid_consonant_structure": {
+   "n": 65,
+   "repetitions": 800,
+   "test": "sign values permuted"
+  },
+  "grid_vowel_structure": {
+   "n": 235,
+   "repetitions": 800,
+   "test": "sign values permuted"
+  },
+  "regular_correspondences": {
+   "n": 501,
+   "repetitions": 300,
+   "test": "Linear A syllables permuted; significant but uninterpretable, see the analysis"
+  },
+  "trigram_reuse": {
+   "n": 561,
+   "repetitions": 400,
+   "test": "synthetic corpus with the same length distribution, positional frequencies and syllable dependency"
+  },
+  "affix_families": {
+   "n": 501,
+   "repetitions": 200,
+   "test": "generative null with the same size, length distribution, positional frequencies and syllable dependency"
+  },
+  "iconic_logograms_ligate_less": {
+   "n": 159,
+   "test": "binomial against the ligature rate of generic logograms (50.8% over 384 occurrences)"
+  }
+ },
+ "p_values_without_declared_support": []
 }

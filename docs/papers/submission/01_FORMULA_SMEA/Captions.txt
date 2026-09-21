@@ -1,0 +1,6 @@
+Fig. 1. The eighteen non-accounting inscriptions preserving at least one anchor, aligned by slot (GORILA sigla; syllabic groups in lower case, logograms in capitals).
+Fig. 2. SY Za 2, the one formula inscription with logograms: the word before D carries OLIV, D itself is followed by OLE. Schematic after GORILA IV.
+Fig. 3. Held-out reconstruction of 57 slots by rank: the template predictor, the n-gram baseline and the most-frequent-element baseline converge on the share of slots with a repeated filler (about 23%), a ceiling of the corpus.
+Table 1. Constituent order of four votive traditions against the Minoan template.
+Table 2. Relative position of each constituent, Minoan and Egyptian (1,357 Egyptian offering formulae from the AES corpus).
+Table 3. Held-out recovery by rank.

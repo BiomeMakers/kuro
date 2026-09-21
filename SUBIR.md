@@ -1,33 +1,32 @@
-# Cómo subir esta actualización (11 de septiembre de 2026)
+# Cómo subir esta actualización (12 de septiembre de 2026)
 
-Descomprime `kuro_github_11sep.zip`; queda una carpeta `kuro_push_v60`. Desde tu terminal:
+Descomprime `kuro_github_12sep.zip`; queda una carpeta `kuro_push_v61`. Desde tu terminal:
 
 ```
-cd ~/Downloads/kuro_push_v60
-rsync -a --delete --exclude .git ./ ~/Downloads/kuro_repo/
+cd ~/Downloads && rm -rf kuro_push_v61 && unzip -qo kuro_github_12sep.zip
+rsync -a --exclude .git --exclude data/raw kuro_push_v61/ ~/Downloads/kuro_repo/
 cd ~/Downloads/kuro_repo
-git rm -r --cached data/raw 2>/dev/null; git add -A
-git status | head -30          # comprueba que data/raw NO aparece salvo data/raw/README.md
-git commit -m "inventory 56, profile and name instruments, value search, reader and hypothesizer, Iberian calibration, papers v0.2"
+git add -A
+git status | head -40          # comprueba que data/raw NO aparece
+git commit -m "Khania archive, commodity ratios, Egyptian alignment, GORILA verification, submission drafts"
 git push
 ```
 
-Si `~/Downloads/kuro_repo` no existe (clon nuevo): `git clone https://github.com/BiomeMakers/kuro ~/Downloads/kuro_repo` primero.
+Ojo: el `rsync` de esta versión NO lleva `--delete`, para no borrar ficheros que estén en tu repo y no en este paquete (el 11-sep se borraron siete y hubo que recuperarlos).
 
-## Qué lleva y qué no
+## Qué lleva de nuevo respecto al commit b4cd1a1 (11-sep)
 
-**Lleva:** `kuro/` (paquete, 106 tests), `scripts/` (incluidos `value_search.py`, `read_units.py`,
-`propose_units.py`, `cycle_*.py`, `extract_linearb.py`, `extract_nodule_seals.py`, `fetch_candidates.py`),
-`manifest.json`, `biblio/`, `docs/papers/` (PDF y fuentes, con trece v0.2 y protocolo v0.2),
-`docs/analysis/` (149), `docs/state/` (22), `docs/REGISTRO_cambios.md`, `data/derived/` (diccionario,
-tasas de error, nódulos signo×sello, búsqueda de valores, ibérico, corridas del lector e hipotetizador).
+**Resultados nuevos** (`docs/analysis/`): cotejo del inventario contra SigLA y GORILA (121 de 124 atestaciones confirmadas); el egipcio probado como candidata; las entradas de lista por terminaciones y el candidato -JU; las proporciones entre mercancías; el archivo de Khania medido aparte; el alineamiento posición a posición con 1.357 fórmulas de ofrenda egipcias.
 
-**No lleva, por licencia:** `data/raw/` entero (se obtiene con `data/fetch.py` y
-`scripts/fetch_candidates.py`; ver `data/README.md`), los textos de `docs/reference/`, los `.cog`.
-El `.gitignore` los excluye. Si `data/raw/inscriptions.json` estaba ya en el historial del repo,
-queda ahí; `data/README.md` dice cómo limpiarlo si el repo se hace público.
+**Artículos** (`docs/papers/` y `docs/papers/submission/`): el manuscrito de la fórmula en formato SMEA con sus tres figuras TIFF y la carta; los cinco artículos de envío; inventario y calibraciones en ES y EN.
+
+**Manifiesto**: 65 cifras, 24 p-valores, 8 retiradas (una nueva: las fracciones como enteros, que no se sostiene), 6 vías cerradas (una nueva: la ración estándar).
+
+**Estado** (`docs/state/`): el mapa del proyecto, la revisión de los artículos, los contactos enviados, y las opciones desde la bibliografía de desciframientos.
+
+## Qué no lleva
+`data/raw/` entero (se reconstruye con `data/fetch.py` y `scripts/fetch_candidates.py`), los textos de `docs/reference/`, los `.cog`. El `.gitignore` los excluye.
 
 ## Después de subir
-
-1. Zenodo (DOI): el repo trae `CITATION.cff` y licencia. Con el DOI, el artículo de software (JOSS).
-2. Comprobar que el workflow de GitHub Actions pasa (los tests no leen `data/raw`).
+1. Zenodo: activar el repositorio y crear la release `v0.2` en GitHub. Da el DOI.
+2. El workflow de Actions, desde la web (el token no tiene permiso `workflow`).

@@ -6,6 +6,11 @@ distribution summary and a p-value. Nothing here reads a language; everything he
 corpus can and cannot support.
 """
 from .corpus import Document, load_lineara, load_cdli_atf, load_csv_texts
+from .formats import FormatModel, category as format_category
+from .relational import align as gw_align, accuracy_on_shared_names
+from .survey import Survey, CorpusProfile
+from .adjudicate import Bench, classify as function_class
+from .attempt import Attempt, apply_grid
 from .nulls import shuffle_labels, shuffle_within_strata, curveball, shuffle_syllables
 from .tests import (profile_distance, affix_pairs, family_positions, metacommunity,
                     monopolies, confounder_jaccard, totals_check, form_screen, hapax_by_length,

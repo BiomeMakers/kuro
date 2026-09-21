@@ -48,6 +48,34 @@ def numbers_in(text):
     return found
 
 
+
+def check_p_value_support(manifest):
+    """Every p-value must declare what sustains it: the n, and the repetitions if permuted.
+
+    This check exists because a figure computed over five permutations was quoted for three
+    days as though it were firm, and moved by a full point when rerun over twenty.
+    """
+    support = manifest.get('p_value_support', {})
+    missing = sorted(set(manifest.get('p_values', {})) - set(support))
+    if missing:
+        print('p-values with no declared support (n, repetitions, test): %d of %d'
+              % (len(missing), len(manifest.get('p_values', {}))))
+        for key in missing[:8]:
+            print('    %s' % key)
+        if len(missing) > 8:
+            print('    ... and %d more' % (len(missing) - 8))
+        print()
+    fragile = [k for k, v in sorted(support.items())
+               if v.get('n', 999) < 15 or v.get('repetitions', 9999) < 100]
+    if fragile:
+        print('p-values resting on fewer than 15 observations or 100 repetitions: %d'
+              % len(fragile))
+        for key in fragile:
+            print('    %-42s n=%-5s reps=%s' % (key, support[key].get('n', '-'),
+                                                support[key].get('repetitions', '-')))
+    return missing, fragile
+
+
 def check(strict=False):
     man = load_manifest()
     papers = paper_texts()
@@ -56,6 +84,10 @@ def check(strict=False):
     if not papers:
         notes.append('no paper sources found under docs/papers; only PDFs are shipped, '
                      'so figure checking is limited to what the manifest records')
+
+    # A draft marked SUPERSEDED at the top is a source kept for the record, not a paper:
+    # its whole point is that it states what was later withdrawn.
+    papers = [(k, v) for k, v in papers if 'SUPERSEDED' not in v[:1200]]
 
     # 1. Withdrawn claims must not survive in a paper except inside a withdrawal statement.
     for w in man['withdrawn']:
@@ -106,6 +138,8 @@ def check(strict=False):
     else:
         print('no problems found')
         print()
+    check_p_value_support(man)
+    print()
     if notes:
         print(f'notes ({len(notes)})')
         for n in notes[:12]:

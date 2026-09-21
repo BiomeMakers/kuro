@@ -1,0 +1,401 @@
+{
+ "inventory": {
+  "documents": 1720,
+  "tokens": 8596,
+  "units": 1302,
+  "hapax": 971,
+  "units_3plus": 195,
+  "broken_in_every_attestation": 306,
+  "sites": [
+   [
+    "Haghia Triada",
+    1108
+   ],
+   [
+    "Khania",
+    227
+   ],
+   [
+    "Phaistos",
+    66
+   ],
+   [
+    "Knossos",
+    59
+   ],
+   [
+    "Zakros",
+    53
+   ],
+   [
+    "Palaikastro",
+    25
+   ]
+  ],
+  "supports": [
+   [
+    "Nodule",
+    886
+   ],
+   [
+    "Tablet",
+    392
+   ],
+   [
+    "Roundel",
+    151
+   ],
+   [
+    "Stone vessel",
+    107
+   ],
+   [
+    "Clay vessel",
+    74
+   ],
+   [
+    "Metal object",
+    23
+   ]
+  ]
+ },
+ "genres": {
+  "base": 0.254,
+  "genres": [
+   {
+    "genre": "Nodule",
+    "documents": 886,
+    "rigidity": 0.442,
+    "over_base": 0.188
+   },
+   {
+    "genre": "Roundel",
+    "documents": 151,
+    "rigidity": 0.423,
+    "over_base": 0.169
+   },
+   {
+    "genre": "3-sided bar",
+    "documents": 5,
+    "rigidity": 0.3,
+    "over_base": 0.046
+   },
+   {
+    "genre": "Tablet",
+    "documents": 392,
+    "rigidity": 0.274,
+    "over_base": 0.019
+   },
+   {
+    "genre": "Stone vessel",
+    "documents": 107,
+    "rigidity": 0.17,
+    "over_base": -0.084
+   },
+   {
+    "genre": "Sealing",
+    "documents": 12,
+    "rigidity": 0.125,
+    "over_base": -0.129
+   },
+   {
+    "genre": "4-sided bar",
+    "documents": 5,
+    "rigidity": 0.125,
+    "over_base": -0.129
+   },
+   {
+    "genre": "Clay vessel",
+    "documents": 74,
+    "rigidity": 0.079,
+    "over_base": -0.175
+   },
+   {
+    "genre": "Metal object",
+    "documents": 23,
+    "rigidity": 0.079,
+    "over_base": -0.175
+   },
+   {
+    "genre": "Inked inscription",
+    "documents": 9,
+    "rigidity": 0.059,
+    "over_base": -0.195
+   },
+   {
+    "genre": "Stone object",
+    "documents": 19,
+    "rigidity": 0.032,
+    "over_base": -0.222
+   },
+   {
+    "genre": "Lames (short thin tablet)",
+    "documents": 18,
+    "rigidity": 0.0,
+    "over_base": -0.254
+   },
+   {
+    "genre": "Architecture",
+    "documents": 6,
+    "rigidity": 0.0,
+    "over_base": -0.254
+   }
+  ]
+ },
+ "formats": [
+  {
+   "motif": "fCfCf",
+   "observed": 15,
+   "null": 0.48,
+   "ratio": Infinity,
+   "documents": [
+    "HT23a",
+    "HT35",
+    "HT50a",
+    "HT91",
+    "KH8",
+    "KH15"
+   ]
+  },
+  {
+   "motif": "WfWfW",
+   "observed": 7,
+   "null": 0.0,
+   "ratio": Infinity,
+   "documents": [
+    "HT8a",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "fWfWf",
+   "observed": 7,
+   "null": 0.03,
+   "ratio": Infinity,
+   "documents": [
+    "HT8a",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "W|.|C",
+   "observed": 7,
+   "null": 0.22,
+   "ratio": Infinity,
+   "documents": [
+    "HT27a",
+    "HT85a",
+    "HT91",
+    "HT96b",
+    "HT97a",
+    "HT122b",
+    "ZA11a"
+   ]
+  },
+  {
+   "motif": "|C|LN",
+   "observed": 5,
+   "null": 0.22,
+   "ratio": Infinity,
+   "documents": [
+    "HT27b",
+    "HT66"
+   ]
+  },
+  {
+   "motif": "|CWNW",
+   "observed": 4,
+   "null": 0.08,
+   "ratio": Infinity,
+   "documents": [
+    "HT7a",
+    "HT95a",
+    "HT115a",
+    "HT122b"
+   ]
+  },
+  {
+   "motif": "C|LNL",
+   "observed": 4,
+   "null": 0.15,
+   "ratio": Infinity,
+   "documents": [
+    "HT27b",
+    "HT66"
+   ]
+  },
+  {
+   "motif": "CfCfC",
+   "observed": 17,
+   "null": 1.03,
+   "ratio": 16.6,
+   "documents": [
+    "HT23a",
+    "HT35",
+    "HT50a",
+    "HT91",
+    "KH8",
+    "KH14",
+    "KH15"
+   ]
+  }
+ ],
+ "functions": {
+  "first_position_base": 0.157,
+  "documents_used": 419,
+  "heading_candidates": [
+   {
+    "unit": "𐝫",
+    "first": 150,
+    "of": 491,
+    "p": 0.0
+   },
+   {
+    "unit": "A-TA-I-*301-WA-JA",
+    "first": 8,
+    "of": 8,
+    "p": 0.0
+   },
+   {
+    "unit": "A-DU",
+    "first": 7,
+    "of": 10,
+    "p": 0.00018
+   },
+   {
+    "unit": "A-KA-RU",
+    "first": 3,
+    "of": 3,
+    "p": 0.00385
+   },
+   {
+    "unit": "JA-SA",
+    "first": 3,
+    "of": 3,
+    "p": 0.00385
+   },
+   {
+    "unit": "KA-PA",
+    "first": 4,
+    "of": 6,
+    "p": 0.00692
+   },
+   {
+    "unit": "JE-DI",
+    "first": 3,
+    "of": 4,
+    "p": 0.01358
+   }
+  ],
+  "qualifiers": [
+   {
+    "syllable": "E",
+    "commodities": [
+     "CYP",
+     "GRA",
+     "OLE"
+    ]
+   },
+   {
+    "syllable": "KI",
+    "commodities": [
+     "*316",
+     "OLE"
+    ]
+   },
+   {
+    "syllable": "KU",
+    "commodities": [
+     "*188",
+     "GRA",
+     "TELA"
+    ]
+   },
+   {
+    "syllable": "PA",
+    "commodities": [
+     "*304",
+     "CYP",
+     "GRA"
+    ]
+   },
+   {
+    "syllable": "RA",
+    "commodities": [
+     "OLE",
+     "VIN"
+    ]
+   },
+   {
+    "syllable": "QIf",
+    "commodities": [
+     "GRA",
+     "OLE"
+    ]
+   },
+   {
+    "syllable": "KA",
+    "commodities": [
+     "VIN",
+     "VIR"
+    ]
+   },
+   {
+    "syllable": "D",
+    "commodities": [
+     "*304",
+     "CYP"
+    ]
+   }
+  ],
+  "note": "p values are bare; correct by the number of units tested before filing"
+ },
+ "endings": {
+  "words": 689,
+  "endings": 3,
+  "null_mean": 1.2,
+  "ratio": 2.5,
+  "p": 0.1,
+  "top": [
+   [
+    "ja",
+    7
+   ],
+   [
+    "me",
+    4
+   ],
+   [
+    "ti",
+    3
+   ]
+  ]
+ },
+ "anchoring": {
+  "skipped": "no external name list supplied"
+ },
+ "affiliation": {
+  "candidates": [
+   {
+    "language": "mycenaean",
+    "distance": 0.19,
+    "null_mean": 0.192,
+    "p": 0.155
+   },
+   {
+    "language": "hittite",
+    "distance": 0.208,
+    "null_mean": 0.193,
+    "p": 1.0
+   },
+   {
+    "language": "ugaritic",
+    "distance": 0.247,
+    "null_mean": 0.233,
+    "p": 1.0
+   }
+  ]
+ }
+}

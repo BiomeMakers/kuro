@@ -55,3 +55,8 @@ El objetivo es descifrar, y hoy queda establecido con nulos que el camino intern
 **2. Conseguir el dato que abre.** Solo hay dos datos que cambiarían el techo: los tipos de nódulo (Schoep, Anastasiadou: tuyo, enviar) y texto corrido nuevo, que no existe. Todo lo demás (más lenguas, más rasgos, más agentes) ya está medido y no mueve el número.
 
 Lo que **no** haría mañana: correr nada nuevo sobre el Lineal A, seguir con el ibérico, adaptar NeuroDecipher. El día de hoy ha demostrado dónde está el límite y ese es el resultado que hay que publicar, no perseguir.
+
+
+## Actualización 11 de septiembre (tarde)
+Hechos: **inventario v0.1** (nuevo, 3.600 palabras, ES; falta EN), **calibraciones v0.1** (fusión de etrusco, ibérico y tres archivos más Ascoli, terminaciones y chiprominoico; la sección de Susa y Uruk sigue en inglés y hay que traducirla), **aromáticos v0.2** (la receta pasa a anexo: cuerpo de 9.100 a 5.200 palabras), **topónimos v0.3** (sección 6 bis con el cotejo completo y las unidades rotas), **método v0.3** (partido: de 9.500 a 5.300; los nueve resultados quedan como punteros a sus artículos). Repositorio subido (commit b4cd1a1).
+Pendiente de escritura: versiones EN de inventario y calibraciones; traducir la sección 5 de calibraciones; el párrafo del torneo en las trece cuando llegue `pairs13.json`.

@@ -15,4 +15,3 @@ data/derived/nd/
 *.cog
 log/
 runs/
-data/derived/iberian_corpus.json

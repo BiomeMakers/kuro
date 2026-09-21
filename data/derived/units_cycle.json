@@ -1,24 +1,2162 @@
 {
- "prior_art": [],
- "survivors": [
+ "prior_art": [
+  {
+   "units": [
+    "*301"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that *301-U-RA appears as a sign-group (with *301 as an initial element) in document HT 115a, involved in a transfer to seven named entities.",
+   "refuted_by": "If HT 115a in the corpus does not contain the sign-group *301-U-RA or does not show it associated with seven recipient sign-groups, the claim would be false.",
+   "source_says": "\"The second between *301-U-RA and seven named entities.\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*301"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-group root I-*301 almost always appears with both a multisyllabic prefix and a multisyllabic suffix in the corpus.",
+   "refuted_by": "Finding instances of I-*301 that appear without a multisyllabic prefix or without a multisyllabic suffix in the corpus.",
+   "source_says": "\"this central root almost always appears with both a multisyllabic prefix and a multisyllabic suffix\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*301"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-group root I-*301 almost always appears with both a multisyllabic prefix and a multisyllabic suffix in the corpus.",
+   "refuted_by": "Finding instances in the corpus where I-*301 appears without a prefix or without a suffix would refute the claim.",
+   "source_says": "\"this central root almost always appears with both a multisyllabic prefix and a multisyllabic suffix\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*301"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-group root I-*301 almost always appears with both a multisyllabic prefix and a multisyllabic suffix in the corpus.",
+   "refuted_by": "Finding instances in the corpus where I-*301 appears without a prefix or without a suffix, or with only monosyllabic prefixes/suffixes, at a rate that contradicts \"almost always.\"",
+   "source_says": "\"this central root almost always appears with both a multisyllabic prefix and a multisyllabic suffix\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KU-RO"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that the sign-group KU-RO represents the word for \"total\" in the corpus.",
+   "refuted_by": "If KU-RO appears in contexts where it does not precede or accompany a summation of quantities listed above it, the claim would be undermined.",
+   "source_says": "\"KU-RO is assumed to represent 'total'.\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "RI-RU-MA",
+    "RI-RU-MA-TI",
+    "DA-KU-SE-NE",
+    "DA-KU-SE-NE-TI",
+    "RU-MA-TA",
+    "RU-MA-TA-SE",
+    "A-RA-TU",
+    "MA-KA-I-TA",
+    "MA-KA-I-SE",
+    "A-MI-DA-O",
+    "A-MI-DA-U",
+    "U-TA-I-SI",
+    "U-TA-I-SE"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that certain sign-groups in the corpus appear in pairs sharing a common stem but with alternating endings (e.g., MA-KA-I-TA vs. MA-KA-I-SE, A-MI-DA-O vs. A-MI-DA-U, U-TA-I-SI vs. U-TA-I-SE), evidencing suffix alternation.",
+   "refuted_by": "If any of these paired sign-groups do not both appear in the corpus, or if no sign-groups sharing a stem with differing final syllables can be found, the claim of alternating endings would be falsified.",
+   "source_says": "\"Some words such as the following show alternating endings, which also suggests suffixes at work\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "ZE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that in documents dealing with horses (KN Sc) or wheels (KN So), the sign ZE is contrasted with (co-occurs alongside) MO.",
+   "refuted_by": "If no document in the KN Sc or KN So groups contains both ZE and MO together, the claim would be refuted.",
+   "source_says": "\"in documents dealing with horses (KN Sc) or wheels (KN So), the abbreviation ZE is contrasted with MO\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "ZE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that in KN Sc and KN So documents, ZE and MO occur in contrast with each other (i.e., both appear in those document groups dealing with horses or wheels).",
+   "refuted_by": "If KN Sc or KN So documents show ZE without MO, or MO without ZE, or neither unit appears in those document groups, the claim would be falsified.",
+   "source_says": "\"in documents dealing with horses (KN Sc) or wheels (KN So), the abbreviation ZE is contrasted with MO\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "ZE"
+   ],
+   "kind": "absence",
+   "claim": "The passage claims that in some KN Sc tablets, the numeral '1' is omitted after ZE (among other signs), representing an exceptional scribal omission.",
+   "refuted_by": "If every instance of ZE on KN Sc tablets is followed by an explicit numeral, the claim of omission after ZE would be unsupported.",
+   "source_says": "\"such an omission may occur exceptionally (as e.g. in some KN Sc tablets after big, equ, tun or ZE)\"",
+   "source": "CompanionToLinearBVol1"
+  },
   {
    "units": [
     "*304"
    ],
+   "kind": "positional",
+   "claim": "The passage states that JA-*304[ appears as a name in a list on document PH 14a.",
+   "refuted_by": "If PH 14a does not contain the sign-group JA-*304[ or does not position it as a name in a list, the claim would be false.",
+   "source_says": "\"J-* JA-*304[ name in a list PH 14a\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "OLE+U",
+    "KA"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage claims that on HT 140, the ratio of OLE+U to KA is approximately 2:1, with OLE+U totalling at least 6J and KA totalling at least 8.",
+   "refuted_by": "If HT 140 in the corpus shows OLE+U and KA quantities whose ratio is not approximately 2:1, the claim is false.",
+   "source_says": "\"OLE+U that totals at least 6J, again perhaps rations (OLE+U : KA = ~2:1)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "OLE+U",
+    "KA"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage claims that on HT 140, the ratio of OLE+U to KA is approximately 2:1, with OLE+U totalling at least 6J and KA totalling at least 8.",
+   "refuted_by": "If HT 140 in the corpus shows OLE+U and KA quantities whose ratio is not approximately 2:1, the claim is false.",
+   "source_says": "\"OLE+U that totals at least 6J, again perhaps rations (OLE+U : KA = ~2:1)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "OLE+U"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that OLE+U is almost always listed first among the OLE+ commodities on a tablet.",
+   "refuted_by": "A tablet in the corpus where OLE+U appears but is not listed first among the sign-groups on that document.",
+   "source_says": "\"OLE+U (*610), almost always listed first and in whole units\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "PA-SE",
+    "OLE+KI"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that in HT 18, OLE+KI (and other commodities before SA-RA2) are associated with and follow PA-SE, while commodities after SA-RA2 are associated with SA-RA2, reflecting a continuity principle of name-then-commodity-list structure.",
+   "refuted_by": "If OLE+KI appeared in HT 18 after SA-RA2 rather than before it, the positional association with PA-SE would be false.",
+   "source_says": "\"HT 18 assumes that the first 3 commodities are associated with PA-SE and the next 2 commodities are associated with SA-RA2.\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "GRA+PA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that GRA+PA follows the sign-group I+[?] in document ZA 11a.1 as part of a heading.",
+   "refuted_by": "If ZA 11a.1 in the corpus shows GRA+PA preceding I+[?] or not adjacent to it, the claim would be false.",
+   "source_says": "\"precedes GRA+PA\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "GRA+PA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that GRA+PA is a ligatured logogram appearing at ZA 11a.4.",
+   "refuted_by": "If GRA+PA at ZA 11a.4 is not a ligature but two separate signs, or does not appear at that document, the claim is false.",
+   "source_says": "\"QE+GRA+PA ligatured logogram ZA 11a.4\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "PA-RA-NE",
+    "A-PA-RA-NE"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that PA-RA-NE and A-PA-RA-NE co-occur in the corpus as a pair, with A-PA-RA-NE representing a prefixed form of PA-RA-NE using the prefix A-.",
+   "refuted_by": "If A-PA-RA-NE does not appear in the corpus, or if PA-RA-NE and A-PA-RA-NE never co-occur in the same or related documents, the pairing claim would be undermined.",
+   "source_says": "\"there is substantial evidence for a prefix a-, as these pairs of words show: PA-RA-NE A-PA-RA-NE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*164"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that on tablet HT 19, the sign-group RA-*164-TI appears as an entity in a transfer list alongside a transaction sign and the commodity VIN with a quantity of 30.",
+   "refuted_by": "If HT 19 in the corpus does not contain RA-*164-TI together with VIN and the quantity 30, the claim would be false.",
+   "source_says": "\"RA-*164-TI Entity Single-Commodity Transfer List , TE , Transaction Sign vin 30\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KU-RO"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that the sign-group KU-RO functions as a total marker in the corpus, appearing in positions where it represents a sum of preceding quantities (e.g., in HT 13).",
+   "refuted_by": "If KU-RO appears in HT 13 but the value following it does not equal the sum of the quantities listed above it, the claim would be falsified.",
+   "source_says": "\"KU-RO is assumed to represent 'total'.\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "A-DU"
+   ],
    "kind": "distributional",
-   "claim": "*304 is a secondary staple listed with OLE and GRA at the base fraction rate",
-   "refuted_by": "*304 counted in fine fractions like CYP or with VIR",
-   "mechanism": "model",
-   "score": 0.0,
-   "klass": "staple",
-   "confidence": "low",
-   "source": "model",
-   "prior_art": true,
-   "p": 1.0,
+   "claim": "The passage states that in KH 11, A-DU appears as a recipient in a transfer list of mixed commodities.",
+   "refuted_by": "If A-DU does not appear in KH 11 or appears without mixed commodity logograms in that document, the claim is false.",
+   "source_says": "\"three transfer lists from the Khania administrative centre, each of mixed commodities to A-DU\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*188",
+    "KI-RO"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sequence \"*188 , KI-RO\" occurs together in HT 15, paralleling the structure of \"NI , KI-KI-NA\" with a numeral.",
+   "refuted_by": "If HT 15 in the corpus does not contain both *188 and KI-RO in proximity, the claim would be false.",
+   "source_says": "\"We see a similar structure to 'NI KI-KI-NA 7' in HT 15: '*188 , KI-RO 400'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*188"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that *188 is a hapax legomenon, appearing only once in the entire corpus.",
+   "refuted_by": "Finding *188 on any other document in the corpus would refute the claim.",
+   "source_says": "\"it is otherwise unknown\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "*188"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that *188 is not followed by a numeral or word divider in the corpus.",
+   "refuted_by": "Finding an instance in the corpus where *188 is followed by a numeral or word divider.",
+   "source_says": "\"*188 is not followed by a numeral or word divider\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "*516"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that *516 is used with figs, appearing on HT 96 and ZA 1.",
+   "refuted_by": "If *516 appears on HT 96 or ZA 1 without any fig logogram, the claim would be false.",
+   "source_says": "\"*516, I+[?] -- used with figs (HT 96, ZA 1)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "*516"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that in document HT 96, one section is headed TE and the next section is headed *516.",
+   "refuted_by": "If HT 96 does not contain TE and *516 as successive section headings, the claim is false.",
+   "source_says": "\"HT 96, where one section is headed TE and the next is headed *516\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "*516"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that *516 is used with figs, appearing on HT 96 and ZA 1.",
+   "refuted_by": "If *516 appears on HT 96 or ZA 1 without any fig logogram, the claim would be false.",
+   "source_says": "\"*516, I+[?] -- used with figs (HT 96, ZA 1)\"",
+   "source": "younger_ht_commentary_2024"
+  },
+  {
+   "units": [
+    "QE-RA₂-U",
+    "KI-RO",
+    "ZU-SU",
+    "DI-DI-ZA-KE",
+    "KU-PA₃-NU",
+    "A-RA-NA-RE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that on tablets classified as the \"Single-Commodity Inter-Entity Transfer\" group (HT 1, HT 104, HT 10a, HT 10b, HT 117a, HT 122a, HT 123+124b, HT 126a, HT 15, HT 20, HT 26a, HT 85b, HT 88, HT 94b, HT 95b, HT 9b), QE-RA₂-U appears in the head words followed by an entity list containing sign-groups such as KI-RO, ZU-SU, DI-DI-ZA-KE, KU-PA₃-NU, and A-RA-NA-RE.",
+   "refuted_by": "If any of the listed tablets do not contain QE-RA₂-U in a head-word position followed by a list including these sign-groups, the claim would be falsified.",
+   "source_says": "\"The tablets we classify in this group are: HT 1, HT 104, HT 10a, HT 10b, HT 117a\"",
+   "source": "Salgarella_and_Petrakis_eds_2026_The_Wor_1"
+  },
+  {
+   "units": [
+    "RI-RU-MA",
+    "RU-MA-TA",
+    "DA-KU-SE-NE",
+    "A-RA-TU",
+    "MA-KA-I-TA",
+    "MA-KA-I-SE",
+    "A-MI-DA-O",
+    "A-MI-DA-U",
+    "U-TA-I-SI",
+    "U-TA-I-SE"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that certain sign-groups appear in the corpus as pairs with alternating endings, such that one member of each pair shares an initial sequence with the other but differs in its final syllable(s), evidencing suffix alternation (e.g., MA-KA-I-TA / MA-KA-I-SE, A-MI-DA-O / A-MI-DA-U, U-TA-I-SI / U-TA-I-SE).",
+   "refuted_by": "If any of these paired sign-groups do not both appear in the corpus, or if the alleged shared stems are not actually attested together in the same or related documents, the claim of alternating endings would be unsupported.",
+   "source_says": "\"MA-KA-I-TA MA-KA-I-SE A-MI-DA-O A-MI-DA-U U-TA-I-SI U-TA-I-SE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "SU-KI-RI-TA",
+    "SU-KI-RI-TE-I-JA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that SU-KI-RI-TA and SU-KI-RI-TE-I-JA appear as alternating forms in the corpus, sharing the same stem with different endings.",
+   "refuted_by": "If only one of SU-KI-RI-TA or SU-KI-RI-TE-I-JA appears in the corpus, or neither appears, the alternation cannot be observed.",
+   "source_says": "\"SU-KI-RI-TA SU-KI-RI-TE-I-JA\" listed as examples of alternating endings.",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "SU-KI-RI-TA",
+    "SU-KI-RI-TE-I-JA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that the sign-group SU-KI-RI-TA and SU-KI-RI-TE-I-JA both appear in the corpus as alternating forms sharing the stem SU-KI-RI- with differing endings.",
+   "refuted_by": "If only one of SU-KI-RI-TA or SU-KI-RI-TE-I-JA appears in the corpus, the alternation cannot be observed.",
+   "source_says": "\"SU-KI-RI-TA SU-KI-RI-TE-I-JA\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "RI-RU-MA",
+    "RI-RU-MA-TI",
+    "DA-KU-SE-NE",
+    "DA-KU-SE-NE-TI",
+    "RU-MA-TA",
+    "RU-MA-TA-SE",
+    "A-RA-TU",
+    "A-RA-TU-ME",
+    "MA-KA-I-TA",
+    "MA-KA-I-SE",
+    "A-MI-DA-O",
+    "A-MI-DA-U",
+    "U-TA-I-SI",
+    "U-TA-I-SE"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that certain sign-groups in the corpus occur in pairs where one form is an extension of the other by a suffix syllable (e.g., RI-RU-MA paired with RI-RU-MA-TI), and that some sign-groups show alternating endings (e.g., MA-KA-I-TA alternating with MA-KA-I-SE).",
+   "refuted_by": "If none of these paired sign-groups co-occur in the corpus, or if the shorter form is never attested alongside the longer form sharing the same base, the claim of suffix alternation would be falsified.",
+   "source_says": "\"Some words such as the following show alternating endings, which also suggests suffixes at work\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KU-RO"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage claims that on HT 13, the sign-group KU-RO is followed by the value 130 ½, which equals the sum of the quantities assigned to the six named entities (RE-ZA, TE-TU 56, TE-KI 27 ½, KU-ZU-NI 18, DA-SI-*118 19, I-DU-NE-SI 5).",
+   "refuted_by": "If the individual entity quantities on HT 13 in the corpus do not sum to 130 ½, the arithmetic claim would be false.",
+   "source_says": "\"KU-RO 130 ½ … KU-RO is assumed to represent 'total'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "A-DU",
+    "VIR+KA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that A-DU functions as a heading and precedes VIR+KA on tablet HT 88.1.",
+   "refuted_by": "If HT 88.1 in the corpus shows VIR+KA appearing before A-DU or without A-DU preceding it, the claim would be false.",
+   "source_says": "\"HT 88.1 (precedes VIR+KA)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "RI-RU-MA",
+    "RI-RU-MA-TI",
+    "DA-KU-SE-NE",
+    "DA-KU-SE-NE-TI",
+    "RU-MA-TA",
+    "RU-MA-TA-SE",
+    "A-RA-TU",
+    "A-RA-TU-ME"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sign-group SE appears as a suffix appended to the end of existing sign-groups (e.g., RU-MA-TA becoming RU-MA-TA-SE), as evidenced by pairs of sign-groups in the corpus where one form is the other with SE added finally.",
+   "refuted_by": "If RU-MA-TA-SE does not appear in the corpus, or if SE in these sign-groups appears in a non-final position rather than appended at the end of the base form.",
+   "source_says": "\"some evidence for -SE and -ME as suffixes... RU-MA-TA RU-MA-TA-SE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "MA-KA-I-TA",
+    "MA-KA-I-SE",
+    "A-MI-DA-O",
+    "A-MI-DA-U",
+    "U-TA-I-SI",
+    "U-TA-I-SE"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that certain sign-groups appear in the corpus with alternating endings, such that MA-KA-I-TA alternates with MA-KA-I-SE, A-MI-DA-O with A-MI-DA-U, and U-TA-I-SI with U-TA-I-SE.",
+   "refuted_by": "If none of these paired sign-groups both appear in the corpus, or if the alleged alternating forms do not co-occur across documents, the claim of alternating endings would be unsupported.",
+   "source_says": "\"MA-KA-I-TA MA-KA-I-SE A-MI-DA-O A-MI-DA-U U-TA-I-SI U-TA-I-SE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "SI-RU-TE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that SI-RU-TE always appears as the final word (Word 6) in the offering formula sequence on ritual ladle inscriptions.",
+   "refuted_by": "Finding SI-RU-TE in a position other than last in any offering formula sequence in the corpus.",
+   "source_says": "\"A-TA-I-*301-WA-JA O-SU-QA-RE JA-SA-SA-RA-ME U-NA-KA-NA-SI I-PI-NA-MA SI-RU-TE gives\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "I-PI-NA-MA",
+    "SI-RU-TE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that I-PI-NA-MA occupies the same structural position in the offering formula on the ritual ladle as SI-RU-TE follows it, with I-PI-NA-MA appearing as the fifth word and SI-RU-TE as the sixth in the sequence A-TA-I-*301-WA-JA O-SU-QA-RE JA-SA-SA-RA-ME U-NA-KA-NA-SI I-PI-NA-MA SI-RU-TE.",
+   "refuted_by": "If in the corpus the sequence A-TA-I-*301-WA-JA ... U-NA-KA-NA-SI does not consistently precede I-PI-NA-MA SI-RU-TE on the Troullos document, the positional claim would be false.",
+   "source_says": "\"A-TA-I-*301-WA-JA O-SU-QA-RE JA-SA-SA-RA-ME U-NA-KA-NA-SI I-PI-NA-MA SI-RU-TE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "I-PI-NA-MA"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that I-PI-NA-MA is usually the fifth word of the offering formula on the majority of inscribed offering tables.",
+   "refuted_by": "If a count of offering table documents in the corpus shows I-PI-NA-MA appearing as the fifth sign-group in fewer than half of such documents, the claim is refuted.",
+   "source_says": "\"I-PI-NA-MA is usually the fifth word of the offering formula on the majority of these inscribed offering tables\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "TU-JU-MA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that TU-JU-MA appears in the first list on document HT 117a at lines 3-4.",
+   "refuted_by": "If TU-JU-MA appears in HT 117a but not at lines 3-4, or not in the first list position, the claim would be false.",
+   "source_says": "\"T-J-M TU-JU-MA name in the first list HT 117a.3-4\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*307",
+    "*305"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 89.1, *307 precedes *305 (and equivalently *305 follows *307).",
+   "refuted_by": "If in HT 89.1 *305 appears before *307, or they do not co-occur, the claim would be false.",
+   "source_says": "\"HT 89.1 (precedes *305); HT 89.1 (follows *307)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*307",
+    "*305"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 89.1, *307 precedes *305.",
+   "refuted_by": "If in HT 89.1 *305 appears before *307, or they do not co-occur, the claim would be false.",
+   "source_says": "\"HT 89.1 (precedes *305); HT 89.1 (follows *307)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*307",
+    "*305"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 89.1, *307 precedes *305.",
+   "refuted_by": "If in HT 89.1 *305 appears before *307, or they do not co-occur, the claim would be false.",
+   "source_says": "\"HT 89.1 (precedes *305); HT 89.1 (follows *307)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*301"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-group root I-*301 almost always appears with both a multisyllabic prefix and a multisyllabic suffix in the corpus.",
+   "refuted_by": "Finding instances of I-*301 in the corpus where it appears without a multisyllabic prefix or without a multisyllabic suffix would refute the claim.",
+   "source_says": "\"this central root almost always appears with both a multisyllabic prefix and a multisyllabic suffix\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KI-KI-NA",
+    "NI",
+    "KI-RO"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sequence \"NI , KI-KI-NA 7\" in one document parallels the structure \"*188 , KI-RO 400\" in HT 15, suggesting KI-KI-NA and KI-RO occupy analogous positional roles following a sign-group.",
+   "refuted_by": "If KI-RO and KI-KI-NA never appear in structurally parallel positions (i.e., following a sign-group with a numeral) in any document in the corpus, the claimed structural parallel would be false.",
+   "source_says": "\"We see a similar structure to 'NI KI-KI-NA 7' in HT 15: '*188 , KI-RO 400'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KA-SA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KA-SA-RU appears as a name in a list at position HT 10b.3.",
+   "refuted_by": "If KA-SA-RU does not appear at HT 10b.3 in the corpus, or appears in a non-list context there, the claim is false.",
+   "source_says": "\"K-S-R KA-SA-RU name in a list HT 10b.3\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "SA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that SA-RU appears as the second name in a second list on HT 86b.2.",
+   "refuted_by": "If SA-RU appears in a position other than second in a second list on HT 86b.2, or does not appear on HT 86b.2 at all, the claim is false.",
+   "source_says": "\"SA-RU second name in a second list HT 86b.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "SI-KA",
+    "A-RA-U-DA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that A-RA-U-DA appears as a heading that follows SI-KA (part of A-DA-KI-SI-KA) in document KH 5.1-2.",
+   "refuted_by": "If in KH 5.1-2 A-RA-U-DA does not follow A-DA-KI-SI-KA, or if A-DA-KI-SI-KA does not contain SI-KA, the claim is false.",
+   "source_says": "\"A-RA-U-DA heading (follows A-DA-KI-SI-KA) KH 5.1-2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "I-PI-NA-MA",
+    "I-PI-NA-MI-NA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that I-PI-NA-MA and I-PI-NA-MI-NA occur in the corpus as alternating forms sharing the same stem but with different endings (-MA vs. -MI-NA).",
+   "refuted_by": "If only one of the two forms appears in the corpus, or neither appears, the alternation cannot be observed.",
+   "source_says": "\"I-PI-NA-MA I-PI-NA-MI-NA\" listed as examples of alternating endings.",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "O-SU-QA-RE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that Word 2 of the offering formula (exemplified by O-SU-QA-RE) always varies from vessel to vessel, never repeating the same sign-group in that position across different vessels.",
+   "refuted_by": "Finding two different vessel inscriptions where the same sign-group occupies the Word 2 position of the offering formula.",
+   "source_says": "\"this word is always different from vessel to vessel, and so Word 2 is considered very likely to be the name of the dedicant\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "CAP"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that CAP functions as a logogram for goats in Linear A documents.",
+   "refuted_by": "If CAP never appears as a logogram in the corpus but only as a phonetic sign, the claim would be false.",
+   "source_says": "\"AB 22 CAP goats\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "CAP"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that CAP (goats) on HT 20.3 appears with a fraction, indicating it records an animal product.",
+   "refuted_by": "If HT 20.3 shows CAP without any fraction in the corpus, the claim would be false.",
+   "source_says": "\"HT 20.3: CAPm F, probably an animal product because of the fraction.\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "CAP"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that CAP functions as a logogram for goats in Linear A documents.",
+   "refuted_by": "If CAP never appears as a logogram (i.e., never occurs with quantities or in logogram position) in any of the 1,719 documents, the claim would be false.",
+   "source_says": "AB 22 CAP goats",
+   "source": "younger_ht_commentary_2024"
+  },
+  {
+   "units": [
+    "I-DA-MA-TE",
+    "DA-MA-TE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that DA-MA-TE and I-DA-MA-TE co-occur in the corpus as a pair, where I-DA-MA-TE is formed by prefixing I- to DA-MA-TE.",
+   "refuted_by": "If I-DA-MA-TE does not appear in the corpus, or DA-MA-TE never appears alongside or in contrast with I-DA-MA-TE across documents, the pairing claim would be falsified.",
+   "source_says": "\"There is also evidence for a prefix i-: DA-MA-TE I-DA-MA-TE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "I-DA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that sign-groups ending in -a-da or -i-da (including I-DA as a terminal element) do not function as patronymic suffixes in the corpus, with the possible exception of DA-I-TA-RA-DA.",
+   "refuted_by": "If multiple sign-groups ending in I-DA appear in the corpus in contexts consistent with patronymic usage alongside other patronymic-type endings, the claim would be weakened.",
+   "source_says": "\"The few names ending -a-da, -i-da do not appear to be of this type except possibly da-i-ta-ra-da\"",
+   "source": "DocumentsInMycenaeanGreek"
+  },
+  {
+   "units": [
+    "KI-RE-TA-NA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KI-RE-TA-NA appears as the first name in a list in HT 108.1.",
+   "refuted_by": "If KI-RE-TA-NA does not appear first in the sequence of sign-groups in HT 108.1, the claim is false.",
+   "source_says": "\"HT 108.1 (first name)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "KI-RE-TA-NA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KI-RE-TA-NA appears as the first name in a list in HT 108.1.",
+   "refuted_by": "If KI-RE-TA-NA does not appear first among names in HT 108.1 in the corpus, the claim is false.",
+   "source_says": "\"HT 108.1 (first name)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "KI-RE-TA-NA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KI-RE-TA-NA appears as a 2nd heading in document HT 2.3.",
+   "refuted_by": "If KI-RE-TA-NA appears in HT 2.3 but not in the second heading position, the claim would be false.",
+   "source_says": "\"]K-R-T-N ]KI-RE-TA-NA 2nd heading HT 2.3\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "TA-NA-TI"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that TA-NA-TI appears as the first name in a list in document HT 49a.2.",
+   "refuted_by": "If TA-NA-TI in HT 49a.2 does not appear in the first position of a list, the claim would be false.",
+   "source_says": "\"]TA-NA-TI first name in a list HT 49a.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "JE-DI"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that in HT 8a, JE-DI appears first in a list of entities receiving a single commodity (ole+KI), i.e., JE-DI occupies the initial position before the other entities in that tablet.",
+   "refuted_by": "If in HT 8a the corpus shows JE-DI does not appear first among the listed entities, or another entity precedes it, the claim would be false.",
+   "source_says": "\"we read a transfer of ole+KI from the administrative center to seven different entities, beginning with JE-DI\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "JE-DI"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that JE-DI functions as a heading appearing at position 1 (the first line) of documents at HT, preceding *346 VIR in at least one instance.",
+   "refuted_by": "If JE-DI were found at a non-initial position in a document, or if *346 VIR did not follow it in HT 8a.1, HT 36.1, or HT 122b.1, the claim would be falsified.",
+   "source_says": "\"heading (place name?) HT 8a.1; HT 36.1; HT 122b.1 (second list, precedes *346 VIR)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "JE-DI"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that JE-DI appears as a heading at the start of documents HT 8a, HT 36, and HT 122b, preceding the logogram *346 VIR.",
+   "refuted_by": "If JE-DI were found not in position 1 of those documents, or not preceding *346 VIR in HT 122b, the claim would be false.",
+   "source_says": "\"heading (place name?) HT 8a.1; HT 36.1; HT 122b.1 (second list, precedes *346 VIR)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "SA-RO"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that SA-RO appears as one of three named entities in document HT 19, which is a transfer list of wine (vin).",
+   "refuted_by": "If SA-RO does not appear in HT 19 alongside vin in the corpus, the claim would be false.",
+   "source_says": "\"HT 19 – a transfer list of wine (vin) between the administrative center and the three named entities: RA-*164-TI, SA-RO, and DU-ME-DI.\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "DA-RI-DA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DA-RI-DA appears as a name in a list on documents HT 10a.4, HT 85a.2, HT 93a.7, and HT 122a.7.",
+   "refuted_by": "If DA-RI-DA is absent from any of those four documents, or appears in a non-list context on them, the claim is falsified.",
+   "source_says": "\"DA-RI-DA name in a list HT 10a.4; HT 85a.2; HT 93a.7; HT 122a.7\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DA-RI-DA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that DA-RI-DA recurs frequently in the HT corpus, appearing on multiple tablets including HT 10, HT 122, and HT 85a.",
+   "refuted_by": "If DA-RI-DA appears on fewer than three HT tablets in the corpus, the claim of frequent recurrence would be false.",
+   "source_says": "\"The names on side a recur frequently in the HT corpus, notably HT 10 (DA-RI-DA\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "GRA+QE"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 18.1, the sign group PA-SE is associated with (immediately precedes) the logogram GRA+QE, implying word separation by logogram association.",
+   "refuted_by": "If HT 18.1 in the corpus does not show PA-SE followed by GRA+QE, the claim would be false.",
+   "source_says": "\"HT 18.1: PA-SE GRA+QE\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "GRA+QE",
+    "PA-SE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that in HT 18, GRA+QE follows PA-SE before any other name appears, associating the first commodities with PA-SE.",
+   "refuted_by": "If GRA+QE appears in HT 18 after SA-RA2 rather than before it, or if PA-SE does not precede GRA+QE in that document.",
+   "source_says": "\"HT 18 assumes that the first 3 commodities are associated with PA-SE\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "*305",
+    "*86"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that *305 follows *86 in document HT 45a.2.",
+   "refuted_by": "If in HT 45a.2 *86 does not immediately precede *305, the claim would be false.",
+   "source_says": "\"HT 45a.2 (follows *86)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "O-SU-QA-RE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that Word 2 of the offering formula (e.g., O-SU-QA-RE) always varies from vessel to vessel, never repeating the same sign-group in that position across different vessels.",
+   "refuted_by": "Finding two different vessels where the same sign-group occupies Word 2 position of the offering formula would not refute it, but finding the same sign-group in Word 2 on multiple vessels would refute it.",
+   "source_says": "\"this word is always different from vessel to vessel\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "DA-ME"
+   ],
+   "kind": "positional",
+   "claim": "The passage suggests that DA-[•] in HT 106.2 may be DA-ME, implying DA-ME appears as the first name in a list on that document.",
+   "refuted_by": "If HT 106.2 shows DA-[•] resolved to a sign-group other than DA-ME, or if DA-ME does not appear first in that document's list, the claim is false.",
+   "source_says": "\"DA-[•] (DA-ME?) name in a list HT 106.2 (first name)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "KU-PA",
+    "KI-RO"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KU-PA₃-NU appears in entity lists headed by KI-RO on tablets such as HT 1, HT 104, HT 10a, HT 10b, and others listed.",
+   "refuted_by": "If KU-PA₃-NU and KI-RO do not co-occur on any of the listed tablets in the corpus.",
+   "source_says": "\"KI-RO 197 Entity List ZU-SU 70 DI-DI-ZA-KE 52 KU-PA₃-NU 109\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KI-KI-NA",
+    "NI",
+    "KI-RO"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sequence \"NI , KI-KI-NA 7\" is a variation of a Transfer List structure, implying KI-KI-NA follows NI in the corpus, analogous to how KI-RO follows a commodity sign.",
+   "refuted_by": "If KI-KI-NA never co-occurs with NI in the same document, or always precedes NI rather than following it, the claim would be false.",
+   "source_says": "\"it may be a variation on the 'Transfer List', e.g., 'KI-KI-NA , NI 7'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KI-KI-NA",
+    "KI-RO"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sequence \"KI-KI-NA , NI\" (or its variant \"NI , KI-KI-NA\") appears in HT 103 as well as in the tablet under discussion, suggesting this ordering pattern recurs across documents.",
+   "refuted_by": "If HT 103 does not contain KI-KI-NA and NI appearing together in either order, the claim of recurrence would be false.",
+   "source_says": "\"We see a similar structure to 'NI KI-KI-NA 7' in HT 15: '*188 , KI-RO 400'. Also in HT 103.\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "U-NA-KA-NA-SI"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that Word 2 (the dedicant name, e.g. O-SU-QA-RE) always varies from vessel to vessel in the offering formula sequence.",
+   "refuted_by": "Finding two vessels where Word 2 in the offering formula is identical would refute the claim.",
+   "source_says": "\"this word is always different from vessel to vessel, and so Word 2 is considered very likely to be the name of the dedicant\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "JA-SA-SA-RA-ME"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that Word 2 of the offering formula (e.g., O-SU-QA-RE) always varies from vessel to vessel, while the other formula words (including JA-SA-SA-RA-ME) remain constant across vessels.",
+   "refuted_by": "Finding two vessels where Word 2 is identical, or where JA-SA-SA-RA-ME does not appear in the same formulaic position across multiple vessel inscriptions.",
+   "source_says": "\"this word is always different from vessel to vessel, and so Word 2 is considered very likely to be the name of the dedicant\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "*316"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that logogram *316 occurs at site PH, specifically on document PH 1a at positions 1a.1 and 1a.2.",
+   "refuted_by": "If *316 were found on documents from sites other than PH, or not found at PH 1a.1 and 1a.2 in the corpus.",
+   "source_says": "\"*316 logogram PH 1a.1, 1a.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*316"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that logogram *316 occurs at PH 1a.1 and 1a.2, confining its attested appearances to those two locations on that document.",
+   "refuted_by": "Finding *316 on any document other than PH 1a would refute the claim.",
+   "source_says": "\"*316 *316 logogram PH 1a.1, 1a.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*316"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that *316+RO functions as a logogram appearing at PYR 1.1-2.",
+   "refuted_by": "If *316+RO appears in the corpus at PYR 1.1-2 accompanied by phonetic complements or in a list context inconsistent with logogram use, the claim would be false.",
+   "source_says": "\"*316+RO logogram PYR 1.1-2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*316"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *316+RO occurs as a logogram at PYR 1.1-2.",
+   "refuted_by": "If *316+RO does not appear at PYR 1.1-2 or appears there as something other than a logogram, the claim would be false.",
+   "source_says": "\"*316-R *316+RO logogram PYR 1.1-2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "QE-RA₂-U",
+    "KI-RO",
+    "ZU-SU",
+    "DI-DI-ZA-KE",
+    "KU-PA₃-NU",
+    "A-RA-NA-RE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that on the listed tablets (HT 1, HT 104, HT 10a, HT 10b, HT 117a, HT 122a, HT 123+124b, HT 126a, HT 15, HT 20, HT 26a, HT 85b, HT 88, HT 94b, HT 95b, HT 9b), QE-RA₂-U appears as a head word followed by an entity list containing sign-groups such as KI-RO, ZU-SU, DI-DI-ZA-KE, KU-PA₃-NU, and A-RA-NA-RE with no commodity logogram present.",
+   "refuted_by": "If on any of those tablets QE-RA₂-U does not appear as the initial sign-group, or if a commodity logogram is present alongside the listed entity sign-groups, the claim would be falsified.",
+   "source_says": "\"In a common form of the pattern there is no indication of the commodity that is being transferred\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "QE-RA₂-U",
+    "KI-RO",
+    "ZU-SU",
+    "DI-DI-ZA-KE",
+    "KU-PA₃-NU",
+    "A-RA-NA-RE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that on tablets classified as this group (e.g. HT 1, HT 104, HT 10a, etc.), QE-RA₂-U appears as a head word followed by an entity list including sign-groups such as KI-RO, ZU-SU, DI-DI-ZA-KE, KU-PA₃-NU, and A-RA-NA-RE with no commodity logogram indicated.",
+   "refuted_by": "If any of the listed tablets (e.g. HT 1) does not contain QE-RA₂-U in initial/head position followed by those sign-groups, or if a commodity logogram does appear alongside them, the claim would be falsified.",
+   "source_says": "\"there is no indication of the commodity that is being transferred between the entities\"",
+   "source": "Salgarella_and_Petrakis_eds_2026_The_Wor_1"
+  },
+  {
+   "units": [
+    "A-KA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that A-KA-RU appears as a heading in the corpus, specifically at HT 2.1 and HT 86a.1.",
+   "refuted_by": "If A-KA-RU appears at HT 2.1 or HT 86a.1 in a non-heading position (e.g., mid-list or as a name), the claim would be false.",
+   "source_says": "\"A-KA-RU heading (transaction term?) HT 2.1; HT 86a.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "A-KA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that A-KA-RU appears as a heading in the corpus, specifically at HT 2.1 and HT 86a.1.",
+   "refuted_by": "If A-KA-RU appears at HT 2.1 or HT 86a.1 in a non-heading position (e.g., mid-list or as a name), the claim would be false.",
+   "source_says": "\"A-KA-RU heading (transaction term?) HT 2.1; HT 86a.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "A-KA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that A-KA-RU functions as a second heading and appears at position HT 86b.1 in the corpus.",
+   "refuted_by": "If A-KA-RU appears at HT 86b.1 in a non-heading position or not at all, the claim is false.",
+   "source_says": "\"[[A-KA-RU]] second heading HT 86b.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "A-KA-RU",
+    "A-DU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that on HT 86, A-KA-RU appears as a heading on the recto while A-DU appears as a heading on the verso.",
+   "refuted_by": "If HT 86 in the corpus shows A-DU on the recto or A-KA-RU on the verso, or neither term as a heading, the claim would be false.",
+   "source_says": "\"HT 86 juxtaposes the heading A-KA-RU on the recto with A-DU on the verso\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "DA-QE-RA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DA-QE-RA functions as a heading in the corpus, appearing at the start of documents HT 6a.6, HT 120.1, and HT 57a.1.",
+   "refuted_by": "If DA-QE-RA were found in a non-initial, non-heading position within any of those documents, the claim would be falsified.",
+   "source_says": "\"DA-QE-RA heading HT 6a.6 (second heading); HT 120.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DA-QE-RA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DA-QE-RA functions as a heading in documents HT 6a.6 and HT 120.1, meaning it appears in a leading/heading position in those tablets.",
+   "refuted_by": "If DA-QE-RA appears in a non-initial, non-heading position in HT 6a.6 or HT 120.1, the claim would be false.",
+   "source_says": "\"DA-QE-RA heading HT 6a.6 (second heading); HT 120.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DA-QE-RA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DA-QE-RA functions as a heading, appearing at the start of documents (HT 6a.6 as second heading, HT 120.1, HT 57a.1).",
+   "refuted_by": "If DA-QE-RA were found in a non-initial, non-heading position within a document in the corpus, the claim would be falsified.",
+   "source_says": "\"DA-QE-RA HT 6a.6 (second heading); HT 120.1 D-Q-R[ DA-QE-RA[ heading HT 57a.1\"",
+   "source": "younger_lexicon_2024"
+  },
+  {
+   "units": [
+    "DA-QE-RA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DA-QE-RA functions as a heading, appearing at the start of documents or sections (e.g., HT 6a.6 as second heading, HT 120.1, HT 57a.1).",
+   "refuted_by": "A corpus document where DA-QE-RA appears in a non-initial, non-heading position within a list rather than at the head of a section.",
+   "source_says": "\"DA-QE-RA HT 6a.6 (second heading); HT 120.1 heading HT 57a.1\"",
+   "source": "younger_lexicon_2024"
+  },
+  {
+   "units": [
+    "PA-DE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that PA-DE functions as a nominative of rubric, not as a dative form, in the corpus documents where it appears.",
+   "refuted_by": "If PA-DE consistently appears in contexts identical to sign-groups with dative endings (e.g., followed by -I or similar dative markers), that would undermine the nominative-of-rubric classification.",
+   "source_says": "\"nominatives of rubric (§ 9.1): pa-de and Erinus\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "*560"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that *560 appears as a logogram at the heading position of HT 24a.1.",
+   "refuted_by": "If *560 is found at HT 24a.1 but not in a heading or logogram role, the claim would be false.",
+   "source_says": "\"*560 {MA-RU}[ logogram (\"wool\") HT 24a.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DU-RE-ZA-SE",
+    "RE-ZA"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that DU-RE-ZA-SE contains RE-ZA as an internal root sequence, with DU- as a prefix and -SE as a suffix, such that RE-ZA appears as a sub-sequence within DU-RE-ZA-SE in the corpus.",
+   "refuted_by": "If DU-RE-ZA-SE does not contain the sign sequence RE-ZA within it, or if RE-ZA never appears as a standalone sign-group in the corpus alongside DU-RE-ZA-SE.",
+   "source_says": "\"A-DU-ṚẸ-ZA DU-RE-ZA-SE\" presented as a pair showing prefixes and suffixes on the same word.",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KU-RO"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage claims that on HT 13, the value of KU-RO (130 ½) equals the sum of the quantities assigned to the six named entities (56 + 27 ½ + 18 + 19 + 5 = 125 ½, suggesting a discrepancy or that KU-RO represents the running total).",
+   "refuted_by": "If the sum of the individual entity quantities on HT 13 in the corpus does not equal the KU-RO value of 130 ½, the arithmetic totaling function of KU-RO would be contradicted.",
+   "source_says": "\"KU-RO is assumed to represent 'total'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "RE-ZA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that RE-ZA appears as a head word in an Entity List on tablet HT 88, associated with the quantity 6.",
+   "refuted_by": "If RE-ZA does not appear on HT 88 or does not co-occur with the quantity 6 in the corpus, the claim is false.",
+   "source_says": "\"RE-ZA 6 Entity List\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "KA-KU-PA"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that KA-KU-PA appears as the first word in a heading in HT 16.1-2, HT Wc 3015a, and HT Wc 3016a.",
+   "refuted_by": "If KA-KU-PA does not appear as the first word in those documents, or appears in a non-heading position, the claim would be false.",
+   "source_says": "\"KA-KU-PA first word in heading (person's name?) HT 16.1-2; HT Wc 3015a; HT Wc 3016a\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "OLE",
+    "OLE+TU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that OLIV (OLE) without ligature appears in more documents than OLIV+TU (OLE+TU), with OLE+TU occurring only at HT 50a.4, HT 101.6, and HT 116a.4.",
+   "refuted_by": "Finding OLE+TU at a site or document not listed (outside HT 50a.4, 101.6, 116a.4) or counting OLE occurrences fewer than three would refute the claim.",
+   "source_says": "\"OLIV by itself is more frequent … than OLIV+TU [only at HT: 50a.4; 101.6; 116a.4].\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "OLE+TU",
+    "OLE",
+    "OLIV"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the ligature +TU occurs only in combination with OLE and OLIV, and never with any other base sign in the corpus.",
+   "refuted_by": "Finding any sign-group in the corpus where +TU is ligatured with a base sign other than OLE or OLIV would refute the claim.",
+   "source_says": "\"ligatured +TU occurs only with OLE and OLIV\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "KI+MU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that KI+MU designates a group of people (title, collective, or occupation) in the corpus.",
+   "refuted_by": "If KI+MU consistently appears with quantities of goods or commodities rather than with person-related logograms or person counts, the claim would be undermined.",
+   "source_says": "\"*545, KI+MU may designate a group of people (title, collective, occupation)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "KI+MU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that KI+MU (*545) is a ligature equivalent to KI+LANA, meaning it appears in the corpus as an alternative form of that compound sign-group.",
+   "refuted_by": "If KI+MU and KI+LANA never appear in the same distributional contexts or are not recorded as equivalent ligatures in the corpus, the claim would be undermined.",
+   "source_says": "\"KI+MU (*545) or KI+BOS • KI+[ ] (*544)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "KI+MU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that KI+MU designates a group of people (title, collective, or occupation) in the corpus.",
+   "refuted_by": "If KI+MU appears only with commodities or quantities and never in contexts associated with people or personnel records, the claim would be undermined.",
+   "source_says": "\"*545, KI+MU may designate a group of people (title, collective, occupation)\"",
+   "source": "younger_ht_commentary_2024"
+  },
+  {
+   "units": [
+    "KI+MU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that KI+MU (*545) is a ligature equivalent to KI+LANA or KI+BOS, meaning it functions as an alternative form of those ligatures in the corpus.",
+   "refuted_by": "If KI+MU appears in contexts clearly distinct from KI+LANA and KI+BOS with no overlap or substitution pattern, the equivalence claim would be undermined.",
+   "source_says": "\"KI+MU (*545) or KI+BOS • KI+[ ] (*544)\"",
+   "source": "younger_ht_commentary_2024"
+  },
+  {
+   "units": [
+    "PA-RA",
+    "*326"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that PA-RA follows *326 in document HT 128a.1.",
+   "refuted_by": "If in HT 128a.1 *326 does not immediately precede PA-RA, or PA-RA precedes *326, the claim is false.",
+   "source_says": "\"PA-RA heading (follows *326) HT 128a.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "AU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that AU-[ appears as word 2 (a placename) in the Libation Formula on IO Za 3.",
+   "refuted_by": "If AU-[ does not appear in the second position of the Libation Formula on IO Za 3 in the corpus, the claim would be false.",
+   "source_says": "\"AU-[ Libation Formula word 2 (placename) IO Za 3\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "SI+SE"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that SI+SE (=*529) appears as a logogram functioning as a heading that precedes TE in HT 42.1 and precedes FIC in HT 99b.1.",
+   "refuted_by": "If SI+SE in HT 42.1 does not precede TE, or in HT 99b.1 does not precede FIC, the claim would be false.",
+   "source_says": "\"logogram HT 42.1 (heading, precedes TE); HT 99b.1 (heading, precedes FIC)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "SI+SE",
+    "TE"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that SI+SE appears in contrast to or modifying TE on HT 116a, where TE occurs at line a.1 and SI+SE appears later.",
+   "refuted_by": "If HT 116a shows SI+SE and TE not in contrasting or modifying positions relative to each other, the claim would be false.",
+   "source_says": "\"apparently in contrast to or modifying TE (a.1)\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*318"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that sign *318 appears exactly four times in Cretan Linear A: twice as a monosyllabic word, once as a transactional sign, and once as the first sign of a two-syllable word.",
+   "refuted_by": "Finding *318 occurring in five or more distinct tokens, or in a different distribution of roles, in the corpus.",
+   "source_says": "\"Sign A 318 is rare in Cretan Linear A, where it is used twice as monosyllabic word, once as a transactional sign, and once as the first sign on a two-syllable word\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "TA-NA-TE",
+    "A-TA-NA-TE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that the sign-group A-TA-NA-TE occurs in the corpus and shares the sequence TA-NA-TE with the sign-group TA-NA-TE, consistent with a prefixing relationship where A- precedes TA-NA-TE.",
+   "refuted_by": "If A-TA-NA-TE does not appear in the corpus, or if TA-NA-TE does not appear as a standalone sign-group, the claimed alternation would be unsupported.",
+   "source_says": "\"TA-NA-TE A-TA-NA-TE\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "DI-DE-RU",
+    "A-DU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DI-DE-RU appears in both HT 86 and HT 95, in lists headed by A-DU (among other headings), occurring in parallel positions across the two documents.",
+   "refuted_by": "If DI-DE-RU does not appear in both HT 86 and HT 95 in the corpus, or does not co-occur with A-DU as a heading in those documents, the claim would be false.",
+   "source_says": "\"HT 86 assigns 20 commodities to names (places?) in two lists headed by A-KA-RU and by A-DU.\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "DI-DE-RU",
+    "A-DU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that DI-DE-RU appears in lists headed by A-DU on both HT 86 and HT 95.",
+   "refuted_by": "If DI-DE-RU does not co-occur with A-DU as a heading on either HT 86 or HT 95 in the corpus.",
+   "source_says": "\"HT 86 assigns 20 commodities to names (places?) in two lists headed by A-KA-RU and by A-DU\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "TE-RI"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage states that the four items on v.1-2 appear in proportions of 15 ~ 5 ~ 10 ~ 1.",
+   "refuted_by": "If the quantities recorded for the four items in the corpus do not reflect a 15:5:10:1 ratio, the claim is false.",
+   "source_says": "\"The proportions of the four items are 15 ~ 5 ~ 10 ~ 1.\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "QA-QA-RU"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that ]-QA-RU appearing in HT 104.3 and HT 111a.2 may be part of the fuller name QA-QA-RU in those documents.",
+   "refuted_by": "If the sign-groups at HT 104.3 and HT 111a.2 do not contain QA before QA-RU, the reconstruction QA-QA-RU would be unsupported.",
+   "source_says": "\"]-QA-RU (QA-QA-RU?) name in a list HT 104.3, HT111a.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*304+PA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *304+PA functions as a logogram and appears across multiple sites including HT and KH documents.",
+   "refuted_by": "If *304+PA were found functioning as a sign-group (word or name) rather than a logogram in any of the listed documents, the claim would be false.",
+   "source_says": "\"*304-P *304+PA logogram HT Wc 3016b; HT Wc 3017b; HT Wc 3020b\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*304+PA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *304+PA appears as a logogram at multiple specific HT and KH documents, including HT Wc 3016b, HT Wc 3017b, HT Wc 3020b, HT We 1020a, HT Wa <1021bis>, KH 7b.3, and KH 73.2.",
+   "refuted_by": "If *304+PA is absent from one or more of those listed documents in the corpus, the claim would be false.",
+   "source_says": "\"*304-P *304+PA logogram HT Wc 3016b; HT Wc 3017b; HT Wc 3020b; HT We 1020a; HT Wa <1021bis>; KH 7b.3; KH 73.2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "*304",
+    "OLE",
+    "OLIV"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that *304 is always found in a fixed position between OLE and OLIV in the corpus.",
+   "refuted_by": "A document in the corpus where *304 appears but is not positioned between OLE and OLIV.",
+   "source_says": "\"always found in a fixed position between OLE & OLIV\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2"
+  },
+  {
+   "units": [
+    "A-RI-NI-TA",
+    "I-ZU-RI-NI-TA"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that A-RI-NI-TA and I-ZU-RI-NI-TA co-occur in the corpus as a pair where I-ZU-RI-NI-TA has a multisyllabic prefix added to the base A-RI-NI-TA.",
+   "refuted_by": "If A-RI-NI-TA and I-ZU-RI-NI-TA do not both appear in the corpus, or if I-ZU-RI-NI-TA does not begin with a prefix segment absent from A-RI-NI-TA, the claim would be false.",
+   "source_says": "\"A-RI-NI-TA I-ZU-RI-NI-TA\" listed as evidence of multisyllabic prefixes.",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "A-RI"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that the sign-group A-RI occurs in the corpus only in hypocoristic forms (a-ri-wo, a-ri-ja-wo), making it far less frequent as a compound-name prefix than E-RI.",
+   "refuted_by": "If the corpus contains multiple non-hypocoristic compound names beginning with A-RI, the claim of rarity would be false.",
+   "source_says": "\"The only example of 'Apt- is a-ri-we-we, apart from the hypocoristic forms a-ri-wo, a-ri-ja-wo.\"",
+   "source": "CompanionToLinearBVol2"
+  },
+  {
+   "units": [
+    "JE"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that in HT 8a, JE-DI appears as the first entity listed after the commodity sign ole+KI in a single-commodity transfer list.",
+   "refuted_by": "If in HT 8a, JE-DI does not appear immediately after ole+KI or does not appear first among the listed entities, the claim would be false.",
+   "source_says": "\"we read a transfer of ole+KI from the administrative center to seven different entities, beginning with JE-DI\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "JE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that A-JE-SA occurs as a word on IO Za <1>.",
+   "refuted_by": "If A-JE-SA does not appear on IO Za <1> in the corpus, the claim is false.",
+   "source_says": "\"A-J-S A-JE-SA word IO Za <1>\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "JE"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that JE appears as the first name in a list at KH 1.1.",
+   "refuted_by": "If KH 1.1 shows JE not in the first position or not in a list context, the claim would be false.",
+   "source_says": "\"first name in a list KH 1.1\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "A-MA"
+   ],
+   "kind": "positional",
+   "claim": "The passage suggests that A-MA occurs in a phrase together with E-PI-KE-RE on tablets F(2) 852 and F(2) 851 at Knossos.",
+   "refuted_by": "If A-MA and E-PI-KE-RE do not co-occur on F(2) 852 or F(2) 851 in the corpus, the claim would be false.",
+   "source_says": "\"the phrase a-ma e-pi-ke-re on it and the similar F(2) 851\"",
+   "source": "CompanionToLinearBVol1"
+  },
+  {
+   "units": [
+    "A-JA"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that A-JA follows the sign-group U-NA-KA-NA-SI (olive oil) in the corpus document from Kato Syme.",
+   "refuted_by": "If in the relevant Kato Syme document A-JA does not immediately follow U-NA-KA-NA-SI, the positional claim would be false.",
+   "source_says": "\"the short word A-JA after 'oil' means something like 'much'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "A-JA"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that A-JA follows the olive oil logogram (U-NA-KA-NA-SI) in the relevant document from Kato Syme.",
+   "refuted_by": "If in the corpus the sign-group A-JA does not appear immediately after U-NA-KA-NA-SI in that document, the positional claim is false.",
+   "source_says": "\"perhaps the short word A-JA after 'oil' means something like 'much'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "A-JA",
+    "U-NA-KA-NA-SI"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that A-JA follows U-NA-KA-NA-SI (olive oil) in the corpus.",
+   "refuted_by": "A corpus instance where A-JA does not follow U-NA-KA-NA-SI, or where A-JA precedes it or appears without it.",
+   "source_says": "\"the short word A-JA after 'oil' means something like 'much'\"",
+   "source": "2642-4749-1-PB_1"
+  },
+  {
+   "units": [
+    "DU-RE-ZA-SE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DU-RE-ZA-SE appears in a list context at ZA 10a.5 and ZA 10b.1-2.",
+   "refuted_by": "If DU-RE-ZA-SE does not appear at ZA 10a.5 or ZA 10b.1-2, or does not appear in a list context there, the claim would be false.",
+   "source_says": "\"DU-RE-ZA-SE name in a list ZA 10a.5, 10b.1-2\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DU-RE-ZA-SE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DU-RE-ZA-SE appears as a name in a separate entry (not in a list) in document KH 20.4.",
+   "refuted_by": "If DU-RE-ZA-SE in KH 20.4 appears within a list rather than as a separate entry, the claim would be false.",
+   "source_says": "\"name in a separate entry KH 20.4\"",
+   "source": "Linear_A_Lexicon_2"
+  },
+  {
+   "units": [
+    "DU-RE-ZA-SE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DU-RE-ZA-SE appears as a name in a separate entry (not in a list) at KH 20.4.",
+   "refuted_by": "If DU-RE-ZA-SE at KH 20.4 appears within a list rather than as a separate entry, the claim would be false.",
+   "source_says": "\"name in a separate entry KH 20.4\"",
+   "source": "Linear_A_Lexicon_2"
+  }
+ ],
+ "survivors": [
+  {
+   "units": [
+    "OLE+DI",
+    "OLE+MI"
+   ],
+   "kind": "predictive",
+   "claim": "The passage states that OLE+DI (*608) always appears together with OLE+MI (*622) in the corpus.",
+   "refuted_by": "A document containing OLE+DI but not OLE+MI, or OLE+MI but not OLE+DI.",
+   "source_says": "\"OLE+DI (*608), always appearing with OLE+MI (*622)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "p": 0.0,
+   "instrument": "cooccurrence"
+  },
+  {
+   "units": [
+    "OLE+DI",
+    "OLE+MI"
+   ],
+   "kind": "predictive",
+   "claim": "The passage claims that OLE+DI always appears together with OLE+MI in the corpus.",
+   "refuted_by": "A document containing OLE+DI but not OLE+MI, or OLE+MI but not OLE+DI.",
+   "source_says": "\"OLE+DI (*608), always appearing with OLE+MI (*622)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "p": 0.0,
+   "instrument": "cooccurrence"
+  },
+  {
+   "units": [
+    "OLE+MI",
+    "OLE+DI"
+   ],
+   "kind": "predictive",
+   "claim": "The passage claims that OLE+MI always appears together with OLE+DI in the corpus.",
+   "refuted_by": "A document containing OLE+MI but not OLE+DI, or OLE+DI but not OLE+MI.",
+   "source_says": "\"OLE+MI (*622), always appearing with OLE+DI (*608)\"",
+   "source": "younger_ht_commentary_2024",
+   "p": 0.001,
+   "instrument": "cooccurrence"
+  },
+  {
+   "units": [
+    "*131B"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the variant *131B (AB 131b) of the wine sign occurs in both Linear A and Linear B, while variant A 131c is attested only in Linear A.",
+   "refuted_by": "If *131B were found exclusively in Linear A documents in the corpus, the claim that it appears in Linear B as well would be false.",
+   "source_says": "\"This sign occurs in three variants, namely AB 131a, AB 131b and A 131c, with the latter variant being attested only in Linear A.\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "p": 0.6666906512404381,
    "instrument": "profile"
   }
  ],
- "failed": [],
- "unsupported": [],
- "efficiency": "1 candidates through the cycle\n\n  filtered by the novelty gate      0 (0%)\n  measured                          1\n  would pass a bare p < 0.05         0\n  borderline after correction       0\n  survive the whole cycle           1\n\n\n  reduction is only meaningful beside the recall of true effects, which this corpus cannot supply: there is no key. It is reported as what it is — how many apparent results the cycle removes — and not as accuracy."
+ "failed": [
+  {
+   "units": [
+    "QA2+[?]+PU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that QA2+[?]+PU occurs with agricultural products (such as *303, wine, oil, etc.) in whole numbers and fractions.",
+   "refuted_by": "If QA2+[?]+PU appears in the corpus without any agricultural product logograms and without quantities or fractions, the claim would be falsified.",
+   "source_says": "\"QA2+[?]+PU (*510) occur with agricultural products (with *303, wine, oil, etc.) in whole numbers and fractions\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "p": 0.026873740140967238,
+   "instrument": "profile"
+  },
+  {
+   "units": [
+    "QA2+[?]+PU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that QA2+[?]+PU occurs with agricultural products (such as *303, wine, oil, etc.) in whole numbers and fractions.",
+   "refuted_by": "If QA2+[?]+PU appears in the corpus only without agricultural product logograms and without quantities or fractions, the claim would be false.",
+   "source_says": "\"QA2+[?]+PU (*510) occur with agricultural products (with *303, wine, oil, etc.) in whole numbers and fractions\"",
+   "source": "younger_ht_commentary_2024",
+   "p": 0.026873740140967238,
+   "instrument": "profile"
+  },
+  {
+   "units": [
+    "DA-I-PI-TA",
+    "PA-JA-RE",
+    "TA-NA-TE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-groups DA-I-PI-TA, PA-JA-RE, and TA-NA-TE all occur in the Linear A tablet ZA 10.",
+   "refuted_by": "If any of DA-I-PI-TA, PA-JA-RE, or TA-NA-TE is absent from document ZA 10 in the corpus, the claim is false.",
+   "source_says": "\"in the Linear A tablet ZA 10 we have DA-I-PI-TA, PA-JA-RE, and TA-NA-TE\"",
+   "source": "2642-4749-1-PB_1",
+   "p": 1.0,
+   "instrument": "cooccurrence"
+  },
+  {
+   "units": [
+    "DA-I-PI-TA",
+    "PA-JA-RE",
+    "TA-NA-TE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-groups DA-I-PI-TA, PA-JA-RE, and TA-NA-TE all appear on Linear A tablet ZA 10.",
+   "refuted_by": "If any of DA-I-PI-TA, PA-JA-RE, or TA-NA-TE is absent from document ZA 10 in the corpus, the claim is false.",
+   "source_says": "\"in the Linear A tablet ZA 10 we have DA-I-PI-TA, PA-JA-RE, and TA-NA-TE\"",
+   "source": "Salgarella_and_Petrakis_eds_2026_The_Wor_1",
+   "p": 1.0,
+   "instrument": "cooccurrence"
+  },
+  {
+   "units": [
+    "*326",
+    "TI-TI-KU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 35.1, *326 appears as a heading and follows TI-TI-KU.",
+   "refuted_by": "If HT 35.1 in the corpus shows *326 not preceded by TI-TI-KU, or TI-TI-KU not present in that document.",
+   "source_says": "\"HT 35.1 (heading, follows TI- TI-KU)\"",
+   "source": "Linear_A_Lexicon_2",
+   "p": 1.0,
+   "instrument": "adjacency"
+  },
+  {
+   "units": [
+    "*326",
+    "TI-TI-KU"
+   ],
+   "kind": "positional",
+   "claim": "The passage states that in HT 35.1, *326 appears as a heading and follows TI-TI-KU.",
+   "refuted_by": "If in HT 35.1 *326 does not follow TI-TI-KU, or TI-TI-KU does not precede *326.",
+   "source_says": "\"HT 35.1 (heading, follows TI- TI-KU)\"",
+   "source": "Linear_A_Lexicon_2",
+   "p": 1.0,
+   "instrument": "adjacency"
+  },
+  {
+   "units": [
+    "PA-SA-RI-JA",
+    "PA-SE-JA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that PA-SA-RI-JA (attested at HT 24a.4) and PA-SE-JA (attested at HT 93a.8) are related forms that co-occur in the corpus as variants sharing a common root.",
+   "refuted_by": "If PA-SA-RI-JA and PA-SE-JA share no distributional overlap or co-occurrence pattern in the corpus, and appear in entirely unrelated document contexts with no shared sign sequences, the claim of relatedness would be unsupported.",
+   "source_says": "\"PA-SA-RI-JA (HT 24a.4) perhaps related to PA-SE-JA (HT 93a.8)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "p": 1.0,
+   "instrument": "cooccurrence"
+  }
+ ],
+ "unsupported": [
+  {
+   "units": [
+    "A-RE-SA-NA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-sequence A-RE-SA-NA occurs only once and in isolation in the Linear A corpus.",
+   "refuted_by": "Finding A-RE-SA-NA appearing more than once, or appearing alongside other sign-groups, in the corpus.",
+   "source_says": "\"it is only encountered once and by itself in the Linear A Corpus\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "A-RE-SA-NA"
+   ],
+   "kind": "absence",
+   "claim": "The passage states that the sign-group A-RE-SA-NA occurs only once and in isolation in the Linear A corpus.",
+   "refuted_by": "Finding A-RE-SA-NA appearing more than once, or appearing alongside other sign-groups, in the corpus.",
+   "source_says": "\"it is only encountered once and by itself in the Linear A Corpus\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "A-RE-SA-NA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that A-RE-SA-NA occurs only once and in isolation in the Linear A corpus.",
+   "refuted_by": "Finding A-RE-SA-NA in more than one document, or appearing alongside other sign-groups in the same document.",
+   "source_says": "\"it is only encountered once and by itself in the Linear A Corpus\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "A-RE-SA-NA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that A-RE-SA-NA occurs only once and in isolation in the Linear A corpus.",
+   "refuted_by": "Finding A-RE-SA-NA on more than one document, or appearing alongside other sign-groups on the same document.",
+   "source_says": "\"it is only encountered once and by itself in the Linear A Corpus\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*301+*311"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *301+*311 functions as a logogram, appearing on documents KH Wc 2046-2053, 2113, 2065, 2054, 2055.",
+   "refuted_by": "If *301+*311 were found on those documents not as a logogram but as a sign-group with quantities or in a list context, the claim would be false.",
+   "source_says": "\"*301-*311 *301+*311 logogram KH Wc 2046-2053, 2113, 2065, 2054, 2055\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*301+*311"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *301+*311 functions as a logogram appearing on documents from site KH (specifically KH Wc tablets).",
+   "refuted_by": "If *301+*311 appears on documents from sites other than KH, or does not appear as a logogram on any KH document in the corpus, the claim would be false.",
+   "source_says": "\"logogram *301-*311 *301+*311 KH Wc 2046-2053, 2113, 2065, 2054, 2055\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KA-PA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that KA-PA occurs only in tablets from the HT (Hagia Triada) site.",
+   "refuted_by": "Finding KA-PA in a document from any site other than Hagia Triada in the corpus.",
+   "source_says": "\"KA-PA occurs only in the HT tablets\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KU-PA₃-NU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that KU-PA₃-NU appears in the listed tablets (HT 1, HT 104, HT 10a, HT 10b, HT 117a, HT 122a, HT 123+124b, HT 126a, HT 15, HT 20, HT 26a, HT 85b, HT 88, HT 94b, HT 95b, HT 9b) as part of an entity list pattern.",
+   "refuted_by": "If KU-PA₃-NU does not appear in any of those listed tablets in the corpus, the claim is false.",
+   "source_says": "\"KU-PA₃-NU 109\" listed among entities on tablets classified in this group.",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KU-PA₃-NU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that KU-PA₃-NU appears in a document classified as an Entity List.",
+   "refuted_by": "If KU-PA₃-NU occurs in a document that is not an Entity List, or if it co-occurs with commodity quantities typical of a Commodity List, the claim would be false.",
+   "source_says": "\"KU-PA₃-NU 1 Entity List\"",
+   "source": "Salgarella_and_Petrakis_eds_2026_The_Wor_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI+JA+RU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that MI+JA+RU occurs as a ligature/logogram at HT 23a.2, b.2 and HT 32.2.",
+   "refuted_by": "If MI+JA+RU does not appear at those document locations in the corpus, the claim is false.",
+   "source_says": "\"MI+JA+RU (cf. ME-MI-JA-RU) ligature, logogram ... HT 23a.2, b.2; HT 32.2\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI+JA+RU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that MI+JA+RU occurs as a ligature logogram at HT 23a.2, b.2; HT 32.2; HT 35.2; HT 81.1; and HT 60.1.",
+   "refuted_by": "If MI+JA+RU is absent from any of those listed documents or appears at unlisted documents not noted with a query.",
+   "source_says": "\"MI+JA+RU (cf. ME-MI-JA-RU) ligature, logogram ... HT 23a.2, b.2; HT 32.2; HT 35.2; Ht 81.1; HT 60.1?\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI+JA+RU"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that MI+JA+RU (*550) is measured in fractions rather than whole units in the corpus.",
+   "refuted_by": "If any document containing MI+JA+RU records it with whole-unit quantities and no fractional quantities, the claim is false.",
+   "source_says": "\"*550 is measured in fractions, while *551 is measured in whole units\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+TA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that OLE+TA appears in small fractions (not whole units) in the corpus.",
+   "refuted_by": "A document in the corpus recording OLE+TA with a whole-unit quantity rather than a fractional quantity.",
+   "source_says": "\"OLE+TA (*615), in small fractions\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+TA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that OLE+TA (*615) appears in small fractions in the corpus.",
+   "refuted_by": "A corpus entry showing OLE+TA recorded with whole units rather than small fractions.",
+   "source_says": "\"OLE+TA (*615), in small fractions\"",
+   "source": "younger_ht_commentary_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*86+*188"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that *86+*188 (labeled *566) is a ligature unit appearing in the corpus.",
+   "refuted_by": "If *86+*188 does not appear as a combined sign-group in any corpus document, the claim would be false.",
+   "source_says": "\"*86+*188 (*566)\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*86+*188"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that the ligature *86+*188 (coded *566) exists as a distinct unit in the corpus.",
+   "refuted_by": "If no document in the corpus contains the sign-group *86+*188 as a ligature unit, the claim would be false.",
+   "source_says": "\"*86+*188 (*566)\"",
+   "source": "younger_ht_commentary_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MA-DI"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that MA-DI is a certain (not merely probable) male name at the site of Knossos (KN) in the corpus.",
+   "refuted_by": "If MA-DI does not appear as a sign-group at KN documents in the corpus, or appears only at non-KN sites, the claim would be false.",
+   "source_says": "\"ma-di is a certain MN at KN\"",
+   "source": "CompanionToLinearBVol1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KA-PA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign-group KA-PA (as part of ka-pa-ra^-de) reappears on documents Aa788 and that its genitive form ka-pa-ra^-do appears on Ad679.",
+   "refuted_by": "If KA-PA does not co-occur on tablets Aa788 or Ad679 in the corpus, the claim would be false.",
+   "source_says": "\"It reappears on Aa788 and the genitive ka-pa-ra^-do on Ad679.\"",
+   "source": "DocumentsInMycenaeanGreek",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "DI-NA-U"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DI-NA-U is a placename associated with VINa and *303, appearing as a heading in HT 16.1-2 and in lists at HT 9a.3, 9b.5, HT 25a.2-3, and KN Zb 27.",
+   "refuted_by": "If DI-NA-U appears in the corpus without VINa or *303 in those documents, or does not appear at the cited locations.",
+   "source_says": "\"placename known for VINa & *303; heading: HT 16.1-2; placename in a list: HT 9a.3, 9b.5; HT 25a.2-3; KN Zb 27\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "DI-NA-U"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DI-NA-U is associated with the logograms VINa and *303 and appears as a heading and as a placename in lists across multiple documents.",
+   "refuted_by": "If DI-NA-U appears in the corpus without VINa or *303 and not in a heading or list position, the claim would be weakened.",
+   "source_says": "\"placename known for VINa & *303; heading heading: HT 16.1-2; placename in a list: HT 9a.3\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "U-JU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that U-JU occurs exactly once in the corpus.",
+   "refuted_by": "Finding U-JU appearing in two or more documents or sign-group instances in the corpus.",
+   "source_says": "\"U-JU once\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "SA-RU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that SA-RU appears as a name in a list in documents HT 86a, HT 94b, HT 95a, HT 95b, and HT 123a.",
+   "refuted_by": "If SA-RU is absent from any of those documents in the corpus, or appears in a non-list context, the claim would be falsified.",
+   "source_says": "\"SA-RU name in a list HT 86a.2; HT 94b.3; HT 95a.3, b.1; HT 123a.4-5\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "SI-KA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that SI-KA occurs many times (described as \"lots\") in the corpus, more frequently than most other sign-groups listed.",
+   "refuted_by": "If SI-KA appears only once or twice in the corpus, the claim that it occurs \"lots\" would be false.",
+   "source_says": "SI-KA lots",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131C"
+   ],
+   "kind": "absence",
+   "claim": "The passage claims that the variant *131C (A 131c) is attested only in Linear A and not in Linear B.",
+   "refuted_by": "Finding *131C on any Linear B document in the corpus would refute the claim.",
+   "source_says": "\"cette dernière variante n'étant attestée qu'en linéaire A\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131C"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that sign variant *131C (A 131c) is attested exclusively in Linear A and does not appear in Linear B.",
+   "refuted_by": "Finding *131C in a Linear B document in the corpus would refute the claim.",
+   "source_says": "\"cette dernière variante n'étant attestée qu'en linéaire A\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131C"
+   ],
+   "kind": "absence",
+   "claim": "The passage claims that the variant A 131c (*131C) is attested only in Linear A and does not appear in Linear B.",
+   "refuted_by": "Finding *131C on a Linear B document in the corpus would refute the claim.",
+   "source_says": "\"the latter variant being attested only in Linear A\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131C"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the sign variant *131C (A 131c) is attested only in Linear A and not in Linear B.",
+   "refuted_by": "Finding *131C on a Linear B document in the corpus would refute the claim.",
+   "source_says": "\"the latter variant being attested only in Linear A\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+NE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that OLE+NE (*612) appears in small fractions (not whole units).",
+   "refuted_by": "A corpus document showing OLE+NE recorded with whole-unit quantities rather than small fractions.",
+   "source_says": "\"OLE+NE (*612), in small fractions\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+NE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that OLE+NE (*612) appears in small fractions (not whole units).",
+   "refuted_by": "A corpus document showing OLE+NE recorded with whole-unit quantities rather than small fractions.",
+   "source_says": "\"OLE+NE (*612), in small fractions\"",
+   "source": "younger_ht_commentary_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KI-RE-TA-NA"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage states that KI-RE-TA-NA appears with a quantity of ½ on tablet HT 8a as part of a single-commodity transfer list where the commodity is named only once.",
+   "refuted_by": "If KI-RE-TA-NA on HT 8a carries a quantity other than ½, or if the commodity is repeated for each entry rather than named once.",
+   "source_says": "\"KI-RE-TA-NA ½\" and \"The commodity being transferred is only named once in the tablet\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "TA-NA-TI"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that TA-NA-TI appears as a name in a list on documents HT 7a.4, HT 10b.4, and HT 98a.2.",
+   "refuted_by": "If TA-NA-TI does not appear on any of those three documents in the corpus, the claim would be false.",
+   "source_says": "\"name in a list HT 7a.4; HT 10b.4; HT 98a.2\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "TA-NA-TI"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that TA-NA-TI appears as a name in a list at HT 7a.4, HT 10b.4, and HT 98a.2.",
+   "refuted_by": "If TA-NA-TI does not appear in those documents or appears in a non-list context in the corpus, the claim would be false.",
+   "source_says": "\"TA-NA-TI name in a list HT 7a.4; HT 10b.4; HT 98a.2\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "PA-JA-RE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that PA-JA-RE appears as a name in a list on documents HT 8b.4, HT 29.2, HT 88.5, and ZA 10b.5-6.",
+   "refuted_by": "If PA-JA-RE does not appear on any one of those four documents in the corpus, the claim would be false.",
+   "source_says": "\"PA-JA-RE name in a list HT 8b.4; HT 29.2; HT 88.5 (second list); ZA 10b.5-6\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+RI"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that OLE+RI appears in small amounts in the corpus.",
+   "refuted_by": "If OLE+RI entries in the corpus show large quantities rather than consistently small amounts, the claim would be false.",
+   "source_says": "\"OLE+RI (*614), in small amounts\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "OLE+RI"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that OLE+RI appears in small amounts in the corpus.",
+   "refuted_by": "If OLE+RI entries in the corpus show large quantities rather than consistently small amounts, the claim would be false.",
+   "source_says": "\"OLE+RI (*614), in small amounts\"",
+   "source": "younger_ht_commentary_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "DA-ME"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DA-ME occurs as a placename in the corpus.",
+   "refuted_by": "DA-ME appears in the corpus but is never associated with a placename designation or context.",
+   "source_says": "\"D-M (placename) DA-ME name in a list\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI-NU-TE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that MI-NU-TE appears as a name in a list in documents HT 86a, HT 95a, HT 95b, and HT 106.",
+   "refuted_by": "If MI-NU-TE does not appear in any of those documents, or appears outside a list context in any of them, the claim would be false.",
+   "source_says": "\"MI-NU-TE name in a list HT 86a.5; HT 95a.2, b.2-3; HT 106.1 (only name)\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI-NU-TE"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage states that on HT 95, MI-NU-TE appears in two lists with quantities of 10 and 20 respectively, while on HT 86 MI-NU-TE appears with a quantity of 10.",
+   "refuted_by": "If MI-NU-TE on HT 95 does not appear twice with quantities 10 and 20, or on HT 86 with quantity 10, the claim would be false.",
+   "source_says": "\"b.2-3 MI-NU-TE 10 a.5 MI-NU-TE 20\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI-NU-TE"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage claims that MI-NU-TE has a quantity of 10 in HT 95 and 20 in HT 86, reflecting a doubling pattern across the two documents.",
+   "refuted_by": "If MI-NU-TE appears with a quantity other than 10 in HT 95 or other than 20 in HT 86, the claim would be false.",
+   "source_says": "\"MI-NU-TE 10 a.5 MI-NU-TE 20 b.2-3 MI-NU-TE 10\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131B"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that variant AB 131b (corpus unit *131B) is a graphically modified form of AB 131a used to convey chronological information, implying it has a distinct distributional pattern from AB 131a in the corpus.",
+   "refuted_by": "If *131B and AB 131a appear in identical distributional contexts with no systematic difference in co-occurring signs, quantities, or document types, the claim of a distinct function would be undermined.",
+   "source_says": "\"la modification graphique de la forme du signe principal (AB 131a) a été utilisée comme méthode pour donner naissance à des variantes\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*131B"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that the variant *131B (AB 131b) occurs in both Linear A and Linear B, while variant A 131c is attested only in Linear A.",
+   "refuted_by": "If *131B were found exclusively in Linear A documents in the corpus, the claim that it appears in both scripts would be false.",
+   "source_says": "\"AB 131a) was used as a method to give rise to variants of the sign (AB 131b, A 131c)\"",
+   "source": "A_note_on_the_Linear_A_and_B_ideogram_AB",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*560"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that logogram *560 (MA-RU) appears in the corpus at HT 24a.1.",
+   "refuted_by": "If HT 24a.1 does not contain *560, the claim would be false.",
+   "source_says": "\"*560 {MA-RU}[ logogram (\"wool\") HT 24a.1\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*560"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *560 (MA-RU) appears as a logogram in document HT 24a.1.",
+   "refuted_by": "If *560 does not appear in HT 24a.1 in the corpus, the claim is false.",
+   "source_says": "\"*560 {MA-RU}[ logogram (\"wool\") HT 24a.1\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*560"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *560 (rendered as {MA-RU}[) occurs as a logogram at HT 24a.1.",
+   "refuted_by": "If HT 24a.1 in the corpus does not contain *560, the claim would be false.",
+   "source_says": "\"*560 {MA-RU}[ logogram (\"wool\") HT 24a.1\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "KA-KU-PA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that KA-KU-PA appears in documents HT 16.1-2, HT Wc 3015a, and HT Wc 3016a.",
+   "refuted_by": "If KA-KU-PA is absent from any of those three documents in the corpus, the claim is false.",
+   "source_says": "\"K-K-P KA-KU-PA (person's name?) HT 16.1-2; HT Wc 3015a; HT Wc 3016a\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI+JA+I"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that MI+JA+I (*551) is measured in whole units, not fractions.",
+   "refuted_by": "A document in the corpus showing MI+JA+I accompanied by a fraction rather than a whole unit quantity.",
+   "source_says": "\"*551 is measured in whole units\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "MI+JA+I"
+   ],
+   "kind": "lexical",
+   "claim": "The passage claims that sign A 551 is composed of the signs MI, JA, and I in no clear reading order.",
+   "refuted_by": "If the corpus shows A 551 is not composed of MI+JA+I, or is composed of different signs, the claim would be false.",
+   "source_says": "\"sign A 551, which is composed of MI+JA+I in no clear reading order, may provide a possible comparandum.\"",
+   "source": "salgarella_petrakis_2025_worlds",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "DI-DE-RU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that DI-DE-RU occurs as a name in a list, attested at HT 86a.3, HT 95a.4, and HT 95b.4 as the same name.",
+   "refuted_by": "If DI-DE-RU were found in a non-list context (e.g., as a heading or logogram) in any of those documents, the claim would be false.",
+   "source_says": "\"D-D-R DI-DE-RU name in a list HT 86a.3; HT 95a.4, b.4 (same names)\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "DI-DE-RU"
+   ],
+   "kind": "arithmetic",
+   "claim": "The passage states that DI-DE-RU appears with quantity 10 in one list and quantity 20 in another list on HT 86.",
+   "refuted_by": "If DI-DE-RU does not appear with both quantity 10 and quantity 20 on HT 86, the claim is false.",
+   "source_says": "\"DI-DE-RU 10 a.3 DI-DE-RU 20\"",
+   "source": "Linear_A_Texts_and_Inscriptions_in_phone_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "QA-QA-RU"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that QA-QA-RU appears as a name in a list in documents HT 93a, HT 118, and HT 122b.",
+   "refuted_by": "If QA-QA-RU is absent from any of HT 93a.4-5, HT 118.2-3, or HT 122b.3-4 in the corpus, the claim would be false.",
+   "source_says": "\"QA-QA-RU name in a list HT 93a.4-5; HT 118.2-3; HT 122b.3-4\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "PA-SE-JA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that PA-SE-JA appears as a word on HT Wc 3001-3002.",
+   "refuted_by": "If PA-SE-JA does not appear on documents HT Wc 3001-3002 in the corpus, the claim is false.",
+   "source_says": "\"PA-SE-JA (cf. I-PA-SA-JA, PA-SA-RI-JA, PI-SE-JA) word HT Wc 3001-3002\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "PA-SE-JA"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that PA-SE-JA occurs in a list context, specifically as a name in a list on document HT 93a.8.",
+   "refuted_by": "If PA-SE-JA appears on HT 93a.8 but not in a list context (e.g., as a heading or isolated entry), the claim would be false.",
+   "source_says": "\"]P-S-J ]PA-SE-JA (PI-SE-JA?; cf. I-PA-SA-JA, PA-SE-JA, PA-SA-RI-JA) name in a list HT 93a.8\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "PA-TA-NE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that PA-TA-NE appears as a name in a list on documents HT 94b, HT 122a, and HT We 1019a.",
+   "refuted_by": "If PA-TA-NE does not appear on any of HT 94b, HT 122a, or HT We 1019a in the corpus, the claim would be false.",
+   "source_says": "\"PA-TA-NE name in a list HT 94b.1 (third list); HT 122a.6 (first list); HT We 1019a\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "PA-TA-NE"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that PA-TA-NE appears in HT 94b.1 (third list), HT 122a.6 (first list), and HT We 1019a.",
+   "refuted_by": "If PA-TA-NE is absent from any of those three documents in the corpus, or appears in none of them.",
+   "source_says": "\"PA-TA-NE HT 94b.1 (third list); HT 122a.6 (first list); HT We 1019a heading?\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*304+PA"
+   ],
+   "kind": "lexical",
+   "claim": "The passage states that *304+PA-DA-*047-KU appears as a name in a list at HT 127a.3.",
+   "refuted_by": "If HT 127a.3 does not contain the sign-group *304+PA-DA-*047-KU, the claim would be false.",
+   "source_says": "\"]*304+PA-DA-*047-KU[ name in a list HT 127a.3\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "JE",
+    "ole+KI"
+   ],
+   "kind": "positional",
+   "claim": "The passage claims that on HT 8a, the sign-group JE-DI appears before the commodity ole+KI, which is listed only once at the head of the tablet.",
+   "refuted_by": "If in the corpus HT 8a shows ole+KI appearing before JE-DI, or JE-DI absent from HT 8a, the claim would be false.",
+   "source_says": "\"we read a transfer of ole+KI from the administrative center to seven different entities, beginning with JE-DI\"",
+   "source": "2642-4749-1-PB_1",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*322"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *322 appears as a logogram on documents KH Wc 2026, KH Wc 2027, and KH Wc 2098.",
+   "refuted_by": "If *322 does not appear on any of KH Wc 2026, KH Wc 2027, or KH Wc 2098 in the corpus, the claim would be false.",
+   "source_says": "\"*322 logogram KH Wc 2026, 2027, 2098\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "*322"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that *322 appears as a logogram on documents KH Wc 2026, KH Wc 2027, and KH Wc 2098.",
+   "refuted_by": "If *322 does not appear on any of KH Wc 2026, 2027, or 2098 in the corpus, the claim would be false.",
+   "source_says": "\"*322 logogram KH Wc 2026, 2027, 2098\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "SI-PI-KI"
+   ],
+   "kind": "distributional",
+   "claim": "The passage claims that SI-PI-KI occurs as a name in a list at ZA 4a.6-7, ZA 5b.2, and ZA 15a.5.",
+   "refuted_by": "If SI-PI-KI does not appear in any of those three documents, or appears in a non-list context, the claim is false.",
+   "source_says": "\"SI-PI-KI name in a list ZA 4a.6-7; ZA 5b.2; ZA 15a.5\"",
+   "source": "Linear_A_Lexicon_2",
+   "why": "no instrument for this claim"
+  },
+  {
+   "units": [
+    "SI-PI-KI"
+   ],
+   "kind": "distributional",
+   "claim": "The passage states that SI-PI-KI occurs at sites ZA 4a, ZA 5b, and ZA 15a.",
+   "refuted_by": "If SI-PI-KI is found in documents from sites other than ZA, or is absent from any of ZA 4a.6-7, ZA 5b.2, ZA 15a.5, the claim would be false.",
+   "source_says": "\"S-P-K SI-PI-KI ZA 4a.6-7; ZA 5b.2; ZA 15a.5\"",
+   "source": "younger_lexicon_2024",
+   "why": "no instrument for this claim"
+  }
+ ],
+ "efficiency": "196 candidates through the cycle\n\n  filtered by the novelty gate    125 (64%)\n  measured                         11\n  would pass a bare p < 0.05         5\n  borderline after correction       0\n  survive the whole cycle           4\n\n  apparent results removed: 20%\n\n  reduction is only meaningful beside the recall of true effects, which this corpus cannot supply: there is no key. It is reported as what it is — how many apparent results the cycle removes — and not as accuracy."
 }

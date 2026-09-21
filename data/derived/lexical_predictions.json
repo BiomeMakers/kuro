@@ -1,0 +1,226 @@
+[
+ {
+  "ligature": "OLE+U",
+  "occurrences": 23,
+  "commodity": "aceite",
+  "syllable": "u",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /u/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+KI",
+  "occurrences": 23,
+  "commodity": "aceite",
+  "syllable": "ki",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /ki/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+MI",
+  "occurrences": 19,
+  "commodity": "aceite",
+  "syllable": "mi",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /mi/, probablemente al principio"
+ },
+ {
+  "ligature": "GRA+PA",
+  "occurrences": 19,
+  "commodity": "grano",
+  "syllable": "pa",
+  "prediction": "la palabra minoica para un tipo de grano contiene /pa/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+DI",
+  "occurrences": 13,
+  "commodity": "aceite",
+  "syllable": "di",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /di/, probablemente al principio"
+ },
+ {
+  "ligature": "CYP+E",
+  "occurrences": 13,
+  "commodity": "cyperus",
+  "syllable": "e",
+  "prediction": "la palabra minoica para un tipo de cyperus contiene /e/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+TA",
+  "occurrences": 8,
+  "commodity": "aceite",
+  "syllable": "ta",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /ta/, probablemente al principio"
+ },
+ {
+  "ligature": "VIR+KA",
+  "occurrences": 8,
+  "commodity": "hombres",
+  "syllable": "ka",
+  "prediction": "la palabra minoica para un tipo de hombres contiene /ka/, probablemente al principio"
+ },
+ {
+  "ligature": "GRA+KU",
+  "occurrences": 7,
+  "commodity": "grano",
+  "syllable": "ku",
+  "prediction": "la palabra minoica para un tipo de grano contiene /ku/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+NE",
+  "occurrences": 5,
+  "commodity": "aceite",
+  "syllable": "ne",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /ne/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+E",
+  "occurrences": 4,
+  "commodity": "aceite",
+  "syllable": "e",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /e/, probablemente al principio"
+ },
+ {
+  "ligature": "GRA+QE",
+  "occurrences": 4,
+  "commodity": "grano",
+  "syllable": "qe",
+  "prediction": "la palabra minoica para un tipo de grano contiene /qe/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+RI",
+  "occurrences": 4,
+  "commodity": "aceite",
+  "syllable": "ri",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /ri/, probablemente al principio"
+ },
+ {
+  "ligature": "VIN+RA",
+  "occurrences": 4,
+  "commodity": "vino",
+  "syllable": "ra",
+  "prediction": "la palabra minoica para un tipo de vino contiene /ra/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+TU",
+  "occurrences": 3,
+  "commodity": "aceite",
+  "syllable": "tu",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /tu/, probablemente al principio"
+ },
+ {
+  "ligature": "*304+PA",
+  "occurrences": 3,
+  "commodity": "mercancia *304",
+  "syllable": "pa",
+  "prediction": "la palabra minoica para un tipo de mercancia *304 contiene /pa/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+A",
+  "occurrences": 2,
+  "commodity": "aceite",
+  "syllable": "a",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /a/, probablemente al principio"
+ },
+ {
+  "ligature": "*188+KU",
+  "occurrences": 2,
+  "commodity": "mercancia *188",
+  "syllable": "ku",
+  "prediction": "la palabra minoica para un tipo de mercancia *188 contiene /ku/, probablemente al principio"
+ },
+ {
+  "ligature": "VIN+WA",
+  "occurrences": 2,
+  "commodity": "vino",
+  "syllable": "wa",
+  "prediction": "la palabra minoica para un tipo de vino contiene /wa/, probablemente al principio"
+ },
+ {
+  "ligature": "*316+KI",
+  "occurrences": 2,
+  "commodity": "mercancia *316",
+  "syllable": "ki",
+  "prediction": "la palabra minoica para un tipo de mercancia *316 contiene /ki/, probablemente al principio"
+ },
+ {
+  "ligature": "GRA+E",
+  "occurrences": 2,
+  "commodity": "grano",
+  "syllable": "e",
+  "prediction": "la palabra minoica para un tipo de grano contiene /e/, probablemente al principio"
+ },
+ {
+  "ligature": "*307+QE",
+  "occurrences": 1,
+  "commodity": "mercancia *307",
+  "syllable": "qe",
+  "prediction": "la palabra minoica para un tipo de mercancia *307 contiene /qe/, probablemente al principio"
+ },
+ {
+  "ligature": "TELA+KU",
+  "occurrences": 1,
+  "commodity": "tejido",
+  "syllable": "ku",
+  "prediction": "la palabra minoica para un tipo de tejido contiene /ku/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+RA",
+  "occurrences": 1,
+  "commodity": "aceite",
+  "syllable": "ra",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /ra/, probablemente al principio"
+ },
+ {
+  "ligature": "*306+MI",
+  "occurrences": 1,
+  "commodity": "mercancia *306",
+  "syllable": "mi",
+  "prediction": "la palabra minoica para un tipo de mercancia *306 contiene /mi/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+QE",
+  "occurrences": 1,
+  "commodity": "aceite",
+  "syllable": "qe",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /qe/, probablemente al principio"
+ },
+ {
+  "ligature": "VIN+SA",
+  "occurrences": 1,
+  "commodity": "vino",
+  "syllable": "sa",
+  "prediction": "la palabra minoica para un tipo de vino contiene /sa/, probablemente al principio"
+ },
+ {
+  "ligature": "GRA+DA",
+  "occurrences": 1,
+  "commodity": "grano",
+  "syllable": "da",
+  "prediction": "la palabra minoica para un tipo de grano contiene /da/, probablemente al principio"
+ },
+ {
+  "ligature": "CYP+PA",
+  "occurrences": 1,
+  "commodity": "cyperus",
+  "syllable": "pa",
+  "prediction": "la palabra minoica para un tipo de cyperus contiene /pa/, probablemente al principio"
+ },
+ {
+  "ligature": "VIN+TE",
+  "occurrences": 1,
+  "commodity": "vino",
+  "syllable": "te",
+  "prediction": "la palabra minoica para un tipo de vino contiene /te/, probablemente al principio"
+ },
+ {
+  "ligature": "OLE+ME",
+  "occurrences": 1,
+  "commodity": "aceite",
+  "syllable": "me",
+  "prediction": "la palabra minoica para un tipo de aceite contiene /me/, probablemente al principio"
+ },
+ {
+  "ligature": "VIN+KA",
+  "occurrences": 1,
+  "commodity": "vino",
+  "syllable": "ka",
+  "prediction": "la palabra minoica para un tipo de vino contiene /ka/, probablemente al principio"
+ }
+]

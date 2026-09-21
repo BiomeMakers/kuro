@@ -1,0 +1,265 @@
+{
+ "4": [
+  {
+   "motif": "WfWf",
+   "observed": 11,
+   "null": 0.21,
+   "ratio": Infinity,
+   "docs": [
+    "HT8a",
+    "HT23a",
+    "HT98a",
+    "HT123+124b",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "|.|C",
+   "observed": 7,
+   "null": 0.4,
+   "ratio": Infinity,
+   "docs": [
+    "HT26b",
+    "HT27a",
+    "HT85a",
+    "HT91",
+    "HT96b",
+    "HT97a",
+    "HT122b"
+   ]
+  },
+  {
+   "motif": "|C|L",
+   "observed": 6,
+   "null": 0.44,
+   "ratio": Infinity,
+   "docs": [
+    "HT27b",
+    "HT62+73",
+    "HT66"
+   ]
+  },
+  {
+   "motif": "|CWN",
+   "observed": 4,
+   "null": 0.23,
+   "ratio": Infinity,
+   "docs": [
+    "HT7a",
+    "HT95a",
+    "HT115a",
+    "HT122b"
+   ]
+  },
+  {
+   "motif": "LfLf",
+   "observed": 4,
+   "null": 0.26,
+   "ratio": Infinity,
+   "docs": [
+    "HT34",
+    "HT45b",
+    "KH91"
+   ]
+  },
+  {
+   "motif": "fWfW",
+   "observed": 9,
+   "null": 0.72,
+   "ratio": 12.4,
+   "docs": [
+    "HT8a",
+    "HT8b",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "W|.|",
+   "observed": 9,
+   "null": 0.81,
+   "ratio": 11.1,
+   "docs": [
+    "HT27a",
+    "HT35",
+    "HT85a",
+    "HT89",
+    "HT91",
+    "HT96b",
+    "HT97a",
+    "HT122b",
+    "HT126a"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "motif": "WfWfW",
+   "observed": 7,
+   "null": 0.11,
+   "ratio": Infinity,
+   "docs": [
+    "HT8a",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "fWfWf",
+   "observed": 7,
+   "null": 0.04,
+   "ratio": Infinity,
+   "docs": [
+    "HT8a",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "W|.|C",
+   "observed": 6,
+   "null": 0.16,
+   "ratio": Infinity,
+   "docs": [
+    "HT27a",
+    "HT85a",
+    "HT91",
+    "HT96b",
+    "HT97a",
+    "HT122b"
+   ]
+  },
+  {
+   "motif": "|C|LN",
+   "observed": 5,
+   "null": 0.29,
+   "ratio": Infinity,
+   "docs": [
+    "HT27b",
+    "HT66"
+   ]
+  },
+  {
+   "motif": "|CWNW",
+   "observed": 4,
+   "null": 0.13,
+   "ratio": Infinity,
+   "docs": [
+    "HT7a",
+    "HT95a",
+    "HT115a",
+    "HT122b"
+   ]
+  },
+  {
+   "motif": "C|LNL",
+   "observed": 4,
+   "null": 0.16,
+   "ratio": Infinity,
+   "docs": [
+    "HT27b",
+    "HT66"
+   ]
+  },
+  {
+   "motif": "fCfCf",
+   "observed": 15,
+   "null": 0.59,
+   "ratio": 25.5,
+   "docs": [
+    "HT23a",
+    "HT35",
+    "HT50a",
+    "HT91",
+    "KH8",
+    "KH15"
+   ]
+  }
+ ],
+ "6": [
+  {
+   "motif": "CfCfCf",
+   "observed": 14,
+   "null": 0.14,
+   "ratio": Infinity,
+   "docs": [
+    "HT23a",
+    "HT35",
+    "HT50a",
+    "HT91",
+    "KH8",
+    "KH15"
+   ]
+  },
+  {
+   "motif": "fCfCfC",
+   "observed": 11,
+   "null": 0.14,
+   "ratio": Infinity,
+   "docs": [
+    "HT23a",
+    "HT35",
+    "HT50a",
+    "HT91",
+    "KH8"
+   ]
+  },
+  {
+   "motif": "WfWfWf",
+   "observed": 6,
+   "null": 0.01,
+   "ratio": Infinity,
+   "docs": [
+    "HT8a",
+    "HT98a",
+    "PE2"
+   ]
+  },
+  {
+   "motif": "WNfWNf",
+   "observed": 5,
+   "null": 0.45,
+   "ratio": Infinity,
+   "docs": [
+    "HT9a",
+    "HT19",
+    "HT36",
+    "HT104"
+   ]
+  },
+  {
+   "motif": "W|W|WC",
+   "observed": 5,
+   "null": 0.19,
+   "ratio": Infinity,
+   "docs": [
+    "HT28b",
+    "HT96a",
+    "KH5",
+    "KH7a"
+   ]
+  },
+  {
+   "motif": "|W|WCN",
+   "observed": 5,
+   "null": 0.33,
+   "ratio": Infinity,
+   "docs": [
+    "HT28b",
+    "HT96a",
+    "KH5",
+    "KH7a"
+   ]
+  },
+  {
+   "motif": "fWfWfW",
+   "observed": 5,
+   "null": 0.01,
+   "ratio": Infinity,
+   "docs": [
+    "HT98a",
+    "PE2"
+   ]
+  }
+ ]
+}

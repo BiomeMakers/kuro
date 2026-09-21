@@ -104,6 +104,12 @@ Si los valores del Lineal B son el filtro, la pregunta siguiente es qué valores
 
 Ninguna candidata supera al control por más de dos desviaciones con controles suficientes. La mejora de las distancias es la que produce cualquier optimización con 59 grados de libertad, y el control la reproduce entera. El etrusco, que en la sección 5 era la única dirección que los valores del B alejaban respecto del azar, aquí se deja acercar menos que el control; las dos medidas no se contradicen (comparan cosas distintas) y juntas dicen que no hay nada ahí. Lo mismo vale para la asignación por forma de signo de Nepal y Perono Cacciafoco (2024), transcrita de su tabla 2 y probada con el mismo instrumento: aleja el minoico de todas las candidatas menos del etrusco, y 35 de 100 asignaciones al azar lo acercan más que la suya.
 
+## 5 ter. Un método publicado con la misma forma, y en qué se diferencia esta prueba
+
+La búsqueda de la sección anterior tiene un precedente publicado que hay que declarar. Tamburini (2025) plantea el desciframiento como la minimización de una función de energía sobre asignaciones de signos, resuelta con recocido simulado acoplado, y codifica las soluciones con k-permutaciones, lo que permite representar correspondencias nulas, de uno a muchos y de muchos a uno; la nuestra solo permuta valores uno a uno. Su sistema supera al estado del arte anterior en identificación de cognados sobre siete conjuntos de referencia, entre ellos el de Lineal B contra griego micénico.
+
+La diferencia no está en el optimizador sino en lo que se compara al final. Tamburini evalúa contra listas de cognados conocidos: mide aciertos contra una verdad disponible. En un desciframiento real esa verdad no existe, y él mismo lo señala al discutir los límites de estos sistemas. Lo que aquí se añade es el comparandum que falta: la misma búsqueda, con los mismos grados de libertad y el mismo número de pasos, aplicada a un corpus de control que conserva el inventario de signos y las longitudes de palabra y destruye las secuencias. Sin ese control, la mejora de distancia que produce optimizar cincuenta y nueve valores libres no se puede interpretar; con él, la mejora del corpus real se lee contra la que obtiene un corpus sin lengua.
+
 ## 6. Qué queda cerrado y qué queda abierto
 
 **Cerrado, con nulo:** que la fonotaxis consonántica del minoico se parezca a alguna de trece candidatas, bajo la transcripción vigente (sección 4) y bajo cualquier asignación de valores compatible con los nombres compartidos (sección 5 bis). Esos nombres compartidos son, por su parte, lo único que el cotejo léxico con el Lineal B devuelve por encima del azar: con el léxico completo del B (5.234 formas) y un nulo de bigramas de sílabas, las coincidencias exactas de tres o más sílabas se concentran en los topónimos (3 observadas contra 0,24 esperadas), rozan el azar en los nombres de persona (3 contra 0,95) y están en el azar en los lexemas (2 contra 0,54). Las coincidencias entre las dos escrituras son geografía compartida, no lengua. Las tres históricas (luvita, hurrita, hático) se miden aquí contra un nulo por primera vez, y ninguna pasa.
@@ -111,6 +117,18 @@ Ninguna candidata supera al control por más de dos desviaciones con controles s
 **No cerrado:** la filiación del minoico. Cuatro lecturas siguen siendo compatibles con todo lo medido: que el minoico sea aislado; que esté emparentado con una lengua que no está en el conjunto; que el filtro griego deforme la fonotaxis demasiado para que sobreviva señal alguna; o que los valores del Lineal B sean incorrectos para el Lineal A, en cuyo caso lo medido es la fonotaxis de una transcripción incorrecta. La cuarta queda ahora acotada por la sección 5 bis: ni siquiera una asignación libre de los valores no anclados produce parecido. Las tres primeras siguen abiertas, y ninguna se resuelve añadiendo candidatas. Añadir candidatas no es el remedio: cincuenta más devolverían cincuenta p-valores cerca de 1,00 por la misma razón.
 
 **Lo que no pasa por el filtro** es la tipología: orden de palabras, afijación, reduplicación y otras propiedades estructurales que pueden medirse sobre una transliteración sin depender de sus valores fonéticos. Tres rasgos así codificados para el minoico y cotejados con la base Grambank (Skirgård y otros 2023) ya apuntan en una dirección (el luvita y el acadio puntúan 0 de 3, el sumerio y el abjasio 3 de 3), pero tres rasgos binarios no discriminan entre 2.467 lenguas, y las candidatas históricas están casi ausentes de Grambank por ser lenguas muertas. Ese es el trabajo que este artículo deja: diez rasgos estructurales medidos distribucionalmente para el minoico, y las candidatas muertas codificadas a mano desde sus gramáticas.
+
+## 6 quater. La candidata que el resultado de la fórmula obligaba a probar: el egipcio
+
+La fórmula de libación del Lineal A tiene la arquitectura de la fórmula de ofrenda egipcia (Acedo 2026, "An Egyptian pattern in the Linear A libation formula"). Una arquitectura compartida no implica una lengua compartida, pero obliga a medirlo. Con el corpus AES (Ancient Egyptian Sentences, Schweitzer 2021; 101.796 frases del Thesaurus Linguae Aegyptiae, 14.584 lemas usables, transcripción egiptológica consonántica reducida al mismo esqueleto que las demás), el egipcio se comporta como las trece: bajo los valores del Lineal B, distancia 0,242 contra 0,236 del minoico barajado (p=1,00); bajo la búsqueda anclada de valores, el corpus real llega a 0,170 y el control a 0,170 ± 0,001 (z=−0,6). El minoico adoptó la forma de una fórmula egipcia sin que su fonotaxis se parezca a la egipcia, que es lo que el contacto sin cambio de lengua predice.
+
+## 6 quinquies. Una reclamación semítica hecha mientras se escribía esto
+
+En junio de 2026, Tom Di Mino anunció el desciframiento del Lineal A como lengua semítica extinta, antecesora del hebreo, el arameo y el árabe. Su punto de partida es el signo \*301, sin valor fonético asignado, al que propone el valor *na*: con él, la fórmula votiva contiene la raíz semítica n-w-y, *nawaya*, "morar", atestiguada en hebreo y acadio. De ahí declara 42 lecturas de signo, un léxico de 508 entradas y 443 traducciones (*Ya Diktu*, agosto de 2026), construido con guiones sobre GORILA y SigLA, las mismas fuentes de este trabajo. Está en revisión en Rutgers y Cambridge; el método de cada asignación no es público y nadie lo ha replicado. La hipótesis semítica la propuso Cyrus Gordon en 1957 y el campo no la aceptó.
+
+Las medidas de este artículo tienen que ver con eso y conviene decir exactamente cuánto. El ugarítico está entre las trece: bajo los valores del Lineal B su distancia al minoico no se distingue de la del minoico barajado. Y la búsqueda anclada de la sección 5 bis optimiza los valores de los signos no anclados, \*301 entre ellos, con recocido simulado y corpus de control: **ninguna candidata semítica baja por debajo de su control**, y la z máxima de toda la tabla es 1,7 y corresponde al luvita. Bajo ninguna asignación de valores compatible con los topónimos compartidos con el Lineal B el corpus se parece a una lengua semítica más de lo que se le parece un corpus sin lengua.
+
+Eso es una afirmación sobre el corpus y no sobre una inscripción. Un texto votivo puede llevar préstamos de una lengua a la que el corpus no pertenece, que es lo que muestra el vocabulario de mercancías compartido con el Lineal B, y una lectura correcta de un texto no obliga al resto del corpus a parecerse a la lengua de esa lectura. Lo que este artículo aporta a la discusión no es un veredicto sobre esa propuesta, sino la medida contra la que cualquier propuesta puede contrastarse, y la exigencia, común a todas, de declarar el control.
 
 ## 7. Discusión
 
@@ -138,6 +156,12 @@ Nepal, A. y F. Perono Cacciafoco 2024. Minoan Cryptanalysis: Computational Appro
 
 Palmer, L. R. 1958. Luvian and Linear A. Transactions of the Philological Society 57, 75-100.
 
+Tamburini F. 2025, On automatic decipherment of lost ancient scripts relying on combinatorial optimisation and coupled simulated annealing, Frontiers in Artificial Intelligence 8:1581129.
+
+Di Mino T. 2026, Ya Diktu: Grammar of the Minoan Peak Sanctuary Libation Formula, unpublished draft, August 2026.
+
+Gordon C.H. 1957, Notes on Minoan Linear A, Antiquity 31, 124-130.
+
 Skirgård, H., H. J. Haynie, D. E. Blasi y otros 2023. Grambank reveals the importance of genealogical constraints on linguistic diversity and highlights the impact of language loss. Science Advances 9(16), eadg6175.
 
 Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J. Bodel, J. Prag, I. Androutsopoulos y N. de Freitas 2023. Machine Learning for Ancient Languages: A Survey. Computational Linguistics 49, 1-44.
@@ -145,5 +169,7 @@ Sommerschield, T., Y. Assael, J. Pavlopoulos, V. Stefanak, A. Senior, C. Dyer, J
 Steele, P. M. y T. Meißner 2017. From Linear B to Linear A: the backward projection of sound values. En P. M. Steele (ed.), Understanding Relations Between Scripts. Oxford: Oxbow.
 
 TLHdig 2025. Thesaurus Linguarum Hethaeorum digitalis, versión 25.1. Hethitologie-Portal Mainz. Zenodo, doi 10.5281/zenodo.15459134.
+
+Schweitzer S.D. 2021. AES – Ancient Egyptian Sentences. Corpus of Ancient Egyptian sentences for corpus-linguistic research (CC BY-SA 4.0), github.com/simondschweitzer/aes.
 
 van Soesbergen, P. 2022. The Decipherment of Minoan Linear A. Volúmenes I-II. Academia.edu.

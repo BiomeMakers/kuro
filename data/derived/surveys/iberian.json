@@ -1,0 +1,374 @@
+{
+ "inventory": {
+  "documents": 2094,
+  "tokens": 4697,
+  "units": 3081,
+  "hapax": 2679,
+  "units_3plus": 208,
+  "broken_in_every_attestation": 0,
+  "sites": [
+   [
+    "TE",
+    630
+   ],
+   [
+    "HER",
+    370
+   ],
+   [
+    "V",
+    213
+   ],
+   [
+    "B",
+    212
+   ],
+   [
+    "GI",
+    137
+   ],
+   [
+    "PYO",
+    109
+   ]
+  ],
+  "supports": [
+   [
+    "?",
+    2094
+   ]
+  ]
+ },
+ "genres": {
+  "base": 0.13,
+  "genres": [
+   {
+    "genre": "?",
+    "documents": 2094,
+    "rigidity": 0.13,
+    "over_base": 0.0
+   }
+  ]
+ },
+ "formats": [
+  {
+   "motif": "L..L.",
+   "observed": 4,
+   "null": 0.27,
+   "ratio": Infinity,
+   "documents": [
+    "V.21.01",
+    "V.13.02"
+   ]
+  },
+  {
+   "motif": ".W.W.",
+   "observed": 12,
+   "null": 3.6,
+   "ratio": 3.3,
+   "documents": [
+    "HU.02.01",
+    "SP.01.04",
+    "A.03.01",
+    "TE.18.01",
+    "V.13.03",
+    "AUD.05.36a",
+    "AUD.05.38b",
+    "B.11.01"
+   ]
+  },
+  {
+   "motif": "..W.W",
+   "observed": 12,
+   "null": 3.85,
+   "ratio": 3.1,
+   "documents": [
+    "HU.02.01",
+    "MU.01.01",
+    "SP.01.04",
+    "V.13.03",
+    "AUD.05.36a",
+    "AUD.05.38b",
+    "B.11.01",
+    "PYO.01.21"
+   ]
+  },
+  {
+   "motif": "W.W..",
+   "observed": 11,
+   "null": 3.98,
+   "ratio": 2.8,
+   "documents": [
+    "HU.02.01",
+    "SP.01.04",
+    "A.03.01",
+    "V.13.03",
+    "AUD.05.36a",
+    "AUD.05.38b",
+    "AUD.04.02",
+    "B.11.01"
+   ]
+  },
+  {
+   "motif": ".W..W",
+   "observed": 10,
+   "null": 4.32,
+   "ratio": 2.3,
+   "documents": [
+    "T.07.01",
+    "MU.01.01",
+    "SP.01.04",
+    "V.01.01",
+    "V.13.03",
+    "AUD.05.34",
+    "T.13.01",
+    "B.11.01"
+   ]
+  },
+  {
+   "motif": "W..W.",
+   "observed": 9,
+   "null": 4.12,
+   "ratio": 2.2,
+   "documents": [
+    "T.07.01",
+    "SP.01.04",
+    "V.01.01",
+    "V.13.03",
+    "AUD.05.34",
+    "B.11.01",
+    "HER.02.374",
+    "L.01.02"
+   ]
+  },
+  {
+   "motif": "W...W",
+   "observed": 8,
+   "null": 4.25,
+   "ratio": 1.9,
+   "documents": [
+    "HU.02.01",
+    "SP.01.07",
+    "SP.01.04",
+    "V.06.006",
+    "V.13.03",
+    "B.11.01"
+   ]
+  },
+  {
+   "motif": "..f..",
+   "observed": 12,
+   "null": 10.4,
+   "ratio": 1.2,
+   "documents": [
+    "MU.01.01",
+    "V.17.05",
+    "V.13.03",
+    "HGA.01.14",
+    "HGA.01.15",
+    "HGA.01.16",
+    "HGA.01.17",
+    "HGA.01.20"
+   ]
+  }
+ ],
+ "functions": {
+  "first_position_base": 0.11,
+  "documents_used": 297,
+  "heading_candidates": [
+   {
+    "unit": "ŕuba",
+    "first": 4,
+    "of": 4,
+    "p": 0.00015
+   },
+   {
+    "unit": "ka",
+    "first": 8,
+    "of": 19,
+    "p": 0.00054
+   },
+   {
+    "unit": "anbi",
+    "first": 3,
+    "of": 3,
+    "p": 0.00135
+   },
+   {
+    "unit": "iŕ",
+    "first": 3,
+    "of": 7,
+    "p": 0.03348
+   },
+   {
+    "unit": "aŕe",
+    "first": 2,
+    "of": 3,
+    "p": 0.0339
+   },
+   {
+    "unit": "ati",
+    "first": 2,
+    "of": 3,
+    "p": 0.0339
+   },
+   {
+    "unit": "iu",
+    "first": 2,
+    "of": 3,
+    "p": 0.0339
+   }
+  ],
+  "qualifiers": [],
+  "note": "p values are bare; correct by the number of units tested before filing"
+ },
+ "endings": {
+  "unit": "character",
+  "words": 2894,
+  "endings": 14,
+  "null_mean": 9.8,
+  "ratio": 1.4,
+  "p": 0.0,
+  "top": [
+   [
+    "+",
+    38
+   ],
+   [
+    "ŕ",
+    27
+   ],
+   [
+    "i",
+    25
+   ],
+   [
+    "n",
+    24
+   ],
+   [
+    "r",
+    18
+   ],
+   [
+    "e",
+    17
+   ],
+   [
+    "s",
+    11
+   ],
+   [
+    "a",
+    9
+   ],
+   [
+    "ś",
+    9
+   ],
+   [
+    "o",
+    7
+   ]
+  ]
+ },
+ "anchoring": {
+  "tested": 23,
+  "above_null": 10,
+  "expected_by_chance": 1.2,
+  "bonferroni": 0.0022,
+  "elements": [
+   {
+    "element": "atin",
+    "forms": 30,
+    "p": 0.0
+   },
+   {
+    "element": "biuŕ",
+    "forms": 30,
+    "p": 0.0
+   },
+   {
+    "element": "tautin",
+    "forms": 4,
+    "p": 0.0
+   },
+   {
+    "element": "bilos",
+    "forms": 22,
+    "p": 0.0
+   },
+   {
+    "element": "sosin",
+    "forms": 9,
+    "p": 0.0
+   },
+   {
+    "element": "balke",
+    "forms": 12,
+    "p": 0.0
+   },
+   {
+    "element": "taker",
+    "forms": 3,
+    "p": 0.0
+   },
+   {
+    "element": "uŕke",
+    "forms": 7,
+    "p": 0.01
+   },
+   {
+    "element": "ilun",
+    "forms": 7,
+    "p": 0.01
+   },
+   {
+    "element": "belen",
+    "forms": 2,
+    "p": 0.026
+   },
+   {
+    "element": "biur",
+    "forms": 4,
+    "p": 0.176
+   },
+   {
+    "element": "akir",
+    "forms": 4,
+    "p": 0.176
+   },
+   {
+    "element": "kibas",
+    "forms": 1,
+    "p": 0.182
+   },
+   {
+    "element": "basti",
+    "forms": 1,
+    "p": 0.182
+   },
+   {
+    "element": "aŕan",
+    "forms": 3,
+    "p": 0.352
+   }
+  ]
+ },
+ "affiliation": {
+  "candidates": [
+   {
+    "language": "hittite",
+    "distance": 0.288,
+    "null_mean": 0.286,
+    "p": 0.995
+   },
+   {
+    "language": "mycenaean",
+    "distance": 0.388,
+    "null_mean": 0.389,
+    "p": 0.095
+   }
+  ]
+ }
+}
