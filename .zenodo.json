@@ -1,0 +1,9 @@
+{
+  "title": "kuro: measuring undeciphered script corpora against null models",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [{"name": "Acedo, Alberto", "affiliation": "Independent researcher"}],
+  "license": "MIT",
+  "description": "Python package behind the book Kurometry: Measuring Linear A. It measures distributional claims about undeciphered corpora against explicit null models, with a positive control on Linear B. It includes a manifest in which every figure asserted in the book carries its null model, its number of observations and the condition that would refute it, and 176 tests.",
+  "keywords": ["Linear A", "Minoan", "undeciphered scripts", "decipherment", "null models", "epigraphy", "Python"]
+}
