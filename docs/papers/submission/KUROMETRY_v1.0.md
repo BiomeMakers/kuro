@@ -5,7 +5,7 @@
 Alberto Acedo, PhD
 Independent researcher
 
-Version 1.0, 16 September 2026
+Version 1.1, 21 September 2026
 
 ## Preface
 
@@ -390,7 +390,7 @@ The Linear A corpus holds at least three genres that do not behave alike: the ac
 
 Fourteen of the sixty-five therefore describe something other than the account, and among them are JA-SA-SA-RA-ME, U-NA-KA-NA-SI and DA-MA-TE, which belong to the libation formula, and TE, KU and KA, whose dominant use is on sealings.
 
-The consequence beyond bookkeeping. Finkelberg (2001) builds a fourteen-point morphological profile of Minoan and concludes that the language is Anatolian, with Lycian as its descendant. Eight of her fourteen features rest on the sequence A-TA-I-\*301-WA-JA, whose eleven attestations are all on stone vessels. Her profile therefore describes the votive genre; this inventory describes the account. The two are not in competition over most of their extent, and saying so is not a concession but a statement of what each measures.
+The consequence beyond bookkeeping. Finkelberg (2001) [16] builds a fourteen-point morphological profile of Minoan and concludes that the language is Anatolian, with Lycian as its descendant. Eight of her fourteen features rest on the sequence A-TA-I-\*301-WA-JA, whose eleven attestations are all on stone vessels. Her profile therefore describes the votive genre; this inventory describes the account. The two are not in competition over most of their extent, and saying so is not a concession but a statement of what each measures.
 
 They do meet at one point. She reads *a-du* as the third person imperative of an Anatolian verb *a-* "to make"; this inventory has A-DU as a heading term on ten tablets. Measured, her paradigm, *ja-di* (1 attestation), *je-di* (4), *a-da* (1), *a-du* (10), *a-ra-u-da* (1), with *a-di* unattested, occupies the first syllabic position of its document in 12 of 17 attestations against a base rate of 0.405, p = 0.012. A verb does not systematically head its document; a record label does, and §2.6 measures that class at p = 8·10⁻³⁴. On this point the distributional reading holds, and it holds inside the archive, which is where both attestations of the disagreement lie.
 
@@ -575,7 +575,7 @@ Corpus, code, null models, error rates and the manifest of every figure at githu
 
 ## Part II. The sealing system
 
-The following work bears directly on what is measured here and is credited accordingly: A search of the NESTOR bibliography returns the reference treatments of this document type, which bears directly on what is measured here: Hallager 2021, "The Minoan Roundel, its function, seals and inscriptions"; Weingarten 2017, "When One Equals One: The Minoan Roundel", and Weingarten 2010, "Minoan Seals and Sealings" (Oxford Handbook); Tomas 2012 on the transition from the Linear A to the Linear B sealing system; and Panagiotopoulos 2022 on Minoan nodules. The measurements stand; the attribution does not.
+The following work bears directly on what is measured here and is credited accordingly: A search of the NESTOR bibliography returns the reference treatments of this document type, which bears directly on what is measured here: Hallager 2021, "The Minoan Roundel, its function, seals and inscriptions"; Weingarten 2017 [17], "When One Equals One: The Minoan Roundel", and Weingarten 2010 [19], "Minoan Seals and Sealings" (Oxford Handbook); Tomas 2012 [18] on the transition from the Linear A to the Linear B sealing system; and Panagiotopoulos 2022 on Minoan nodules. The measurements stand; the attribution does not.
 
 #### Summary
 
@@ -661,6 +661,14 @@ Corpus and code at github.com/BiomeMakers/kuro. Nodule and seal data derived fro
 
 [15] Hallager, E. 1996. *The Minoan Roundel and Other Sealed Documents*. Liège: Aegaeum 14.
 
+[16] Finkelberg, M. 2001. "The language of Linear A: Greek, Semitic or Anatolian?" In *Greater Anatolia and the Indo-Hittite Language Family*, JIES Monograph 38, 81-105.
+
+[17] Weingarten, J. 2017. "When one equals one: the Minoan roundel."
+
+[18] Tomas, H. 2012. "The transition from the Linear A to the Linear B sealing system." In I. Regulski, K. Duistermaat and P. Verkinderen (eds.), *Seals and Sealing Practices in the Near East*, 33-49. Leuven: Peeters.
+
+[19] Weingarten, J. 2010. "Minoan seals and sealings." In E. H. Cline (ed.), *The Oxford Handbook of the Bronze Age Aegean*, 317-328. Oxford: Oxford University Press.
+
 ## 2. An Egyptian pattern in the libation formula
 
 The following work bears directly on what is measured here and is credited accordingly: A search of the NESTOR bibliography (34,515 entries, 2006-2026) returns five treatments of the libation formula that bear directly on what is measured here and are credited accordingly: Davis 2013 on its word order, Davis 2014 (*Minoan Stone Vessels with Linear A Inscriptions*, Aegaeum 36), a monograph on the whole corpus of inscribed stone vessels; Valério 2007, "Diktaian Master", which reads *(-)du-pu₂-re* as a term of rulership and *j/a-di-ki-te-te-du-pu₂-re* as the name of a Minoan deity preceding Diktaian Zeus; Witczak 2009, "Cretan Toponyms in the Minoan Libation Formula", on precisely the place names of slot 2; and Soldani 2012. Also Aspesi 1996 on *(-)du-pu-re*. The Egyptian comparison of this chapter is unaffected, but the treatment of the formula's slots must be attributed.
@@ -718,7 +726,7 @@ The reading of §3.3 deserves its own limitation, because the whole of it rests 
 Two further facts bear on it. Across its nine attestations the sign group varies in form (U-NA-RU-KA-NA-SI on IO Za 16, U-NA-RU-KA-NA-TI on PK Za 11, U-NA-RU-KA-JA-SI on PK Za 12, JA-SA-U-NA-KA-NA-SI on PK Za 8), which is not how a fixed commodity term behaves; and a reading of the position as a body of worshippers rather than as the thing offered is compatible with every other datum in the corpus, and has been proposed (di Mino 2026). What the corpus fixes is therefore the position, not the sense: SY Za 2 shows that this is where the formula names something that can be measured in oil. What decides between the two readings is the page of GORILA IV, and it is named here so that whoever holds the volume can settle it.
 
 #### 2.2.5 The limits on JA-SA-SA-RA-ME
-The central anchor occurs thirteen times at six sanctuaries, with variants of prefix (ja-, a-, none) and of ending (-ME, -MA, -MA-NA), and never carries a logogram or a quantity. That absence, across thirteen occurrences and with SY Za 2 showing that the formula does admit logograms, rules out two functions: JA-SA-SA-RA-ME designates neither the offering nor the object. And its invariance across sanctuaries rules out two more: it is not the dedicant's name (which would be hapax) nor the sanctuary's (which would vary by site). This agrees with the conclusion of Petrakis and Steele (2025), who find that the recent evidence does not support the reading of (J)A-SA-SA-RA-ME as a theonym.
+The central anchor occurs thirteen times at six sanctuaries, with variants of prefix (ja-, a-, none) and of ending (-ME, -MA, -MA-NA), and never carries a logogram or a quantity. That absence, across thirteen occurrences and with SY Za 2 showing that the formula does admit logograms, rules out two functions: JA-SA-SA-RA-ME designates neither the offering nor the object. And its invariance across sanctuaries rules out two more: it is not the dedicant's name (which would be hapax) nor the sanctuary's (which would vary by site). Petrakis and Steele (2025) reached this conclusion first: they find that the recent evidence does not support the reading of (J)A-SA-SA-RA-ME as a theonym.
 
 #### 2.2.6 The resulting template
 [A: fixed root + local ending] [place, and up to two names: hapax] [C: JA-SA-SA-RA-ME, no logogram] [D: U-NA-KA-NA-SI, admits a logogram of offering] [E: I-PI-NA-MA] [F: SI-RU-TE] [name or second form of the opening: hapax, optional]
@@ -928,7 +936,7 @@ The anchored value search optimises the values of the unanchored signs and compa
 | Davis 1960s | Hittite | Did not prosper | 1.5 |
 | Facchetti & Negri 2003 | Indo-European | Comparison through an already read language | 1.3 |
 | Gordon 1957-66 | Semitic | Lexical matches without grammatical grounding | 0.1 (Ugaritic) |
-| Di Mino 2026 | Central Semitic | Under review | 0.1 / 0.4 (Akkadian) |
+| Di Mino 2026 [16] | Central Semitic | Under review | 0.1 / 0.4 (Akkadian) |
 | Finkelberg [11] 2001 | Anatolian, with Lycian its descendant | A fourteen-point morphological profile rather than an etymological argument; not taken up | (Luwian **2.3**, Hittite 1.5) |
 | Van Soesbergen 2022 [5] | Hurrian | Not taken up by the field | **−2.3** |
 | (not proposed) | Etruscan |, | **−3.2** |
@@ -1040,7 +1048,7 @@ The tests above all concern the lexicon. A second criterion has been available t
 
 #### 3.9.1 1 The o-series, and what it excludes
 
-A caution on the o-series. The scarcity of o-series signs in Linear A is measured here and is not in dispute. What it means is. Four readings stand in the literature and none is ours: that Minoan lacked /o/, in a three-vowel system (the traditional reading, treated by Packard 1974 and by Palaima and Sikkenga 1999); that Minoan had *more* than five vowels (Duhoux 1989, 72-73); that e and o are secondary developments from an original three-vowel system by contraction of i-diphthongs (Davis 2014, 240-241); and, most recently, that the scarcity is due to chances of attestation given how few o-series correspondences are known at all (Meissner and Steele, a position Judson calls persuasive).
+A caution on the o-series. The scarcity of o-series signs in Linear A is measured here and is not in dispute. What it means is. Four readings stand in the literature and none is ours: that Minoan lacked /o/, in a three-vowel system (the traditional reading, treated by Packard 1974 [17] and by Palaima and Sikkenga 1999); that Minoan had *more* than five vowels (Duhoux 1989, 72-73); that e and o are secondary developments from an original three-vowel system by contraction of i-diphthongs (Davis 2014, 240-241); and, most recently, that the scarcity is due to chances of attestation given how few o-series correspondences are known at all (Meissner and Steele, a position Judson calls persuasive).
 
 Two measurements of our own bear on it, and the second corrects the first. Screened against PHOIBLE, which holds living languages, 112 of 3,020 inventories have a, e, i and u and lack /o/, 7.8% of those with all four, and none is in the eastern Mediterranean. That suggested a Minoan without /o/ would be typologically exceptional.
 
@@ -1167,6 +1175,10 @@ Corpus, code, null models and the manifest of every figure at github.com/BiomeMa
 [14] Younger, J. G. 2024. *Linear A Texts in Phonetic Transcription*. Available at kansas.academia.edu/JYounger.
 
 [15] Moran, S., McCloy, D. and Wright, R. (eds.) 2019. PHOIBLE 2.0. Jena: Max Planck Institute. And Marsico, E. et al. 2018, BDPROTO.
+
+[16] di Mino, T. 2026. *Ya Diktu*. Preprint, doi 10.5281/zenodo.22129502.
+
+[17] Packard, D. W. 1974. *Minoan Linear A*. Berkeley: University of California Press.
 
 ## 4. Five candidates for Minoan names on plant names
 
@@ -1369,7 +1381,7 @@ Limit. The open corpus is noisy (OCR, Umbrian, name glosses in place of translat
 
 #### 5.3.2 Iberian: the corpus that anchors
 
-The Iberian semi-syllabary has been read since Gómez-Moreno and the language is still not understood. What is established is a set of regularities: a repertoire of formants combining in pairs to make anthroponyms (Untermann 1990), recurrent suffixes, a numeral system recognised by comparison with Basque (Orduña 2005; Ferrer i Jané 2009), and graphic differences between the north-eastern, Levantine and southern varieties. These were obtained by inspection and internal comparison, not against null models, so neither their effect size nor their probability under chance is known.
+The Iberian semi-syllabary has been read since Gómez-Moreno and the language is still not understood. What is established is a set of regularities: a repertoire of formants combining in pairs to make anthroponyms (Untermann 1990 [7]), recurrent suffixes, a numeral system recognised by comparison with Basque (Orduña 2005 [17]; Ferrer i Jané 2009 [18]), whose relation to Basque remains disputed (Lakarra 2010 [21]; Orduña 2011 [22]), and graphic differences between the north-eastern, Levantine and southern varieties. These were obtained by inspection and internal comparison, not against null models, so neither their effect size nor their probability under chance is known.
 
 Data. 2,094 Iberian texts derived from the Hesperia database (UCM) in the version published by Luo et al. (2021), of which 1,919 have usable text: 2,677 words, 2,359 types. Zones: north-eastern 1,644 texts, Levantine-southern 269. Chronology and support are in Hesperia but not in this copy; their absence prevents separating register and period, and is declared.
 
@@ -1377,13 +1389,13 @@ Untermann's formants are the repertoire the null points to. The thirty formants 
 
 Two isoglosses separate under a null, a third is an artefact. Over 2,090 northern and 574 southern words: final -kí at 28.6‰ in the south against 1.2‰ in the north (p = 3·10⁻⁸), and 30.9‰ against 0 in three-sign endings (p = 3·10⁻⁹); -ḿi at 40.5‰ in the north against 7.6‰ in the south (p = 3·10⁻⁵). Both are the isoglosses Hesperia describes. The third difference detected, final -n (21‰ south against 2.3‰ north), corresponds to a transcription convention for the separator and not to a fact of the language; it is reported so that it is not counted as a result.
 
-The bilingual anchor, measured. The Latinised names of the Turma Salluitana (Ascoli bronze, 89 BC) are the only real bilingual of a Palaeohispanic language. For each onomastic element, how many forms of the Hesperia corpus (2,906 intact) contain it, against 1,000 strings of the same length generated by the corpus's own letter-bigram model. In Latin orthography (*adin*, *gibas*, *bilus*, *balci*, *urgi*) it beats the null 1 of 16, because Iberian writing does not distinguish voiced from voiceless and *Adingibas* is written *atin-kibas*. In Iberian orthography, with the correspondence established by the field, 8 of 23 beat the null (1.2 expected; binomial p = 10⁻⁵) and five survive Bonferroni: *bilos*, *sosin*, *biuŕ*, *balke*, *tautin*. Of Untermann's formant list, 15 of 24. The onomastic system the bilingual reveals is present in the corpus, with a p-value per element, and it agrees with what Untermann isolated by hand.
+The bilingual anchor, measured. The Latinised names of the Turma Salluitana (Ascoli bronze, 89 BC) are the only real bilingual of a Palaeohispanic language. For each onomastic element, how many forms of the Hesperia corpus (2,906 intact) contain it, against 1,000 strings of the same length generated by the corpus's own letter-bigram model. In Latin orthography (*adin*, *gibas*, *bilus*, *balci*, *urgi*) it beats the null 1 of 16, because Iberian writing does not distinguish voiced from voiceless and *Adingibas* is written *atin-kibas*. In Iberian orthography, with the correspondence established by the field, 8 of 23 beat the null (1.2 expected; binomial p = 10⁻⁵) and five survive Bonferroni: *bilos*, *sosin*, *biuŕ*, *balke*, *tautin*. Of Untermann's formant list, 15 of 24. The onomastic system the bilingual reveals is present in the corpus, with a p-value per element, and it agrees with what Untermann isolated by hand. These names had already been evaluated quantitatively against the corpus by Luo et al. [5]; what is given here is the null for each element.
 
-Four claims of the Iberian field against a null. The Basque-like numerals should compose with one another as in Basque: forms with two distinct numerals, 7 observed against 0.7 expected with ten random forms of the same lengths (p = 0.014). *Śalir* as "silver" (Orduña): with metrological marks in 7 of 13 inscriptions against a base rate of 28% (p = 0.046). *Ekiar* as a craftsman's signature after a name: 1 of 8 as a separate token and 1 of 13 within the same form; it does not hold with this corpus. The funerary formula *aŕe take*: two inscriptions, no null possible. One holds, two are borderline, one falls, the same proportion the procedure yields over Younger's readings in Linear A.
+Four claims of the Iberian field against a null. The Basque-like numerals should compose with one another as in Basque: forms with two distinct numerals, 7 observed against 0.7 expected with ten random forms of the same lengths (p = 0.014). *Śalir*, read as "silver" since Gómez-Moreno [19] by comparison with Basque *zilar*, a sense discussed by Rodríguez Ramos [20], and associated with the numerals on the lead plaques by Orduña [17]: with metrological marks in 7 of 13 inscriptions against a base rate of 28% (p = 0.046). *Ekiar* as a craftsman's signature after a name: 12 of its 21 occurrences follow the suffix *-t(e)*, against a base rate of 3.8% (p ≈ 2 × 10⁻¹²). The formula holds. A first count had found 1 of 8, because it searched for a fixed list of name formants instead of the suffix *-te*. The funerary formula *aŕe take*: two inscriptions, no null possible. Two hold, one is borderline, and one admits no null.
 
 #### 5.3.3 Cypro-Minoan: the nearest neighbour
 
-From the dataset published by Corazza [7], Tamburini [8], Valério and Ferrara (2022), 183 inscriptions are reconstructed with their sign sequence, site and support: 1,386 signs, 155 types. Against a unigram null (same signs, shuffled order), repeated sequences are well above chance: 2-grams 83 against 43.9; 3-grams 19 against 0.9; 4-grams 6 against 0. The corpus has recurrent lexical units, which is the minimum condition for any matching method to have something to work with. The contrast between tablets and other supports has no power (6 tablets, all from Ugarit). This is the calibration closest to Linear A in size, script and period, and the one that most resembles it in what it cannot do.
+From the dataset published by Corazza, Tamburini, Valério and Ferrara (2022) [26], 183 inscriptions are reconstructed with their sign sequence, site and support: 1,386 signs, 155 types. Against a unigram null (same signs, shuffled order), repeated sequences are well above chance: 2-grams 83 against 43.9; 3-grams 19 against 0.9; 4-grams 6 against 0. The corpus has recurrent lexical units, which is the minimum condition for any matching method to have something to work with. The contrast between tablets and other supports has no power (6 tablets, all from Ugarit). This is the calibration closest to Linear A in size, script and period, and the one that most resembles it in what it cannot do.
 
 #### 5.3.4 Susa and Uruk: the same instrument on larger archives
 
@@ -1546,7 +1558,7 @@ The same procedure, applied to a language that does have an anchor, is the calib
 
 #### 5.4.17 The precedent this protocol is meant to avoid
 
-The need for these requirements is not hypothetical. Rao and colleagues (2009) argued in *Science* that the Indus Valley script encodes a natural language, because its conditional entropy resembles that of languages more closely than that of several non-linguistic systems; Lee, Jonathan and Ziman (2010) published an argument of the same kind for the Pictish symbols. Sproat (2010) refuted both with a larger set of non-linguistic and comparative corpora, showing that none of those measures reliably tells writing from non-writing, and proposed a repetition-based measure that classified the same symbols the other way.
+The need for these requirements is not hypothetical. Rao and colleagues (2009) argued in *Science* that the Indus Valley script encodes a natural language, because its conditional entropy resembles that of languages more closely than that of several non-linguistic systems; Lee, Jonathan and Ziman (2010) [24] published an argument of the same kind for the Pictish symbols. Sproat (2010) [23] refuted both with a larger set of non-linguistic and comparative corpora, showing that none of those measures reliably tells writing from non-writing, and proposed a repetition-based measure that classified the same symbols the other way.
 
 What failed there was not the statistics but the control: the comparison was made against the non-linguistic systems the authors chose, and not against the set that could have brought the claim down. That is requirement 2 of this list, and the case shows its cost: a claim published in the most widely read journal in the world, disputed for years, which a better chosen control would have bounded from the start.
 
@@ -1562,7 +1574,7 @@ That is requirement 2.2 in action: without a positive control, a criterion that 
 
 None of the ten is original. Each is standard practice in a field that has had to formalise it, and several have been met in Aegean studies already.
 
-Positive controls and calibration. Corazza, Tamburini, Valério and Ferrara (2022) reclassified the Cypro-Minoan writing system with unsupervised deep learning and validated the method on scripts with known answers before applying it to the unknown one. Assael and colleagues (2022) built their restoration model for Greek epigraphy the same way. Tamburini (2025) surveys the computational approaches and is explicit about which reproduce and which do not.
+Positive controls and calibration. Corazza, Tamburini, Valério and Ferrara (2022) reclassified the Cypro-Minoan writing system with unsupervised deep learning and validated the method on scripts with known answers before applying it to the unknown one. Assael and colleagues (2022) [25] built their restoration model for Greek epigraphy the same way. Tamburini (2025) surveys the computational approaches and is explicit about which reproduce and which do not.
 
 Verification in the primary edition. Godart and Olivier (1976-1985) is the reference against which every transliteration in this work was checked, and Montecchi (2009) is the study that established how fractions and calculation errors behave in the Linear A documentation. Where the machine-readable transcriptions in circulation disagree with GORILA, this work follows GORILA and says so.
 
@@ -1788,9 +1800,29 @@ Corpus, code, null models, error rates, the fourteen closed avenues and the elev
 
 [16] Copenhagen Ugaritic Corpus (CACCHT), doi 10.5281/zenodo.10695308, CC BY-NC 4.0.
 
+[17] Orduña Aznar, E. 2005. "Sobre algunos posibles numerales en textos ibéricos." *Palaeohispanica* 5: 491-506.
+
+[18] Ferrer i Jané, J. 2009. "El sistema de numerales ibérico: avances en su conocimiento." *Palaeohispanica* 9: 451-479.
+
+[19] Gómez-Moreno, M. 1949. *Misceláneas. Historia, arte, arqueología. Primera serie: La Antigüedad*. Madrid.
+
+[20] Rodríguez Ramos, J. 2023. "Śalir y la identificación de mercancías en los documentos económicos íberos." *Gerión* 41 (2): 501-525.
+
+[21] Lakarra, J. A. 2010. "Haches, diptongos y otros detalles de alguna importancia: notas sobre numerales (proto)vascos y comparación vasco-ibérica (con un apéndice sobre hiri y otro sobre bat-bi)." *Veleia* 27: 191-238.
+
+[22] Orduña Aznar, E. 2011. "Los numerales ibéricos y el protovasco." *Veleia* 28: 125-139.
+
 # Part Four. Where this stands
 
 *The state of the question, with a verdict measured for sixteen claims the field currently holds, and the seven walls named with their figures.*
+
+[23] Sproat, R. 2010. "Ancient symbols, computational linguistics, and the reviewing practices of the general science journals." *Computational Linguistics* 36 (3): 585-594.
+
+[24] Lee, R., Jonathan, P. and Ziman, P. 2010. "Pictish symbols revealed as a written language through application of Shannon entropy." *Proceedings of the Royal Society A* 466: 2545-2560.
+
+[25] Assael, Y., Sommerschield, T., Shillingford, B. et al. 2022. "Restoring and attributing ancient texts using deep neural networks." *Nature* 603: 280-283.
+
+[26] Corazza, M., Tamburini, F., Valério, M. and Ferrara, S. 2022. "Unsupervised deep learning supports reclassification of Bronze Age Cypriot writing system." *PLOS ONE* 17 (7): e0269544.
 
 ## 6. Linear A in 2026
 
@@ -1878,7 +1910,7 @@ Each unit carries its own figure. UNIT→NUM runs at 1.41 over the null in Linea
 
 The label opens and the total closes: mean positions 0.300 and 0.737 against a null of 0.506, both p < 0.0005. And the deficit does not close: KI-RO sits at 0.498, the exact centre, p = 0.89. It is a line within the account, not its balance.
 
-Davis's fixed order is confirmed on the 35 stone-vessel inscriptions with three or more words: A-TA-I-\*301-WA-JA opens in 7 of 7 (mean position 0.00), SI-RU-TE closes (0. The fixed order is not a finding of this work: Finkelberg (1990-91) listed the documents that open with the formula and observed that the pattern can hardly be due to mere chance, and Davis and Salgarella followed her. What is added here is the null her wording invites.96). The verb-subject-object identification is not confirmed here, since assigning those categories requires knowing what the words mean.
+Davis's fixed order is confirmed on the 35 stone-vessel inscriptions with three or more words: A-TA-I-\*301-WA-JA opens in 7 of 7 (mean position 0.00), SI-RU-TE closes (0. The fixed order is not a finding of this work: Finkelberg (1990-91) [24] listed the documents that open with the formula and observed that the pattern can hardly be due to mere chance, and Davis and Salgarella followed her. What is added here is the null her wording invites.96). The verb-subject-object identification is not confirmed here, since assigning those categories requires knowing what the words mean.
 
 ### 6.7 The writing system
 
@@ -1893,7 +1925,7 @@ Two signs carry both sound and sense, which is what an anchor requires: NI, the 
 | Claim | Source | Verdict |
 |---|---|---|
 | The entry groups of HT 86 and 95 | Packard 1974; Uchitel & Finkelberg 1995 | **confirmed**, 35 pairs against 8.2 |
-| Breakdown of the o-series | Finkelberg 2001 n.10 | **12 of 13 exact**, 31 years on |
+| Breakdown of the o-series | Finkelberg 2001 [25] n.10 | **12 of 13 exact**, 31 years on |
 | -u / -o doublets | Lejeune 1956 | **confirmed** against a null for the first time |
 | Reduplication as a Minoan trait | Lejeune 1956 | **confirmed**, p = 0.0038 |
 | *ku-ni-su* heads HT 10a | Uchitel & Finkelberg 1995 | Confirmed |
@@ -2073,6 +2105,11 @@ under a null with the same phonotactics. p < 0.0005**, 400 repetitions. And the 
 10.3 And the power floor is not an artefact of counting If those affixes were productive, units counted as separate words would be forms of one, the effective vocabulary would be smaller, and part of the power floor would be an artefact. It is not. 29 affix families over the 501 intact types against 20.9 expected under a generative null, p = 0.07, and merging them would take the vocabulary from 501 to 473, a 6% reduction that moves no power calculation. The method does recover the families the field knows, JA-SA-SA-RA with its variants and DA-MA-TE with I-DA-MA-TE of the Arkalochori axes, and not enough new ones. **
 
 The power floor belongs to the corpus and not to how it is counted.** 
+
+[24] Finkelberg, M. 1990-91. "Minoan inscriptions on libation vessels." *Minos* 25-26: 43-85.
+
+[25] Finkelberg, M. 2001. "The language of Linear A: Greek, Semitic or Anatolian?" In *Greater Anatolia and the Indo-Hittite Language Family*, JIES Monograph 38, 81-105.
+
 ## 7. A proposal by others, measured
 
 11.1 The case
